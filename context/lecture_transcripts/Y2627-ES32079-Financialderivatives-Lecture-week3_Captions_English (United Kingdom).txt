@@ -1,0 +1,1659 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Good morning everyone. How are you today? All good.
+
+Okay, let's start the class. So, um, as a tradition, let's do a quick quiz.
+
+From what we have learned so far. Uh, from lecture one and partially from lecture uh, two.
+
+Okay. If you just scan this one and go into the quiz, there are only four questions.
+
+Most of them are numerical, though. Well, I'm expecting everyone to do the quiz, please.
+
+Come on guys, hurry up. We are doing the quiz. Okay.
+
+Everyone started. Okay.
+
+Okay. Has everyone started the quiz? Okay, I'll close this one and let's go to, uh, responses.
+
+Okay, so the first question that you have in this quiz, um.
+
+Pick it up. I hope you can still access the QR code.
+
+I hope it's big enough.
+
+Okay, so the first question that you have in this quiz is an investor owns 1000 shares and buys put options covering all 1000 shares.
+
+The strike price is 2750. If the share price at maturity is.
+
+Oh, sorry. Why doesn't show just a second.
+
+Um. Why doesn't show the whole question.
+
+Uh, the share price at maturity is, uh, 20.
+
+So st is 20. So you need to find the value of the shares and puts ignoring the option premium.
+
+And I am not sure. Okay.
+
+So again s t is 20. Okay.
+
+Did everyone get this the first question. Do you know how to calculate it?
+
+I'll show you the calculation in a bit. Okay. One will finish, so the correct answer will be 27,500.
+
+Okay. The next question.
+
+An airline will purchase fuel in three months time and is concerned that the fuel price may rise.
+
+Which features position is appropriate for uh, uh for this airline?
+
+Which features position they will take long position or short.
+
+So the correct will be a long position. Okay. Do you all have this answer?
+
+Okay. Okay. Next one and producer shorts futures at £52.
+
+When the hedge is closed, uh, the price for the underlying is 47.
+
+And for the futures at the time of closing is 48.
+
+What effect effective selling price does the producer would have at that case?
+
+One of the things for this type of questions, and I had this question from one of your course mates after the class, after the seminar class.
+
+See you when the producer short uh, futures The effective price is the selling price.
+
+Okay. So we say effective selling price. But if you are dealing with the long futures then the effective price is the purchasing one.
+
+So you need to put yourself at the side of the, um, whoever you are dealing with in this case producer shot.
+
+They they need to sell the commodity on the line.
+
+Okay. If the producer buys the underlying, then they're purchasing it, right?
+
+So that means the effective price would be effective purchasing price.
+
+Okay. Everyone good with this question.
+
+Okay. So the correct answer will be 51. And the last one the correlation between spot and features price changes uh, is 0.8.
+
+the standard deviation. So sigma I don't know how to put the labelling in Microsoft Forms.
+
+So for the underlying standard deviation.
+
+So sigma is 0.033. And for futures standard deviation is 0.04.
+
+So you need to find what is a hedge ratio.
+
+H star in the formula that we had. It's just a simple formula.
+
+You just need to use every component that we have in this.
+
+Okay. All good with this questions everyone okay.
+
+So let me go quickly through these questions with you. Okay.
+
+So the first question that you had. Let me put it this quiz questions that we have.
+
+So the first question that you had asked you to calculate.
+
+Um, what will be the total, uh, uh, payoffs that you will get from the, um.
+
+Let me go back. Okay.
+
+What you will get, um, uh, at maturity as a total payoff.
+
+So we have 100 shares. The strike price is 2750.
+
+And for the underlying, uh, the price was 20. Okay.
+
+So in this case, why this is not working.
+
+Okay. So in this case, what do we do?
+
+We multiply 1000 shares that we have by 20, which is the underlying, are price at that time.
+
+So that gives you 20,000. We also need to take the payoffs that we will get from a put option in this case.
+
+So it's 1000 multiplied by 27 point.
+
+Was it 50 -20. Okay.
+
+And that should give you 7500. So the total will be 20,000 plus 7500 which will give you sorry it's 27,000 527,500.
+
+Come on. It's not writing anymore. Okay, so the last bit is 27,500.
+
+Okay. My pet is not writing anymore. Actually.
+
+Is this clear? Was this question? Yes, everyone.
+
+Okay, let me just let it. Okay.
+
+Uh, the other numerical question was question three.
+
+Where, uh, where is the question?
+
+So the second question was an airline will purchase fuel in three months time and is concerned that the fuel price may rise.
+
+Which futures position is appropriate. Long futures in here.
+
+And the third one a producer shorts futures at 52.
+
+And you have uh for the second period uh underlying price 47 and futures of 48.
+
+So you need to calculate the effective price in that case.
+
+There are two ways of calculating the effective price that I have shown you during the class.
+
+Okay. Of course, the easiest one is using the, Um, Bayes's formula that we had.
+
+Okay, so it was, uh, F1 plus S2 minus F2, right?
+
+And for this one we had 52. For this two we had 47 -48.
+
+So the effective selling price is 51. This is using the basis formula as its uh standard one.
+
+Or you can do uh step by step. You can do uh f1 f2 which will give you 52 -48.
+
+And the difference is four. Okay. And then oops.
+
+And then from here, uh, the effective selling price will be then 47 plus four, which is 51.
+
+Okay. So you can use either this method or this method?
+
+Whichever you prefer. Both gives the same answer. Okay.
+
+Now for question four. So you had correlation coefficient 0.8.
+
+You had sigma as 0.003 and you had sigma for uh futures 0.04.
+
+And you need to find the hedge ratio. Okay.
+
+So. In question four we need to find H star.
+
+Okay. So the formula is uh rho coefficient a correlation coefficient uh sigma s for standard deviation of the underlying sigma f for
+
+standard deviation of the features for uh correlation coefficient we know that it's Point eight and for the standard deviation.
+
+Or you also can say this is a measurement of the volatility for the underlying is 0.03 and for the future 0.04.
+
+And that gives you 0.60. Which means that 60% of the exposure of the underlying should be covered, preferably by the futures.
+
+Maybe, or statistics? Uh, if you did financial economics with Bruce, he should have explained it.
+
+Do you remember? Do you need an explanation? Okay, quick.
+
+And a quick explanation for your coefficient. Okay. So, uh, rho coefficient can be between 1 or -1.
+
+Okay. Um.
+
+When it is minus so perfectly negatively correlated which means minus one it means that two acids, the price of two acids, move in opposite direction.
+
+Okay, this is not what we want because we want the prices to be very similar.
+
+Otherwise, our hedge will not be perfect and we want it to be covering as much exposure as possible.
+
+Okay. Because of it, we want our correlation to be close to one, which means that it supposed to be perfectly correlated.
+
+Positively correlated. Okay. So the two prices, the spot price and the features price should be perfectly correlated.
+
+Okay. It's not always possible though. And you have seen that it's not always possible.
+
+We will get 0.80.9 but hardly get one because there are other factors within financial markets that would affect the price of futures.
+
+Okay. Although it is derived from um from the underlying asset.
+
+Okay. So higher correlations that would need uh h star doesn't need to be equal to one.
+
+It can be any value. Of course if it is equal to one then we are covering most of the exposure that we have from that position.
+
+Okay. Uh, also remember that this H star is a minimum variance, which means that the variance itself shows us the risk okay.
+
+Which means that we are trying to minimise that risk by taking this, uh, hedging.
+
+Okay. If you have a regression in a regression this is standard oil as regression okay.
+
+Linear regression. You see we have uh, change in the underlying uh, which equals to alpha the intercept.
+
+Okay. Plus we have uh h itself.
+
+Okay. So h here is the coefficient that we can find.
+
+And then we have a change in the features and some error term or residual.
+
+Okay. Now if you draw a graph for this to see where it is.
+
+Okay. So if we draw the graph you would see that this will be delta s.
+
+This part uh x axis will be delta f okay.
+
+And our this regression line will be something like this.
+
+Okay. So this is our regression line where it intersects with the S delta s line is our alpha.
+
+Okay. Now also remember that the slope of this line is dictated by H.
+
+So the slope is h. Okay.
+
+Now if we get something different with actual data.
+
+You will get something different from what our regression predicts it to be.
+
+We will then say that it is because of this residual. Some other factors that are not taken into account.
+
+Bye bye bye bye. This part or bye Alpha.
+
+Okay. It's clear.
+
+Everyone. Okay. So now to, uh, optimal number.
+
+Uh, because when we hedge, we then need to know how many contracts we need to have,
+
+which will then be optimal for us and which will minimise the exposure itself.
+
+Okay. So when it comes to futures contracts, we need to know the optimal number of those contracts that we need to have.
+
+Okay. For that we will use the standard formula. Okay.
+
+Where n star shows us the optimal number of futures contracts that we need to have.
+
+H star is the hedge ratio. From previous slide.
+
+Q a is the size of the exposure of the underlying asset, and Q is the size of the exposure that we have for futures contract.
+
+Or how much of the exposure we are trying to cover by the futures contract.
+
+Okay. Of course we can rearrange this formula in here.
+
+If we rearrange this formula in here, you see that we have the hedge ratio.
+
+And that hedge ratio is adjusted for the quantity of the exposure.
+
+Okay. Again, what we are trying to achieve is a minimum variance hedge because we cannot really achieve the perfect hedge.
+
+We cannot completely eliminate the risk.
+
+Exposure will still be there. What we are trying to do.
+
+So we are trying to minimise that exposure, minimising that risk.
+
+Okay. Any questions.
+
+Okay. Let me go to question six from your tutorial because I said that I will do this question after I explain the um, the spot.
+
+Right. So in your question six where I had it.
+
+In your question. Six. So this is from tutorial.
+
+Um, you needed to calculate the number of contracts. Okay.
+
+And again we just use this, uh, formula that we have.
+
+Okay. Q a and here we have Q okay.
+
+And in your, um, question, you are given hedge ratios 0.8.
+
+You see that hedge ratio here is 0.8. It's not one.
+
+Okay. Of course we're trying to achieve it. Uh, for it to be one.
+
+But it's very, very hard. So something closer to one is still acceptable.
+
+Okay. But also you need to remember that if the hairdresser is 0.8, it means that there is 0.2 or 20% of the exposure that we are not secured against,
+
+okay, because we are only covering the exposure of, uh, uh, so the sports, uh, exposure is only covered by 80% of the futures one.
+
+Okay. And then you had here 1 million and here you had 42,000.
+
+So that gives you 19.05, which means that we need to have 19 long year long crude oil futures contracts.
+
+Okay. One of the things also remember notice here that I am rounding up, uh, the contracts.
+
+Okay. So it should be slightly more than 19, but we're taking only 19 contracts.
+
+Yes. What's the rationale behind not doing 20? Why would you choose to be get back on track because, well, with the rounding,
+
+whenever it's less than, uh, whenever it's, uh, less than, uh, six in the decimal point.
+
+Did I write it correctly? Sorry. Whenever is less than.
+
+Uh, no. Okay. It's my mouse. Whenever it's less than 0.6, we tend to move to the lesser side rather than to the higher side.
+
+Okay. And it's actually quite far away from 20. In this particular case, it's just a calculation okay.
+
+Because this just shows the optimal number.
+
+But it doesn't mean that we are covering the whole exposure and we're not covering the whole exposure because of the hedge ratio as well.
+
+It just shows that the two prices as the volatility of two prices is not the same,
+
+which means the prices of the two are Uh uh sport price and the futures is not exactly the same because of the correlation.
+
+They're not perfectly correlated. Okay, so it doesn't it doesn't matter.
+
+We'll still not be covering the whole exposure because of it. Okay.
+
+Is this clear with this question? It's just a simple question. Okay.
+
+Um, let's move forward. Okay.
+
+Now here is another example similar to what, uh, your tutorials, uh, tutorial questions had.
+
+Uh, this is about cross hedging what we do. And I think I mentioned it quickly.
+
+What we do if you need a specific commodity, but that commodity and the quantity that you need is not actually available in financial markets.
+
+We then try to find another substitute, the one that is very closely related to that commodity that we actually need.
+
+Okay. So that calls cross hedging the process of it.
+
+And the strategies that we take is called cross hedging.
+
+When we do not have the commodities that we need in financial markets. So we replace it with something else okay.
+
+So an airline expects to purchase 2 million gallons of jet fuel in one month.
+
+Uh, there is no suitable jet fuel futures contract.
+
+So the airline considers heating oil futures. Okay.
+
+So in this particular example, you see that we need to have jet fuel, uh, futures contract, but it is not available in the market.
+
+The only one that is available is heating oil futures.
+
+Now remember that that, uh, futures might not be for heating oil, might not be exactly as the one that we need.
+
+But this is the only option that is available in financial markets.
+
+So that is our substitute that we need to use. Okay. So the exposure here, uh, for the underlying is 2 million gallons.
+
+But because this is what we need to purchase initially and the time period is one month.
+
+Okay. We use a heating oil contract size, which is 42,000 gallons.
+
+Okay. Uh, the, um, standard deviation for the underlying asset is 0.0263 and the standard deviation for the future.
+
+So the exposure of the futures is 0.0 313.
+
+And the correlation is 0.928. So see the correlation is very close to one.
+
+But again we're not achieving one. Uh should the line take a long or short futures position in this case what position do we are taking.
+
+Because we need to start with understanding, uh, what is the position that we need in futures contract.
+
+Is it short or long? Right.
+
+It's a long position. Why? Because in the question here, it says that the airline expects to purchase.
+
+So for purchasing, we take a long position for selling.
+
+We take short position. Okay. So if we calculate it for this one say effective price the effective price would be effective purchasing price.
+
+Okay. For for the airline. Okay.
+
+How we calculate standard procedure. We know all the data that we need to plug in into the formulas that we have.
+
+The first one is uh. Well, we need to find what is, uh, minimum variance hedge ratio.
+
+So h star. Okay. It gives us 0.7 to 8, which means it's only 7 to 8% of exposure is covered.
+
+Okay. Then we need to find what is the number our optimal number of, uh, contracts.
+
+Okay. We have here approximately 37 contracts.
+
+So that means that we need to have. And remember we're taking long position long futures.
+
+So we need to have 37 long futures contracts for heating oil okay.
+
+And that should cover uh, uh, cross hedging actually cross hedging the jet fuel oil that we wanted to purchase or expected to purchase initially.
+
+Okay. Now question here though, what is the residual risk here.
+
+Remember that residual and, um, uh, formula that we had in the linear regression?
+
+Simple linear regression. What is the hatch? Why is the hatch imperfect even before the number of contracts is rounded?
+
+Why do you think it is?
+
+And all other exposures that we are not taking into account into consideration are because cross hedging just covers some of the exposure.
+
+Whatever other risks associated with this operation should be within this ETA.
+
+Within the residual. What do you think we're not thinking about here?
+
+Yes. Yes.
+
+Okay. One of the first things that you need to sing then not perfectly substitutable commodities or in our case,
+
+are futures, futures contracts that we are using.
+
+Okay. And there are, of course, various other reasons. Oh, sorry.
+
+Okay. I don't I don't have all of the reasons. I think I put them in a tutorial.
+
+Uh, one of the things that it's not a perfect substitute for our jet fuel.
+
+Another reason might be that the maturity of the contracts under that heating oil
+
+might be very different from the maturity that we need for the jet fuel oil.
+
+It might be that the contract size is quite different, and we cannot use it as a substitute of the futures for our jet fuel.
+
+So there are at least three extra underlying factors that might affect the whole strategies that we are taking,
+
+and still expose us to other risks that are there in our financial markets.
+
+Clear roses. Everyone wants to know, okay, as a hedging that we can use is to use stock indices.
+
+Uh, that is an and uh, in that case we would use index futures to try to, uh, cover some of the exposure of the portfolios that we are creating.
+
+So we will try to sort of mimic, uh, the index by constructing our own portfolio.
+
+Okay. Just remember, this is not always possible. Uh, and hardly any portfolio, no matter how Greatly.
+
+It measured cannot always make the index itself.
+
+Okay. So what we need to remember here, we obviously have various uh, indices in um, uh, financial markets.
+
+For example we have S&P 500. It is float adjusted market capitalisation weighted, which means that all of the uh stocks that are there,
+
+the their weight would depend on the market capitalisation for those films that have high market capitalisation,
+
+which means most in most of the cases those companies are huge companies.
+
+Okay. So they would have more weight in S&P 500 and smaller companies developing companies.
+
+They would have a very low weight in uh, uh, in S&P 500.
+
+Now, always remember whatever weights you put the sum of all of the weights should equal to 1 or 100%.
+
+Okay, whatever portfolio you are constructing, the sum of all the weights should equal to 1 or 100%.
+
+Okay, then we have Nasdaq. Similarly, we have here modified market capitalisation weighted for the stocks within US index.
+
+And we have Dow Jones Industrial Average which is weighted by the price of stocks.
+
+Okay. Now in Chicago um what is called Chicago Mercantile Exchange.
+
+Uh S&P 500 futures are divided into two.
+
+So one is E-mini. Another one is called micron.
+
+Okay. So for E-mini of S&P 500 we basically take $50 and multiply it by the index for S&P 500.
+
+It's the point that you To calculate. Okay. So instead of the index here you put the points of the index for S&P 500 it is 5000.
+
+Okay. And for Micra mini we multiply $5 by the point of the index.
+
+Again it's 5000. Why we do it. Because most of the indexes they come actually in points.
+
+But what we need to do is and we need to transform them into currency and in this case into dollars.
+
+Okay. So we will have the price of it rather than points. Okay.
+
+And so if you calculate this actually calculate it.
+
+If you calculate for example for this one for the e-mini it's $50 multiplied by 5000.
+
+Okay. Because for again for S&P 500 it has 5000 points.
+
+That will give you Thousand dollars, and for this one you take $5 multiplied by 5000.
+
+That will give you $25,000. Okay.
+
+Is this clear? And this is the one we will be using in futures.
+
+So basically your $50 and $5 shows that for each point, change how much gain or loss you will get.
+
+Okay. Okay, I have this.
+
+Actually, the value is here. Clear.
+
+Okay. So what is the next one?
+
+So when we have a portfolio and we constructed a portfolio with however many stocks you have normally for diversification,
+
+you need to have at least 20 stocks in your portfolio. Okay.
+
+But for um I don't know S&P 500. You need to have like at least 500.
+
+But I think it has 103 if I'm not wrong. Uh stocks within S&P 500.
+
+Okay. So we are trying to using a hedging strategy to mirror, uh, the index portfolio.
+
+Okay. So our portfolio mirror is the index portfolio. What do we do.
+
+In that case we need to find the number of futures contracts.
+
+Again the optimal number of futures contracts when we deal with portfolios and indices.
+
+Okay. So in that case we have v a which is a portfolio value okay.
+
+And then we have VF which is the notional value of one futures contract.
+
+And that contract is for the index itself. Okay.
+
+Let's have an example here. Imagine that you have a 5 million portfolio again in your this portfolio the value of your portfolio is 5 million.
+
+Which means that you can have whatever stocks are in the market in that specific portfolio
+
+and what you are trying to you're trying to replicate S&P 500 with that portfolio.
+
+Okay. And if we use E-mini contract and the notional value of E-mini is to some 250,000 that we calculated previously.
+
+Okay. Then the number optimal number of contracts, futures contracts that we need is 20.
+
+To replicate this index.
+
+And that will be do I have it long portfolio.
+
+Okay. Any questions.
+
+Okay. Now if you studied financial economics with Bruce you might remember about kappa model.
+
+It's a capital asset pricing model. One of the most popular model that we have in financial markets because it's just easy to implement.
+
+Okay. So regression that you see here is the capital market kappa model.
+
+Okay. So in here you see that we have r p r P stands for the return of the portfolio that we are creating.
+
+Okay. And in most of the cases, remember that that portfolio is a risky portfolio because we are putting bonds and equity into that portfolio.
+
+And normally those are risky. Also remember that equity is always riskier than the bonds.
+
+Okay. Then we have RF here which stands for the risk free asset okay.
+
+For diversification we always need to include some risky risk free assets or risk free portfolios in our complete portfolios that we are creating.
+
+So imagine that we have a complete portfolio. And it should consist of the risky portfolio which which has a return of P.
+
+And then we have our um risk portfolio which has a return of RF.
+
+Okay. Now this the difference between these two gives us the risk premium for our portfolio.
+
+Okay then we have alpha. Alpha is whatever return you would receive if there is no effect from the market on our on the return of our portfolio.
+
+Okay. That is what Alpha shows. Then we have this a beta coefficient.
+
+And beta is for the uh, uh, for the risky portfolio that we constructed.
+
+Okay. So you see that we have various values of beta.
+
+And beta is not constrained like a correlation coefficient okay.
+
+Beta can be whatever value it is. Uh, for some of the companies like Tesla.
+
+Beta is very high. Uh, so what is actually beta?
+
+Beta is how sensitive your portfolio to the changes in the market.
+
+So the main factor that can affect or risk that can affect your portfolio is the market portfolio itself.
+
+Now we do not know what is the market portfolio okay.
+
+But as a proxy we take the index here for that market portfolio okay.
+
+If beta equals to one it means that your portfolio is as risky as the market itself.
+
+So it almost replicates the market. It will have the same standard deviation as the market portfolio if the beta equals to one okay.
+
+Now in beta formula correlation is incorporated which means that beta sign comes from the correlation coefficient sign okay.
+
+If beta is higher than the than one it means that portfolio is risky.
+
+Portfolio is sensitive to any changes in the market okay.
+
+So if the market price moves say for Amazon Amazon used to have a bit of um, so Amazon used to have a beta of 1.47.
+
+Okay. Which means that, uh, if market price changes by 1%, Amazon's return would change by 1.47.
+
+Okay. It's clear. Okay.
+
+So that is to beta. And this part of the formula is, uh, market risk premium.
+
+So the difference so. Mm is the, uh.
+
+Is a return on market portfolio. Okay. And RF is a return on a risk free asset.
+
+And then of course we have the residual as well which will actually disappear under diversification.
+
+Okay. So uh Limitation here.
+
+One of the problems with Kappa model, and that's why we have other APT models or three factor models, is that it only has beta.
+
+And the only factors that we have is the market portfolio or the proxy S&P 500.
+
+And it only has one coefficient that is beta itself.
+
+Okay. Now beta is limited. Why?
+
+Because well, most of the portfolios or data that we have and analysis that we do are limited.
+
+Why? Because we use historical data okay.
+
+And in historical data using that historical data we try to predict what will be in the future.
+
+Okay. And of course that data will not take into account new events.
+
+Like for example, if ten years ago you would ask someone, uh, would something like Covid happen in the future?
+
+You would probably say no, because we cannot really expect that something like Covid happening and there will be lockdowns around the world.
+
+Okay, so in historical data, those events are not incorporated, but we calculate beta using those historical data that is available.
+
+Okay. So it's not the best representation. Another thing that you need to remember is that in financial markets,
+
+especially when it comes to kappa model and stock analysis, we have two main risks.
+
+One risk is systemic risk. Do I have it. Okay.
+
+So in different literature it's called differently systematic risk.
+
+Systemic risk macroeconomic risk non diversified risk.
+
+Or um there was something else macroeconomic risk anyways.
+
+so it has different names, but the idea is exactly the same.
+
+It's the reason it affects everyone. That's why it's at a macro level.
+
+It affects everyone and we cannot get rid of this risk at all.
+
+Okay, we can try to slightly reduce it, but we cannot get rid of it.
+
+Okay. But we also have, uh, idiosyncratic risk.
+
+Or in some literature you will see it as a diversified risk firm specific risk or specific reason.
+
+That is the risk we can actually diversify with various strategies.
+
+Okay. It's clear. Okay.
+
+Uh, so what we can do, uh, when we take our futures with a portfolio so we can change our beta,
+
+we can adjust our beta by setting up some target B, uh, star beta.
+
+Okay. Uh, if so, in this case, um, we can have eas as this be star, uh, beta to be zero.
+
+Then there will be no effect of it on our portfolio.
+
+Okay. Or we can have beta, which is, uh, b star.
+
+Uh, sorry, beta star. Be smaller than the beta of the portfolio.
+
+Or we can have beta star to be higher than the beta of the portfolio.
+
+What happens in that case? You see that we can have beta between zero and the portfolio beta.
+
+So we can choose beta star to be between zero and the portfolio beta uh, itself.
+
+Okay. Why we do it? Because we would try to reduce the market exposure by adjusting that beta star.
+
+Okay. If we have beta star to be exactly as a beta of the portfolio.
+
+Then the market exposure is exactly the same for this portfolio as well.
+
+It is a it has the same exposure as the market portfolio's exposure.
+
+If we have a beta of portfolio larger than beta star.
+
+So the targeted beta that we have, then we need to have a short futures.
+
+If it is the opposite then we need to along futures.
+
+So we need to buy futures. Okay. And of course the special case where we just take the beta of the portfolio itself,
+
+which is the easier one because we do not always know what is the target level of that beta star.
+
+Okay. And that target level depends on investors and what sort of risk they do accept.
+
+Okay. Now, if we look at this numerically, imagine that the bit of the portfolio is 1.2%.
+
+So it's larger than 20, which means that it's larger than one, which means that this portfolio is slightly more risky than the market portfolio.
+
+Okay. And we will be using E-mini S&P 500 as a proxy in this case.
+
+And we then calculate that its price is uh 250,000.
+
+Okay. And then we calculate the, uh, optimal uh portfolio of all optimal, uh, futures contracts.
+
+So we have 101.20 -0. So our beta star is zero in here.
+
+So you see that we have we need to have 24 futures contracts in this case.
+
+Okay. So we need to have 24 E-mini S&P 500 futures contracts in this case.
+
+Okay. Um, if we have, say, beta of 0.50.
+
+Like the question is asking you okay. If we reduce the target beta to, uh, 0.50.
+
+What happens in that case? So we multiplied by.
+
+By 5 million divided by 250,000.
+
+Okay. So then we have 14 contracts. So we need to short 14 contracts.
+
+And remember, this is because our, uh, beta of the portfolio is, uh, larger than, uh, beta targeted.
+
+So in that case, we need two short futures. Okay.
+
+If we had the opposite, if, uh, beta of the portfolio larger than beta star, we would take long position in features.
+
+Okay. Scalia. Okay.
+
+Now, why we use, um, uh, hedging, uh, for beta specifically.
+
+Uh, that comes to a limitation of Capm model.
+
+Uh, and one of the limitations of it is the market portfolio itself that we use.
+
+Uh, as I've mentioned, one thing is that we do not actually know what is a true market portfolio.
+
+Instead of it, we use a proxy, uh, S&P 500 or any other index as it is available there.
+
+Okay. And that means that the only factor or the only risks that we have is the market portfolio itself.
+
+Okay. And the changes that are happening in the market. Well, Capm doesn't take into account any other factors.
+
+Any other reasons are available there.
+
+That's why we have this Fama French three factor model, where they say that the size of the company is also important book to market.
+
+Value of stocks is also important, which this market factor doesn't really take into account.
+
+Okay. Which means that even though it's really easy to calculate beta, if you open Yahoo Finance or Google Finance,
+
+you can see the beta coefficient immediately for all of the stocks.
+
+It's very easy to calculate, but it doesn't reflect all of the risk and exposures that are there.
+
+Okay. And that is one of the biggest limitations of this, which means that if we hedge,
+
+we are not taking into account any other risk we're taking into account.
+
+Only systematic research is there, and we try to secure ourselves against that exposure, whereas all other risks are still are uncovered,
+
+not uncovered and secured because we do not take any other measures against those risks.
+
+Okay. Makes sense. Should we have ten minutes break?
+
+Yeah. And hopefully I will finish this lecture today.
+
+Yeah. About setting the bait.
+
+On the slide without setting the beta star? Yes. Like, how does that work when choosing to shorten futures?
+
+In what case would you would it result in doing longer options like if you manually put the zero?
+
+Does that make sense? Well you can't manually put zero because you can't then have um, because that's what we're doing here.
+
+Because if we put. It the exposure softer.
+
+Isn't that what we want? Long. You just have to be higher than the action becomes a portfolio.
+
+But how would that come about? Are you at all putting, like, an arbitrary random number?
+
+It's not a random number, but it's actually quite hard to, uh, predict what is B star because it's a targeted level.
+
+So you need to invest your, uh. And there are various testing to understand what investors accept.
+
+At the risk. Okay. And that will depend also on the risk aversion.
+
+Which means how much risk they are willing to accept because all of the, uh, uh,
+
+individuals or agents within the, uh, within financial markets are all risk averse.
+
+But for example, your coefficient might be five for risk aversion.
+
+Mine might be two, which means that I would accept less.
+
+I know opposite I would accept more risk. If we're giving the same portfolio, you might not accept the portfolio because you are more risk averse.
+
+So you prefer more return and less risk.
+
+And you would always penalise that in return for that extra risk.
+
+You would. In other words, you would require more return for the same level of risk as I have for my portfolio.
+
+Does this make sense? Okay, so then that beta star will depend on it.
+
+Yeah. So it's set up based on investors on what what risk they accept.
+
+So there are basically then how can how come here when it's zero we're shorting the future.
+
+Because here we've made it zero to eliminate market risk.
+
+Yes. But then we're also shorting critical. That's bigger than that.
+
+And that's that's not the 1.2 is being zero.
+
+But yeah. But then in what case would you long in the future like whenever it can ever be negative.
+
+Yeah. So it can be negative. Yeah. Because my betas can be negative.
+
+Yeah yeah yeah. It's it's very real when futures are negative.
+
+Very rare. Uh, but they can be they can be negative because there is no set up limit.
+
+What is it like for correlation coefficient?
+
+Right. We have a limit in one this beta.
+
+We do not have that. It can be -15 or 20 plus.
+
+Okay. And again beta just shows you how sensitive that portfolio is to the changes.
+
+Which means that if you as an investor accept this to be your beta target.
+
+It means that you are happy to accept as much risk.
+
+The beta is that large. Okay.
+
+So this is also dependent on your risk aversion. That's right.
+
+So it's it depends on investors understanding of risk and how much retail will transfer.
+
+Okay. So it's like very individual. It's not only for most people An individual investor and what they are.
+
+And you time you set up the target level based on the expectations of the company, which includes the research, but it also returns.
+
+The. I'm.
+
+On. I don't.
+
+Understand. Okay, everyone, should we continue?
+
+Yeah. Okay. One thing.
+
+Let me clarify something in here.
+
+Okay, everyone. Uh, for, uh, beta star.
+
+For target. Beta star? Uh, it's not something that you calculate from historical data.
+
+It completely based on the desired outcome for the exposure that comes from individual
+
+investor or portfolio manager that manages that portfolio for that investor.
+
+Okay. So they set that target beta.
+
+Okay. Based on the individual preferences of the investor and the portfolio manager.
+
+And that would be based on the risk and return that they would accept or the exposure that they're trying to cover using the hedging.
+
+Okay. So it's not something that you calculate with historical data. Okay.
+
+So should films hedge. There are of course benefits from hedging because it still covers some of the exposure.
+
+Right. That as there are when it comes to purchasing and selling various commodities or various underlying assets that we have.
+
+So it helps us to have the predictable cash flows in the future,
+
+because it ensures that we will receive that specific amount when we sign the contract.
+
+It, of course, lowers some financial distress risk associated with financial market.
+
+It helps us with better investment planning because it shows us what we need to do to secure us
+
+against the risk in the future and what we might lose or what we might gain through that process.
+
+And of course, it focuses on core business reasons, as Am, but potential costs here.
+
+Of course there are costs with hedging because hedging might not always work okay.
+
+Its transaction and monitoring costs, which we never actually taking into account and depending how large they are.
+
+Of course, those schools may reduce the profit that you are actually getting from hedging basic
+
+and model risk because those are unpredictable and we we cannot eliminate them.
+
+And model risk is how you calculate the outcome because your the models that you use
+
+and the calculation you do might not actually reflect the reality that will happen,
+
+which means that you might lose the money or individual investor might lose the money.
+
+Reduced favourable outcomes. Again, because of the basis and model reason, we do not really see what the outcome might be.
+
+Okay. In most of the cases, yes, it will be favourable, but it doesn't mean that it's 100% in all of the cases.
+
+Okay. Contract size and maturity mismatch, as we've seen with cross hedging, is not always easy to find.
+
+The futures contract for that specific underlying assets that you need.
+
+And so you have to do cross hedging. And again cross hedging is not the perfect answer.
+
+Okay. What you need to remember though with hedging it's not just specific are combined exposure and derivative positions that are sorry.
+
+It's not just the derivative position or just the combined exposures that you need to look.
+
+You need to look what will be result for your underlying asset and what will be result from the hedging.
+
+Okay. So in this case from the futures. And that will give you the total payoff that you would receive from that strategy okay.
+
+So you need to look at the combined payoffs that you will be getting from that strategy and not looking just at one side of it okay.
+
+Now another thing, another question that I would like you to ask.
+
+And here we've seen that in most of the cases we set a company, we set a hedge or we set, um, uh, various, uh, traders that use this position,
+
+which means that, um, could individuals themselves use this hedging strategy against the exposure,
+
+or do they need to rely on some sort of institutions for it?
+
+What do you think? Because that matters as well.
+
+It's important in financial markets. And that would affect the first point here potential cost.
+
+What do you think. It's like.
+
+Do you think it is easier for me to do the hedging strategy on my own, or is it easier to do it with the whole class.
+
+And someone from the class and represents a whole class. Now in financial markets.
+
+So see we didn't talk about transaction and monitoring costs.
+
+We will talk later about it in forwards and futures.
+
+What you need to remember well first of all with individuals, some individuals might not have enough financial funds to do the hedging on their own.
+
+Okay. They might not have enough uh, uh, volume of the contract that they need and they might not have enough knowledge,
+
+analytical skills to understand how to actually use this strategy.
+
+What they need to understand. Also, there might be some other information within financial markets that do not have access to it.
+
+Okay. Because we know that financial markets are not perfect because otherwise you
+
+would have known all of the information and everything would be transparent.
+
+But not everything is transparent in financial markets, which means there is still some insider information that is not available to you.
+
+Now, if we use financial institutions or any other institutions for that, it would reduce transaction and monitoring costs.
+
+Of course, you would need to pay some fee to them to do those operations on your behalf,
+
+but those fees will still be less than transaction and monitoring calls that you have to do yourself.
+
+Because monitoring is making sure that all of the agents that you have within
+
+your contracts are or borrowers or lenders or whatever agents that you have.
+
+They do actually own the contracts and they do not disappear on you.
+
+Okay. So that is the monitoring. And it's very expensive. More expensive than transaction cost.
+
+Whereas financial institutions or any other larger institutions could do those strategies for them,
+
+it's much easier, much easier to access information.
+
+They have the skills, they have the expertise in it and because of it for you, if you use that service,
+
+it will be much easier and much less costly compared to if you do it on your own.
+
+Okay, so just remember that this one I will go really quickly over this because we've done, uh, through some of the controls.
+
+We discussed some of this during the tutorials.
+
+Okay. So um, and I mentioned about hedge being owner,
+
+it can go into blurry side of financial markets where you are not hedging or traders are not hedging anymore, but they are actually speculating.
+
+And this happens when they start taking too much exposure with not justifiable return for that exposure.
+
+Okay. And some various controls to make sure that, uh, there are not this, uh,
+
+rogue speculators in financial markets who then create this bubble with financial markets that can burst and amplify to the rest of the economy.
+
+Okay. And this is just a summary. Do you have any questions to this lecture?
+
+Because I would like to start the, uh, the third one. Okay, good.
+
+Uh, let me start the third one then. Okay.
+
+So the third lecture is on interest rates.
+
+Okay. Um, so what we will do through this, uh, third lecture is we will look through different, uh, interest rates, why we need them.
+
+So interest rates are very important because if you have cash flows that are coming in in the future.
+
+Periodically, every say, every three months or every month or every six months yearly.
+
+You need to understand what that means for you, how much extra you would earn.
+
+Uh, or if you are investing that money, how much you would earn tomorrow or how much you will have today.
+
+Uh, because just remember, in market, your $100 today that you have would always be more valuable for you today than you would have them tomorrow.
+
+Why? Because for tomorrow, if you invest it today, tomorrow you would have more than $100.
+
+Okay. And that would then dictate if you are willing to invest or not, or you're willing to consume that money.
+
+Okay. So we will look through different interest rates. We will look at discounting and compounding.
+
+Okay. I hope that you know some of the bits from interest rate bond pricing.
+
+Again, it's very important for us to understand how the pricing works when it comes to bonds,
+
+because that is one of the underlying assets that we use in financial markets and pricing.
+
+It is very, of course, important because then it will dictate what would be the price of derivatives that we would use it with.
+
+Okay. Bootstrapping the zero curve. Okay.
+
+What is the 0R0 rate. Then we have forward rates forward rate agreement.
+
+This these two. So five and six are not forward contracts.
+
+Okay. So don't do not confuse them with forward contracts.
+
+Okay. Then we have duration and convexity and just the summary.
+
+Okay. So let's start. Why do interest rates are matter.
+
+Of course they do matter because they show how much our money can grow in the future.
+
+We also need to know with different assets what kind of interest rate we need to use with those
+
+assets for us to calculate those cash flows or returns or whatever we have in the future.
+
+Okay. And that is dictated by different types of interest rates that we have.
+
+And you will see that we will have various rates and we need to know which one we use.
+
+Also compounding if you have cash flows, how many periods you receive that cash flow and that will be dictated by the compound factor.
+
+If you have the compound form factor, say semi-annually, it means that you would receive that cash flow twice a year, every six months.
+
+Okay. If it is annually, then you would receive it yearly.
+
+So that is important as well for you to plan your investments and for you to plan what you will do in the future.
+
+Visit money or even today. If you have your $100 today, you need to understand if you invest that money In different investment projects,
+
+how much you would receive in the future? Or if you know how much you receive in the future?
+
+You then need to calculate how much you need to invest today to receive that specific sum in the future.
+
+Okay. And this is what we do with interest rates.
+
+Okay. So there are various types of them. Some of them that we have is government bond rates.
+
+So those those are the rates for bonds.
+
+Uh sometimes they're also called as yields. So from rate we will then move steadily to yields for bond.
+
+Okay. And I will explain what is the difference there between the yields and between the bond rates.
+
+Okay. Then we have policy rates. Those are set up by uh um central banks of various countries.
+
+Then we have repo rates which is uh, borrowing.
+
+Uh, and that the rate of borrowing.
+
+But in that borrowing, we have as a collateral the securities, various securities.
+
+Okay. And then we have reference rates. So those are transaction based benchmarks that we have for borrowing and lending.
+
+Okay. And one of the examples here is Sonya for sterling for pound sterling.
+
+And so for for a US market.
+
+Okay. We also have risk free rate which we covered already.
+
+So that is a rate that is not associated with any risk.
+
+That's why it's called risk free. Normally this again we do not know the true risk free rate okay.
+
+For it. We take a proxy for example treasury bills or certificates of deposits.
+
+Why? Because those are short term are assets and they are not affected by the changes in the interest rate.
+
+So those bonds or those assets that are long term, say five years, ten years,
+
+they would be more affected by changes in interest rates, whereas short term like three months ones, they're not really affected.
+
+That's why we say there we have risk free. That's why we say that treasury builds are risk free.
+
+Another thing that you need to remember about this are assets that have risk free rate is that their standard deviation is zero,
+
+which means that the variance is also zero because they do not carry any risk,
+
+because standard deviation and variance shows those as a measurement of risk.
+
+If there is no risk associated with these assets, then those two should be zero two.
+
+Okay. Now to reference rate.
+
+We used to have labour but now we do not have Labour anymore.
+
+So Labour was the rate that we used for uh lending and borrowing in interbank market.
+
+And normally those are overnight lending. Now we have Sonia for pound sterling its overnight index average.
+
+And again it just shows uh borrowing and lending.
+
+Uh, again, if it's a interbank market it mostly between financial institutions and other companies.
+
+But it means that they are lending and borrowing large sums but for very short period of time.
+
+And it is absolutely normal, uh, uh, normal procedure to have those lending and borrowings.
+
+Okay. It doesn't signal that banks in a financial distress for us so far as idea, is exactly the same.
+
+Okay.
+
+For teaching convention, you would see that for forward rate agreements in some of the books, because they haven't updated it in some of the books.
+
+You might still see that we have a market reference rate as.
+
+Mm. Okay. Or you might see that they would still use LIBOR.
+
+To just, just proceed as normal.
+
+As long as you know that there is interbank overnight borrowing and lending rate.
+
+Okay. If you are using Hull's book but older version of the book, and if you see LIBOR instead of Sonya or Sofer, okay.
+
+So just proceed as normal with it. Okay.
+
+So when you see, uh, 10% per annum, like my mum sometimes say, oh, they pay me 1% on my deposit accounts.
+
+Okay. So what does that 1% actually uh, mean?
+
+In that case, what does it mean when. When you have, like, say, 1 million?
+
+Does it mean that you will actually get that 1% in interest rate?
+
+Or how do we actually calculate it. Okay. So this is what we need to understand.
+
+If you have investment over a one year year and you are investing $100 and you have a nominal, uh, rate,
+
+uh, another thing, in most of the cases we will be dealing with nominal rates rather than a real rates.
+
+Okay. This is just a standard practice in, uh, financial courses to use nominal rates.
+
+Well, in your monetary economics as well, if you study studied.
+
+You probably used nominal rates as well.
+
+Okay. So when we have this 10% per annum now we need to understand how that 10% is paid for us.
+
+Okay. How it is actually calculated. So out of this $100 year we have annual compounding which means that it's paid annually.
+
+You see that if you multiply 100 by 1.10 and 1.10 actually comes from one plus 0.10, because it's the 0.10 is for this 10%.
+
+Okay. So then it gives you 1.10.
+
+So then you will get $110 in one year time.
+
+Your $100 will grow into 110. If you have annual compounding, if it is semi-annual it means twice a year.
+
+So the money is paid twice a year. Uh, the convention changes slightly.
+
+So we have this compounding, which is two, because it's twice a year.
+
+Okay. And also we have a power now of two.
+
+Okay. So then it gives you 110.25 slightly higher amount.
+
+Now if we use continuous compounding that has exponential function in here then you have 110.52.
+
+So it's slightly different amount. But again just remember that we are dealing with $100 only.
+
+So if you're dealing with millions and millions that uh would completely change.
+
+It will be in thousands that you can actually get in interest payments, okay.
+
+Or in your investment that you invest. So it is very important to understand when you said that, when you are said that you are paid 100% per annum,
+
+what it actually means, how often do you get that money?
+
+How you get that money? Okay. You might get that money periodically every six months if you are using semi-annual or you might get that money.
+
+It is still calculated semi-annual, but you are giving the whole amount at the end.
+
+So at time of maturity rather than periodically every six months.
+
+So it's very important for us to understand where we stand there with that money.
+
+Okay. So for the compounding factor uh, in this case we have m m is the compounding factor that we use.
+
+Okay. And if we have a sum of, uh, investment that we would like to invest for t number of years, again, we look at the nominal annual rate.
+
+Mm. Here. Okay. And compounded m times per year.
+
+So it is paid m times per year. Okay.
+
+So the future valuation should be a is the investment.
+
+We have this discount factor here. Okay. R m is the annual rate M is compounding factor.
+
+And then we also have the power m multiplied by ZT.
+
+Okay. Our T is a time to maturity. If you want to find.
+
+So this, uh, future value shows if you invest today at that specific interest rate with that specific compounding factor,
+
+this is the money you would receive in the future. So that is what future value tells us.
+
+What if we know the future value and we know what is a compounding factor and we know what is the interest rate.
+
+So I want to calculate how much money I need to invest today to receive that future value in the,
+
+uh, in the whatever, three months time or whatever time.
+
+So we just rearrange the formula that we have.
+
+Okay. And we see that we are getting this present value.
+
+So how much your money is today. That would give you some value in the future which is a future value.
+
+Okay. In other words, you see that we are just rearranging that formula and the investment that you have made.
+
+So the a that we have in there is your present value to the value today.
+
+Okay. Now also notice with this discount factors that we have.
+
+So the whole part here when we have it in present to our future, the only change is that we have the negative sign.
+
+It's just basic rearrangement of the formula. Okay. Okay.
+
+Now let's have an example here. So imagine that we have 8% per annum.
+
+Okay. With quarterly compounding which means that it is paid every three months.
+
+Okay. And the two year valley of 1000.
+
+Okay. So if we plug in into the formula, the future value of 1000 will be 1,171.66.
+
+So if you invest your money today for two years at 8% per annum, you will receive 1,171.66 in the future.
+
+Okay. Clear. Oh. One of the things that I forgot.
+
+So here eight is because we have two years, right.
+
+And the compounding factor is four because it is paid quarterly.
+
+Okay. So we have two years compounding factor four.
+
+That will give us eight. This is eight. Uh this is the age that you will get.
+
+And here as well for uh, for the quarterly.
+
+Just to clarify. Okay. Okay.
+
+Now let's look at the effect of compounding how it changes.
+
+Okay. So here we have annual which means once per year you see your $100 will grow into 110.
+
+You will have semi-annual twice a year. So every six months it grows to 110.25 its quarterly 110 38.
+
+If it's monthly so 12 payments 110 47.
+
+And if it's a daily, it's 110 52. Now remember this value here because we will come back to this 110 52.
+
+Okay. Just keep this in mind because we will come back to this.
+
+So then we also have the effective annual rate in here.
+
+Okay. So what is the effective Annual rate. Uh, it's basically what we had before, but the conventions changed slightly.
+
+So we have minus one in a year. But this discounting factor is still the same.
+
+The only thing is that we now ignore the time period.
+
+Okay. So that is basically what you are getting. Uh, in actual terms okay.
+
+From the interest rate, no matter what is the time period.
+
+Okay. And in most of the cases, uh, in, um, say loans, when, uh, when investors get a loan, they see effective rate, annual rate.
+
+Er, and this is what they would pay under the loan or if you have an investment.
+
+Okay. So if you have 10% with semi-annual compounding, then effective annual rate for it will be 5%.
+
+So again effective sorry, effective annual is an actual percentage return that you would get or you would need to pay if it's a loan,
+
+if it's an investment, this is what you would get. Okay. Now to continuous compounding.
+
+Remember I told you please remember that value for the daily return.
+
+Right? So this is how I'm trying to connect that value to the continuous compounding and explain
+
+why we're actually in most of the cases use continuous compounding instead okay.
+
+So if we have some variable x okay.
+
+And we have the it is an exponent in our exponential function.
+
+And we know that if we have the limit when compounding factor approaches infinity.
+
+So when compounding factors get gets really large.
+
+Okay. Then under that limit we will see that this part here.
+
+So that was the discount factors that we had in previous slide that would approach our exponential with the exponent of x.
+
+So with the power of x okay.
+
+If we apply it exactly to what we had to the formula that we had, we then have R which is a which is a continuous compounded annual rate.
+
+So R is continuously compounded annual rate okay.
+
+Then we can use this part of the formula itself.
+
+Now why we need it If we calculate the future's value.
+
+A is the same investment that we are making, and we are just multiplying by this discount factor instead of this, this one that we had.
+
+Okay. Or for the present, well it will be the opposite. It will come with the negative sign because we need to discount the future's value.
+
+And with the futures we need to move our money forward into the future.
+
+Now while we use this exponential function instead of what we had previously.
+
+Because you will see that whenever your values get larger and larger and the time period longer,
+
+it's actually easier to use exponential function because the calculation of it becomes so much easier than the other one.
+
+Okay, that is just the conventional. Just to make our lives much simpler easier by using it.
+
+Okay. Okay.
+
+So converting the interest rate. I'm still trying to come back to that ten $110.52 in the future.
+
+Okay. So I'm doing it step by step. So if we have this exponential okay, we know that it will be exactly the same as we have.
+
+Especially if M gets larger then it will approach it exponential which means that from there we can then calculate what is the r m okay.
+
+So what we do in here. The easiest part is to take the logarithm of this function to get into these two formulas here.
+
+Okay. So if you take ln of r and then l ln of all these, um, formulas that we have.
+
+Okay.
+
+You will see that by the rules of derivation and also the exponential function, when you take them into logs, you will get that this becomes just r.
+
+This whole part becomes just r okay. And then this part becomes a logarithm, natural logarithm of uh.
+
+This whole bit here. Okay. Um and multiply.
+
+Sorry. And multiply it by m.
+
+That's why in this second box.
+
+Okay, you see that we have R, we have M, which was originally the, uh.
+
+It's not an it's m here which was originally the exponent of that uh, uh, left hand right hand side expression here.
+
+And then we have natural logarithm of the whole thing here okay.
+
+And from that one, if you rearrange it you can get to this point or sorry, if you rearrange this formula you can get to uh, the value of R.M..
+
+Okay. Why we do it? Because we are trying to find what is a nominal Rate in expressing the formulas in terms of nominal rates instead.
+
+Okay. So let's have an example here. Imagine that your nominal rate is 10%.
+
+With semi-annual compounding okay. And if we use a formula that we have uh it so.
+
+Let me decompose it here. So imagine that we have this r and this is what we need.
+
+To calculate. And we have two following the formula that we have.
+
+Then we have ln okay one plus 0.10.
+
+For this 10% that we have in here divided by two because it's semi-annual compounding okay.
+
+And that will give us 1.05 in here okay.
+
+This is how you find Y 1.05. Okay.
+
+And so it gives you the continuous Uh, compounding, uh, interest rate of this or 9.758%.
+
+Okay. Again, why we do this, I will I will show you in a bit because when we calculate this continuous compounding,
+
+it actually, uh, shows us that is um, where was it that is very close to this value here.
+
+And that's why justifies why we keep using continuous compounding, uh, rather than, um, the standard, uh, interest rates with the compounding factor.
+
+Okay. Now for the compounding check.
+
+Okay. If we have an investment of 5000 and it grows to 5800 in 18 months,
+
+We then need to look what is a continuously compounded annual rate and what nominal annual rate we semi-annual compounding are equivalent to.
+
+Okay, so the solution here is that you will find the continuous continuously compounded annual rate.
+
+It gives us 10.5%. You will find the equivalent semi-annual rate.
+
+It gives us 10.41. Okay. So which means that although it seems like these two values are different but their equivalent values,
+
+it's just we use them in different forms and slightly differently, but they would give us similar results.
+
+Okay. And also if you calculate with the continuous compounding continuously compounding rate, Remember that I told you about that.
+
+110 52. If you use continuously compounded rate, uh, for the same values,
+
+you will find that it will give you the daily return result or the daily features value.
+
+Now to zero rates and discount factors I have shown you already.
+
+What is the discount factor. Okay. And we call a discount factor because we need to discount each cash flow that we have.
+
+Okay. Now to zero rates. So there are some investments that pay cash flows.
+
+So if for example you have a bond bond will pay you cash flows periodically.
+
+Not all of the bonds but most of the bonds pay are periodically. Now with zero rate they do pay those Uh, those coupon payments.
+
+But you would receive those coupon payments only at maturity, with the face value of par value of the bond itself.
+
+Okay, so you are not having periodical payments, but you will still receive them but at maturity date.
+
+And those couple those bonds are called the bonds.
+
+Who that pay are coupons like that are called zero rate.
+
+Okay. Uh, so do not confuse them with coupon rate, which is the cash flows that you would receive from it, which is different.
+
+Okay. So imagine that we have and using continuously compounded okay.
+
+We have this uh p0 t which basically shows that this is a discount factor that we have.
+
+And we need to discount each of the cash flows. Okay.
+
+Uh, to the present value, if you take the opposite sign,
+
+it will be the futures future value that you are calculating because you need to move it forward.
+
+But for the present value, we take it with negative sign and we have this DT which is a continuously compounded rate,
+
+and T is a time period, time period until the maturity.
+
+So the present value is n be the cash flow that you will see which is c t and c is this t is at
+
+time of maturity because as cash flows or coupon payments are received only at time of maturity.
+
+Okay. And you discounted by our P0T and if you replace it with the exponential this is what you will get.
+
+Okay so here is an example. Imagine that you have five year zero rate bond and its rate is 5%.
+
+then you multiplied by 5% again.
+
+See? Because I'm calculating the present value here in this part, it comes with the positive sign.
+
+The exponent comes with a positive sign.
+
+So that shows me that this is how much I will earn in the future if I invest that money today for five years at 5%.
+
+And if you know how much you receive in the future,
+
+so imagine in the future you receive $100 how much you need to invest today at that interest rate for you to receive that money.
+
+It means that you need to invest $77.88 today to receive $100 in the future, in five year time, at 5%.
+
+Okay. So in other words, the $77.88 means that, uh, for each uh, dollar that you received in five years,
+
+you will, uh, your money is was zero point, uh, how much it is.
+
+Um, so for each dollar that you would receive in the future, uh, in five years time, you would receive, um, $0.7788.
+
+Okay. Okay.
+
+Now, two bonds, if we have standard bonds, not zero, uh, rate ones.
+
+If we have standard bonds, it means that periodically you would receive cash flows or coupon payments.
+
+Okay. And those will be paid a specific date in the future.
+
+The price of the bone as the value of the bond will grow into something.
+
+And that something is called face value. And sometimes you will see that it also called called as par value or just par sometimes.
+
+Okay. So that is the value of the bond at time of maturity.
+
+Okay. Because with the time price will always increase for the bond, which means it becomes more valuable in most of the cases.
+
+Of course there are some cases when it will be so opposite, but in most of the cases,
+
+the price of the bond will be increasing with when we get closer to the time of maturity.
+
+And then we have c ies, which is for time period I we will receive some coupon payment see or cash flow.
+
+Okay. So then we would have uh a number of those coupon payments, but we need to discount them by the discount factor.
+
+Okay. And the summation of all of those, uh, discounted coupon payments will give us the value of the bond itself.
+
+Okay. So it gives us the price of the bond. Okay.
+
+And if we use the notation, uh, with the exponential function, this is what you would replace this uh p with uh exponential function here.
+
+Okay. Now one thing that you need to remember about this, uh, is that you need to discount each of the cash flows that you receive.
+
+Okay. But the last one that you will have will also include the par value of the bond,
+
+which means that will be the largest cash flows that you would receive at time of maturity.
+
+Okay, I will explain this in a bit. So. Imagine that we have this example here.
+
+Okay. And in this example we have time of maturity 0.51 1.40 time at maturity when the coupon payments are paid.
+
+Okay. 0.511.5 and two years.
+
+Then we have cash flows. Now how you calculate the cash flows as $3.
+
+We have two year bond with face value of $100. Okay.
+
+And it says we have 6% annual coupon paid semi-annually.
+
+Okay. So you multiply this $100 by 6%.
+
+Okay. That will give you a three as it will give you $6, right.
+
+But this coupon paid semi-annually. Which means that every six months you are given $3.
+
+Okay. Does this make sense, everyone? Yeah.
+
+Do you understand how we found this $3 here for, uh, for cash flows?
+
+Everyone. Okay. And then we have zero rates again.
+
+Zero rate doesn't mean that we have a coupon rate.
+
+It just means that, uh, whatever we would receive for that bond will be received at maturity.
+
+So all the cash flows will not be paid every six months.
+
+They will still be calculated for those months. So for.
+
+For every six months. But everything will be paid at time of maturity instead.
+
+Makes sense. Okay. So the bond price then will be based on the coupon payments.
+
+Discounted coupon payments for each of the periods that we have.
+
+Okay. But look at the last one.
+
+The last one has the face value plus the coupon payment.
+
+So it's $103 rather than $3.
+
+Okay. So this one will be the largest cash flow.
+
+That will be ZM okay. And so the bond price is 98.39.
+
+Okay. Now if you look at it it's very similar to present value formulas that we have used before.
+
+Okay. Okay. Just two slides.
+
+I will explain two slides and I finished. Promise.
+
+So for the bond yield now with um like here for example, we've seen that when we use this uh rates here okay.
+
+We take 0.050.0580.064. This is a rate that come from here okay.
+
+But when we have yield we would assume that we are still using the rates okay.
+
+Like a zero rate. But it will be just one rate that we apply across all of the cash flows that we discount.
+
+Instead of having different rates for each of the cash flows that we discount, we will just have one.
+
+Okay. And that will be sort of the average of all the rage that you might have received, and that will be the bond yield.
+
+Okay, so it's, um. Why here? Okay, so you see, the formula for the bond price does not change from what we had before.
+
+It's only the yield that now we have. And the yield will be the same for all of the years.
+
+Okay. Now here we have 19.38. Like in previous examples that we calculated the bond price was 90.38.
+
+Okay. But I'm trying to find what is the yield then.
+
+Okay. It will be much easier for me to calculate, because the yield is given in each of the cash flow that I discounted.
+
+Okay. So then approximately the yield will be 6.7 to 6.
+
+So it is approximately the average of all these rates that we had in here.
+
+Okay, but what? You can also notice that this yield is actually quite close to the final rate that we had in previous example.
+
+Do not confuse that when we have the zero rate.
+
+Okay. Uh, those are for each uh uh, time of the cash flows that you will get,
+
+sort of if we have the smaller maturities when you are supposed to pay cash flows.
+
+Okay. We apply a specific zero rate, whereas with yields we only have just one that we use across all of the cash flows.
+
+Okay. And that is the yield to maturity or bond yield. Okay.
+
+Now uh, standard um, fixed rate bond and its relationship with bond price if the coupon rate.
+
+So remember in previous example we had 6% annual coupon rate paid semi-annually.
+
+Okay. Now if the coupon rate is larger than the yield, the bond price that you calculate should be above the face value of that bond.
+
+If the coupon rate equals to yield, it will be exactly as the face value.
+
+And we will have such examples as well, because there are bonds that have the coupon rate and the yield to be exactly the same.
+
+Okay. So the face value and the bond price will be exactly the same.
+
+Then we have if coupon rate is lower than the yield then the bond price should be lower than the face value.
+
+Okay. So if we have say 6% coupon rate and yield over approximately 6.76, it means that.
+
+So 6% is less than 6.76, which means that the bond price should be below par value,
+
+and if we have its price be above or below, its price should be below $100 in that case.
+
+Okay. Clear, everyone.
+
+Okay. Thank you, everyone, for coming. I'll see you all on, uh, Thursday.
+
+Oh, tomorrow. I'll see you all tomorrow. Okay. During the, um, during the tutorial.
+
+Thank you, everyone, for coming. What?
+
+Do. You.
+
