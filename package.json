@@ -1,5 +1,20 @@
 {
   "dependencies": {
-    "git": "^0.1.5"
+    "dompurify": "3.4.17",
+    "git": "^0.1.5",
+    "katex": "0.19.0",
+    "marked": "18.1.1"
+  },
+  "scripts": {
+    "study-inventory": "node scripts/study-inventory.mjs",
+    "study-validate": "node scripts/study-validate.mjs",
+    "study-check": "node scripts/study-check.mjs",
+    "test:contracts": "node --test study/test/*.test.mjs",
+    "study-build": "node scripts/study-build.mjs",
+    "study-query": "node scripts/study-query.mjs",
+    "study-read": "node scripts/study-read.mjs",
+    "study-graph": "node scripts/study-graph.mjs",
+    "study-ingest": "node scripts/study-ingest.mjs",
+    "study-serve": "node scripts/study-serve.mjs"
   }
 }

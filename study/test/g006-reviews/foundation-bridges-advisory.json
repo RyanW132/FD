@@ -1,0 +1,1340 @@
+{
+  "kind": "noncanonical-independent-advisory",
+  "reviewer": "g006_foundation_bridges_advisory",
+  "status": "ADVISORY PASS",
+  "inputHashes": {
+    "study/wiki/concepts/concept-numeric-foundations.md": "1888e46dfe432dcf51f0c5ca8f96dfbf2de1b7566144fe35dac82d7c7bf6dd40",
+    "study/sources/annotated/lecture-1/page-022.md": "d977cc8c0fba9a875f64f23ef9d2eb88c9079ddedbf77b8f390e000e901a9516",
+    "study/sources/extracted/lecture-1/page-022.md": "69ec4f7971de00827189fbdff6a27d2e630026677884d74c319a5151cd9a9aad",
+    "study/sources/assets/lecture-1/page-022.png": "23df5aec358baab6656fffe2b88088cc26e93c47de4822298bc38758769865ce",
+    "context/lecture slides/Lecture 1 Intro to Derivatives.pdf": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+    "study/sources/annotated/lecture-1/page-025.md": "173c9cac8429bf9af52458eeea999bf7d7fada769c072b548880760e4c5344f0",
+    "study/sources/extracted/lecture-1/page-025.md": "a9d0cb781aceb14c64b16bc33d6312581ec5cc59ba06e4e371a3ad89dab15359",
+    "study/sources/assets/lecture-1/page-025.png": "0eca0aa037190577ea32f4c9e362c0a0acbfe71add79dc469f49cf0c0b5af0e9",
+    "study/wiki/concepts/concept-statistical-foundations.md": "5f9227207bb8708069d8a139ae78d048c3e25adb549c95e7aba0518c2481c63c",
+    "study/sources/annotated/lecture-2/page-016.md": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+    "study/sources/extracted/lecture-2/page-016.md": "24bf79726ae7a101fe32557be2e41dfcf408a52cffe91e440184b4cbcfacac2b",
+    "study/sources/assets/lecture-2/page-016.png": "0333c270efa8b7479df3aacba6a20dd32400df5fab7a804ebf82de1913bf3453",
+    "context/lecture slides/Lecture 2 Types of Traders and Hedging.pdf": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+    "study/sources/annotated/lecture-2/page-017.md": "98b12615ff0051743c6f3734dee85156d5b0ed11ccf4507f23299c42350346bc",
+    "study/sources/extracted/lecture-2/page-017.md": "67f38b95110a76e37e9409d8a64bce262e231567e379efb2ccbcc907525054e1",
+    "study/sources/assets/lecture-2/page-017.png": "adedaf1369cdcaeec7109a9149c730bcaa409661abb7c8362d2ab7a211d875b3",
+    "study/wiki/concepts/concept-local-derivatives.md": "eb445668c55aaf8cf6470e02d28b3f7ccffe5a865a952ba1a79450309e08e7fd",
+    "study/sources/annotated/lecture-3/page-032.md": "6252547517b580713704269291a7a827aa82b43ecab79d67322ff86da1cb504e",
+    "study/sources/extracted/lecture-3/page-032.md": "e6184f4bdb22afa70a3543334cab56ae57ffbe0477e9547b8b3f6845c0825c03",
+    "study/sources/assets/lecture-3/page-032.png": "b58b09ad4cd1de179c4a443dbcdac7c2589357e714b3cc90cc5d07e9987dd67b",
+    "context/lecture slides/Lecture 3 Interest rates and bonds.pdf": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+    "study/sources/annotated/lecture-3/page-038.md": "972366b241547f7f97f5d7b1cf4ae626f9038c3df1356d8f0cc2536058ea7d63",
+    "study/sources/extracted/lecture-3/page-038.md": "c9cca5d2f877387193465c68ab787bc65023322b8f69f5a2bdf9a700c966131f",
+    "study/sources/assets/lecture-3/page-038.png": "faf64b324027d1ef4232727b602fc1225f6468e8ea3dd68dc71aad5a5fdfca2e",
+    "study/wiki/concepts/concept-exponents-and-logs.md": "e2a6519b4960f2ecc2cda866d7f40f164c761069289fbb6662702e151a96bf32",
+    "study/sources/annotated/lecture-3/page-009.md": "940b1a1e1d8c76b215bfc36f7ed40aba0559f4869e9934f72ca607dd3d857cc6",
+    "study/sources/extracted/lecture-3/page-009.md": "9c9b385538333043578ef8e71a7d333e60875b4266ffc31752bc9c236835f38a",
+    "study/sources/assets/lecture-3/page-009.png": "bc82da1cae12f1e7202202a087fd55a224f4c24fe9c25b343902a9842c85d47b",
+    "study/sources/annotated/lecture-3/page-010.md": "3a4612c20b508e29c14e288af94dcfcd1f4de349666f837cb0fd59241ed2b966",
+    "study/sources/extracted/lecture-3/page-010.md": "270dec02563097c71866f7f4683c9c5e4fd06580395c0362647676160407d7c1",
+    "study/sources/assets/lecture-3/page-010.png": "e0360c0e8bcaf1967406a6f9b9cf66b10b0ff372e5a738580830405638e67b91",
+    ".omx/drafts/g006-shared-bridges-fragment.md": "f6b031ae1228b541925e0548e79f6090264d06ef752b92b33ebd9673302b6203",
+    ".omx/plans/g006-curriculum-decomposition.md": "65499695eb14799bf386627e05e888eb68cdea73e7c55ba41f1fddb6d37cdfc4",
+    "study/sources/manifest.json": "b056b054ae56822f6833104207b9e503ab67ce4fd8f623f1cd0e1d9e8a429ea5",
+    "study/sources/units.json": "e28e709ec1252b4f10ba1b5853316b1a2cf0fcbbdbd5f970c9bf83a530d87bfa",
+    ".omx/drafts/g006-bridges-author-check.py": "1c230a220f90d34e3e0296f10bef1d4f65d656a090e8c4bc45a05171e7e6c026",
+    ".omx/drafts/g006-bridges-author-check-results.json": "81e491cbe8554303a8bda812cb7b64f89b38184648c41acf65cef16109e9353d",
+    ".omx/drafts/g006-bridges-author-report.md": "795458c46accaffed6939597f2557c169c0f12f1d4f84aefb906d98e60aef8cc",
+    "study/test/financial-golden-fixtures.json": "a9f355e2ad767b75bca87a4f1c387ea1eebe796274fa8d0a46386749331d05d0",
+    "study/test/financial-golden.test.mjs": "16924db2a3b2a809c7b74b61a690cac03b3a48ab8b9a25826219074a05d3dac9",
+    "study/lib/contracts.mjs": "cfc4ee17e68f69ea573ef6bd2d3a81f1d536ea412e28dd30dd02e60077ddd7a1",
+    "AGENTS.md": "05c5e876328e99917858183240128452c5a77765fee1813b1f686d6cc3c19b03",
+    "CONTEXT.md": "e304f0cc12f1dc0850e7e1118c5f0c6d5b4026811f1e3b6a55f3156c6bcc0d02",
+    "study/contracts/AGENTS.md": "1a7673e18241193e2608d6b16da2701e4673744a3f5ee39153d84d6aaf153187",
+    "study/contracts/privacy.md": "c02df56fa93bd548c9bd0a93d4e600c70c4323c52da2fa21f3fc4aee4c119f94",
+    "study/contracts/source.md": "84a91d818f5d372ec7444446629722a60e152e8597f8dd04701959342344bb4f",
+    "study/contracts/editing.md": "c22112a1b331a798bdc50c0b150f09f77d1568c25acbf96a30306b8f36367b5a",
+    "study/contracts/curriculum.md": "1b785b30eba867a4fd00e65ecaeecc89dd81efba9140f7394d55a1219625e47f",
+    "study/contracts/teaching.md": "98b356d0db57e3e0f488a55ea7e3fb2e15955c1f1dc38b9841d27064c3f88942"
+  },
+  "teachingInventory": {
+    "concept-numeric-foundations": {
+      "path": "study/wiki/concepts/concept-numeric-foundations.md",
+      "sha256": "1888e46dfe432dcf51f0c5ca8f96dfbf2de1b7566144fe35dac82d7c7bf6dd40",
+      "order": 1,
+      "prerequisiteIds": [],
+      "teachingAnchors": [
+        "numeric-outcomes",
+        "numeric-signs",
+        "numeric-rates",
+        "numeric-units",
+        "numeric-algebra",
+        "numeric-practice",
+        "numeric-evidence"
+      ],
+      "answerAnchors": [
+        "numeric-answer-signs",
+        "numeric-answer-rates",
+        "numeric-answer-units",
+        "numeric-answer-algebra",
+        "numeric-answer-teachback"
+      ],
+      "sectionBytes": {
+        "numeric-outcomes": 735,
+        "numeric-signs": 2146,
+        "numeric-rates": 1130,
+        "numeric-units": 2058,
+        "numeric-algebra": 1146,
+        "numeric-practice": 841,
+        "numeric-answer-signs": 282,
+        "numeric-answer-rates": 161,
+        "numeric-answer-units": 296,
+        "numeric-answer-algebra": 225,
+        "numeric-answer-teachback": 471,
+        "numeric-evidence": 1034
+      },
+      "evidenceUnitIds": [
+        "lecture-1-p022-long-payoff-formula",
+        "lecture-1-p025-currency-payoff-formula",
+        "lecture-1-p022-forward-payoff-table",
+        "lecture-1-p022-short-payoff-formula",
+        "lecture-1-p025-currency-payoff-table",
+        "lecture-1-p025-currency-payoff-direction"
+      ]
+    },
+    "concept-statistical-foundations": {
+      "path": "study/wiki/concepts/concept-statistical-foundations.md",
+      "sha256": "5f9227207bb8708069d8a139ae78d048c3e25adb549c95e7aba0518c2481c63c",
+      "order": 1900,
+      "prerequisiteIds": [
+        "concept-numeric-foundations"
+      ],
+      "teachingAnchors": [
+        "statistics-outcomes",
+        "statistics-randomness",
+        "statistics-moments",
+        "statistics-paired-example",
+        "statistics-hedge-variance",
+        "statistics-regression",
+        "statistics-practice",
+        "statistics-evidence"
+      ],
+      "answerAnchors": [
+        "statistics-answer-identify",
+        "statistics-answer-moments",
+        "statistics-answer-hedge",
+        "statistics-answer-boundary",
+        "statistics-answer-teachback"
+      ],
+      "sectionBytes": {
+        "statistics-outcomes": 771,
+        "statistics-randomness": 1374,
+        "statistics-moments": 1356,
+        "statistics-paired-example": 1660,
+        "statistics-hedge-variance": 1672,
+        "statistics-regression": 2649,
+        "statistics-practice": 865,
+        "statistics-answer-identify": 192,
+        "statistics-answer-moments": 360,
+        "statistics-answer-hedge": 342,
+        "statistics-answer-boundary": 361,
+        "statistics-answer-teachback": 697,
+        "statistics-evidence": 1013
+      },
+      "evidenceUnitIds": [
+        "lecture-2-p016-hedged-variance",
+        "lecture-2-p017-regression-hedge",
+        "lecture-2-p016-hedged-change",
+        "lecture-2-p016-minimum-variance-ratio",
+        "lecture-2-p017-hedge-ratio-symbols",
+        "lecture-2-p017-hedge-ratio-interpretation"
+      ]
+    },
+    "concept-local-derivatives": {
+      "path": "study/wiki/concepts/concept-local-derivatives.md",
+      "sha256": "eb445668c55aaf8cf6470e02d28b3f7ccffe5a865a952ba1a79450309e08e7fd",
+      "order": 1910,
+      "prerequisiteIds": [
+        "concept-numeric-foundations"
+      ],
+      "teachingAnchors": [
+        "derivatives-outcomes",
+        "derivatives-slope",
+        "derivatives-rules",
+        "derivatives-minimum",
+        "derivatives-approximations",
+        "derivatives-bond-interpretation",
+        "derivatives-practice",
+        "derivatives-evidence"
+      ],
+      "answerAnchors": [
+        "derivatives-answer-slope",
+        "derivatives-answer-minimum",
+        "derivatives-answer-approximation",
+        "derivatives-answer-units",
+        "derivatives-answer-teachback"
+      ],
+      "sectionBytes": {
+        "derivatives-outcomes": 899,
+        "derivatives-slope": 1679,
+        "derivatives-rules": 1114,
+        "derivatives-minimum": 2151,
+        "derivatives-approximations": 1481,
+        "derivatives-bond-interpretation": 2467,
+        "derivatives-practice": 818,
+        "derivatives-answer-slope": 275,
+        "derivatives-answer-minimum": 311,
+        "derivatives-answer-approximation": 284,
+        "derivatives-answer-units": 372,
+        "derivatives-answer-teachback": 625,
+        "derivatives-evidence": 1296
+      },
+      "evidenceUnitIds": [
+        "lecture-2-p016-variance-first-order-condition",
+        "lecture-3-p032-price-first-derivative",
+        "lecture-3-p038-convexity-approximation",
+        "lecture-3-p032-price-yield-function",
+        "lecture-3-p038-convexity-definition",
+        "lecture-3-p038-convexity-example-value"
+      ]
+    },
+    "concept-exponents-and-logs": {
+      "path": "study/wiki/concepts/concept-exponents-and-logs.md",
+      "sha256": "e2a6519b4960f2ecc2cda866d7f40f164c761069289fbb6662702e151a96bf32",
+      "order": 2900,
+      "prerequisiteIds": [
+        "concept-numeric-foundations"
+      ],
+      "teachingAnchors": [
+        "powers-outcomes",
+        "powers-rules",
+        "powers-exponential",
+        "powers-logarithms",
+        "powers-compounding",
+        "powers-solving",
+        "powers-conversion",
+        "powers-practice",
+        "powers-evidence"
+      ],
+      "answerAnchors": [
+        "powers-answer-powers",
+        "powers-answer-logs",
+        "powers-answer-growth",
+        "powers-answer-conversion",
+        "powers-answer-teachback"
+      ],
+      "sectionBytes": {
+        "powers-outcomes": 709,
+        "powers-rules": 1698,
+        "powers-exponential": 1306,
+        "powers-logarithms": 1355,
+        "powers-compounding": 1872,
+        "powers-solving": 1041,
+        "powers-conversion": 1370,
+        "powers-practice": 803,
+        "powers-answer-powers": 175,
+        "powers-answer-logs": 287,
+        "powers-answer-growth": 260,
+        "powers-answer-conversion": 377,
+        "powers-answer-teachback": 688,
+        "powers-evidence": 1004
+      },
+      "evidenceUnitIds": [
+        "lecture-3-p009-exponential-limit",
+        "lecture-3-p010-conversion-formulas",
+        "lecture-3-p009-accumulation-limit",
+        "lecture-3-p009-continuous-values",
+        "lecture-3-p009-sign-check",
+        "lecture-3-p010-equivalent-accumulation",
+        "lecture-3-p010-semiannual-example"
+      ]
+    }
+  },
+  "recomputedAuthorChecks": [
+    {
+      "id": "n-long",
+      "independentValue": -75.0,
+      "authorExpected": -75.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-short",
+      "independentValue": 75.0,
+      "authorExpected": 75.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-percent",
+      "independentValue": 10.0,
+      "authorExpected": 10.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-rate-bp",
+      "independentValue": 25.0,
+      "authorExpected": 25.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-relative",
+      "independentValue": 0.0625,
+      "authorExpected": 0.0625,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-currency-up",
+      "independentValue": 96800.0,
+      "authorExpected": 96800.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-currency-down",
+      "independentValue": -103200.0,
+      "authorExpected": -103200.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-simple-half",
+      "independentValue": 1030.0,
+      "authorExpected": 1030.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-algebra",
+      "independentValue": 50.0,
+      "authorExpected": 50.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-answer1",
+      "independentValue": -10.0,
+      "authorExpected": -10.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-answer2-percent",
+      "independentValue": 0.075,
+      "authorExpected": 0.075,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-answer2-bp",
+      "independentValue": 0.0035,
+      "authorExpected": 0.0035,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-answer2-change",
+      "independentValue": -0.005,
+      "authorExpected": -0.005,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-answer3-fx",
+      "independentValue": 2400.0,
+      "authorExpected": 2400.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-answer3-interest",
+      "independentValue": 120.0,
+      "authorExpected": 120.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "n-answer4",
+      "independentValue": 13.0,
+      "authorExpected": 13.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-mean-x",
+      "independentValue": 0.0,
+      "authorExpected": 0.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-mean-y",
+      "independentValue": 0.0,
+      "authorExpected": 0.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-var-x",
+      "independentValue": 2.0,
+      "authorExpected": 2.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-var-y",
+      "independentValue": 1.0,
+      "authorExpected": 1.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-cov",
+      "independentValue": 1.0,
+      "authorExpected": 1.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-rho",
+      "independentValue": 0.7071067811865475,
+      "authorExpected": 0.7071067811865475,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-hedge-var",
+      "independentValue": 1.0,
+      "authorExpected": 1.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-slope",
+      "independentValue": 1.0,
+      "authorExpected": 1.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-answer1-return",
+      "independentValue": 0.02,
+      "authorExpected": 0.02,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-answer2-varx",
+      "independentValue": 4.0,
+      "authorExpected": 4.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-answer2-vary",
+      "independentValue": 16.0,
+      "authorExpected": 16.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-answer2-cov",
+      "independentValue": 8.0,
+      "authorExpected": 8.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-answer3-var",
+      "independentValue": 0.0,
+      "authorExpected": 0.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-variance-identity--4",
+      "independentValue": 26.0,
+      "authorExpected": 26.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-variance-identity--1",
+      "independentValue": 5.0,
+      "authorExpected": 5.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-variance-identity-0",
+      "independentValue": 2.0,
+      "authorExpected": 2.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-variance-identity-0.5",
+      "independentValue": 1.25,
+      "authorExpected": 1.25,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-variance-identity-1",
+      "independentValue": 1.0,
+      "authorExpected": 1.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-variance-identity-2",
+      "independentValue": 2.0,
+      "authorExpected": 2.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "s-variance-identity-5",
+      "independentValue": 17.0,
+      "authorExpected": 17.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-average-slope",
+      "independentValue": 4.1,
+      "authorExpected": 4.1,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-minimum",
+      "independentValue": 3.0,
+      "authorExpected": 3.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-constrained",
+      "independentValue": 4.0,
+      "authorExpected": 4.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-first",
+      "independentValue": 4.4,
+      "authorExpected": 4.4,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-second",
+      "independentValue": 4.41,
+      "authorExpected": 4.41,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-negative",
+      "independentValue": 3.61,
+      "authorExpected": 3.61,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-bond-up",
+      "independentValue": 96.09,
+      "authorExpected": 96.09,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-bond-down",
+      "independentValue": 104.09,
+      "authorExpected": 104.09,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-answer1-value",
+      "independentValue": 6.0,
+      "authorExpected": 6.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-answer1-slope",
+      "independentValue": 5.0,
+      "authorExpected": 5.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-answer2-min",
+      "independentValue": 3.5,
+      "authorExpected": 3.5,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-answer3-exact",
+      "independentValue": 6.51,
+      "authorExpected": 6.51,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-answer4-first",
+      "independentValue": 197.0,
+      "authorExpected": 197.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-answer4-second",
+      "independentValue": 197.03,
+      "authorExpected": 197.03,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-completed-square--3",
+      "independentValue": 44.0,
+      "authorExpected": 44.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-completed-square-0",
+      "independentValue": 8.0,
+      "authorExpected": 8.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-completed-square-0.2",
+      "independentValue": 6.88,
+      "authorExpected": 6.880000000000001,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-completed-square-1",
+      "independentValue": 4.0,
+      "authorExpected": 4.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-completed-square-1.5",
+      "independentValue": 3.5,
+      "authorExpected": 3.5,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "d-completed-square-4",
+      "independentValue": 16.0,
+      "authorExpected": 16.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-integer",
+      "independentValue": 8.0,
+      "authorExpected": 8.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-zero",
+      "independentValue": 1.0,
+      "authorExpected": 1.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-negative",
+      "independentValue": 0.25,
+      "authorExpected": 0.25,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-root",
+      "independentValue": 3.0,
+      "authorExpected": 3.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-fraction",
+      "independentValue": 27.0,
+      "authorExpected": 27.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-limit10",
+      "independentValue": 2.5937424601,
+      "authorExpected": 2.5937424601,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-limit100",
+      "independentValue": 2.7048138294215263,
+      "authorExpected": 2.704813829421526,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-logsum",
+      "independentValue": 0.6931471805599453,
+      "authorExpected": 0.6931471805599453,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-discrete",
+      "independentValue": 1157.625,
+      "authorExpected": 1157.625,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-continuous",
+      "independentValue": 1030.4545339535168,
+      "authorExpected": 1030.454533953517,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-unknown-rate",
+      "independentValue": 0.09531017980432485,
+      "authorExpected": 0.09531017980432487,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-semiannual",
+      "independentValue": 0.09758032833886401,
+      "authorExpected": 0.097580328338864,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-effective",
+      "independentValue": 0.1025,
+      "authorExpected": 0.1025,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-answer-growth",
+      "independentValue": 563.081209632,
+      "authorExpected": 563.081209632,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-answer-conversion",
+      "independentValue": 0.07921050918471885,
+      "authorExpected": 0.07921050918471885,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-answer-effective",
+      "independentValue": 0.08243216,
+      "authorExpected": 0.08243216,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-answer-time",
+      "independentValue": 13.862943611198904,
+      "authorExpected": 13.862943611198906,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-roundtrip",
+      "independentValue": 999.9999999999999,
+      "authorExpected": 1000.0,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-quote-roundtrip",
+      "independentValue": 0.1,
+      "authorExpected": 0.1,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "id": "p-conversion-reconstruct",
+      "independentValue": 563.0812096320001,
+      "authorExpected": 563.081209632,
+      "absoluteTolerance": 1e-08,
+      "pass": true
+    }
+  ],
+  "additionalChecks": [
+    {
+      "claim": "operation parentheses",
+      "actual": 10.0,
+      "expected": 10.0,
+      "pass": true
+    },
+    {
+      "claim": "operation precedence",
+      "actual": 13.0,
+      "expected": 13.0,
+      "pass": true
+    },
+    {
+      "claim": "5 percent increase",
+      "actual": 210.0,
+      "expected": 210.0,
+      "pass": true
+    },
+    {
+      "claim": "5 percent decrease",
+      "actual": 190.0,
+      "expected": 190.0,
+      "pass": true
+    },
+    {
+      "claim": "FX quotation",
+      "actual": 100.0,
+      "expected": 100.0,
+      "pass": true
+    },
+    {
+      "claim": "FX reverse",
+      "actual": 80.0,
+      "expected": 80.0,
+      "pass": true
+    },
+    {
+      "claim": "FX reciprocal",
+      "actual": 0.8,
+      "expected": 0.8,
+      "pass": true
+    },
+    {
+      "claim": "weighted mean",
+      "actual": 110.0,
+      "expected": 110.0,
+      "pass": true
+    },
+    {
+      "claim": "eighteen months",
+      "actual": 1.5,
+      "expected": 1.5,
+      "pass": true
+    },
+    {
+      "claim": "linear finite slope",
+      "actual": 3.0,
+      "expected": 3.0,
+      "pass": true
+    },
+    {
+      "claim": "small positive quadratic slope",
+      "actual": 4.01,
+      "expected": 4.01,
+      "pass": true
+    },
+    {
+      "claim": "small negative quadratic slope",
+      "actual": 3.99,
+      "expected": 3.99,
+      "pass": true
+    },
+    {
+      "claim": "exercise average slope",
+      "actual": 5.1,
+      "expected": 5.1,
+      "pass": true
+    },
+    {
+      "claim": "exercise first-order error",
+      "actual": -0.01,
+      "expected": -0.01,
+      "pass": true
+    },
+    {
+      "claim": "semiannual second balance",
+      "actual": 1102.5,
+      "expected": 1102.5,
+      "pass": true
+    },
+    {
+      "claim": "inverse log exp",
+      "actual": 3.0,
+      "expected": 3.0,
+      "pass": true
+    },
+    {
+      "claim": "inverse exp log",
+      "actual": 0.5,
+      "expected": 0.5,
+      "pass": true
+    },
+    {
+      "claim": "ln one",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "claim": "continuous double roundtrip",
+      "actual": 1.9999999999999998,
+      "expected": 2.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": -3.0,
+      "expected": -3.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 7.0,
+      "expected": 7.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 17.125,
+      "expected": 17.125,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 9.0,
+      "expected": 9.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 7.0,
+      "expected": 7.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 8.125,
+      "expected": 8.125,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 25.0,
+      "expected": 25.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 7.0,
+      "expected": 7.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": -3.875,
+      "expected": -3.875,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 3.0,
+      "expected": 3.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 7.0,
+      "expected": 7.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 20.5,
+      "expected": 20.5,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 15.0,
+      "expected": 15.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 7.0,
+      "expected": 7.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 11.5,
+      "expected": 11.5,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 31.0,
+      "expected": 31.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 7.0,
+      "expected": 7.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": -0.5,
+      "expected": -0.5,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 15.0,
+      "expected": 15.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 7.0,
+      "expected": 7.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 27.25,
+      "expected": 27.25,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 27.0,
+      "expected": 27.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 7.0,
+      "expected": 7.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 18.25,
+      "expected": 18.25,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 43.0,
+      "expected": 43.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 7.0,
+      "expected": 7.0,
+      "pass": true
+    },
+    {
+      "claim": "general complete square",
+      "actual": 6.25,
+      "expected": 6.25,
+      "pass": true
+    },
+    {
+      "claim": "residual mean zero",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "claim": "sample versus population slope",
+      "actual": 1.5714285714285714,
+      "expected": 1.5714285714285714,
+      "pass": true
+    },
+    {
+      "claim": "constant response slope",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "claim": "constant regressor variance",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "claim": "constant regressor covariance",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    }
+  ],
+  "counts": {
+    "authorChecks": 76,
+    "additionalChecks": 51,
+    "separateAnswers": 20,
+    "anchors": 52,
+    "localLinks": 24,
+    "originalImagesActuallyViewed": 8
+  },
+  "goldenSelection": {
+    "command": [
+      "node",
+      "--test",
+      "--test-name-pattern=minimum-variance-ratio:|semiannual-to-continuous:|months-to-years:|basis-points:|forward and option buyer/writer|minimum variance ratio is not|discount/accumulation invert|rate equivalence and months conversion",
+      "study/test/financial-golden.test.mjs"
+    ],
+    "exitCode": 0,
+    "stdout": "\u2714 minimum-variance-ratio: independently frozen futures units/spot unit constant (3.007084ms)\n\u2714 semiannual-to-continuous: independently frozen annual decimal continuous rate constant (0.211695ms)\n\u2714 months-to-years: independently frozen years constant (0.110996ms)\n\u2714 basis-points: independently frozen decimal yield change constant (0.088713ms)\n\u2714 forward and option buyer/writer cashflows negate; loss never requires a negative underlying price (4.333964ms)\n\u2714 minimum variance ratio is not contract count; nearest integer choice is reasoned by residual variance (1.938506ms)\n\u2714 discount/accumulation invert; zero rate and zero remaining time are exact boundaries (0.180788ms)\n\u2714 rate equivalence and months conversion reconstruct growth, rejecting printed source errors and percent confusion (0.46169ms)\n\u2139 tests 8\n\u2139 suites 0\n\u2139 pass 8\n\u2139 fail 0\n\u2139 cancelled 0\n\u2139 skipped 0\n\u2139 todo 0\n\u2139 duration_ms 132.425213\n",
+    "stderr": ""
+  },
+  "boundaries": [
+    "No canonical Review object or approval created.",
+    "No coverage, canonical records, source, original, pilot, private, runtime or goal writes.",
+    "All four bridges and all 20 answers read, not sampled.",
+    "Global metadata may change; formal hash-closure review and browser gates remain."
+  ],
+  "formalApproval": false,
+  "findings": [],
+  "rubric": {
+    "concept-numeric-foundations.md": [
+      {
+        "dimension": "Source fidelity / supplements",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Opening labels all scaffolding supplemental. `numeric-signs` distinguishes delivered asset value from cash and payoff from total profit; original L1 p22 long/short formulas and p25 currency signs are retained."
+      },
+      {
+        "dimension": "Prerequisites",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`numeric-signs` teaches negative-number addition, multiplication signs and operation order; `numeric-rates` introduces fractions; `numeric-algebra` explains equal operations before solving. No later financial concept is required for the calculations."
+      },
+      {
+        "dimension": "Symbols / units / assumptions",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`numeric-signs` defines Q,K,S_T,T and subscript; `numeric-units` cancels USD/GBP, distinguishes matching-date sums, states months/12 and simple interest; `numeric-rates` distinguishes decimal/percent/bp and relative change."
+      },
+      {
+        "dimension": "Intuition / steps",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Receipt/payment bookkeeping precedes Q(S_T\u2212K); `numeric-algebra` divides, isolates, substitutes and verifies K step by step."
+      },
+      {
+        "dimension": "Worked examples",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Long \u2212\u00a375/short +\u00a375; currency +$96,800/\u2212$103,200; +25bp but +6.25% relative; K=\u00a350 are correct with units and boundary checks."
+      },
+      {
+        "dimension": "Outcomes / practice / answers / teach-back",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Four observable actions at `numeric-outcomes`; `numeric-practice` moves from signs through units to rearrangement; five separately anchored answers explain both calculations and misconceptions, not just final values."
+      },
+      {
+        "dimension": "Misconceptions / limits / accessibility",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`numeric-algebra` handles Q=0 and rounding; `numeric-units` warns about mixed currencies/dates/day counts; source tables are explained numerically in prose rather than requiring visual access alone."
+      },
+      {
+        "dimension": "Precise motivating citations",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`numeric-evidence` gives L1 physical p22 lower-left formula and p25 upper equation, exact unit anchors and full original links; fragment additionally lists both complete tables and short/direction units."
+      }
+    ],
+    "concept-statistical-foundations.md": [
+      {
+        "dimension": "Source fidelity / supplements",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Opening labels finite models and answers supplemental. `statistics-evidence` preserves L2 p16 negative cross term and p17 regression on changes; qualifies signed \u201chigher correlation\u201d rather than broadening it."
+      },
+      {
+        "dimension": "Prerequisites",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`statistics-randomness` defines random variable, probability and matched periods; `statistics-moments` defines weighted sums, squares and roots before use. Regression completion is explicitly expanded; the calculus cross-link is not needed to solve the example."
+      },
+      {
+        "dimension": "Symbols / units / assumptions",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`statistics-moments` defines i,n,p_i,x_i,E,\u03bc,\u03c3; finite moments and positive-probability scenarios are explicit. `statistics-paired-example` gives squared covariance/variance units and dimensionless correlation; zero variance makes correlation undefined."
+      },
+      {
+        "dimension": "Intuition / steps",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Deviations cancel, motivating squared deviations; the paired table builds covariance from signed products; `statistics-hedge-variance` expands A\u2212hB; `statistics-regression` derives best intercept then slope by completing the square."
+      },
+      {
+        "dimension": "Worked examples",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Four-row means 0, variances 2/1, covariance 1, correlation 1/\u221a2; h=1 leaves variance 1. Two-row practice independently gives variances 4/16, covariance 8, correlation 1 and h=.5 with zero residual risk."
+      },
+      {
+        "dimension": "Outcomes / practice / answers / teach-back",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Four observable outcomes; five `statistics-practice` items progress through measurement, moments, application, degeneracy and explanation. All five answers include calculations or diagnostic reasons; no learner response is fabricated."
+      },
+      {
+        "dimension": "Misconceptions / limits / accessibility",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`statistics-regression` distinguishes scenario probabilities from n\u22121 sample estimates, requires consistent normalization and explains constant-regressor nonidentification. Zero mean\u2260zero risk, zero correlation\u2260independence, no causation/future guarantee or automatic time scaling. Table is textual and fully interpreted."
+      },
+      {
+        "dimension": "Precise motivating citations",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`statistics-evidence` identifies L2 p16 middle variance and p17 lower regression box with exact anchored normalized units and original images; all related fragment units checked."
+      }
+    ],
+    "concept-local-derivatives.md": [
+      {
+        "dimension": "Source fidelity / supplements",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Opening distinguishes mathematical derivatives from contracts. `derivatives-bond-interpretation` explicitly supplies sensitivities rather than inventing priced bonds; `derivatives-evidence` retains L3 p38 \u2248 and 1/2, and does not substitute its unrelated C=7.570."
+      },
+      {
+        "dimension": "Prerequisites",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`derivatives-slope` defines function, input/output, graph, delta, quotient and limit; `derivatives-rules` derives constant/linear/quadratic rules. No statistics or exponential derivative is needed for any actual bridge calculation."
+      },
+      {
+        "dimension": "Symbols / units / assumptions",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Prime/second/partial derivatives and V/U, V/U\u00b2 units are explained. `derivatives-minimum` requires a>0 and checks constraints. `derivatives-bond-interpretation` fixes cash flows/dates/convention, requires B>0, and uses annual decimal \u0394y with D years/C years\u00b2."
+      },
+      {
+        "dimension": "Intuition / steps",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Quadratic finite difference tends to 2x without division by zero; completed-square proof establishes global quadratic minimum; direct expansion explains the second-order coefficient 1/2."
+      },
+      {
+        "dimension": "Worked examples",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "q minimum 3 at h=1 and constrained minimum 4 at .5; x\u00b2 values 4.4/4.41 and 3.61; supplied-sensitivity estimates \u00a396.09/\u00a3104.09. All practice values including \u00a3197/\u00a3197.03 checked independently."
+      },
+      {
+        "dimension": "Outcomes / practice / answers / teach-back",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Four observable outcomes; practice moves from slope to optimization, local prediction, units and explanation. Five distinct complete answers justify extrema and approximation status."
+      },
+      {
+        "dimension": "Misconceptions / limits / accessibility",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`derivatives-slope` explains the absolute-value corner; `derivatives-minimum` handles a\u22640/constraints; `derivatives-approximations` states sufficient smoothness and no finite-shock error guarantee; bond section rejects universal positive convexity and exact price recovery from D,C alone. Graph meanings explained in text."
+      },
+      {
+        "dimension": "Precise motivating citations",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`derivatives-evidence` identifies L2 p16 derivative region, L3 p32 differentiation, L3 p38 boxed approximation; all full originals/raw/normalized spans inspected."
+      }
+    ],
+    "concept-exponents-and-logs.md": [
+      {
+        "dimension": "Source fidelity / supplements",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Opening separates supplemental mathematics from slide coverage. `powers-conversion` preserves L3 p10 10% nominal semiannual \u2192 9.758% continuous rounded quote; `powers-evidence` does not import p11's known printed error."
+      },
+      {
+        "dimension": "Prerequisites",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`powers-rules` starts from repeated multiplication, reciprocal and positive roots; `powers-exponential` explains limit/infinity independently, so no calculus prerequisite is assumed. Log is then introduced as inverse, not used to define itself circularly."
+      },
+      {
+        "dimension": "Symbols / units / assumptions",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Positive bases, real exponents, log domain z>0, dimensionless log arguments/exponents, R_m,m,t,A,FV and annual decimal quotes are explicit. Fractional-period interpolation is conditional rather than silently assumed."
+      },
+      {
+        "dimension": "Intuition / steps",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Repeated growth includes previous growth; exp/log inverse motivates product/quotient/power laws; `powers-solving` divides by A then logs; `powers-conversion` matches accumulation and reverses algebra step by step."
+      },
+      {
+        "dimension": "Worked examples",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "\u00a31,157.625 discrete, \u00a31,030.454534 continuous, unknown r=.095310180\u2026, semiannual r=.097580328\u2026, and all quarterly-growth/time answers independently recalculated. Intermediate precision and roundtrip limits stated."
+      },
+      {
+        "dimension": "Outcomes / practice / answers / teach-back",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "Four measurable actions; practice advances from powers/domain to accumulation, conversion and unknown time. Five answer anchors explain domains, periods, quote differences and diagnostic retries."
+      },
+      {
+        "dimension": "Misconceptions / limits / accessibility",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`powers-rules` distinguishes root function from \u00b1 equation solutions; `powers-logarithms` disproves log-of-sum rule and separates negative input from negative output. Zero/negative rate cases, calculator base, matched time basis and no-flow assumptions are explicit. All equations described in prose."
+      },
+      {
+        "dimension": "Precise motivating citations",
+        "score": 2,
+        "maximum": 2,
+        "evidence": "`powers-evidence` gives L3 physical p9 upper defining limit and p10 middle formulas/lower example, exact normalized anchors and original images; all related accumulation/sign/conversion units checked."
+      }
+    ]
+  },
+  "fullFormulaAnswerAudit": "The JSON's `teachingInventory` lists **every** actual teaching/answer anchor and its full-file hash. The following manual reasoning covers symbolic identities as well as all numeric uses\u2014not a random sample:\n\n- **Numeric:** signed same-date addition/opposite side; precedence and distributivity; Q(S\u2212K)/Q(K\u2212S) and zero-sum; percent/decimal/bp/percentage-point/relative-change conversions; reciprocal FX; dimensional ratios and nonnegative weighted mean; months/year conversion and explicitly simple A(1+rt); P=Q(S\u2212K) isolation of K or S with Q=0 boundary. All worked and inline examples read/recalculated. Answer inventory: `numeric-answer-signs`, `-rates`, `-units`, `-algebra`, `-teachback` \u2014 correct buyer/seller nets, decimal/down-rate conversions, separate FX/time-interest operations, algebra consistency and three misconception corrections.\n- **Statistics:** price change/return; probability-weighted E; centered Var/SD; centered Cov and normalized correlation; linearity; expansion of Var(X\u2212hY); completed-square hedge minimum; least-squares mean-square decomposition, optimal intercept/slope; common sample-normalization cancellation and zero-denominator cases. Derivations checked term by term, not inferred from arithmetic agreement alone. Answer inventory: `statistics-answer-identify`, `-moments`, `-hedge`, `-boundary`, `-teachback` \u2014 correct aligned measurement, all requested moments, perfect toy offset/intercept, constant-regressor nonidentification and risk/dependence/levels distinctions.\n- **Local derivatives:** finite difference, limit and x\u00b2 derivative; constant/sum/scalar/linear/quadratic derivative rules; second/partial derivative interpretation; q\u2032 and complete-square identity for a>0, a\u22640/constraints; first/second-order Taylor forms with smoothness/local limits; D=\u2212B\u2032/B, C=B\u2033/B substitution and relative/currency conversion. Inline slopes, both quadratic worked examples, and both up/down sensitivity predictions verified. Answer inventory: `derivatives-answer-slope`, `-minimum`, `-approximation`, `-units`, `-teachback` \u2014 f=6, f\u2032=5, f\u2033=2, average=5.1; minimum 3.5 at 1.5 and sign-reversed maximum; 6.5/6.51; \u00a3197/\u00a3197.03 and unknown exact price; derivative/extremum/model-limit explanations.\n- **Powers/logs:** integer/zero/negative/fractional/real positive-base powers and laws; exp limit/positivity/reciprocal; ln/exp inverse, log product/quotient/power rules and invalid sum rule; discrete complete-period growth/inverse; continuous growth/discount; rate/time isolation with domains; matched rate conversion both directions and annual effective factor. Limit illustrations, roots and calculator examples checked. Answer inventory: `powers-answer-powers`, `-logs`, `-growth`, `-conversion`, `-teachback` \u2014 1/.25/3/27; 3/.5/0 and invalid negative input; six quarterly periods and \u00a3563.081209632; r=.079210509\u2026 and 8.243216% effective; 13.862943611\u2026 years with negative/zero-rate and log-domain distinctions.",
+  "readingDeclaration": {
+    "entrypointBytes": 10198,
+    "contractGroupBytes": 29508,
+    "continuationDeclaredBeforeContracts": true,
+    "fullNormalizedAndRawPagesRead": [
+      "lecture-1:22",
+      "lecture-1:25",
+      "lecture-2:16",
+      "lecture-2:17",
+      "lecture-3:9",
+      "lecture-3:10",
+      "lecture-3:32",
+      "lecture-3:38"
+    ],
+    "sameEightOriginalPngsActuallyDisplayed": true,
+    "privateContentRead": false
+  },
+  "advisoryMarkdownSha256": "4b9126e40684d9e87c746930b4b446efc1c802c9a402876b062eacf0a2a57aef",
+  "reviewerCheckerSha256": "c748f37c957d6b0672ed25422512abae2989f7e81547617900ec94f4005333c4"
+}

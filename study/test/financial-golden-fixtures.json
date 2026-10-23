@@ -1,0 +1,3499 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Supplemental independently computed financial calculation oracles; not curriculum, source QA approval, review authentication or learner mastery.",
+  "expectedValueMethod": "Constants frozen using Python standard-library Decimal at60decimaldigits (exp/ln), exact rational cashflow algebra and independently reasoned cashflow identities. Node tests evaluate separate binary64 formulas; expected constants are not computed by those functions during tests.",
+  "unitsConvention": "Inputs use decimal annual rates and year fractions except explicitly named months or basisPoints; every case names output units/assumptions. Monetary display tolerance0.01; internal absolute tolerance1e-8.",
+  "lessonBindingStatus": "pending: no lesson bindings; after stable lesson paths/answers exist an independent reviewer must bind/check every used answer and formula, not just these selected fixtures.",
+  "sources": {
+    "lecture-1-p022-long-payoff-formula": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 22,
+        "region": "lower general-result box, left equation",
+        "printedPage": "22 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-022.md",
+        "anchor": "lecture-1-p022-long-payoff-formula"
+      },
+      "normalizedSha256": "d977cc8c0fba9a875f64f23ef9d2eb88c9079ddedbf77b8f390e000e901a9516",
+      "imagePath": "study/sources/assets/lecture-1/page-022.png",
+      "imageSha256": "23df5aec358baab6656fffe2b88088cc26e93c47de4822298bc38758769865ce"
+    },
+    "lecture-1-p022-short-payoff-formula": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 22,
+        "region": "lower general-result box, right equation",
+        "printedPage": "22 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-022.md",
+        "anchor": "lecture-1-p022-short-payoff-formula"
+      },
+      "normalizedSha256": "d977cc8c0fba9a875f64f23ef9d2eb88c9079ddedbf77b8f390e000e901a9516",
+      "imagePath": "study/sources/assets/lecture-1/page-022.png",
+      "imageSha256": "23df5aec358baab6656fffe2b88088cc26e93c47de4822298bc38758769865ce"
+    },
+    "lecture-1-p024-sterling-forward-hedge": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 24,
+        "region": "middle hedge box, contract and calculation",
+        "printedPage": "24 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-024.md",
+        "anchor": "lecture-1-p024-sterling-forward-hedge"
+      },
+      "normalizedSha256": "0d129ff888a2eebcd3ea3dbb63958a5c7fc35656d9b9e9123291a657393fe423",
+      "imagePath": "study/sources/assets/lecture-1/page-024.png",
+      "imageSha256": "bf3199694e6643b399936afefad7025af9690f9ded14c08dccb0115136dcdc79"
+    },
+    "lecture-1-p025-currency-payoff-table": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 25,
+        "region": "central three-row payoff table",
+        "printedPage": "25 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-025.md",
+        "anchor": "lecture-1-p025-currency-payoff-table"
+      },
+      "normalizedSha256": "173c9cac8429bf9af52458eeea999bf7d7fada769c072b548880760e4c5344f0",
+      "imagePath": "study/sources/assets/lecture-1/page-025.png",
+      "imageSha256": "0eca0aa037190577ea32f4c9e362c0a0acbfe71add79dc469f49cf0c0b5af0e9"
+    },
+    "lecture-1-p026-long-forward-diagram": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 26,
+        "region": "left payoff/profit diagram",
+        "printedPage": "26 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-026.md",
+        "anchor": "lecture-1-p026-long-forward-diagram"
+      },
+      "normalizedSha256": "17c75f9a22fe433f8004d0d834bc631fbb399ef692a9476ce196726be1dd3811",
+      "imagePath": "study/sources/assets/lecture-1/page-026.png",
+      "imageSha256": "ef6bfa7701e139072d5278886a2c6980bcfa329df85640dc5c9f9ec31dfc1beb"
+    },
+    "lecture-1-p027-paired-long-diagram": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 27,
+        "region": "upper left long-forward diagram and equation below it",
+        "printedPage": "27 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-027.md",
+        "anchor": "lecture-1-p027-paired-long-diagram"
+      },
+      "normalizedSha256": "c54481eaa774c1267b0f8fcf34ad663549d47253001df155a4a3d52d2344fffb",
+      "imagePath": "study/sources/assets/lecture-1/page-027.png",
+      "imageSha256": "534d5e8f7d4028357591f1ccdb4276d28cdccb217467098817ddf358de5a07f9"
+    },
+    "lecture-1-p027-paired-short-diagram": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 27,
+        "region": "upper right short-forward diagram and equation below it",
+        "printedPage": "27 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-027.md",
+        "anchor": "lecture-1-p027-paired-short-diagram"
+      },
+      "normalizedSha256": "c54481eaa774c1267b0f8fcf34ad663549d47253001df155a4a3d52d2344fffb",
+      "imagePath": "study/sources/assets/lecture-1/page-027.png",
+      "imageSha256": "534d5e8f7d4028357591f1ccdb4276d28cdccb217467098817ddf358de5a07f9"
+    },
+    "lecture-1-p029-daily-gain-calculation": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 29,
+        "region": "middle daily-gain box",
+        "printedPage": "29 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-029.md",
+        "anchor": "lecture-1-p029-daily-gain-calculation"
+      },
+      "normalizedSha256": "8ee9a91089936be6e7559bd7033eead392dd84d1e7bf448ecea0cd7977652c8d",
+      "imagePath": "study/sources/assets/lecture-1/page-029.png",
+      "imageSha256": "a5ae9b0ec97be519aedfa73bceb66f555e463862d147e99d983b737ed86a1052"
+    },
+    "lecture-1-p030-margin-balance-answer": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 30,
+        "region": "lower answer box",
+        "printedPage": "30 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-030.md",
+        "anchor": "lecture-1-p030-margin-balance-answer"
+      },
+      "normalizedSha256": "fe464d096272fb28ba67fd0798005aa350e743f9cbeab431326aa4906cf5db5b",
+      "imagePath": "study/sources/assets/lecture-1/page-030.png",
+      "imageSha256": "dd908acb88ecff24cb4ea2cb319478011f48448574f2cd1de9215746b389165a"
+    },
+    "lecture-1-p033-call-payoff-formula": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 33,
+        "region": "bottom call-payoff equation",
+        "printedPage": "33 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-033.md",
+        "anchor": "lecture-1-p033-call-payoff-formula"
+      },
+      "normalizedSha256": "7f61cde0cfff02f975e7c922a4b95b83f9716110d3eef3dae48f069e2ef69316",
+      "imagePath": "study/sources/assets/lecture-1/page-033.png",
+      "imageSha256": "5302081085e5560e4820e463ec62cd67b75fd0079e47bae9edef53d5aaba7260"
+    },
+    "lecture-1-p036-put-payoff-formula": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 36,
+        "region": "bottom put-payoff equation",
+        "printedPage": "36 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-036.md",
+        "anchor": "lecture-1-p036-put-payoff-formula"
+      },
+      "normalizedSha256": "080b9e7e801552ad56b3054d3594fa2545dde137cacae83a2a4e5ca64c27db93",
+      "imagePath": "study/sources/assets/lecture-1/page-036.png",
+      "imageSha256": "2f71657b2698dd9851dcd155704388c153545111e0d84b2951f46681fd3b3cad"
+    },
+    "lecture-1-p037-call-break-even-answer": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 37,
+        "region": "bottom break-even equation",
+        "printedPage": "37 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-037.md",
+        "anchor": "lecture-1-p037-call-break-even-answer"
+      },
+      "normalizedSha256": "55a7e5de9d125e2f3825c35cda2e106079d21208ae11899da37509104b5433b1",
+      "imagePath": "study/sources/assets/lecture-1/page-037.png",
+      "imageSha256": "ed4fb20f9ce86c9c4c47f96795705a04b90fc5369acab690232b9897945c9d4b"
+    },
+    "lecture-1-p037-call-profit": {
+      "sourceId": "lecture-1",
+      "originalSha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "locator": {
+        "pdfPage": 37,
+        "region": "middle long-call profit box",
+        "printedPage": "37 / 38"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-037.md",
+        "anchor": "lecture-1-p037-call-profit"
+      },
+      "normalizedSha256": "55a7e5de9d125e2f3825c35cda2e106079d21208ae11899da37509104b5433b1",
+      "imagePath": "study/sources/assets/lecture-1/page-037.png",
+      "imageSha256": "ed4fb20f9ce86c9c4c47f96795705a04b90fc5369acab690232b9897945c9d4b"
+    },
+    "lecture-2-p007-arbitrage-trade": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 7,
+        "region": "lower arbitrage-strategy box",
+        "printedPage": "7 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-007.md",
+        "anchor": "lecture-2-p007-arbitrage-trade"
+      },
+      "normalizedSha256": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+      "imagePath": "study/sources/assets/lecture-2/page-007.png",
+      "imageSha256": "46f5175dcbd2171ba8cc15419dac5adc72f2e0519c86bbc08bc9d5e5d8cbb191"
+    },
+    "lecture-2-p007-cross-market-quotes": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 7,
+        "region": "upper simultaneous-price list",
+        "printedPage": "7 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-007.md",
+        "anchor": "lecture-2-p007-cross-market-quotes"
+      },
+      "normalizedSha256": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+      "imagePath": "study/sources/assets/lecture-2/page-007.png",
+      "imageSha256": "46f5175dcbd2171ba8cc15419dac5adc72f2e0519c86bbc08bc9d5e5d8cbb191"
+    },
+    "lecture-2-p007-currency-conversion": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 7,
+        "region": "middle compare-prices box",
+        "printedPage": "7 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-007.md",
+        "anchor": "lecture-2-p007-currency-conversion"
+      },
+      "normalizedSha256": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+      "imagePath": "study/sources/assets/lecture-2/page-007.png",
+      "imageSha256": "46f5175dcbd2171ba8cc15419dac5adc72f2e0519c86bbc08bc9d5e5d8cbb191"
+    },
+    "lecture-2-p011-short-hedge-derivation": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 11,
+        "region": "middle effective-selling-price box",
+        "printedPage": "11 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-011.md",
+        "anchor": "lecture-2-p011-short-hedge-derivation"
+      },
+      "normalizedSha256": "db4cd7fdc1f1fc0eb1419fb08d219e4d0e021689808550a06dab3aa4b0e69513",
+      "imagePath": "study/sources/assets/lecture-2/page-011.png",
+      "imageSha256": "137b4379ad94d9f2ed60539de7de889de6261e821bcc18ccc41e3b00307cf112"
+    },
+    "lecture-2-p012-long-hedge-derivation": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 12,
+        "region": "middle effective-purchase-price box",
+        "printedPage": "12 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-012.md",
+        "anchor": "lecture-2-p012-long-hedge-derivation"
+      },
+      "normalizedSha256": "a29014cd8eb798268fea74b2c0f294467393954e5ebb8439fe4589ece8d558c8",
+      "imagePath": "study/sources/assets/lecture-2/page-012.png",
+      "imageSha256": "4168386aad292946cefbb34e75eceffb936a210b53eb37bad99aaf90d14fcbcc"
+    },
+    "lecture-2-p013-basis-example-check": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 13,
+        "region": "lower equivalent basis calculation",
+        "printedPage": "13 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-013.md",
+        "anchor": "lecture-2-p013-basis-example-check"
+      },
+      "normalizedSha256": "a96a4f510507c6855f04b87549c336afbc96143d4484143d5d34f31b22d7ca8d",
+      "imagePath": "study/sources/assets/lecture-2/page-013.png",
+      "imageSha256": "fb4724f3e9abf5c1f3901c4b5c0f55be001eb7801ddd36371e1387a570d78e33"
+    },
+    "lecture-2-p016-minimum-variance-ratio": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 16,
+        "region": "bottom boxed hedge-ratio result",
+        "printedPage": "16 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-016.md",
+        "anchor": "lecture-2-p016-minimum-variance-ratio"
+      },
+      "normalizedSha256": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+      "imagePath": "study/sources/assets/lecture-2/page-016.png",
+      "imageSha256": "0333c270efa8b7479df3aacba6a20dd32400df5fab7a804ebf82de1913bf3453"
+    },
+    "lecture-2-p018-optimal-contract-number": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 18,
+        "region": "upper quantity definitions and boxed ratio",
+        "printedPage": "18 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-018.md",
+        "anchor": "lecture-2-p018-optimal-contract-number"
+      },
+      "normalizedSha256": "6f0ac242d78900d8a8f9840573f1c97c367517ded16163a508bb0be92ecaee7d",
+      "imagePath": "study/sources/assets/lecture-2/page-018.png",
+      "imageSha256": "70da1ef481c4868fb7eacf3ae96e62dbb20c57ecb8a5adbf9b705cd2cde010a8"
+    },
+    "lecture-2-p019-airline-cross-hedge-inputs": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 19,
+        "region": "upper scenario and numerical inputs",
+        "printedPage": "19 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-019.md",
+        "anchor": "lecture-2-p019-airline-cross-hedge-inputs"
+      },
+      "normalizedSha256": "e4fec9c898121aae2e0187278eb5a845a972e6ed91c6ace278fbf9b370a18ec9",
+      "imagePath": "study/sources/assets/lecture-2/page-019.png",
+      "imageSha256": "875ba138d0a71f644d61e414652b8afa13d13e7c67f311c30785adf3e4f6f024"
+    },
+    "lecture-2-p020-airline-contract-calculation": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 20,
+        "region": "middle optimal contract calculation",
+        "printedPage": "20 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-020.md",
+        "anchor": "lecture-2-p020-airline-contract-calculation"
+      },
+      "normalizedSha256": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+      "imagePath": "study/sources/assets/lecture-2/page-020.png",
+      "imageSha256": "089cd367898507fe4c199a393c38163e9eb1387d80add0c52e30d7cb4dccb5af"
+    },
+    "lecture-2-p020-airline-ratio-calculation": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 20,
+        "region": "upper minimum-variance ratio calculation",
+        "printedPage": "20 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-020.md",
+        "anchor": "lecture-2-p020-airline-ratio-calculation"
+      },
+      "normalizedSha256": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+      "imagePath": "study/sources/assets/lecture-2/page-020.png",
+      "imageSha256": "089cd367898507fe4c199a393c38163e9eb1387d80add0c52e30d7cb4dccb5af"
+    },
+    "lecture-2-p024-target-beta-formula": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 24,
+        "region": "upper target-beta statement and boxed formula",
+        "printedPage": "24 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-024.md",
+        "anchor": "lecture-2-p024-target-beta-formula"
+      },
+      "normalizedSha256": "4fd32fbb6c6eb16c130ac748534558e3db58641bb6285d39c7eb77cf2047f970",
+      "imagePath": "study/sources/assets/lecture-2/page-024.png",
+      "imageSha256": "b5ad73e42d3014e9eb3ae4add9a435b96f3b194d4ecb05af6aab259f2b7721df"
+    },
+    "lecture-2-p025-beta-example-inputs": {
+      "sourceId": "lecture-2",
+      "originalSha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "locator": {
+        "pdfPage": 25,
+        "region": "upper portfolio and contract notional calculation",
+        "printedPage": "25 / 29"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-025.md",
+        "anchor": "lecture-2-p025-beta-example-inputs"
+      },
+      "normalizedSha256": "6eb2a93966ebff4b11e03540007e8a6c763568d91c317b2f2c90bdaf988c1e29",
+      "imagePath": "study/sources/assets/lecture-2/page-025.png",
+      "imageSha256": "7690c07e053b635d2f2e2e9be4fedc2fcf56e4d94ce045f4f46c6b1520297e2b"
+    },
+    "lecture-3-p006-one-year-example": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 6,
+        "printedPage": "6",
+        "slideLabel": "6 / 41",
+        "region": "One-year investment box"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-006.md",
+        "anchor": "lecture-3-p006-one-year-example"
+      },
+      "normalizedSha256": "bf85d88799a613c02e540b9d0b4de55bc6232c368f5ded938a48e8a936cd6b4a",
+      "imagePath": "study/sources/assets/lecture-3/page-006.png",
+      "imageSha256": "e412a3f82001000d3ee1331001c3acafc424f81342f748f01f52caa7204e827a"
+    },
+    "lecture-3-p007-future-value": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 7,
+        "printedPage": "7",
+        "slideLabel": "7 / 41",
+        "region": "Upper definition and boxed formula"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-007.md",
+        "anchor": "lecture-3-p007-future-value"
+      },
+      "normalizedSha256": "324e89cad3578dd46d8a2a5c329125af6f328ba2c909e91df18c282a16e2180d",
+      "imagePath": "study/sources/assets/lecture-3/page-007.png",
+      "imageSha256": "d9ad519955e7f7f811e5ddc4a3fdc9a9c9c1dedd2a71f284cef97783a01de16d"
+    },
+    "lecture-3-p007-quarterly-example": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 7,
+        "printedPage": "7",
+        "slideLabel": "7 / 41",
+        "region": "Lower example"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-007.md",
+        "anchor": "lecture-3-p007-quarterly-example"
+      },
+      "normalizedSha256": "324e89cad3578dd46d8a2a5c329125af6f328ba2c909e91df18c282a16e2180d",
+      "imagePath": "study/sources/assets/lecture-3/page-007.png",
+      "imageSha256": "d9ad519955e7f7f811e5ddc4a3fdc9a9c9c1dedd2a71f284cef97783a01de16d"
+    },
+    "lecture-3-p009-continuous-values": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 9,
+        "printedPage": "9",
+        "slideLabel": "9 / 41",
+        "region": "Lower boxed formulas"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-009.md",
+        "anchor": "lecture-3-p009-continuous-values"
+      },
+      "normalizedSha256": "940b1a1e1d8c76b215bfc36f7ed40aba0559f4869e9934f72ca607dd3d857cc6",
+      "imagePath": "study/sources/assets/lecture-3/page-009.png",
+      "imageSha256": "bc82da1cae12f1e7202202a087fd55a224f4c24fe9c25b343902a9842c85d47b"
+    },
+    "lecture-3-p010-semiannual-example": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 10,
+        "printedPage": "10",
+        "slideLabel": "10 / 41",
+        "region": "Lower example"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-010.md",
+        "anchor": "lecture-3-p010-semiannual-example"
+      },
+      "normalizedSha256": "3a4612c20b508e29c14e288af94dcfcd1f4de349666f837cb0fd59241ed2b966",
+      "imagePath": "study/sources/assets/lecture-3/page-010.png",
+      "imageSha256": "e0360c0e8bcaf1967406a6f9b9cf66b10b0ff372e5a738580830405638e67b91"
+    },
+    "lecture-3-p011-growth-questions": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 11,
+        "printedPage": "11",
+        "slideLabel": "11 / 41",
+        "region": "Upper exercise"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-011.md",
+        "anchor": "lecture-3-p011-growth-questions"
+      },
+      "normalizedSha256": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+      "imagePath": "study/sources/assets/lecture-3/page-011.png",
+      "imageSha256": "3328311dac4325668f1acdbd600f2cd1c9da91c88272f06c65bdbedc0986e81e"
+    },
+    "lecture-3-p011-printed-continuous-solution": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 11,
+        "printedPage": "11",
+        "slideLabel": "11 / 41",
+        "region": "Solution first displayed equation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-011.md",
+        "anchor": "lecture-3-p011-printed-continuous-solution"
+      },
+      "normalizedSha256": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+      "imagePath": "study/sources/assets/lecture-3/page-011.png",
+      "imageSha256": "3328311dac4325668f1acdbd600f2cd1c9da91c88272f06c65bdbedc0986e81e"
+    },
+    "lecture-3-p011-printed-semiannual-solution": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 11,
+        "printedPage": "11",
+        "slideLabel": "11 / 41",
+        "region": "Solution final displayed equation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-011.md",
+        "anchor": "lecture-3-p011-printed-semiannual-solution"
+      },
+      "normalizedSha256": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+      "imagePath": "study/sources/assets/lecture-3/page-011.png",
+      "imageSha256": "3328311dac4325668f1acdbd600f2cd1c9da91c88272f06c65bdbedc0986e81e"
+    },
+    "lecture-3-p014-coupon-pricing-calculation": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 14,
+        "printedPage": "14",
+        "slideLabel": "14 / 41",
+        "region": "Lower displayed calculation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-014.md",
+        "anchor": "lecture-3-p014-coupon-pricing-calculation"
+      },
+      "normalizedSha256": "aad1ce042f2fc30c71f25bdbea69effd774dc16a787df2c0e6f7c6465fe497f2",
+      "imagePath": "study/sources/assets/lecture-3/page-014.png",
+      "imageSha256": "7032ac3586eb2223ff98f7cad2a08630eb0d06095ca346e0b3cefaab4e972e9d"
+    },
+    "lecture-3-p016-printed-coupon-yield-table": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 16,
+        "printedPage": "16",
+        "slideLabel": "16 / 41",
+        "region": "Upper table"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-016.md",
+        "anchor": "lecture-3-p016-printed-coupon-yield-table"
+      },
+      "normalizedSha256": "2494d61bdb2b6e81753fa4c0a6b3f728740f21ac4f63f057b0d4754f137233b2",
+      "imagePath": "study/sources/assets/lecture-3/page-016.png",
+      "imageSha256": "614885cc5d33e3f890e5a256b9d490e4095c443ac358f78b75332621b7f87709"
+    },
+    "lecture-3-p017-par-equation": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 17,
+        "printedPage": "17",
+        "slideLabel": "17 / 41",
+        "region": "Lower derivation and boxed result"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-017.md",
+        "anchor": "lecture-3-p017-par-equation"
+      },
+      "normalizedSha256": "6dfbf874b92d94ba6e432f66d448ef4a64c0368df8539974809360d25dd9d132",
+      "imagePath": "study/sources/assets/lecture-3/page-017.png",
+      "imageSha256": "a2a43031483cf27857d4a934cafb1858518b4ab6348caa1bc22b390c51708a4a"
+    },
+    "lecture-3-p018-par-calculation": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 18,
+        "printedPage": "18",
+        "slideLabel": "18 / 41",
+        "region": "Middle calculation and conclusion"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-018.md",
+        "anchor": "lecture-3-p018-par-calculation"
+      },
+      "normalizedSha256": "a59cbfa17380a99a0af535c5ce03fabc7075a7793bf04eeede2522401aef0666",
+      "imagePath": "study/sources/assets/lecture-3/page-018.png",
+      "imageSha256": "a66cee342dee07336216fba4439c09e5a28fbc3bcf10aa956a2f9a89887684d1"
+    },
+    "lecture-3-p019-bootstrap-procedure": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 19,
+        "printedPage": "19",
+        "slideLabel": "19 / 41",
+        "region": "Main paragraph and bullets"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-019.md",
+        "anchor": "lecture-3-p019-bootstrap-procedure"
+      },
+      "normalizedSha256": "c894f6cf748ff67486a0368665c8ff8fa6325acbc9f0e7bb586698ced5f616f2",
+      "imagePath": "study/sources/assets/lecture-3/page-019.png",
+      "imageSha256": "ddd7d4ed4fb03694d48bcbab4ed5bed44e51072870cf119d2ea7cd60d536b213"
+    },
+    "lecture-3-p020-bootstrap-instrument-table": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 20,
+        "printedPage": "20",
+        "slideLabel": "20 / 41",
+        "region": "Opening conventions and central table"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-020.md",
+        "anchor": "lecture-3-p020-bootstrap-instrument-table"
+      },
+      "normalizedSha256": "e22c4fe8be66802fa901ebcffa03adddbab519e56bf842350ad873b3618dafcf",
+      "imagePath": "study/sources/assets/lecture-3/page-020.png",
+      "imageSha256": "70320a81813448a0ded9f11f44a8ff030c916799d6268de12d8fa9c503a1a66e"
+    },
+    "lecture-3-p022-one-point-five-cashflows": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 22,
+        "printedPage": "22",
+        "slideLabel": "22 / 41",
+        "region": "Upper cash-flow statement and equation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-022.md",
+        "anchor": "lecture-3-p022-one-point-five-cashflows"
+      },
+      "normalizedSha256": "8c7ba9959f15317dc120fc1b1469cb23838fc008569b4ae605fe7acd7505baff",
+      "imagePath": "study/sources/assets/lecture-3/page-022.png",
+      "imageSha256": "fdeafcfe982370ab666fd4035e8dbbb58c45af066cd6a67cf294da056a7a63c6"
+    },
+    "lecture-3-p023-two-year-equation": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 23,
+        "printedPage": "23",
+        "slideLabel": "23 / 41",
+        "region": "Upper cash-flow statement and equation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-023.md",
+        "anchor": "lecture-3-p023-two-year-equation"
+      },
+      "normalizedSha256": "6d04497a7f97695dc911a58beb1e16f3ea0cd79762c865312421c40bf491a69a",
+      "imagePath": "study/sources/assets/lecture-3/page-023.png",
+      "imageSha256": "0d6a698ee81c825889a260040ea6cd4660ec007f722b6a0d7256ef0dd90384ba"
+    },
+    "lecture-3-p025-forward-rate-formula": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 25,
+        "printedPage": "25",
+        "slideLabel": "25 / 41",
+        "region": "Boxed formula"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-025.md",
+        "anchor": "lecture-3-p025-forward-rate-formula"
+      },
+      "normalizedSha256": "c07c6ab9b821d53ecd2d6ed5b8716689ce268cf881856d6a011e04cd8f925f09",
+      "imagePath": "study/sources/assets/lecture-3/page-025.png",
+      "imageSha256": "4ede116b9ced1a6e8d8cb25254763648c2ff16115b6135f4b319902a1d194b9e"
+    },
+    "lecture-3-p027-annual-forward-table": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 27,
+        "printedPage": "27",
+        "slideLabel": "27 / 41",
+        "region": "Upper table"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-027.md",
+        "anchor": "lecture-3-p027-annual-forward-table"
+      },
+      "normalizedSha256": "c69254b1474affe77aac3ff953e247bdc4463105a0e215287a9fdb0bbd1336ee",
+      "imagePath": "study/sources/assets/lecture-3/page-027.png",
+      "imageSha256": "f4a0bddbcdcbbd782e417555732d740caefac93a39d7b5376937491df8af423a"
+    },
+    "lecture-3-p029-fra-start-settlement": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 29,
+        "printedPage": "29",
+        "slideLabel": "29 / 41",
+        "region": "Lower boxed fraction and opposite-side statement"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-029.md",
+        "anchor": "lecture-3-p029-fra-start-settlement"
+      },
+      "normalizedSha256": "88ff5cd5f839702ed5edbf3bb71530b15e6a1030cdefb3bb86988a70ca324d94",
+      "imagePath": "study/sources/assets/lecture-3/page-029.png",
+      "imageSha256": "3fc308125e903123bef1ba9ccff27ae632b09b0a5d8d4b13fda4168d1bb58857"
+    },
+    "lecture-3-p030-fra-example-settlement": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 30,
+        "printedPage": "30",
+        "slideLabel": "30 / 41",
+        "region": "Middle settlement fraction"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-030.md",
+        "anchor": "lecture-3-p030-fra-example-settlement"
+      },
+      "normalizedSha256": "129ff3c8d1cf586979b9168bdcd6fc88b455864b3e01e185682d485f0a0cdb33",
+      "imagePath": "study/sources/assets/lecture-3/page-030.png",
+      "imageSha256": "ed78030e102513dd5b2b014e5f7ceaba55ba757fcbfa00a6451bf68c66a897c1"
+    },
+    "lecture-3-p030-fra-example-terminal": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 30,
+        "printedPage": "30",
+        "slideLabel": "30 / 41",
+        "region": "Upper data and terminal calculation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-030.md",
+        "anchor": "lecture-3-p030-fra-example-terminal"
+      },
+      "normalizedSha256": "129ff3c8d1cf586979b9168bdcd6fc88b455864b3e01e185682d485f0a0cdb33",
+      "imagePath": "study/sources/assets/lecture-3/page-030.png",
+      "imageSha256": "ed78030e102513dd5b2b014e5f7ceaba55ba757fcbfa00a6451bf68c66a897c1"
+    },
+    "lecture-3-p033-duration-definition": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 33,
+        "printedPage": "33",
+        "slideLabel": "33 / 41",
+        "region": "Upper definition and formula"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-033.md",
+        "anchor": "lecture-3-p033-duration-definition"
+      },
+      "normalizedSha256": "2f0d197e8701672b59441e73e119bc0c3e3a5a327c963451296f21f57a867726",
+      "imagePath": "study/sources/assets/lecture-3/page-033.png",
+      "imageSha256": "d2c3c36f9481fc6d982d4b21b53ed925b3a08724e96312b23101ad915eb890f3"
+    },
+    "lecture-3-p034-basis-point": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 34,
+        "printedPage": "34",
+        "slideLabel": "34 / 41",
+        "region": "Middle units-matter box"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-034.md",
+        "anchor": "lecture-3-p034-basis-point"
+      },
+      "normalizedSha256": "5fd77e3dbe1da085ab7dc7003721af60290f7fd501b35b2b9d63f72793f3b850",
+      "imagePath": "study/sources/assets/lecture-3/page-034.png",
+      "imageSha256": "24c08814deb8d61dac4bd3da23264b434d2c9e1a2eaf704822f3f5b68515fd3c"
+    },
+    "lecture-3-p035-duration-example-table": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 35,
+        "printedPage": "35",
+        "slideLabel": "35 / 41",
+        "region": "Data and entire table"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-035.md",
+        "anchor": "lecture-3-p035-duration-example-table"
+      },
+      "normalizedSha256": "bce27b8e7906767b03eaa634c25c8d0e7cdbfdc80c0054504aa2d1c040144d8e",
+      "imagePath": "study/sources/assets/lecture-3/page-035.png",
+      "imageSha256": "17aca8cfca4bab43195168364a0575c0a935f6f542d558aa23a6ad2135573ab8"
+    },
+    "lecture-3-p037-duration-errors-table": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 37,
+        "printedPage": "37",
+        "slideLabel": "37 / 41",
+        "region": "Lower comparison table"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-037.md",
+        "anchor": "lecture-3-p037-duration-errors-table"
+      },
+      "normalizedSha256": "cd8d006d1398899f85d26c2670463850eae327db994c7c07d07552574f64c8e9",
+      "imagePath": "study/sources/assets/lecture-3/page-037.png",
+      "imageSha256": "6f62e1b0d8d23071427c0e261660bc5f0acc1299b73c16d8addf183c753f9960"
+    },
+    "lecture-3-p038-convexity-definition": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 38,
+        "printedPage": "38",
+        "slideLabel": "38 / 41",
+        "region": "Upper definition and equation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-038.md",
+        "anchor": "lecture-3-p038-convexity-definition"
+      },
+      "normalizedSha256": "972366b241547f7f97f5d7b1cf4ae626f9038c3df1356d8f0cc2536058ea7d63",
+      "imagePath": "study/sources/assets/lecture-3/page-038.png",
+      "imageSha256": "faf64b324027d1ef4232727b602fc1225f6468e8ea3dd68dc71aad5a5fdfca2e"
+    },
+    "lecture-3-p038-convexity-example-value": {
+      "sourceId": "lecture-3",
+      "originalSha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "locator": {
+        "pdfPage": 38,
+        "printedPage": "38",
+        "slideLabel": "38 / 41",
+        "region": "Last equation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-038.md",
+        "anchor": "lecture-3-p038-convexity-example-value"
+      },
+      "normalizedSha256": "972366b241547f7f97f5d7b1cf4ae626f9038c3df1356d8f0cc2536058ea7d63",
+      "imagePath": "study/sources/assets/lecture-3/page-038.png",
+      "imageSha256": "faf64b324027d1ef4232727b602fc1225f6468e8ea3dd68dc71aad5a5fdfca2e"
+    },
+    "lecture-4-p006-short-sale-cashflow-table": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 6,
+        "printedPage": "6",
+        "slideLabel": "6 / 32",
+        "region": "Example data and entire table"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-006.md",
+        "anchor": "lecture-4-p006-short-sale-cashflow-table"
+      },
+      "normalizedSha256": "88ffef5f2495624b99b9bee55c9204d65ebbec72d32c1ad802682e3bfffa8748",
+      "imagePath": "study/sources/assets/lecture-4/page-006.png",
+      "imageSha256": "1dae17a456f45cae966b43dd1cb4b54c3edb123c4fa0514911172a4615c8691f"
+    },
+    "lecture-4-p008-daily-loss-example": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 8,
+        "printedPage": "8",
+        "slideLabel": "8 / 32",
+        "region": "Lower example"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-008.md",
+        "anchor": "lecture-4-p008-daily-loss-example"
+      },
+      "normalizedSha256": "a95d439bb9f43826d4a49b22d2f23d7d139eea156c84a43a4106a1042f3a5f2e",
+      "imagePath": "study/sources/assets/lecture-4/page-008.png",
+      "imageSha256": "fd49cf031f993de4b1be6ef2e936feaeb0030090b2bb1fc813a8cbecd5a8cb57"
+    },
+    "lecture-4-p011-no-income-price": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 11,
+        "printedPage": "11",
+        "slideLabel": "11 / 32",
+        "region": "Lower boxed formula and caution"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-011.md",
+        "anchor": "lecture-4-p011-no-income-price"
+      },
+      "normalizedSha256": "af0571ac5f85c95bd091c6a2a8d972ad68bce6d78c2d6573071cab4f4fc77deb",
+      "imagePath": "study/sources/assets/lecture-4/page-011.png",
+      "imageSha256": "b5096cb9cd05eb6946389c25dc1527e03c5e8f4ec63c1f6c2d853d449abdf1a1"
+    },
+    "lecture-4-p012-overpriced-forward-data": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 12,
+        "printedPage": "12",
+        "slideLabel": "12 / 32",
+        "region": "Upper example and fair-price calculation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-012.md",
+        "anchor": "lecture-4-p012-overpriced-forward-data"
+      },
+      "normalizedSha256": "f9046e9aab0b3210f82c5f64e6fd65975aa655335bfcbe4803b2605f33635914",
+      "imagePath": "study/sources/assets/lecture-4/page-012.png",
+      "imageSha256": "b9f3d86cf829d68a0a976d3febaad6d2e4746f21a057bcc2031b970fa0908039"
+    },
+    "lecture-4-p012-overpriced-profit": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 12,
+        "printedPage": "12",
+        "slideLabel": "12 / 32",
+        "region": "Lower boxed profit"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-012.md",
+        "anchor": "lecture-4-p012-overpriced-profit"
+      },
+      "normalizedSha256": "f9046e9aab0b3210f82c5f64e6fd65975aa655335bfcbe4803b2605f33635914",
+      "imagePath": "study/sources/assets/lecture-4/page-012.png",
+      "imageSha256": "b9f3d86cf829d68a0a976d3febaad6d2e4746f21a057bcc2031b970fa0908039"
+    },
+    "lecture-4-p013-underpriced-profit": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 13,
+        "printedPage": "13",
+        "slideLabel": "13 / 32",
+        "region": "Lower profit and cost qualification"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-013.md",
+        "anchor": "lecture-4-p013-underpriced-profit"
+      },
+      "normalizedSha256": "582f49c9d79c5e17b5fc9591bfaa75325074bc968a40f76e8eec5f5e8f500dc1",
+      "imagePath": "study/sources/assets/lecture-4/page-013.png",
+      "imageSha256": "a769d2e061b4a650f98c55275a3b2ff80f7b257e593116ddb87244b370c55e65"
+    },
+    "lecture-4-p016-bond-income-data-pv": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 16,
+        "printedPage": "16",
+        "slideLabel": "16 / 32",
+        "region": "Opening data and coupon calculation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-016.md",
+        "anchor": "lecture-4-p016-bond-income-data-pv"
+      },
+      "normalizedSha256": "588c4d342324c37c26b7e791f2ce633eb2c553be98730df91db0077a1fe4eb3c",
+      "imagePath": "study/sources/assets/lecture-4/page-016.png",
+      "imageSha256": "0914c3534bb278aa515c4dc065790accb00008ee41b7293720e83d9a009038bd"
+    },
+    "lecture-4-p016-bond-income-forward": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 16,
+        "printedPage": "16",
+        "slideLabel": "16 / 32",
+        "region": "Middle calculation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-016.md",
+        "anchor": "lecture-4-p016-bond-income-forward"
+      },
+      "normalizedSha256": "588c4d342324c37c26b7e791f2ce633eb2c553be98730df91db0077a1fe4eb3c",
+      "imagePath": "study/sources/assets/lecture-4/page-016.png",
+      "imageSha256": "0914c3534bb278aa515c4dc065790accb00008ee41b7293720e83d9a009038bd"
+    },
+    "lecture-4-p018-known-yield-example": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 18,
+        "printedPage": "18",
+        "slideLabel": "18 / 32",
+        "region": "Middle example"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-018.md",
+        "anchor": "lecture-4-p018-known-yield-example"
+      },
+      "normalizedSha256": "de63532672040c8fd72389f689cf77c6da229e7cbe2851e0e0988911d284645d",
+      "imagePath": "study/sources/assets/lecture-4/page-018.png",
+      "imageSha256": "490c2511146cf062207d7aea030c0197826d0a090f4b6d2f0f6a0cc07b87dda0"
+    },
+    "lecture-4-p018-known-yield-formula": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 18,
+        "printedPage": "18",
+        "slideLabel": "18 / 32",
+        "region": "Upper definition and boxed formula"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-018.md",
+        "anchor": "lecture-4-p018-known-yield-formula"
+      },
+      "normalizedSha256": "de63532672040c8fd72389f689cf77c6da229e7cbe2851e0e0988911d284645d",
+      "imagePath": "study/sources/assets/lecture-4/page-018.png",
+      "imageSha256": "490c2511146cf062207d7aea030c0197826d0a090f4b6d2f0f6a0cc07b87dda0"
+    },
+    "lecture-4-p020-no-income-value": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 20,
+        "printedPage": "20",
+        "slideLabel": "20 / 32",
+        "region": "Lower substitution and boxed result"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-020.md",
+        "anchor": "lecture-4-p020-no-income-value"
+      },
+      "normalizedSha256": "dadcb382fd86b1139efb5c73f6163d1b3219e2ae212281be59c41494ff14ad5b",
+      "imagePath": "study/sources/assets/lecture-4/page-020.png",
+      "imageSha256": "1b98f1a839174245526978d9313651bb647f29671f80a2de909b7a0fab615925"
+    },
+    "lecture-4-p021-existing-forward-price-example": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 21,
+        "printedPage": "21",
+        "slideLabel": "21 / 32",
+        "region": "Upper data and forward-price calculation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-021.md",
+        "anchor": "lecture-4-p021-existing-forward-price-example"
+      },
+      "normalizedSha256": "5963dbaaa0029b87d8c48e7ac7d7781893d114d4adbd081a010c7545dbeca23e",
+      "imagePath": "study/sources/assets/lecture-4/page-021.png",
+      "imageSha256": "0bd263cd69d5b9641f1bffc705d4d1faca708dc4f573ec392d2c759430521e1a"
+    },
+    "lecture-4-p021-existing-forward-value-example": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 21,
+        "printedPage": "21",
+        "slideLabel": "21 / 32",
+        "region": "Middle and lower value calculations"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-021.md",
+        "anchor": "lecture-4-p021-existing-forward-value-example"
+      },
+      "normalizedSha256": "5963dbaaa0029b87d8c48e7ac7d7781893d114d4adbd081a010c7545dbeca23e",
+      "imagePath": "study/sources/assets/lecture-4/page-021.png",
+      "imageSha256": "0bd263cd69d5b9641f1bffc705d4d1faca708dc4f573ec392d2c759430521e1a"
+    },
+    "lecture-4-p023-index-example": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 23,
+        "printedPage": "23",
+        "slideLabel": "23 / 32",
+        "region": "Middle example"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-023.md",
+        "anchor": "lecture-4-p023-index-example"
+      },
+      "normalizedSha256": "53934f2f035ebc7b3162d2ce5fd7707d33642c36689a83240f8a65d5f1038053",
+      "imagePath": "study/sources/assets/lecture-4/page-023.png",
+      "imageSha256": "0a7f9fd34cbf8848a1a29e2cf169602901d85aa127648b5833dbefd84d510ffb"
+    },
+    "lecture-4-p024-covered-interest-parity": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 24,
+        "printedPage": "24",
+        "slideLabel": "24 / 32",
+        "region": "Middle boxed formula"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-024.md",
+        "anchor": "lecture-4-p024-covered-interest-parity"
+      },
+      "normalizedSha256": "c6cc0258832eedeca15cde75ad4499d370017a619890ad916fa543b4d81ddb66",
+      "imagePath": "study/sources/assets/lecture-4/page-024.png",
+      "imageSha256": "0ae2c07c62f220d6fe498acfa61963632fd5ef11db9a651aadf24ff39afa5f96"
+    },
+    "lecture-4-p025-usd-aud-forward-example": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 25,
+        "printedPage": "25",
+        "slideLabel": "25 / 32",
+        "region": "Upper data and calculation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-025.md",
+        "anchor": "lecture-4-p025-usd-aud-forward-example"
+      },
+      "normalizedSha256": "a5763b46a8a1dd9a5e248781382d6915581f161e359a48f7af71487597fe4949",
+      "imagePath": "study/sources/assets/lecture-4/page-025.png",
+      "imageSha256": "a103fcaefea89eccdb65cccc27b3e7d1c7d0cc3ca4fdb990f7275c63d0e0b373"
+    },
+    "lecture-4-p026-currency-arbitrage-profit": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 26,
+        "printedPage": "26",
+        "slideLabel": "26 / 32",
+        "region": "Lower boxed profit"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-026.md",
+        "anchor": "lecture-4-p026-currency-arbitrage-profit"
+      },
+      "normalizedSha256": "dbf9026628e1242e8fdc977dee28e78e892ec4a88c28c78c0152340bb9778526",
+      "imagePath": "study/sources/assets/lecture-4/page-026.png",
+      "imageSha256": "8a8e882c8f92e840de2d01419b905d5ea0f3abbf7dc46852cff2db33553991a8"
+    },
+    "lecture-4-p026-currency-arbitrage-steps": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 26,
+        "printedPage": "26",
+        "slideLabel": "26 / 32",
+        "region": "Opening condition and entire numbered strategy"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-026.md",
+        "anchor": "lecture-4-p026-currency-arbitrage-steps"
+      },
+      "normalizedSha256": "dbf9026628e1242e8fdc977dee28e78e892ec4a88c28c78c0152340bb9778526",
+      "imagePath": "study/sources/assets/lecture-4/page-026.png",
+      "imageSha256": "8a8e882c8f92e840de2d01419b905d5ea0f3abbf7dc46852cff2db33553991a8"
+    },
+    "lecture-4-p027-commodity-cash-storage-formula": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 27,
+        "printedPage": "27",
+        "slideLabel": "27 / 32",
+        "region": "Second condition and boxed equation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-027.md",
+        "anchor": "lecture-4-p027-commodity-cash-storage-formula"
+      },
+      "normalizedSha256": "d29423f5a9892ae5005ba2210bc38b8c9b396d3c1f7735c0d1a53d11d8d95c4a",
+      "imagePath": "study/sources/assets/lecture-4/page-027.png",
+      "imageSha256": "a77e94c5b93226193fa375c0d794e9e5fb923aaf4b48e69235546f23b7173c08"
+    },
+    "lecture-4-p027-commodity-proportional-formula": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 27,
+        "printedPage": "27",
+        "slideLabel": "27 / 32",
+        "region": "First boxed equation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-027.md",
+        "anchor": "lecture-4-p027-commodity-proportional-formula"
+      },
+      "normalizedSha256": "d29423f5a9892ae5005ba2210bc38b8c9b396d3c1f7735c0d1a53d11d8d95c4a",
+      "imagePath": "study/sources/assets/lecture-4/page-027.png",
+      "imageSha256": "a77e94c5b93226193fa375c0d794e9e5fb923aaf4b48e69235546f23b7173c08"
+    },
+    "lecture-4-p029-storage-forward-example": {
+      "sourceId": "lecture-4",
+      "originalSha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "locator": {
+        "pdfPage": 29,
+        "printedPage": "29",
+        "slideLabel": "29 / 32",
+        "region": "Middle forward calculation"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-4/page-029.md",
+        "anchor": "lecture-4-p029-storage-forward-example"
+      },
+      "normalizedSha256": "6f35923697db23e6598dd3338e55a00c2bf7258fea40c1cf514a510f5f5f5dbc",
+      "imagePath": "study/sources/assets/lecture-4/page-029.png",
+      "imageSha256": "4ea993bcf357556b9f6039d4b9871cf16e0ae97e8f884d38a14bd25011a6b381"
+    },
+    "seminar-2-problems-p002-q7": {
+      "sourceId": "seminar-2-problems",
+      "originalSha256": "8bd655a060ef54653746085d39d3fd47d9308b4f613fe9927f47d99df3d939c3",
+      "locator": {
+        "pdfPage": 2,
+        "region": "Question 7: Treasury table and bootstrapping"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/seminar-2-problems/page-002.md",
+        "anchor": "seminar-2-problems-p002-q7"
+      },
+      "normalizedSha256": "6a6cb62bb81d9552b9a4dddd7beb51cb276402f247f969803ee9955071efdebb",
+      "imagePath": "study/sources/assets/seminar-2-problems/page-002.png",
+      "imageSha256": "12bf900df1b5e3d18445ab9356e636f57a96fddbd3793bd0587a45e84f2f479d"
+    },
+    "seminar-2-solutions-p006-q7-one-year": {
+      "sourceId": "seminar-2-solutions",
+      "originalSha256": "074aea7f63885981738447cd71ec9856fcc7a52cc822a053ff1de4721931d5d5",
+      "locator": {
+        "pdfPage": 6,
+        "region": "Supplied solution: one-year zero rate"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/seminar-2-solutions/page-006.md",
+        "anchor": "seminar-2-solutions-p006-q7-one-year"
+      },
+      "normalizedSha256": "008673983ab1ed99cc3b08c514e1f36099b4aa74ec9adcd3cab80a6b5fe9535b",
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-006.png",
+      "imageSha256": "a9533c37014fdac9ce0be2d840d9dc0b399d909671288d4f72fd2b37b4fed025"
+    },
+    "seminar-2-solutions-p007-q7-extension": {
+      "sourceId": "seminar-2-solutions",
+      "originalSha256": "074aea7f63885981738447cd71ec9856fcc7a52cc822a053ff1de4721931d5d5",
+      "locator": {
+        "pdfPage": 7,
+        "region": "Supplied solution: extending the zero curve"
+      },
+      "extractionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/seminar-2-solutions/page-007.md",
+        "anchor": "seminar-2-solutions-p007-q7-extension"
+      },
+      "normalizedSha256": "83f00afd21ba855ee4917d8f23b7dcd677eb394db78d0011d60ff3c1c2f37780",
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-007.png",
+      "imageSha256": "ca308469a281eb6c5b0057ae3977a48562abefdb83897bb3fb219203b49dbde1"
+    }
+  },
+  "cautions": [
+    {
+      "id": "payoff-profit-axes",
+      "sourceUnitIds": [
+        "lecture-1-p026-long-forward-diagram",
+        "lecture-1-p027-paired-long-diagram",
+        "lecture-1-p027-paired-short-diagram"
+      ],
+      "disposition": "Original vertical labels read Profit; do not relabel as Payoff. Equality requires zero upfront value/premium and no additional financing or transaction costs."
+    },
+    {
+      "id": "sterling-multiplier",
+      "sourceUnitIds": [
+        "lecture-1-p024-sterling-forward-hedge"
+      ],
+      "disposition": "Original dollar-prefixed1million multiplier conflicts with GBP exposure; labelled dimensionally consistent GBP1million times USD/GBP interpretation, not silent PDF correction."
+    },
+    {
+      "id": "london-currency-label",
+      "sourceUnitIds": [
+        "lecture-2-p007-cross-market-quotes",
+        "lecture-2-p007-currency-conversion"
+      ],
+      "disposition": "Original prints London$100, not GBP100. The displayed +3USD gross spread needs an explicit intendedGBP interpretation; literalUSD branch gives opposite sign."
+    },
+    {
+      "id": "growth-printed-rates",
+      "sourceUnitIds": [
+        "lecture-3-p011-printed-continuous-solution",
+        "lecture-3-p011-printed-semiannual-solution"
+      ],
+      "disposition": "Printed10.15% continuous and10.41% nominal semiannual are wrong; corrected9.894667007884882%,10.14351489971605%, effective10.400742136017955% are distinct."
+    },
+    {
+      "id": "par-convention",
+      "sourceUnitIds": [
+        "lecture-3-p016-printed-coupon-yield-table"
+      ],
+      "disposition": "Coupon equals yield implies par only with matched coupon/payment and quoted-yield conventions."
+    },
+    {
+      "id": "seminar2-q7-convention-conflict",
+      "sourceUnitIds": [
+        "seminar-2-problems-p002-q7",
+        "seminar-2-solutions-p006-q7-one-year",
+        "seminar-2-solutions-p007-q7-extension"
+      ],
+      "disposition": "Question says annual coupons with ambiguous fractional-maturity schedule; official solution says semiannual and continuous zeros. Keep conditional branches separate; no unique annual1.5year answer or fabricated printed1.5year number."
+    }
+  ],
+  "cases": [
+    {
+      "id": "forward-long-80",
+      "operation": "forwardPayoff",
+      "inputs": {
+        "spot": 80,
+        "strike": 100,
+        "quantity": 1,
+        "side": "long"
+      },
+      "expected": -20.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p022-long-payoff-formula",
+        "lecture-1-p022-short-payoff-formula"
+      ],
+      "derivation": "One unit received minus delivery cash paid; reverse every cashflow for short.",
+      "assumptions": "One unit; zero initial value/no premium; maturity payoff, not a current price or automatically total profit.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "forward-short-80",
+      "operation": "forwardPayoff",
+      "inputs": {
+        "spot": 80,
+        "strike": 100,
+        "quantity": 1,
+        "side": "short"
+      },
+      "expected": 20.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p022-long-payoff-formula",
+        "lecture-1-p022-short-payoff-formula"
+      ],
+      "derivation": "One unit received minus delivery cash paid; reverse every cashflow for short.",
+      "assumptions": "One unit; zero initial value/no premium; maturity payoff, not a current price or automatically total profit.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "forward-long-100",
+      "operation": "forwardPayoff",
+      "inputs": {
+        "spot": 100,
+        "strike": 100,
+        "quantity": 1,
+        "side": "long"
+      },
+      "expected": 0.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p022-long-payoff-formula",
+        "lecture-1-p022-short-payoff-formula"
+      ],
+      "derivation": "One unit received minus delivery cash paid; reverse every cashflow for short.",
+      "assumptions": "One unit; zero initial value/no premium; maturity payoff, not a current price or automatically total profit.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "forward-short-100",
+      "operation": "forwardPayoff",
+      "inputs": {
+        "spot": 100,
+        "strike": 100,
+        "quantity": 1,
+        "side": "short"
+      },
+      "expected": 0.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p022-long-payoff-formula",
+        "lecture-1-p022-short-payoff-formula"
+      ],
+      "derivation": "One unit received minus delivery cash paid; reverse every cashflow for short.",
+      "assumptions": "One unit; zero initial value/no premium; maturity payoff, not a current price or automatically total profit.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "forward-long-120",
+      "operation": "forwardPayoff",
+      "inputs": {
+        "spot": 120,
+        "strike": 100,
+        "quantity": 1,
+        "side": "long"
+      },
+      "expected": 20.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p022-long-payoff-formula",
+        "lecture-1-p022-short-payoff-formula"
+      ],
+      "derivation": "One unit received minus delivery cash paid; reverse every cashflow for short.",
+      "assumptions": "One unit; zero initial value/no premium; maturity payoff, not a current price or automatically total profit.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "forward-short-120",
+      "operation": "forwardPayoff",
+      "inputs": {
+        "spot": 120,
+        "strike": 100,
+        "quantity": 1,
+        "side": "short"
+      },
+      "expected": -20.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p022-long-payoff-formula",
+        "lecture-1-p022-short-payoff-formula"
+      ],
+      "derivation": "One unit received minus delivery cash paid; reverse every cashflow for short.",
+      "assumptions": "One unit; zero initial value/no premium; maturity payoff, not a current price or automatically total profit.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "call-payoff-70",
+      "operation": "optionPayoff",
+      "inputs": {
+        "spot": 70,
+        "strike": 100,
+        "type": "call"
+      },
+      "expected": 0.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p033-call-payoff-formula"
+      ],
+      "derivation": "Exercise only when the contractual exchange has nonnegative intrinsic value; maximum bounds the entire difference.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "call-payoff-100",
+      "operation": "optionPayoff",
+      "inputs": {
+        "spot": 100,
+        "strike": 100,
+        "type": "call"
+      },
+      "expected": 0.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p033-call-payoff-formula"
+      ],
+      "derivation": "Exercise only when the contractual exchange has nonnegative intrinsic value; maximum bounds the entire difference.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "call-payoff-130",
+      "operation": "optionPayoff",
+      "inputs": {
+        "spot": 130,
+        "strike": 100,
+        "type": "call"
+      },
+      "expected": 30.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p033-call-payoff-formula"
+      ],
+      "derivation": "Exercise only when the contractual exchange has nonnegative intrinsic value; maximum bounds the entire difference.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "put-payoff-70",
+      "operation": "optionPayoff",
+      "inputs": {
+        "spot": 70,
+        "strike": 100,
+        "type": "put"
+      },
+      "expected": 30.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p036-put-payoff-formula"
+      ],
+      "derivation": "Exercise only when the contractual exchange has nonnegative intrinsic value; maximum bounds the entire difference.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "put-payoff-100",
+      "operation": "optionPayoff",
+      "inputs": {
+        "spot": 100,
+        "strike": 100,
+        "type": "put"
+      },
+      "expected": 0.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p036-put-payoff-formula"
+      ],
+      "derivation": "Exercise only when the contractual exchange has nonnegative intrinsic value; maximum bounds the entire difference.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "put-payoff-130",
+      "operation": "optionPayoff",
+      "inputs": {
+        "spot": 130,
+        "strike": 100,
+        "type": "put"
+      },
+      "expected": 0.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p036-put-payoff-formula"
+      ],
+      "derivation": "Exercise only when the contractual exchange has nonnegative intrinsic value; maximum bounds the entire difference.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "call-profit-long-80",
+      "operation": "optionProfit",
+      "inputs": {
+        "spot": 80,
+        "strike": 100,
+        "type": "call",
+        "premium": 7,
+        "side": "long",
+        "financing": "ignored",
+        "rate": 0,
+        "time": 1
+      },
+      "expected": -7.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p037-call-profit"
+      ],
+      "derivation": "Terminal intrinsic value minus original premium outside max; writer has opposite cashflows.",
+      "assumptions": "Ignore all interest on the initial premium, as the lecture does; supplemental premium7 (source break-even premium8).",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "call-profit-short-80",
+      "operation": "optionProfit",
+      "inputs": {
+        "spot": 80,
+        "strike": 100,
+        "type": "call",
+        "premium": 7,
+        "side": "short",
+        "financing": "ignored",
+        "rate": 0,
+        "time": 1
+      },
+      "expected": 7.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p037-call-profit"
+      ],
+      "derivation": "Terminal intrinsic value minus original premium outside max; writer has opposite cashflows.",
+      "assumptions": "Ignore all interest on the initial premium, as the lecture does; supplemental premium7 (source break-even premium8).",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "call-profit-long-120",
+      "operation": "optionProfit",
+      "inputs": {
+        "spot": 120,
+        "strike": 100,
+        "type": "call",
+        "premium": 7,
+        "side": "long",
+        "financing": "ignored",
+        "rate": 0,
+        "time": 1
+      },
+      "expected": 13.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p037-call-profit"
+      ],
+      "derivation": "Terminal intrinsic value minus original premium outside max; writer has opposite cashflows.",
+      "assumptions": "Ignore all interest on the initial premium, as the lecture does; supplemental premium7 (source break-even premium8).",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "call-profit-short-120",
+      "operation": "optionProfit",
+      "inputs": {
+        "spot": 120,
+        "strike": 100,
+        "type": "call",
+        "premium": 7,
+        "side": "short",
+        "financing": "ignored",
+        "rate": 0,
+        "time": 1
+      },
+      "expected": -13.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p037-call-profit"
+      ],
+      "derivation": "Terminal intrinsic value minus original premium outside max; writer has opposite cashflows.",
+      "assumptions": "Ignore all interest on the initial premium, as the lecture does; supplemental premium7 (source break-even premium8).",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "call-break-even-source",
+      "operation": "optionProfit",
+      "inputs": {
+        "spot": 108,
+        "strike": 100,
+        "type": "call",
+        "premium": 8,
+        "side": "long",
+        "financing": "ignored",
+        "rate": 0,
+        "time": 1
+      },
+      "expected": 0.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p037-call-break-even-answer"
+      ],
+      "derivation": "108 - 100 - 8 = 0.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "call-profit-financed-supplement",
+      "operation": "optionProfit",
+      "inputs": {
+        "spot": 120,
+        "strike": 100,
+        "type": "call",
+        "premium": 7,
+        "side": "long",
+        "financing": "continuous",
+        "rate": 0.05,
+        "time": 1
+      },
+      "expected": 12.641102325367832,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p037-call-profit",
+        "lecture-3-p009-continuous-values"
+      ],
+      "derivation": "Premium paid at inception has terminal opportunity cost 7 exp(.05); subtract that from20.",
+      "assumptions": "Explicit supplemental alternative: finance premium continuously at5% for1year; NOT the lecture convention ignoring interest.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "sterling-payoff-up",
+      "operation": "forwardPayoff",
+      "inputs": {
+        "spot": 1.65,
+        "strike": 1.5532,
+        "quantity": 1000000,
+        "side": "long"
+      },
+      "expected": 96800.0,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-1-p024-sterling-forward-hedge",
+        "lecture-1-p025-currency-payoff-table"
+      ],
+      "derivation": "GBP1,000,000 times (1.6500-1.5532) USD/GBP = USD96,800.",
+      "assumptions": "Both exchange quotes USD/GBP; underlying quantity is GBP, despite erroneous printed dollar prefix.",
+      "origin": "source parameters; labelled currency correction",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "futures-daily-gain",
+      "operation": "dailyFutures",
+      "inputs": {
+        "previous": 50,
+        "current": 53,
+        "contracts": 1,
+        "quantity": 100,
+        "side": "long"
+      },
+      "expected": 300.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p029-daily-gain-calculation"
+      ],
+      "derivation": "100units times3GBP/unit =300GBP.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "futures-daily-loss",
+      "operation": "dailyFutures",
+      "inputs": {
+        "previous": 52,
+        "current": 50.5,
+        "contracts": 2,
+        "quantity": 100,
+        "side": "long"
+      },
+      "expected": -300.0,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-4-p008-daily-loss-example"
+      ],
+      "derivation": "200units times -1.50USD/unit = -300USD.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "margin-balance-source",
+      "operation": "marginBalance",
+      "inputs": {
+        "initial": 2000,
+        "changes": [
+          -600,
+          -500
+        ]
+      },
+      "expected": 900.0,
+      "unit": "GBP",
+      "sourceUnitIds": [
+        "lecture-1-p030-margin-balance-answer"
+      ],
+      "derivation": "2000-600-500=900; source gives no specific maintenance threshold.",
+      "assumptions": "No interest, withdrawals or topups during these two days.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "basis-effective-long",
+      "operation": "effectiveHedgePrice",
+      "inputs": {
+        "initialFutures": 52,
+        "closingSpot": 47,
+        "closingFutures": 48,
+        "side": "long"
+      },
+      "expected": 51.0,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-2-p011-short-hedge-derivation",
+        "lecture-2-p012-long-hedge-derivation",
+        "lecture-2-p013-basis-example-check"
+      ],
+      "derivation": "Closing basis47-48=-1; initial futures52 plus basis=-1 gives51. Short sale adds52-48; purchase subtracts48-52.",
+      "assumptions": "One-to-one matched quantities; no financing of daily futures settlements; long means future purchase, short means future sale.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "basis-effective-short",
+      "operation": "effectiveHedgePrice",
+      "inputs": {
+        "initialFutures": 52,
+        "closingSpot": 47,
+        "closingFutures": 48,
+        "side": "short"
+      },
+      "expected": 51.0,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-2-p011-short-hedge-derivation",
+        "lecture-2-p012-long-hedge-derivation",
+        "lecture-2-p013-basis-example-check"
+      ],
+      "derivation": "Closing basis47-48=-1; initial futures52 plus basis=-1 gives51. Short sale adds52-48; purchase subtracts48-52.",
+      "assumptions": "One-to-one matched quantities; no financing of daily futures settlements; long means future purchase, short means future sale.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "minimum-variance-ratio",
+      "operation": "hedgeRatio",
+      "inputs": {
+        "rho": 0.8,
+        "sigmaSpot": 0.2,
+        "sigmaFutures": 0.25
+      },
+      "expected": 0.64,
+      "unit": "futures units/spot unit",
+      "sourceUnitIds": [
+        "lecture-2-p016-minimum-variance-ratio"
+      ],
+      "derivation": "Exact rational (.8*.2)/.25 = .64.",
+      "assumptions": "Standard deviations of PRICE CHANGES in matched currency/quantity units and same observation interval, not mismatched returns; nonzero futures standard deviation.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "minimum-variance-contract-count",
+      "operation": "contractCount",
+      "inputs": {
+        "ratio": 0.64,
+        "exposure": 1000,
+        "contractQuantity": 100
+      },
+      "expected": 6.4,
+      "unit": "contracts (unrounded)",
+      "sourceUnitIds": [
+        "lecture-2-p018-optimal-contract-number"
+      ],
+      "derivation": "640 equivalent units divided by100 units/contract=6.4; not an executable fractional contract.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "airline-ratio-full-precision",
+      "operation": "hedgeRatio",
+      "inputs": {
+        "rho": 0.928,
+        "sigmaSpot": 0.0263,
+        "sigmaFutures": 0.0313
+      },
+      "expected": 0.7797571884984026,
+      "unit": "dimensionless ratio",
+      "sourceUnitIds": [
+        "lecture-2-p019-airline-cross-hedge-inputs",
+        "lecture-2-p020-airline-ratio-calculation"
+      ],
+      "derivation": "928*263/(1000*313); carry unrounded ratio.",
+      "assumptions": "Same price-change units/observation interval assumed; lecture does not specify currency/frequency; long hedge for future fuel purchase.",
+      "origin": "source parameters; independent unrounded answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "airline-contracts-unrounded",
+      "operation": "contractCount",
+      "inputs": {
+        "ratio": 0.7797571884984026,
+        "exposure": 2000000,
+        "contractQuantity": 42000
+      },
+      "expected": 37.131294690400125,
+      "unit": "contracts (unrounded)",
+      "sourceUnitIds": [
+        "lecture-2-p020-airline-contract-calculation"
+      ],
+      "derivation": "Unrounded ratio times2000000/42000; this is not the displayed rounded-ratio route.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independent unrounded answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "airline-contracts-source-rounded-route",
+      "operation": "contractCount",
+      "inputs": {
+        "ratio": 0.78,
+        "exposure": 2000000,
+        "contractQuantity": 42000
+      },
+      "expected": 37.142857142857146,
+      "unit": "contracts (unrounded)",
+      "sourceUnitIds": [
+        "lecture-2-p020-airline-contract-calculation"
+      ],
+      "derivation": "Source explicitly rounds hedge ratio to .780 then obtains37.14; eventual long37 contracts is approximate.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source displayed intermediate convention",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "beta-target-0",
+      "operation": "betaContracts",
+      "inputs": {
+        "beta": 1.2,
+        "target": 0,
+        "portfolio": 5000000,
+        "index": 5000,
+        "multiplier": 50
+      },
+      "expected": 24.0,
+      "unit": "contracts signed-to-short",
+      "sourceUnitIds": [
+        "lecture-2-p024-target-beta-formula",
+        "lecture-2-p025-beta-example-inputs"
+      ],
+      "derivation": "Portfolio/per-contract notional=20; beta difference times20. Positive means sell, negative means buy magnitude.",
+      "assumptions": "USD portfolio and USD50/index-point multiplier; beta-model market exposure only, not all risk.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "beta-target-0.5",
+      "operation": "betaContracts",
+      "inputs": {
+        "beta": 1.2,
+        "target": 0.5,
+        "portfolio": 5000000,
+        "index": 5000,
+        "multiplier": 50
+      },
+      "expected": 14.0,
+      "unit": "contracts signed-to-short",
+      "sourceUnitIds": [
+        "lecture-2-p024-target-beta-formula",
+        "lecture-2-p025-beta-example-inputs"
+      ],
+      "derivation": "Portfolio/per-contract notional=20; beta difference times20. Positive means sell, negative means buy magnitude.",
+      "assumptions": "USD portfolio and USD50/index-point multiplier; beta-model market exposure only, not all risk.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "beta-target-1.5",
+      "operation": "betaContracts",
+      "inputs": {
+        "beta": 1.2,
+        "target": 1.5,
+        "portfolio": 5000000,
+        "index": 5000,
+        "multiplier": 50
+      },
+      "expected": -6.0,
+      "unit": "contracts signed-to-short",
+      "sourceUnitIds": [
+        "lecture-2-p024-target-beta-formula",
+        "lecture-2-p025-beta-example-inputs"
+      ],
+      "derivation": "Portfolio/per-contract notional=20; beta difference times20. Positive means sell, negative means buy magnitude.",
+      "assumptions": "USD portfolio and USD50/index-point multiplier; beta-model market exposure only, not all risk.",
+      "origin": "source parameters; supplemental target1.5 extension",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "compounding-simple",
+      "operation": "accumulation",
+      "inputs": {
+        "principal": 100,
+        "rate": 0.05,
+        "time": 2,
+        "convention": "simple",
+        "frequency": 1
+      },
+      "expected": 110.0,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p007-future-value"
+      ],
+      "derivation": "Simple:100+two lots of5. Annual discrete:105 after year1, then105+5.25.",
+      "assumptions": "Simple-interest case is supplemental comparison; no compounding for simple, annual discrete otherwise.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "compounding-discrete",
+      "operation": "accumulation",
+      "inputs": {
+        "principal": 100,
+        "rate": 0.05,
+        "time": 2,
+        "convention": "discrete",
+        "frequency": 1
+      },
+      "expected": 110.25,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p007-future-value"
+      ],
+      "derivation": "Simple:100+two lots of5. Annual discrete:105 after year1, then105+5.25.",
+      "assumptions": "Simple-interest case is supplemental comparison; no compounding for simple, annual discrete otherwise.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "quarterly-two-years",
+      "operation": "accumulation",
+      "inputs": {
+        "principal": 1000,
+        "rate": 0.08,
+        "time": 2,
+        "convention": "discrete",
+        "frequency": 4
+      },
+      "expected": 1171.6593810022655,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p007-quarterly-example"
+      ],
+      "derivation": "Eight quarterly accruals, each with factor1.02.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "one-year-10pct-m1",
+      "operation": "accumulation",
+      "inputs": {
+        "principal": 100,
+        "rate": 0.1,
+        "time": 1,
+        "convention": "discrete",
+        "frequency": 1
+      },
+      "expected": 110.0,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p006-one-year-example"
+      ],
+      "derivation": "Apply each period factor1+nominal annual rate/frequency for frequency periods.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "one-year-10pct-m2",
+      "operation": "accumulation",
+      "inputs": {
+        "principal": 100,
+        "rate": 0.1,
+        "time": 1,
+        "convention": "discrete",
+        "frequency": 2
+      },
+      "expected": 110.25,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p006-one-year-example"
+      ],
+      "derivation": "Apply each period factor1+nominal annual rate/frequency for frequency periods.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "continuous-discount",
+      "operation": "discount",
+      "inputs": {
+        "rate": 0.05,
+        "time": 2
+      },
+      "expected": 0.9048374180359596,
+      "unit": "discount factor",
+      "sourceUnitIds": [
+        "lecture-3-p009-continuous-values"
+      ],
+      "derivation": "Exp(-.10); inverse of accumulation exp(+.10).",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "continuous-accumulation",
+      "operation": "accumulation",
+      "inputs": {
+        "principal": 1,
+        "rate": 0.05,
+        "time": 2,
+        "convention": "continuous",
+        "frequency": 1
+      },
+      "expected": 1.1051709180756477,
+      "unit": "accumulation factor",
+      "sourceUnitIds": [
+        "lecture-3-p009-continuous-values"
+      ],
+      "derivation": "Exp(.10), not1+.10.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "semiannual-to-continuous",
+      "operation": "nominalToContinuous",
+      "inputs": {
+        "rate": 0.1,
+        "frequency": 2
+      },
+      "expected": 0.097580328338864,
+      "unit": "annual decimal continuous rate",
+      "sourceUnitIds": [
+        "lecture-3-p010-semiannual-example"
+      ],
+      "derivation": "Two periods grow by1.05 each; log annual accumulation is2ln1.05.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "growth-continuous-corrected",
+      "operation": "growthRate",
+      "inputs": {
+        "initial": 5000,
+        "final": 5800,
+        "months": 18,
+        "convention": "continuous"
+      },
+      "expected": 0.09894667007884886,
+      "unit": "annual decimal rate",
+      "sourceUnitIds": [
+        "lecture-3-p011-growth-questions",
+        "lecture-3-p011-printed-continuous-solution",
+        "lecture-3-p011-printed-semiannual-solution"
+      ],
+      "derivation": "18months=1.5years; total growth29/25; continuous log-growth/1.5; semiannual2*((29/25)^(1/3)-1); effective(29/25)^(2/3)-1.",
+      "assumptions": "Three distinct annual quote conventions; original printed10.15% and10.41% are preserved errors, not fixture answers.",
+      "origin": "explicit correction of printed source error",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "growth-semiannual-corrected",
+      "operation": "continuousToNominal",
+      "inputs": {
+        "rate": 0.09894667007884886,
+        "frequency": 2
+      },
+      "expected": 0.10143514899716055,
+      "unit": "annual decimal rate",
+      "sourceUnitIds": [
+        "lecture-3-p011-growth-questions",
+        "lecture-3-p011-printed-continuous-solution",
+        "lecture-3-p011-printed-semiannual-solution"
+      ],
+      "derivation": "18months=1.5years; total growth29/25; continuous log-growth/1.5; semiannual2*((29/25)^(1/3)-1); effective(29/25)^(2/3)-1.",
+      "assumptions": "Three distinct annual quote conventions; original printed10.15% and10.41% are preserved errors, not fixture answers.",
+      "origin": "explicit correction of printed source error",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "growth-effective-corrected",
+      "operation": "effectiveRate",
+      "inputs": {
+        "rate": 0.09894667007884886,
+        "convention": "continuous",
+        "frequency": 1
+      },
+      "expected": 0.10400742136017958,
+      "unit": "annual decimal rate",
+      "sourceUnitIds": [
+        "lecture-3-p011-growth-questions",
+        "lecture-3-p011-printed-continuous-solution",
+        "lecture-3-p011-printed-semiannual-solution"
+      ],
+      "derivation": "18months=1.5years; total growth29/25; continuous log-growth/1.5; semiannual2*((29/25)^(1/3)-1); effective(29/25)^(2/3)-1.",
+      "assumptions": "Three distinct annual quote conventions; original printed10.15% and10.41% are preserved errors, not fixture answers.",
+      "origin": "explicit correction of printed source error",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "months-to-years",
+      "operation": "monthsToYears",
+      "inputs": {
+        "months": 18
+      },
+      "expected": 1.5,
+      "unit": "years",
+      "sourceUnitIds": [
+        "lecture-3-p011-growth-questions"
+      ],
+      "derivation": "18/12=1.5; month count is not year count.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "basis-points",
+      "operation": "basisPoints",
+      "inputs": {
+        "basisPoints": 10
+      },
+      "expected": 0.001,
+      "unit": "decimal yield change",
+      "sourceUnitIds": [
+        "lecture-3-p034-basis-point"
+      ],
+      "derivation": "10bp =0.10 percent = .001 decimal.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "annual-coupon-par",
+      "operation": "discreteBond",
+      "inputs": {
+        "cashflows": [
+          5,
+          105
+        ],
+        "times": [
+          1,
+          2
+        ],
+        "yieldRate": 0.05,
+        "frequency": 1
+      },
+      "expected": 100.0,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p016-printed-coupon-yield-table"
+      ],
+      "derivation": "5/1.05 +105/1.1025 =100 exactly; coupon and yield conventions match.",
+      "assumptions": "Annual coupon5%, annual discrete yield5%; face100, two payments, valuation on coupon date.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "spot-curve-coupon-bond",
+      "operation": "spotBond",
+      "inputs": {
+        "cashflows": [
+          3.0,
+          3.0,
+          3.0,
+          103.0
+        ],
+        "times": [
+          0.5,
+          1.0,
+          1.5,
+          2.0
+        ],
+        "rates": [
+          0.05,
+          0.058,
+          0.064,
+          0.068
+        ]
+      },
+      "expected": 98.3850627729396,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p014-coupon-pricing-calculation"
+      ],
+      "derivation": "Cashflows3,3,3,103 discounted at their own .5,1,1.5,2year continuously compounded zero rates; final includes principal.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "spot-curve-par-yield",
+      "operation": "parYield",
+      "inputs": {
+        "discountFactors": [
+          0.9753099120283326,
+          0.9436499474367985,
+          0.9084640160687062,
+          0.8728426324887193
+        ],
+        "frequency": 2
+      },
+      "expected": 0.06872876169086226,
+      "unit": "nominal annual decimal coupon rate",
+      "sourceUnitIds": [
+        "lecture-3-p017-par-equation",
+        "lecture-3-p018-par-calculation"
+      ],
+      "derivation": "Coupon per period(1-dLast)/sum(d); multiply by2 for annual nominal rate, not percent dollar coupon.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "coupon-par-matched-semiannual",
+      "operation": "discreteBond",
+      "inputs": {
+        "cashflows": [
+          3,
+          3,
+          3,
+          103
+        ],
+        "times": [
+          0.5,
+          1,
+          1.5,
+          2
+        ],
+        "yieldRate": 0.06,
+        "frequency": 2
+      },
+      "expected": 100.0,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p016-printed-coupon-yield-table"
+      ],
+      "derivation": "3% coupon per half-year matches3% yield per half-year; telescoping sum is100.",
+      "assumptions": "6% nominal annual semiannual coupon AND6% nominal annual semiannual yield; on coupon date.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "coupon-not-par-unmatched-continuous",
+      "operation": "spotBond",
+      "inputs": {
+        "cashflows": [
+          3,
+          3,
+          3,
+          103
+        ],
+        "times": [
+          0.5,
+          1,
+          1.5,
+          2
+        ],
+        "rates": [
+          0.06,
+          0.06,
+          0.06,
+          0.06
+        ]
+      },
+      "expected": 99.83122873907918,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p016-printed-coupon-yield-table"
+      ],
+      "derivation": "Same printed6% number but continuous yield; exp(.03) differs from1.03, so price is below100.",
+      "assumptions": "6% coupon nominal annual semiannual;6% yield CONTINUOUS. Equal quoted numbers do not establish par.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "bootstrap-lecture-zero-0.25",
+      "operation": "zeroFromDiscount",
+      "inputs": {
+        "discountFactor": 0.975,
+        "time": 0.25
+      },
+      "expected": 0.1012712319371595,
+      "unit": "annual decimal continuous zero rate",
+      "sourceUnitIds": [
+        "lecture-3-p020-bootstrap-instrument-table",
+        "lecture-3-p022-one-point-five-cashflows",
+        "lecture-3-p023-two-year-equation"
+      ],
+      "derivation": "Use exact observed price/100 for zeros; d1.5=(96-4*.949-4*.9)/104; d2=(101.6-6*(.949+.9+d1.5))/106.",
+      "assumptions": "Observed prices exact to stated decimals; coupons semiannual; carry unrounded discount factors, not slide rounded zero rates.",
+      "origin": "source instrument table; independent exact-price bootstrap",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "bootstrap-lecture-zero-0.5",
+      "operation": "zeroFromDiscount",
+      "inputs": {
+        "discountFactor": 0.949,
+        "time": 0.5
+      },
+      "expected": 0.10469296074441838,
+      "unit": "annual decimal continuous zero rate",
+      "sourceUnitIds": [
+        "lecture-3-p020-bootstrap-instrument-table",
+        "lecture-3-p022-one-point-five-cashflows",
+        "lecture-3-p023-two-year-equation"
+      ],
+      "derivation": "Use exact observed price/100 for zeros; d1.5=(96-4*.949-4*.9)/104; d2=(101.6-6*(.949+.9+d1.5))/106.",
+      "assumptions": "Observed prices exact to stated decimals; coupons semiannual; carry unrounded discount factors, not slide rounded zero rates.",
+      "origin": "source instrument table; independent exact-price bootstrap",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "bootstrap-lecture-zero-1",
+      "operation": "zeroFromDiscount",
+      "inputs": {
+        "discountFactor": 0.9,
+        "time": 1
+      },
+      "expected": 0.1053605156578263,
+      "unit": "annual decimal continuous zero rate",
+      "sourceUnitIds": [
+        "lecture-3-p020-bootstrap-instrument-table",
+        "lecture-3-p022-one-point-five-cashflows",
+        "lecture-3-p023-two-year-equation"
+      ],
+      "derivation": "Use exact observed price/100 for zeros; d1.5=(96-4*.949-4*.9)/104; d2=(101.6-6*(.949+.9+d1.5))/106.",
+      "assumptions": "Observed prices exact to stated decimals; coupons semiannual; carry unrounded discount factors, not slide rounded zero rates.",
+      "origin": "source instrument table; independent exact-price bootstrap",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "bootstrap-lecture-zero-1.5",
+      "operation": "zeroFromDiscount",
+      "inputs": {
+        "discountFactor": 0.8519615384615384,
+        "time": 1.5
+      },
+      "expected": 0.10680926388170527,
+      "unit": "annual decimal continuous zero rate",
+      "sourceUnitIds": [
+        "lecture-3-p020-bootstrap-instrument-table",
+        "lecture-3-p022-one-point-five-cashflows",
+        "lecture-3-p023-two-year-equation"
+      ],
+      "derivation": "Use exact observed price/100 for zeros; d1.5=(96-4*.949-4*.9)/104; d2=(101.6-6*(.949+.9+d1.5))/106.",
+      "assumptions": "Observed prices exact to stated decimals; coupons semiannual; carry unrounded discount factors, not slide rounded zero rates.",
+      "origin": "source instrument table; independent exact-price bootstrap",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "bootstrap-lecture-zero-2",
+      "operation": "zeroFromDiscount",
+      "inputs": {
+        "discountFactor": 0.8056059506531205,
+        "time": 2
+      },
+      "expected": 0.10808027549746786,
+      "unit": "annual decimal continuous zero rate",
+      "sourceUnitIds": [
+        "lecture-3-p020-bootstrap-instrument-table",
+        "lecture-3-p022-one-point-five-cashflows",
+        "lecture-3-p023-two-year-equation"
+      ],
+      "derivation": "Use exact observed price/100 for zeros; d1.5=(96-4*.949-4*.9)/104; d2=(101.6-6*(.949+.9+d1.5))/106.",
+      "assumptions": "Observed prices exact to stated decimals; coupons semiannual; carry unrounded discount factors, not slide rounded zero rates.",
+      "origin": "source instrument table; independent exact-price bootstrap",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "bootstrap-next-discount-factor",
+      "operation": "bootstrapDiscount",
+      "inputs": {
+        "price": 96,
+        "earlierCashflows": [
+          4,
+          4
+        ],
+        "earlierDiscountFactors": [
+          0.949,
+          0.9
+        ],
+        "finalCashflow": 104
+      },
+      "expected": 0.8519615384615384,
+      "unit": "discount factor",
+      "sourceUnitIds": [
+        "lecture-3-p022-one-point-five-cashflows"
+      ],
+      "derivation": "Subtract earlier coupon PV3.796+3.6 from96; divide88.604 by104.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "continuous-forward-1-2",
+      "operation": "forwardRate",
+      "inputs": {
+        "time1": 1,
+        "rate1": 0.03,
+        "time2": 2,
+        "rate2": 0.04
+      },
+      "expected": 0.05,
+      "unit": "annual decimal continuous forward rate",
+      "sourceUnitIds": [
+        "lecture-3-p025-forward-rate-formula",
+        "lecture-3-p027-annual-forward-table"
+      ],
+      "derivation": "Subtract log accumulations R2*T2-R1*T1, divide by forward interval T2-T1.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "continuous-forward-2-3",
+      "operation": "forwardRate",
+      "inputs": {
+        "time1": 2,
+        "rate1": 0.04,
+        "time2": 3,
+        "rate2": 0.046
+      },
+      "expected": 0.058,
+      "unit": "annual decimal continuous forward rate",
+      "sourceUnitIds": [
+        "lecture-3-p025-forward-rate-formula",
+        "lecture-3-p027-annual-forward-table"
+      ],
+      "derivation": "Subtract log accumulations R2*T2-R1*T1, divide by forward interval T2-T1.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "continuous-forward-3-4",
+      "operation": "forwardRate",
+      "inputs": {
+        "time1": 3,
+        "rate1": 0.046,
+        "time2": 4,
+        "rate2": 0.05
+      },
+      "expected": 0.062,
+      "unit": "annual decimal continuous forward rate",
+      "sourceUnitIds": [
+        "lecture-3-p025-forward-rate-formula",
+        "lecture-3-p027-annual-forward-table"
+      ],
+      "derivation": "Subtract log accumulations R2*T2-R1*T1, divide by forward interval T2-T1.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "continuous-forward-4-5",
+      "operation": "forwardRate",
+      "inputs": {
+        "time1": 4,
+        "rate1": 0.05,
+        "time2": 5,
+        "rate2": 0.053
+      },
+      "expected": 0.065,
+      "unit": "annual decimal continuous forward rate",
+      "sourceUnitIds": [
+        "lecture-3-p025-forward-rate-formula",
+        "lecture-3-p027-annual-forward-table"
+      ],
+      "derivation": "Subtract log accumulations R2*T2-R1*T1, divide by forward interval T2-T1.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "fra-receive-fixed-terminal",
+      "operation": "fra",
+      "inputs": {
+        "notional": 100000000,
+        "fixed": 0.04,
+        "market": 0.045,
+        "months": 3,
+        "settlement": "terminal"
+      },
+      "expected": -125000.0,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p029-fra-start-settlement",
+        "lecture-3-p030-fra-example-terminal",
+        "lecture-3-p030-fra-example-settlement"
+      ],
+      "derivation": "Fixed-minus-floating=-.005;100million*.25*-.005=-125000; start amount divides by1.01125.",
+      "assumptions": "Receive fixed/pay floating; simple annual period-rate FRA convention; delta3/12; startsettlement atT1, NOT present time0; principal never exchanged.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "fra-receive-fixed-start",
+      "operation": "fra",
+      "inputs": {
+        "notional": 100000000,
+        "fixed": 0.04,
+        "market": 0.045,
+        "months": 3,
+        "settlement": "start"
+      },
+      "expected": -123609.39431396786,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p029-fra-start-settlement",
+        "lecture-3-p030-fra-example-terminal",
+        "lecture-3-p030-fra-example-settlement"
+      ],
+      "derivation": "Fixed-minus-floating=-.005;100million*.25*-.005=-125000; start amount divides by1.01125.",
+      "assumptions": "Receive fixed/pay floating; simple annual period-rate FRA convention; delta3/12; startsettlement atT1, NOT present time0; principal never exchanged.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "sensitivity-price",
+      "operation": "bondMetric",
+      "inputs": {
+        "cashflows": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          105.0
+        ],
+        "times": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0
+        ],
+        "yieldRate": 0.12,
+        "metric": "price"
+      },
+      "expected": 94.213020554763,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p035-duration-example-table"
+      ],
+      "derivation": "PV weights from exact cashflows, not rounded table: sum CF*exp(-.12*t), then weighted t or t squared.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "sensitivity-duration",
+      "operation": "bondMetric",
+      "inputs": {
+        "cashflows": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          105.0
+        ],
+        "times": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0
+        ],
+        "yieldRate": 0.12,
+        "metric": "duration"
+      },
+      "expected": 2.653010037390808,
+      "unit": "years",
+      "sourceUnitIds": [
+        "lecture-3-p033-duration-definition",
+        "lecture-3-p035-duration-example-table"
+      ],
+      "derivation": "PV weights from exact cashflows, not rounded table: sum CF*exp(-.12*t), then weighted t or t squared.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "sensitivity-convexity",
+      "operation": "bondMetric",
+      "inputs": {
+        "cashflows": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          105.0
+        ],
+        "times": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0
+        ],
+        "yieldRate": 0.12,
+        "metric": "convexity"
+      },
+      "expected": 7.570034887790739,
+      "unit": "years squared",
+      "sourceUnitIds": [
+        "lecture-3-p038-convexity-definition",
+        "lecture-3-p038-convexity-example-value"
+      ],
+      "derivation": "PV weights from exact cashflows, not rounded table: sum CF*exp(-.12*t), then weighted t or t squared.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "bond-reprice-.001",
+      "operation": "spotBond",
+      "inputs": {
+        "cashflows": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          105.0
+        ],
+        "times": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0
+        ],
+        "rates": [
+          0.121,
+          0.121,
+          0.121,
+          0.121,
+          0.121,
+          0.121
+        ]
+      },
+      "expected": 93.96342871603265,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p037-duration-errors-table"
+      ],
+      "derivation": "Reprice the six actual cashflows at shifted continuous yield, without a duration approximation.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "bond-reprice-.01",
+      "operation": "spotBond",
+      "inputs": {
+        "cashflows": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          105.0
+        ],
+        "times": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0
+        ],
+        "rates": [
+          0.13,
+          0.13,
+          0.13,
+          0.13,
+          0.13,
+          0.13
+        ]
+      },
+      "expected": 91.7488542813054,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p037-duration-errors-table"
+      ],
+      "derivation": "Reprice the six actual cashflows at shifted continuous yield, without a duration approximation.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "bond-reprice-.02",
+      "operation": "spotBond",
+      "inputs": {
+        "cashflows": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          105.0
+        ],
+        "times": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0
+        ],
+        "rates": [
+          0.14,
+          0.14,
+          0.14,
+          0.14,
+          0.14,
+          0.14
+        ]
+      },
+      "expected": 89.35395674282786,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-3-p037-duration-errors-table"
+      ],
+      "derivation": "Reprice the six actual cashflows at shifted continuous yield, without a duration approximation.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "seminar2-q7-annual-one-year",
+      "operation": "zeroFromDiscount",
+      "inputs": {
+        "discountFactor": 0.9575471698113207,
+        "time": 1.0
+      },
+      "expected": 0.04338029563022512,
+      "unit": "annual decimal continuous zero rate",
+      "sourceUnitIds": [
+        "seminar-2-problems-p002-q7",
+        "seminar-2-solutions-p006-q7-one-year",
+        "seminar-2-solutions-p007-q7-extension"
+      ],
+      "derivation": "Annual1y:single106/price101.5. Suppliedsemiannual1y:(101.5-3*.97)/103. Supplied1.5y:(104-4*.97-4*d1)/104.",
+      "assumptions": "Continuous zero quotation explicitly assumed; annual1y assumes one coupon6 at1y only; no unique annual fractional-maturity1.5y schedule assumed. Semiannual branch is suppliedsolution convention;1.5y numerical extension is supplemental, not printed official answer.",
+      "origin": "conditional interpretation; source conflict preserved",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "seminar2-q7-semiannual-half-year",
+      "operation": "zeroFromDiscount",
+      "inputs": {
+        "discountFactor": 0.97,
+        "time": 0.5
+      },
+      "expected": 0.06091841496941709,
+      "unit": "annual decimal continuous zero rate",
+      "sourceUnitIds": [
+        "seminar-2-problems-p002-q7",
+        "seminar-2-solutions-p006-q7-one-year",
+        "seminar-2-solutions-p007-q7-extension"
+      ],
+      "derivation": "Annual1y:single106/price101.5. Suppliedsemiannual1y:(101.5-3*.97)/103. Supplied1.5y:(104-4*.97-4*d1)/104.",
+      "assumptions": "Continuous zero quotation explicitly assumed; annual1y assumes one coupon6 at1y only; no unique annual fractional-maturity1.5y schedule assumed. Semiannual branch is suppliedsolution convention;1.5y numerical extension is supplemental, not printed official answer.",
+      "origin": "conditional interpretation; source conflict preserved",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "seminar2-q7-semiannual-one-year",
+      "operation": "zeroFromDiscount",
+      "inputs": {
+        "discountFactor": 0.9571844660194174,
+        "time": 1.0
+      },
+      "expected": 0.043759151642685803,
+      "unit": "annual decimal continuous zero rate",
+      "sourceUnitIds": [
+        "seminar-2-problems-p002-q7",
+        "seminar-2-solutions-p006-q7-one-year",
+        "seminar-2-solutions-p007-q7-extension"
+      ],
+      "derivation": "Annual1y:single106/price101.5. Suppliedsemiannual1y:(101.5-3*.97)/103. Supplied1.5y:(104-4*.97-4*d1)/104.",
+      "assumptions": "Continuous zero quotation explicitly assumed; annual1y assumes one coupon6 at1y only; no unique annual fractional-maturity1.5y schedule assumed. Semiannual branch is suppliedsolution convention;1.5y numerical extension is supplemental, not printed official answer.",
+      "origin": "conditional interpretation; source conflict preserved",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "seminar2-q7-semiannual-one-point-five",
+      "operation": "zeroFromDiscount",
+      "inputs": {
+        "discountFactor": 0.9258775205377147,
+        "time": 1.5
+      },
+      "expected": 0.05134221354795284,
+      "unit": "annual decimal continuous zero rate",
+      "sourceUnitIds": [
+        "seminar-2-problems-p002-q7",
+        "seminar-2-solutions-p006-q7-one-year",
+        "seminar-2-solutions-p007-q7-extension"
+      ],
+      "derivation": "Annual1y:single106/price101.5. Suppliedsemiannual1y:(101.5-3*.97)/103. Supplied1.5y:(104-4*.97-4*d1)/104.",
+      "assumptions": "Continuous zero quotation explicitly assumed; annual1y assumes one coupon6 at1y only; no unique annual fractional-maturity1.5y schedule assumed. Semiannual branch is suppliedsolution convention;1.5y numerical extension is supplemental, not printed official answer.",
+      "origin": "conditional interpretation; source conflict preserved",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "forward-no-income-golden",
+      "operation": "carryForward",
+      "inputs": {
+        "spot": 100,
+        "rate": 0.05,
+        "yieldRate": 0,
+        "time": 1.0
+      },
+      "expected": 105.1271096376024,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-4-p011-no-income-price",
+        "lecture-4-p012-overpriced-forward-data"
+      ],
+      "derivation": "Finance spot purchase at continuous rate; terminal repayment equals fair forward delivery price.",
+      "assumptions": "Investment asset, no income/storage/convenienceyield; frictionless borrowing/lending and shorting.",
+      "origin": "supplemental parameters",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "forward-overpriced-fair",
+      "operation": "carryForward",
+      "inputs": {
+        "spot": 40,
+        "rate": 0.05,
+        "yieldRate": 0,
+        "time": 0.25
+      },
+      "expected": 40.50313806162538,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-4-p011-no-income-price",
+        "lecture-4-p012-overpriced-forward-data"
+      ],
+      "derivation": "Finance spot purchase at continuous rate; terminal repayment equals fair forward delivery price.",
+      "assumptions": "Investment asset, no income/storage/convenienceyield; frictionless borrowing/lending and shorting.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "arbitrage-overpriced",
+      "operation": "carryArbitrage",
+      "inputs": {
+        "spot": 40,
+        "rate": 0.05,
+        "time": 0.25,
+        "quotedForward": 43,
+        "direction": "overpriced"
+      },
+      "expected": 2.496861938374625,
+      "unit": "USD at maturity",
+      "sourceUnitIds": [
+        "lecture-4-p012-overpriced-profit",
+        "lecture-4-p013-underpriced-profit"
+      ],
+      "derivation": "Overpriced:receivequoted minus financedspot; underpriced:financedspot minus payquoted.",
+      "assumptions": "Cash-and-carry for overpriced; reverse for underpriced requires short borrowing/return allowed; before all costs.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "arbitrage-underpriced",
+      "operation": "carryArbitrage",
+      "inputs": {
+        "spot": 40,
+        "rate": 0.05,
+        "time": 0.25,
+        "quotedForward": 39,
+        "direction": "underpriced"
+      },
+      "expected": 1.503138061625375,
+      "unit": "USD at maturity",
+      "sourceUnitIds": [
+        "lecture-4-p012-overpriced-profit",
+        "lecture-4-p013-underpriced-profit"
+      ],
+      "derivation": "Overpriced:receivequoted minus financedspot; underpriced:financedspot minus payquoted.",
+      "assumptions": "Cash-and-carry for overpriced; reverse for underpriced requires short borrowing/return allowed; before all costs.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "known-coupon-income-pv",
+      "operation": "cashPresentValue",
+      "inputs": {
+        "cashflows": [
+          40
+        ],
+        "times": [
+          0.3333333333333333
+        ],
+        "rates": [
+          0.03
+        ]
+      },
+      "expected": 39.60199334996672,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-4-p016-bond-income-data-pv"
+      ],
+      "derivation": "Four months is1/3year;40 exp(-.03/3).",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "known-coupon-income-forward",
+      "operation": "incomeForward",
+      "inputs": {
+        "spot": 900,
+        "income": [
+          40
+        ],
+        "incomeTimes": [
+          0.3333333333333333
+        ],
+        "incomeRates": [
+          0.03
+        ],
+        "rate": 0.04,
+        "time": 0.75
+      },
+      "expected": 886.601026957095,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-4-p016-bond-income-forward"
+      ],
+      "derivation": "Forward is financed spot minus terminal-equivalent coupon;900exp(.03)-40exp(.02).",
+      "assumptions": "Known40USDcoupon after4months, delivery9months, each continuous zero rate matched to date; carry unrounded PV.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "yield-golden",
+      "operation": "carryForward",
+      "inputs": {
+        "spot": 100,
+        "rate": 0.05,
+        "yieldRate": 0.02,
+        "time": 1.0
+      },
+      "expected": 103.04545339535169,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-4-p018-known-yield-formula",
+        "lecture-4-p018-known-yield-example",
+        "lecture-4-p023-index-example"
+      ],
+      "derivation": "Spot times exp((financing rate minus proportional income yield)*years).",
+      "assumptions": "Continuous proportional income yield, not a known fixed cash amount; investable index/asset under standard replication assumptions.",
+      "origin": "supplemental parameters",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "yield-source",
+      "operation": "carryForward",
+      "inputs": {
+        "spot": 25,
+        "rate": 0.1,
+        "yieldRate": 0.0396,
+        "time": 0.5
+      },
+      "expected": 25.766516136769305,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-4-p018-known-yield-formula",
+        "lecture-4-p018-known-yield-example",
+        "lecture-4-p023-index-example"
+      ],
+      "derivation": "Spot times exp((financing rate minus proportional income yield)*years).",
+      "assumptions": "Continuous proportional income yield, not a known fixed cash amount; investable index/asset under standard replication assumptions.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "index-source",
+      "operation": "carryForward",
+      "inputs": {
+        "spot": 1300,
+        "rate": 0.05,
+        "yieldRate": 0.01,
+        "time": 0.25
+      },
+      "expected": 1313.0652172094185,
+      "unit": "index points",
+      "sourceUnitIds": [
+        "lecture-4-p018-known-yield-formula",
+        "lecture-4-p018-known-yield-example",
+        "lecture-4-p023-index-example"
+      ],
+      "derivation": "Spot times exp((financing rate minus proportional income yield)*years).",
+      "assumptions": "Continuous proportional income yield, not a known fixed cash amount; investable index/asset under standard replication assumptions.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "existing-forward-market-price",
+      "operation": "carryForward",
+      "inputs": {
+        "spot": 25,
+        "rate": 0.1,
+        "yieldRate": 0,
+        "time": 0.5
+      },
+      "expected": 26.2817774094006,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-4-p021-existing-forward-price-example"
+      ],
+      "derivation": "Current fair newdeliveryprice25exp(.05); this is not existing contract value.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "existing-forward-long-value",
+      "operation": "forwardValue",
+      "inputs": {
+        "spot": 25,
+        "strike": 24,
+        "rate": 0.1,
+        "time": 0.5
+      },
+      "expected": 2.1704938119828636,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-4-p020-no-income-value",
+        "lecture-4-p021-existing-forward-value-example"
+      ],
+      "derivation": "Replicate long contract with one share minus discounted fixed24 liability;25-24exp(-.05).",
+      "assumptions": "Existing no-income long contract,6months remain; strike24 fixed; no daily futures settlement.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "currency-covered-parity",
+      "operation": "currencyForward",
+      "inputs": {
+        "spot": 0.98,
+        "domestic": 0.01,
+        "foreign": 0.03,
+        "time": 2
+      },
+      "expected": 0.9415736503692768,
+      "unit": "USD/AUD",
+      "sourceUnitIds": [
+        "lecture-4-p024-covered-interest-parity",
+        "lecture-4-p025-usd-aud-forward-example"
+      ],
+      "derivation": "USD/AUD quote:domesticUSD rate minus foreignAUD rate; foreign rate is higher so forward is belowspot.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "currency-arbitrage-terminal",
+      "operation": "currencyArbitrage",
+      "inputs": {
+        "foreignBorrow": 1000,
+        "spot": 0.98,
+        "domestic": 0.01,
+        "foreign": 0.03,
+        "time": 2,
+        "quotedForward": 0.93
+      },
+      "expected": 12.289324939036245,
+      "unit": "USD at maturity",
+      "sourceUnitIds": [
+        "lecture-4-p026-currency-arbitrage-steps",
+        "lecture-4-p026-currency-arbitrage-profit"
+      ],
+      "derivation": "BorrowAUD1000, investUSD980; contract purchases exactly1000exp(.06)AUD to repay foreignloan.",
+      "assumptions": "No fees, taxes, credit/default risk or market frictions; rates are decimal annual rates and times are years unless explicitly labelled.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "cash-storage-forward",
+      "operation": "storageForward",
+      "inputs": {
+        "spot": 450,
+        "rate": 0.07,
+        "time": 1,
+        "storageCash": 2,
+        "storageTime": 1
+      },
+      "expected": 484.6286815643974,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-4-p027-commodity-cash-storage-formula",
+        "lecture-4-p029-storage-forward-example"
+      ],
+      "derivation": "Storage due atdelivery adds exactly2 atdelivery, not2 financed for anotheryear;450exp(.07)+2.",
+      "assumptions": "Known cashstorage2 payable atT=1, no convenienceyield; investmentasset fullyfinanceable and storable.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "proportional-storage-convenience",
+      "operation": "commodityForward",
+      "inputs": {
+        "spot": 100,
+        "rate": 0.05,
+        "storage": 0.02,
+        "convenience": 0.08,
+        "time": 1
+      },
+      "expected": 99.0049833749168,
+      "unit": "USD/unit",
+      "sourceUnitIds": [
+        "lecture-4-p027-commodity-proportional-formula"
+      ],
+      "derivation": "Netcarry .05+.02-.08=-.01; inventory benefit can put forward below spot.",
+      "assumptions": "Supplemental numerical illustration of source formula; convenienceyield is noncash, not guaranteed arbitrage income; consumption-asset reverse arbitrage may be unavailable.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "short-share-dividend",
+      "operation": "shortShares",
+      "inputs": {
+        "quantity": 500,
+        "initial": 120,
+        "final": 100,
+        "dividend": 1
+      },
+      "expected": 9500.0,
+      "unit": "USD",
+      "sourceUnitIds": [
+        "lecture-4-p006-short-sale-cashflow-table"
+      ],
+      "derivation": "Receive60000, compensate500 dividend, pay50000 to close=9500.",
+      "assumptions": "Ignore financing and stockborrowcosts; short seller owes dividend.",
+      "origin": "source parameters; independently calculated answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "cross-market-intended-gbp",
+      "operation": "crossMarketSpread",
+      "inputs": {
+        "london": 100,
+        "fx": 1.53,
+        "newYork": 150,
+        "interpretation": "intended-GBP"
+      },
+      "expected": 3.0,
+      "unit": "USD/share",
+      "sourceUnitIds": [
+        "lecture-2-p007-cross-market-quotes",
+        "lecture-2-p007-currency-conversion",
+        "lecture-2-p007-arbitrage-trade"
+      ],
+      "derivation": "Only under the explicit intendedGBP100 interpretation: London equivalentUSD153 minus NewYorkUSD150 =USD3.",
+      "assumptions": "Conditional interpretation of source currency error; buyNewYork/sellLondon; no transaction/settlement costs. Literal original London quote printsUSD100.",
+      "origin": "conditional source correction; not a unique literal-source answer",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "cross-market-literal-usd",
+      "operation": "crossMarketSpread",
+      "inputs": {
+        "london": 100,
+        "fx": 1.53,
+        "newYork": 150,
+        "interpretation": "literal-USD"
+      },
+      "expected": -50.0,
+      "unit": "USD/share (London minus New York)",
+      "sourceUnitIds": [
+        "lecture-2-p007-cross-market-quotes",
+        "lecture-2-p007-currency-conversion"
+      ],
+      "derivation": "LiteralUSD100 London price minusUSD150 NewYork price =-50, NOT the printed +3.",
+      "assumptions": "If both literal dollar labels meanUSD and fungible/security access assumptions hold, opposite-direction gross arbitrage; this is a supplemental conditional alternative, not official corrected answer.",
+      "origin": "supplemental conditional literal-dollar interpretation",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "par-bootstrap-one-year",
+      "operation": "bootstrapDiscount",
+      "inputs": {
+        "price": 100,
+        "earlierCashflows": [],
+        "earlierDiscountFactors": [],
+        "finalCashflow": 105
+      },
+      "expected": 0.9523809523809523,
+      "unit": "discount factor",
+      "sourceUnitIds": [
+        "lecture-3-p017-par-equation",
+        "lecture-3-p019-bootstrap-procedure"
+      ],
+      "derivation": "Supplemental annualpar5% one-year bond: price100, final105, d1=100/105=20/21.",
+      "assumptions": "Supplemental annual-par quotes, face100; coupons annually; not an additional supplied source table.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    },
+    {
+      "id": "par-bootstrap-two-year",
+      "operation": "bootstrapDiscount",
+      "inputs": {
+        "price": 100,
+        "earlierCashflows": [
+          6
+        ],
+        "earlierDiscountFactors": [
+          0.9523809523809523
+        ],
+        "finalCashflow": 106
+      },
+      "expected": 0.889487870619946,
+      "unit": "discount factor",
+      "sourceUnitIds": [
+        "lecture-3-p017-par-equation",
+        "lecture-3-p019-bootstrap-procedure"
+      ],
+      "derivation": "Supplemental annualpar6% two-year bond: d2=(100-6*(20/21))/106=330/371.",
+      "assumptions": "Supplemental annual-par quotes, face100; coupons annually; one-year earlier discount factor from5% par bond; par yield is NOT zero rate.",
+      "origin": "supplemental validation example",
+      "absoluteTolerance": 1e-08,
+      "lessonBindings": []
+    }
+  ]
+}

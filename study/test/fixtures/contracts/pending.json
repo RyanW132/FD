@@ -1,0 +1,81 @@
+{
+  "manifest": {
+    "schemaVersion": 1,
+    "sources": {
+      "source-a": {
+        "id": "source-a",
+        "kind": "lecture",
+        "originalPath": "context/source.pdf",
+        "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "byteLength": 1,
+        "access": "blocked",
+        "exposure": {
+          "browser": "deny",
+          "export": "deny",
+          "agent": "deny"
+        },
+        "extractionStatus": "blocked",
+        "tool": null,
+        "pageCount": 1,
+        "derivedRevision": null,
+        "issueIds": []
+      }
+    },
+    "issues": {},
+    "missingSources": {
+      "missing-transcript-4": {
+        "id": "missing-transcript-4",
+        "label": "Week 4 transcript",
+        "expectedKind": "transcript",
+        "reason": "Not among the 13 supplied originals; no content inferred."
+      },
+      "missing-seminar-3-solutions": {
+        "id": "missing-seminar-3-solutions",
+        "label": "Seminar 3 solutions",
+        "expectedKind": "solution",
+        "reason": "Not among the 13 supplied originals; no content inferred."
+      },
+      "missing-syllabus": {
+        "id": "missing-syllabus",
+        "label": "Course syllabus",
+        "expectedKind": "syllabus",
+        "reason": "Not among the 13 supplied originals; no content inferred."
+      }
+    }
+  },
+  "units": {
+    "schemaVersion": 1,
+    "pages": {
+      "source-a:1": {
+        "sourceId": "source-a",
+        "pdfPage": 1,
+        "status": "blocked",
+        "unitIds": [],
+        "issueIds": []
+      }
+    },
+    "units": {},
+    "transcriptAssociations": {}
+  },
+  "coverage": {
+    "schemaVersion": 1,
+    "coverage": {}
+  },
+  "curriculum": {
+    "schemaVersion": 1,
+    "lectures": {},
+    "lessons": {},
+    "outcomes": {},
+    "exercises": {},
+    "concepts": {},
+    "links": {}
+  },
+  "reviews": {
+    "schemaVersion": 1,
+    "reviews": {}
+  },
+  "exposureExceptions": {
+    "schemaVersion": 1,
+    "exceptions": {}
+  }
+}

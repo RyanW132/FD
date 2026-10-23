@@ -1,0 +1,824 @@
+{
+  "advisoryVersion": 1,
+  "verdict": "ADVISORY_PASS",
+  "canonicalProductionReview": false,
+  "reviewedAt": "2026-10-22T14:59:33Z",
+  "reviewer": "independent-native-verifier-g006-l1-prototype-advisory",
+  "scope": "One-lesson calibration only: lesson-l1-forward-contracts and its proposal fragment; no metadata freeze, coverage promotion, publication, browser or learner-mastery approval.",
+  "independence": "Reviewer did not author or edit the lesson, source evidence or fragment. Author report treated as claims, not proof.",
+  "readProtocol": {
+    "initialEntrypointBytes": 10823,
+    "initialCapBytes": 32768,
+    "continuationDeclaredBeforeContracts": true,
+    "mandatoryContractsBytes": 29508,
+    "fullNormalizedAndRawBytes": 10622,
+    "fullNormalizedAndRawPages": [
+      20,
+      21,
+      22
+    ],
+    "imagesActuallyDisplayed": [
+      20,
+      21,
+      22
+    ],
+    "note": "Actual entrypoint files: CONTEXT 5578 + bootstrap 4620 + repository AGENTS 625 = 10823 bytes, rather than the task's estimated 11043. Required contracts read in explicit continuation. Large fragment was read via records, complete matrix and all other inventory fields; plan JSON selected only target lesson/unit mapping. An overlong plan-prefix output was not treated as complete source evidence.",
+    "privacy": "Lecture 1 access permitted and agent allowed; no private/book/learner/transcript material or external provider tools were opened."
+  },
+  "rubric": [
+    {
+      "dimension": "source-fidelity-labels",
+      "score": 2,
+      "maximum": 2,
+      "lessonAnchors": [
+        "status",
+        "agreement",
+        "long-side",
+        "short-side",
+        "source-table",
+        "long-formula",
+        "short-formula",
+        "evidence"
+      ],
+      "evidence": "Visually checked original p20 scenario/terms, p21 both positions/question and p22 all table cells/equations against full raw and normalized spans. Source claims have unit citations; quantity, derivations, examples and answers are explicitly supplemental. No conflict exists in the selected canonical units."
+    },
+    {
+      "dimension": "foundations-before-use",
+      "score": 2,
+      "maximum": 2,
+      "lessonAnchors": [
+        "foundations",
+        "agreement",
+        "long-side",
+        "short-side"
+      ],
+      "evidence": "Asset/underlying/unit, spot, dates, signs and subtraction are introduced before formulas. Long/short and counterparty are explained in place. Missing preceding lesson/shared concepts are disclosed, and no opening of those future files is necessary."
+    },
+    {
+      "dimension": "notation-units-assumptions",
+      "score": 2,
+      "maximum": 2,
+      "lessonAnchors": [
+        "foundations",
+        "checks-and-quantity",
+        "limits"
+      ],
+      "evidence": "T, K, S_T, Pi labels and positive q have meanings and GBP/per-unit/quantity units. Performance, matching underlying/currency and no additional costs are explicit. Three months is a delivery date, not a multiplier; profit is conditional, not universal."
+    },
+    {
+      "dimension": "intuition-stepwise",
+      "score": 2,
+      "maximum": 2,
+      "lessonAnchors": [
+        "motivation",
+        "agreement",
+        "direction",
+        "long-formula",
+        "short-formula",
+        "worked-example"
+      ],
+      "evidence": "Budget motivation precedes fixed/uncertain timeline; each payoff follows received and paid legs. Direction, cancellation, quantity scaling and a six-step exchange connect formulas to economic meaning."
+    },
+    {
+      "dimension": "worked-examples-correct",
+      "score": 2,
+      "maximum": 2,
+      "lessonAnchors": [
+        "source-table",
+        "worked-example",
+        "limits",
+        "exercise-payoff-scaffold-answer",
+        "exercise-payoff-transfer-answer"
+      ],
+      "evidence": "Every numerical occurrence was checked, including 15 inventory cases, direct cells of both tables, 105-100=5 as a non-payoff, K70/S60 obligation comparison, all retries, four-unit totals and +/-1 sensitivity. Independent Decimal legs and six golden tests agree."
+    },
+    {
+      "dimension": "outcomes-practice-answers-teachback",
+      "score": 2,
+      "maximum": 2,
+      "lessonAnchors": [
+        "outcomes",
+        "practice",
+        "answers",
+        "exercise-explain-teachback-prompt",
+        "exercise-apply-teachback-prompt",
+        "next-step"
+      ],
+      "evidence": "Two observable outcomes have explicit conditions and success criteria. Seven distinct prompt/answer anchor pairs progress from fill-in roles to transfer, payoff tables, quantity and diagnostic teach-back; both outcomes have matched teach-back and retries. Reciprocal fragment references resolve."
+    },
+    {
+      "dimension": "misconceptions-limits-accessibility",
+      "score": 2,
+      "maximum": 2,
+      "lessonAnchors": [
+        "source-table",
+        "long-formula",
+        "short-formula",
+        "limits",
+        "exercise-apply-teachback-answer"
+      ],
+      "evidence": "Accessible four-column transcription preserves every source table cell, row order and signs; equations have plain-text fallbacks. Obligations vs option, physical delivery vs net economic value, payoff vs conditional profit, initial zero value vs risk, today vs maturity and counterparty/mismatch limits are explicit. No universal nonnegative-price/loss-bound claim is made."
+    },
+    {
+      "dimension": "precise-complete-citations",
+      "score": 2,
+      "maximum": 2,
+      "lessonAnchors": [
+        "agreement",
+        "long-side",
+        "short-side",
+        "direction",
+        "source-table",
+        "long-formula",
+        "short-formula",
+        "evidence"
+      ],
+      "evidence": "All nine substantive units have exact page/region/anchor citations, with complete normalized/raw/image evidence links. All 26 local links resolve; all 32 explicit anchors are unique. Original PDF and three-page raw/normalized/image bindings match canonical QA/ingestion evidence."
+    }
+  ],
+  "unitTeachingMatrix": [
+    {
+      "unitId": "lecture-1-p020-forward-scenario",
+      "page": 20,
+      "region": "upper situation box",
+      "teachingAnchor": "agreement",
+      "outcomeId": "outcome-l1-forward-contracts-explain",
+      "practice": [
+        {
+          "promptAnchor": "exercise-terms-scaffold-prompt",
+          "answerAnchor": "exercise-terms-scaffold-answer"
+        }
+      ],
+      "teachback": {
+        "promptAnchor": "exercise-explain-teachback-prompt",
+        "answerAnchor": "exercise-explain-teachback-answer"
+      },
+      "verdict": "PASS",
+      "evidence": "One-unit UK purchase in three months, today's 100 versus uncertain future price is explained and recalled in the fill-in and model teach-back."
+    },
+    {
+      "unitId": "lecture-1-p020-forward-agreement",
+      "page": 20,
+      "region": "middle contract box",
+      "teachingAnchor": "agreement",
+      "outcomeId": "outcome-l1-forward-contracts-explain",
+      "practice": [
+        {
+          "promptAnchor": "exercise-terms-scaffold-prompt",
+          "answerAnchor": "exercise-terms-scaffold-answer"
+        }
+      ],
+      "teachback": {
+        "promptAnchor": "exercise-explain-teachback-prompt",
+        "answerAnchor": "exercise-explain-teachback-answer"
+      },
+      "verdict": "PASS",
+      "evidence": "Fixes 105 now for delivery later; timeline separates agreement/payment and explains why today's 100 is not K."
+    },
+    {
+      "unitId": "lecture-1-p020-forward-terms",
+      "page": 20,
+      "region": "lower contract-term bullets",
+      "teachingAnchor": "agreement",
+      "outcomeId": "outcome-l1-forward-contracts-explain",
+      "practice": [
+        {
+          "promptAnchor": "exercise-terms-scaffold-prompt",
+          "answerAnchor": "exercise-terms-scaffold-answer"
+        },
+        {
+          "promptAnchor": "exercise-terms-transfer-prompt",
+          "answerAnchor": "exercise-terms-transfer-answer"
+        }
+      ],
+      "teachback": {
+        "promptAnchor": "exercise-explain-teachback-prompt",
+        "answerAnchor": "exercise-explain-teachback-answer"
+      },
+      "verdict": "PASS",
+      "evidence": "T/K and both obligations explained, then transferred to six-month producer/customer scenario with refusal misconception."
+    },
+    {
+      "unitId": "lecture-1-p021-long-forward",
+      "page": 21,
+      "region": "left long-forward box",
+      "teachingAnchor": "long-side",
+      "outcomeId": "outcome-l1-forward-contracts-explain",
+      "practice": [
+        {
+          "promptAnchor": "exercise-terms-transfer-prompt",
+          "answerAnchor": "exercise-terms-transfer-answer"
+        },
+        {
+          "promptAnchor": "exercise-direction-prompt",
+          "answerAnchor": "exercise-direction-answer"
+        }
+      ],
+      "teachback": {
+        "promptAnchor": "exercise-explain-teachback-prompt",
+        "answerAnchor": "exercise-explain-teachback-answer"
+      },
+      "verdict": "PASS",
+      "evidence": "Buyer identity and buy-at-T-for-K obligation explained; identity does not switch on loss."
+    },
+    {
+      "unitId": "lecture-1-p021-short-forward",
+      "page": 21,
+      "region": "right short-forward box",
+      "teachingAnchor": "short-side",
+      "outcomeId": "outcome-l1-forward-contracts-explain",
+      "practice": [
+        {
+          "promptAnchor": "exercise-terms-transfer-prompt",
+          "answerAnchor": "exercise-terms-transfer-answer"
+        },
+        {
+          "promptAnchor": "exercise-direction-prompt",
+          "answerAnchor": "exercise-direction-answer"
+        }
+      ],
+      "teachback": {
+        "promptAnchor": "exercise-explain-teachback-prompt",
+        "answerAnchor": "exercise-explain-teachback-answer"
+      },
+      "verdict": "PASS",
+      "evidence": "Seller identity/delivery obligation explained, with contrast to borrowing-and-selling-now."
+    },
+    {
+      "unitId": "lecture-1-p021-forward-direction-question",
+      "page": 21,
+      "region": "lower quick-check box",
+      "teachingAnchor": "direction",
+      "outcomeId": "outcome-l1-forward-contracts-explain",
+      "practice": [
+        {
+          "promptAnchor": "exercise-direction-prompt",
+          "answerAnchor": "exercise-direction-answer"
+        }
+      ],
+      "teachback": {
+        "promptAnchor": "exercise-explain-teachback-prompt",
+        "answerAnchor": "exercise-explain-teachback-answer"
+      },
+      "verdict": "PASS",
+      "evidence": "Source question is answered using value received versus K, then requires independent reasoning and refusal explanation."
+    },
+    {
+      "unitId": "lecture-1-p022-forward-payoff-table",
+      "page": 22,
+      "region": "upper scenario and central cash-flow table",
+      "teachingAnchor": "source-table",
+      "outcomeId": "outcome-l1-forward-contracts-apply",
+      "practice": [
+        {
+          "promptAnchor": "exercise-payoff-scaffold-prompt",
+          "answerAnchor": "exercise-payoff-scaffold-answer"
+        },
+        {
+          "promptAnchor": "exercise-payoff-transfer-prompt",
+          "answerAnchor": "exercise-payoff-transfer-answer"
+        }
+      ],
+      "teachback": {
+        "promptAnchor": "exercise-apply-teachback-prompt",
+        "answerAnchor": "exercise-apply-teachback-answer"
+      },
+      "verdict": "PASS",
+      "evidence": "Every source row/column is transcribed and interpreted; downside scaffold and new table/quantity exercise test transfer, including actual delivery at zero net payoff."
+    },
+    {
+      "unitId": "lecture-1-p022-long-payoff-formula",
+      "page": 22,
+      "region": "lower general-result box, left equation",
+      "teachingAnchor": "long-formula",
+      "outcomeId": "outcome-l1-forward-contracts-apply",
+      "practice": [
+        {
+          "promptAnchor": "exercise-payoff-scaffold-prompt",
+          "answerAnchor": "exercise-payoff-scaffold-answer"
+        },
+        {
+          "promptAnchor": "exercise-payoff-transfer-prompt",
+          "answerAnchor": "exercise-payoff-transfer-answer"
+        }
+      ],
+      "teachback": {
+        "promptAnchor": "exercise-apply-teachback-prompt",
+        "answerAnchor": "exercise-apply-teachback-answer"
+      },
+      "verdict": "PASS",
+      "evidence": "Receive S_T, pay K, add legs; units, zero boundary and q scaling are explained and applied."
+    },
+    {
+      "unitId": "lecture-1-p022-short-payoff-formula",
+      "page": 22,
+      "region": "lower general-result box, right equation",
+      "teachingAnchor": "short-formula",
+      "outcomeId": "outcome-l1-forward-contracts-apply",
+      "practice": [
+        {
+          "promptAnchor": "exercise-payoff-scaffold-prompt",
+          "answerAnchor": "exercise-payoff-scaffold-answer"
+        },
+        {
+          "promptAnchor": "exercise-payoff-transfer-prompt",
+          "answerAnchor": "exercise-payoff-transfer-answer"
+        }
+      ],
+      "teachback": {
+        "promptAnchor": "exercise-apply-teachback-prompt",
+        "answerAnchor": "exercise-apply-teachback-answer"
+      },
+      "verdict": "PASS",
+      "evidence": "Receive K, deliver S_T, add legs; inverse signs checked against long in scaffold, transfer and diagnostic answer."
+    }
+  ],
+  "formulaChecks": [
+    {
+      "id": "long-per-unit",
+      "anchor": "long-formula",
+      "expression": "S_T-K",
+      "verdict": "PASS",
+      "evidence": "Received one-unit market value S_T plus cash -K; visually agrees with p22 left equation."
+    },
+    {
+      "id": "short-per-unit",
+      "anchor": "short-formula",
+      "expression": "K-S_T",
+      "verdict": "PASS",
+      "evidence": "Received K plus delivered-asset value -S_T; visually agrees with p22 right equation."
+    },
+    {
+      "id": "opposite-sum",
+      "anchor": "checks-and-quantity",
+      "expression": "(S_T-K)+(K-S_T)=0",
+      "verdict": "PASS",
+      "evidence": "Algebraically cancel S_T and K; same matching exchange before costs, not an extra settlement cash flow."
+    },
+    {
+      "id": "long-total",
+      "anchor": "checks-and-quantity",
+      "expression": "q(S_T-K)",
+      "verdict": "PASS",
+      "evidence": "q*S_T-q*K=q*(S_T-K); asset units cancel GBP per unit to GBP."
+    },
+    {
+      "id": "short-total",
+      "anchor": "checks-and-quantity",
+      "expression": "q(K-S_T)",
+      "verdict": "PASS",
+      "evidence": "q*K-q*S_T=q*(K-S_T); opposite total, not an unscaled or partially scaled price."
+    },
+    {
+      "id": "boundary-and-sensitivity",
+      "anchor": "checks-and-quantity",
+      "expression": "S_T=K => both 0; Delta S_T=1 => Delta long=1, Delta short=-1",
+      "verdict": "PASS",
+      "evidence": "Direct substitution/differences; unit changes are per underlying unit. No assumption S_T>=0 needed."
+    },
+    {
+      "id": "conditional-payoff-profit",
+      "anchor": "limits",
+      "expression": "Position profit equals stated payoff under zero-initial-value/no-upfront-payment and no-additional-costs simplification",
+      "verdict": "PASS",
+      "evidence": "Consistent-time-basis treatment of other cashflows is required otherwise. No free-asset, riskless, whole-business-profit or current-value inference."
+    }
+  ],
+  "answerChecks": [
+    {
+      "answer": 1,
+      "promptAnchor": "exercise-terms-scaffold-prompt",
+      "answerAnchor": "exercise-terms-scaffold-answer",
+      "verdict": "PASS",
+      "evidence": "Source p20: one unit, three months, today's 100, delivery 105; firm long pays/receives asset, counterparty short delivers/receives cash. Timing and retry 105 are correct."
+    },
+    {
+      "answer": 2,
+      "promptAnchor": "exercise-terms-transfer-prompt",
+      "answerAnchor": "exercise-terms-transfer-answer",
+      "verdict": "PASS",
+      "evidence": "Six months, K70, customer long, producer short; S60 does not permit refusal. Independent comparison 60-70=-10 supports the qualitative loss, though no numerical payoff is required."
+    },
+    {
+      "answer": 3,
+      "promptAnchor": "exercise-direction-prompt",
+      "answerAnchor": "exercise-direction-answer",
+      "verdict": "PASS",
+      "evidence": "S_T>K makes long's received asset worth more than payment; short is opposite and remains bound. Retry 130-105=25 is correct."
+    },
+    {
+      "answer": 4,
+      "promptAnchor": "exercise-payoff-scaffold-prompt",
+      "answerAnchor": "exercise-payoff-scaffold-answer",
+      "verdict": "PASS",
+      "evidence": "Long +80-105=-25; short +105-80=25; sum 0; one asset still delivered. Both sign/no-option retries are correct."
+    },
+    {
+      "answer": 5,
+      "promptAnchor": "exercise-payoff-transfer-prompt",
+      "answerAnchor": "exercise-payoff-transfer-answer",
+      "verdict": "PASS",
+      "evidence": "K100 rows S80/100/120 give long -20/0/20 and short 20/0/-20, each sum 0. q4,K105,S92 gives asset 368, cash -420, long -52, short 52; per-unit -13 and units correct."
+    },
+    {
+      "answer": 6,
+      "promptAnchor": "exercise-explain-teachback-prompt",
+      "answerAnchor": "exercise-explain-teachback-answer",
+      "verdict": "PASS",
+      "evidence": "Five-sentence model meets requested four-to-six range and includes uncertain price, quantity/date/K, roles, obligations and value-based benefit direction. Retry distinguishes fixed K from unknown maturity spot."
+    },
+    {
+      "answer": 7,
+      "promptAnchor": "exercise-apply-teachback-prompt",
+      "answerAnchor": "exercise-apply-teachback-answer",
+      "verdict": "PASS",
+      "evidence": "All three errors corrected: different-date 105-100=5 is not payoff; physical delivery is one asset for 105, not an extra 25; long 25 and short -25 cancel; profit statement is explicitly limited to zero initial/no upfront and no additional costs."
+    }
+  ],
+  "mechanical": {
+    "ok": true,
+    "anchors": 32,
+    "localLinks": 26,
+    "units": 9,
+    "outcomes": 2,
+    "promptAnswerPairs": 7,
+    "numericCases": [
+      {
+        "id": "source-low",
+        "anchor": "source-table",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 80,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "80",
+          "longPayment": "-105",
+          "longPayoff": "-25",
+          "shortPayoff": "25",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "source-equal",
+        "anchor": "source-table",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 105,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "105",
+          "longPayment": "-105",
+          "longPayoff": "0",
+          "shortPayoff": "0",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "source-high",
+        "anchor": "source-table",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 130,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "130",
+          "longPayment": "-105",
+          "longPayoff": "25",
+          "shortPayoff": "-25",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "foundation",
+        "anchor": "foundations",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 80,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "80",
+          "longPayment": "-105",
+          "longPayoff": "-25",
+          "shortPayoff": "25",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "worked-high",
+        "anchor": "worked-example",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 130,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "130",
+          "longPayment": "-105",
+          "longPayoff": "25",
+          "shortPayoff": "-25",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "worked-boundary",
+        "anchor": "worked-example",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 105,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "105",
+          "longPayment": "-105",
+          "longPayoff": "0",
+          "shortPayoff": "0",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "worked-downside",
+        "anchor": "worked-example",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 80,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "80",
+          "longPayment": "-105",
+          "longPayoff": "-25",
+          "shortPayoff": "25",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "spot-not-strike",
+        "anchor": "limits",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 104,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "104",
+          "longPayment": "-105",
+          "longPayoff": "-1",
+          "shortPayoff": "1",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "answer-4",
+        "anchor": "exercise-payoff-scaffold-answer",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 80,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "80",
+          "longPayment": "-105",
+          "longPayoff": "-25",
+          "shortPayoff": "25",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "golden-low",
+        "anchor": "exercise-payoff-transfer-answer",
+        "inputs": {
+          "deliveryPrice": 100,
+          "maturitySpot": 80,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "80",
+          "longPayment": "-100",
+          "longPayoff": "-20",
+          "shortPayoff": "20",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "golden-equal",
+        "anchor": "exercise-payoff-transfer-answer",
+        "inputs": {
+          "deliveryPrice": 100,
+          "maturitySpot": 100,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "100",
+          "longPayment": "-100",
+          "longPayoff": "0",
+          "shortPayoff": "0",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "golden-high",
+        "anchor": "exercise-payoff-transfer-answer",
+        "inputs": {
+          "deliveryPrice": 100,
+          "maturitySpot": 120,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "120",
+          "longPayment": "-100",
+          "longPayoff": "20",
+          "shortPayoff": "-20",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "quantity",
+        "anchor": "exercise-payoff-transfer-answer",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 92,
+          "quantity": 4
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "368",
+          "longPayment": "-420",
+          "longPayoff": "-52",
+          "shortPayoff": "52",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "answer-7",
+        "anchor": "exercise-apply-teachback-answer",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 130,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "130",
+          "longPayment": "-105",
+          "longPayoff": "25",
+          "shortPayoff": "-25",
+          "sum": "0"
+        }
+      },
+      {
+        "id": "direction-retry",
+        "anchor": "exercise-direction-answer",
+        "inputs": {
+          "deliveryPrice": 105,
+          "maturitySpot": 130,
+          "quantity": 1
+        },
+        "independentlyCalculated": {
+          "longAssetValue": "130",
+          "longPayment": "-105",
+          "longPayoff": "25",
+          "shortPayoff": "-25",
+          "sum": "0"
+        }
+      }
+    ],
+    "sourceTableRows": 3,
+    "transferTableRows": 3,
+    "goldenConstants": 6
+  },
+  "inputHashes": [
+    {
+      "path": "study/wiki/lessons/lesson-l1-forward-contracts.md",
+      "sha256": "918a3efcde1a6b7db1795836e9508a873355aecfadb9a618afe8675606dd15fc",
+      "bytes": 28880
+    },
+    {
+      "path": ".omx/drafts/g006-lecture-1-fragment.md",
+      "sha256": "d5854c0dd015c248df586d59bcd4635ae0c8a323f90d65c6884ec6fda139adf4",
+      "bytes": 39995
+    },
+    {
+      "path": ".omx/drafts/g006-l1-prototype-report.md",
+      "sha256": "e86331854f8cb6b0e5841bd607b76141822adc1267eed82dee21b8c465197ea3",
+      "bytes": 5610
+    },
+    {
+      "path": ".omx/plans/g006-curriculum-decomposition.md",
+      "sha256": "65499695eb14799bf386627e05e888eb68cdea73e7c55ba41f1fddb6d37cdfc4",
+      "bytes": 246800
+    },
+    {
+      "path": "study/sources/manifest.json",
+      "sha256": "b056b054ae56822f6833104207b9e503ab67ce4fd8f623f1cd0e1d9e8a429ea5",
+      "bytes": 19716
+    },
+    {
+      "path": "study/sources/units.json",
+      "sha256": "e28e709ec1252b4f10ba1b5853316b1a2cf0fcbbdbd5f970c9bf83a530d87bfa",
+      "bytes": 3893840
+    },
+    {
+      "path": "context/lecture slides/Lecture 1 Intro to Derivatives.pdf",
+      "sha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "bytes": 657400
+    },
+    {
+      "path": "study/sources/qa-reviews/lecture-1.json",
+      "sha256": "c08f3e1c1f8e60b52235106eb490a232e5fb7d1f736a461665923d8f9562162e",
+      "bytes": 21287
+    },
+    {
+      "path": "study/sources/qa-drafts/lecture-1.json",
+      "sha256": "dd37325de357594cd492feda0f85b5b1af78375c3976263db4df21479b6f97d6",
+      "bytes": 148418
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/ingestion.json",
+      "sha256": "058c77af1b80d3fac29355d85e0dae61ed29c2a34708a46a46e85950bcb0c755",
+      "bytes": 14921
+    },
+    {
+      "path": "study/test/financial-golden-fixtures.json",
+      "sha256": "a9f355e2ad767b75bca87a4f1c387ea1eebe796274fa8d0a46386749331d05d0",
+      "bytes": 135575
+    },
+    {
+      "path": "study/test/financial-golden.test.mjs",
+      "sha256": "16924db2a3b2a809c7b74b61a690cac03b3a48ab8b9a25826219074a05d3dac9",
+      "bytes": 18872
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-020.png",
+      "sha256": "8586095103b2c29ca021e2a389607b2847431895259e9683fbd6fcf997a69eaa",
+      "bytes": 51979
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-020.md",
+      "sha256": "bc4b4b2239277f876e38ba4c4e262af16df89feaa61eeb3b0e4bc23b90801676",
+      "bytes": 954
+    },
+    {
+      "path": "study/sources/annotated/lecture-1/page-020.md",
+      "sha256": "19718f2f8a327ef694f0d2bc2abf5613c32790e11d65e37d26e0edc5740daded",
+      "bytes": 2447
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-021.png",
+      "sha256": "6514c69c7c9102b83ea216d331fba88251abe9ff4b44029ffe93f8d58acac909",
+      "bytes": 44920
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-021.md",
+      "sha256": "4e20715ffe79f3f5683ff0905df935a1a8c39619540dd805ca9e1f5983826b84",
+      "bytes": 1061
+    },
+    {
+      "path": "study/sources/annotated/lecture-1/page-021.md",
+      "sha256": "3cdfea78c868c95d09be6e2b6622eac03f8bac9300c2e09025ef46564d83ca4e",
+      "bytes": 2186
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-022.png",
+      "sha256": "23df5aec358baab6656fffe2b88088cc26e93c47de4822298bc38758769865ce",
+      "bytes": 37590
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-022.md",
+      "sha256": "69ec4f7971de00827189fbdff6a27d2e630026677884d74c319a5151cd9a9aad",
+      "bytes": 1187
+    },
+    {
+      "path": "study/sources/annotated/lecture-1/page-022.md",
+      "sha256": "d977cc8c0fba9a875f64f23ef9d2eb88c9079ddedbf77b8f390e000e901a9516",
+      "bytes": 2787
+    }
+  ],
+  "checks": [
+    {
+      "command": "python3 study/test/g006-reviews/lesson-l1-forward-contracts-advisory-check.py",
+      "result": "PASS; 9 units, 32 anchors, 26 links, 2 outcomes, 7 pairs, 15 numeric cases, both 3-row tables, 6 golden constants, original/QA/raw/image bindings"
+    },
+    {
+      "command": "node --test --test-name-pattern='^forward-(long|short)-(80|100|120):' study/test/financial-golden.test.mjs",
+      "result": "6 tests passed, 0 failed, 0 skipped"
+    },
+    {
+      "command": "node scripts/study-check.mjs --syntax --static",
+      "result": "PASS; node --check and bounded no eval/new Function checks on 33 files; not lint/typecheck/browser verification"
+    }
+  ],
+  "findings": [],
+  "gaps": [
+    "Canonical curriculum snapshot has zero lessons/outcomes/exercises; target lesson and reserved review do not exist as canonical records.",
+    "Preceding lesson and shared concept files are not authored. Embedded foundations suffice for this prototype, but actual global reciprocal links/prerequisites/concept closure remain integration work.",
+    "Full global metadata freeze, canonical review hash closure, all-corpus validation/build/publication and browser/KaTeX rendering have not been verified by this advisory."
+  ],
+  "risks": [
+    "Any changed bound input invalidates this advisory; rerunning the helper rejects changed bytes and does not restore semantic approval.",
+    "Global file hashes are captured as advisory evidence only, not a substitute for the formal validator's transitive closure.",
+    "Prepared content and passed checks do not establish learner mastery."
+  ],
+  "stopCondition": "One-lesson calibration is complete and suitable to guide wider drafting. Formal production approval must follow global integration/freeze and genuinely fresh complete review."
+}

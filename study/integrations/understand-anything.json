@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "upstream": "https://github.com/Egonex-AI/Understand-Anything",
+  "commit": "b8c807c632743ab695ec43cb654a0f1efe216bc8",
+  "status": "disabled-unverified",
+  "pluginInstalled": false,
+  "adapterEnabled": false,
+  "compatibilityVerified": false,
+  "reason": "Pinned upstream schema/parser compatibility has not been executed; no adapter output or feature parity is claimed.",
+  "limitations": [
+    "Upstream article parsing truncates text at 3000 characters and category tours choose at most three articles.",
+    "FD full retrieval, source coverage, teaching and prerequisite authority remain canonical and independent of upstream."
+  ]
+}
