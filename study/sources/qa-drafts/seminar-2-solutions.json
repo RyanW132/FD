@@ -1,0 +1,721 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-2-solutions",
+  "sourceHash": "074aea7f63885981738447cd71ec9856fcc7a52cc822a053ff1de4721931d5d5",
+  "author": "g005-practice-source-author",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "rawPath": "study/sources/extracted/seminar-2-solutions/page-001.md",
+      "rawHash": "336cc17d7b6f47614563f96f6f4bd3b82622d4f38c7bebfacacc0efb9603fce2",
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-001.png",
+      "imageHash": "51164125d49b2960014087203ad58bf30c1bf77ef665fa3a1e6830b7afe4a001",
+      "normalizedPath": "study/sources/annotated/seminar-2-solutions/page-001.md",
+      "normalizedHash": "8ff45ff73c5ea41adc671109a3a62c560b56fe12ff02beaba8d6dd5c4f18f48d",
+      "units": [
+        {
+          "id": "seminar-2-solutions-p001-page-label",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 1,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-001.md",
+            "anchor": "seminar-2-solutions-p001-page-label"
+          },
+          "contentHash": "8ff45ff73c5ea41adc671109a3a62c560b56fe12ff02beaba8d6dd5c4f18f48d",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p001-q1",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Question 1"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-001.md",
+            "anchor": "seminar-2-solutions-p001-q1"
+          },
+          "contentHash": "8ff45ff73c5ea41adc671109a3a62c560b56fe12ff02beaba8d6dd5c4f18f48d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p001-q1-standardization",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Supplied solution: standardization"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-001.md",
+            "anchor": "seminar-2-solutions-p001-q1-standardization"
+          },
+          "contentHash": "8ff45ff73c5ea41adc671109a3a62c560b56fe12ff02beaba8d6dd5c4f18f48d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p001-q1-settlement",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Supplied solution: settlement"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-001.md",
+            "anchor": "seminar-2-solutions-p001-q1-settlement"
+          },
+          "contentHash": "8ff45ff73c5ea41adc671109a3a62c560b56fe12ff02beaba8d6dd5c4f18f48d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p001-q1-credit-risk",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Supplied solution: credit risk — conflicting source wording retained"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-001.md",
+            "anchor": "seminar-2-solutions-p001-q1-credit-risk"
+          },
+          "contentHash": "8ff45ff73c5ea41adc671109a3a62c560b56fe12ff02beaba8d6dd5c4f18f48d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "seminar-2-solutions-p001-option-default-contradiction"
+          ]
+        },
+        {
+          "id": "seminar-2-solutions-p001-q1-participants",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Supplied solution: typical market participants"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-001.md",
+            "anchor": "seminar-2-solutions-p001-q1-participants"
+          },
+          "contentHash": "8ff45ff73c5ea41adc671109a3a62c560b56fe12ff02beaba8d6dd5c4f18f48d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [
+        {
+          "id": "seminar-2-solutions-p001-option-default-contradiction",
+          "scopeRef": {
+            "kind": "source",
+            "unitId": "seminar-2-solutions-p001-q1-credit-risk"
+          },
+          "reason": "The same page acknowledges OTC option-writer default in Settlement but says option buyers face no default risk beyond premium in Credit risk. Preserve both and distinguish underlying-market loss from counterparty default.",
+          "status": "open",
+          "resolutionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-001.md",
+            "anchor": "seminar-2-solutions-p001-q1-credit-risk"
+          }
+        }
+      ],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 2,
+      "rawPath": "study/sources/extracted/seminar-2-solutions/page-002.md",
+      "rawHash": "0da710da23f2587c29a2cddc435e00eed502cb8bd72f90d2646da4a5cd7ba7f8",
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-002.png",
+      "imageHash": "5505ad8f9f2323d67e19a30cf832efe1e35134ee1f889c2955a47f4ede817c6c",
+      "normalizedPath": "study/sources/annotated/seminar-2-solutions/page-002.md",
+      "normalizedHash": "37c415b115b28d01dcdb7ec2951e120fe491e82778d9051ac31811dade8b720c",
+      "units": [
+        {
+          "id": "seminar-2-solutions-p002-page-label",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 2,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-002.md",
+            "anchor": "seminar-2-solutions-p002-page-label"
+          },
+          "contentHash": "37c415b115b28d01dcdb7ec2951e120fe491e82778d9051ac31811dade8b720c",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p002-q2",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 2,
+            "region": "Question 2"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-002.md",
+            "anchor": "seminar-2-solutions-p002-q2"
+          },
+          "contentHash": "37c415b115b28d01dcdb7ec2951e120fe491e82778d9051ac31811dade8b720c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p002-q2-solution",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 2,
+            "region": "Supplied solution: copper hedge"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-002.md",
+            "anchor": "seminar-2-solutions-p002-q2-solution"
+          },
+          "contentHash": "37c415b115b28d01dcdb7ec2951e120fe491e82778d9051ac31811dade8b720c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p002-q3",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 2,
+            "region": "Question 3"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-002.md",
+            "anchor": "seminar-2-solutions-p002-q3"
+          },
+          "contentHash": "37c415b115b28d01dcdb7ec2951e120fe491e82778d9051ac31811dade8b720c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p002-q3-solution",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 2,
+            "region": "Supplied solution: continuous-compounding forward prices"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-002.md",
+            "anchor": "seminar-2-solutions-p002-q3-solution"
+          },
+          "contentHash": "37c415b115b28d01dcdb7ec2951e120fe491e82778d9051ac31811dade8b720c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 3,
+      "rawPath": "study/sources/extracted/seminar-2-solutions/page-003.md",
+      "rawHash": "5f2032e3e1a8f20deccd3c05617a207238e6ed5b793afc4e85d7e18b05d4393a",
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-003.png",
+      "imageHash": "0f33d941cd8cfe45e1aa3805729eb11e031565627090d77f99edd64cb9dd9f2a",
+      "normalizedPath": "study/sources/annotated/seminar-2-solutions/page-003.md",
+      "normalizedHash": "413cc6acb5476beee35a3bdb004a2407c272930b3461100904e227d1535a0919",
+      "units": [
+        {
+          "id": "seminar-2-solutions-p003-page-label",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 3,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-003.md",
+            "anchor": "seminar-2-solutions-p003-page-label"
+          },
+          "contentHash": "413cc6acb5476beee35a3bdb004a2407c272930b3461100904e227d1535a0919",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p003-q4",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 3,
+            "region": "Question 4"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-003.md",
+            "anchor": "seminar-2-solutions-p003-q4"
+          },
+          "contentHash": "413cc6acb5476beee35a3bdb004a2407c272930b3461100904e227d1535a0919",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p003-q4-solution",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 3,
+            "region": "Supplied solution: forward price, expectations and arbitrage"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-003.md",
+            "anchor": "seminar-2-solutions-p003-q4-solution"
+          },
+          "contentHash": "413cc6acb5476beee35a3bdb004a2407c272930b3461100904e227d1535a0919",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p003-q5-start",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 3,
+            "region": "Question 5 (begins; continues on physical page 4)"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-003.md",
+            "anchor": "seminar-2-solutions-p003-q5-start"
+          },
+          "contentHash": "413cc6acb5476beee35a3bdb004a2407c272930b3461100904e227d1535a0919",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 4,
+      "rawPath": "study/sources/extracted/seminar-2-solutions/page-004.md",
+      "rawHash": "30e07d4a8985183f9c579281778b08790df3eebad78860502298176beb9742fa",
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-004.png",
+      "imageHash": "7420b6e992bcf6887e3251f4829738020c4a0cb3cb042be8582ca9ef65b5bc21",
+      "normalizedPath": "study/sources/annotated/seminar-2-solutions/page-004.md",
+      "normalizedHash": "e6d1d2b7aa695f692f2a9412c6e18d6947bf7317160c38b85b3862045dc787bb",
+      "units": [
+        {
+          "id": "seminar-2-solutions-p004-page-label",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 4,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-004.md",
+            "anchor": "seminar-2-solutions-p004-page-label"
+          },
+          "contentHash": "e6d1d2b7aa695f692f2a9412c6e18d6947bf7317160c38b85b3862045dc787bb",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p004-q5-prompts-continued",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 4,
+            "region": "Question 5 (continued)"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-004.md",
+            "anchor": "seminar-2-solutions-p004-q5-prompts-continued"
+          },
+          "contentHash": "e6d1d2b7aa695f692f2a9412c6e18d6947bf7317160c38b85b3862045dc787bb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p004-q5-solution",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 4,
+            "region": "Supplied solution: bond financing and coupon timing"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-004.md",
+            "anchor": "seminar-2-solutions-p004-q5-solution"
+          },
+          "contentHash": "e6d1d2b7aa695f692f2a9412c6e18d6947bf7317160c38b85b3862045dc787bb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p004-q6",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 4,
+            "region": "Question 6"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-004.md",
+            "anchor": "seminar-2-solutions-p004-q6"
+          },
+          "contentHash": "e6d1d2b7aa695f692f2a9412c6e18d6947bf7317160c38b85b3862045dc787bb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 5,
+      "rawPath": "study/sources/extracted/seminar-2-solutions/page-005.md",
+      "rawHash": "c7da165cc98b7b04bf6b0ccf37b5ef33f2410a7721e08323e54338d0d745569d",
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-005.png",
+      "imageHash": "59cf4be87077b60f1fc2a996ff63caaee1bdc3d1912d029ac5dae98c108f4057",
+      "normalizedPath": "study/sources/annotated/seminar-2-solutions/page-005.md",
+      "normalizedHash": "d0daed15d065b7bc0ff6f7e6cf8ef844df98adbb429c338b4cc3a3c1b8fe080d",
+      "units": [
+        {
+          "id": "seminar-2-solutions-p005-page-label",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 5,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+            "anchor": "seminar-2-solutions-p005-page-label"
+          },
+          "contentHash": "d0daed15d065b7bc0ff6f7e6cf8ef844df98adbb429c338b4cc3a3c1b8fe080d",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p005-q6-spot",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 5,
+            "region": "Supplied solution: spot rate"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+            "anchor": "seminar-2-solutions-p005-q6-spot"
+          },
+          "contentHash": "d0daed15d065b7bc0ff6f7e6cf8ef844df98adbb429c338b4cc3a3c1b8fe080d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p005-q6-forward",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 5,
+            "region": "Supplied solution: forward rate"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+            "anchor": "seminar-2-solutions-p005-q6-forward"
+          },
+          "contentHash": "d0daed15d065b7bc0ff6f7e6cf8ef844df98adbb429c338b4cc3a3c1b8fe080d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p005-q6-par",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 5,
+            "region": "Supplied solution: par yield — source qualification"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+            "anchor": "seminar-2-solutions-p005-q6-par"
+          },
+          "contentHash": "d0daed15d065b7bc0ff6f7e6cf8ef844df98adbb429c338b4cc3a3c1b8fe080d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "seminar-2-solutions-p005-par-yield-average-qualification"
+          ]
+        },
+        {
+          "id": "seminar-2-solutions-p005-q6-zero-and-comparison",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 5,
+            "region": "Supplied solution: zero-coupon rate and interpretation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+            "anchor": "seminar-2-solutions-p005-q6-zero-and-comparison"
+          },
+          "contentHash": "d0daed15d065b7bc0ff6f7e6cf8ef844df98adbb429c338b4cc3a3c1b8fe080d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p005-q7",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 5,
+            "region": "Question 7: supplied solution version"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+            "anchor": "seminar-2-solutions-p005-q7"
+          },
+          "contentHash": "d0daed15d065b7bc0ff6f7e6cf8ef844df98adbb429c338b4cc3a3c1b8fe080d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "seminar-2-solutions-p005-coupon-conflict"
+          ]
+        },
+        {
+          "id": "seminar-2-solutions-p005-q7-discount-factor",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 5,
+            "region": "Supplied solution: discount-factor convention"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+            "anchor": "seminar-2-solutions-p005-q7-discount-factor"
+          },
+          "contentHash": "d0daed15d065b7bc0ff6f7e6cf8ef844df98adbb429c338b4cc3a3c1b8fe080d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [
+        {
+          "id": "seminar-2-solutions-p005-par-yield-average-qualification",
+          "scopeRef": {
+            "kind": "source",
+            "unitId": "seminar-2-solutions-p005-q6-par"
+          },
+          "reason": "The printed description of par yield as an average of spot rates weighted by cash flows is not a generally exact simple arithmetic-average rule; par yield is defined by the full discount-factor pricing equation.",
+          "status": "open",
+          "resolutionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+            "anchor": "seminar-2-solutions-p005-q6-par"
+          }
+        },
+        {
+          "id": "seminar-2-solutions-p005-coupon-conflict",
+          "scopeRef": {
+            "kind": "source",
+            "unitId": "seminar-2-solutions-p005-q7"
+          },
+          "reason": "The solution changes the question annual-coupon assumption to semiannual and explicitly chooses continuous zero rates. Treat its numerical answers as conditional, not uniquely implied by the question.",
+          "status": "open",
+          "resolutionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+            "anchor": "seminar-2-solutions-p005-q7"
+          }
+        }
+      ],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 6,
+      "rawPath": "study/sources/extracted/seminar-2-solutions/page-006.md",
+      "rawHash": "f61c8c95f1e6c9ffc93c4685c6e02b00235ad8546fc472342b0c7fa86d44df15",
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-006.png",
+      "imageHash": "a9533c37014fdac9ce0be2d840d9dc0b399d909671288d4f72fd2b37b4fed025",
+      "normalizedPath": "study/sources/annotated/seminar-2-solutions/page-006.md",
+      "normalizedHash": "008673983ab1ed99cc3b08c514e1f36099b4aa74ec9adcd3cab80a6b5fe9535b",
+      "units": [
+        {
+          "id": "seminar-2-solutions-p006-page-label",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 6,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-006.md",
+            "anchor": "seminar-2-solutions-p006-page-label"
+          },
+          "contentHash": "008673983ab1ed99cc3b08c514e1f36099b4aa74ec9adcd3cab80a6b5fe9535b",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p006-q7-half-year",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 6,
+            "region": "Supplied solution: 0.5-year zero rate"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-006.md",
+            "anchor": "seminar-2-solutions-p006-q7-half-year"
+          },
+          "contentHash": "008673983ab1ed99cc3b08c514e1f36099b4aa74ec9adcd3cab80a6b5fe9535b",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p006-q7-one-year",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 6,
+            "region": "Supplied solution: one-year zero rate"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-006.md",
+            "anchor": "seminar-2-solutions-p006-q7-one-year"
+          },
+          "contentHash": "008673983ab1ed99cc3b08c514e1f36099b4aa74ec9adcd3cab80a6b5fe9535b",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "seminar-2-solutions-p006-rounding-equalities"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "seminar-2-solutions-p006-rounding-equalities",
+          "scopeRef": {
+            "kind": "source",
+            "unitId": "seminar-2-solutions-p006-q7-one-year"
+          },
+          "reason": "The source displays equalities involving rounded 0.0609 and 0.95718. They are approximations; use exact half-year discount factor 0.97 for verification.",
+          "status": "open",
+          "resolutionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-006.md",
+            "anchor": "seminar-2-solutions-p006-q7-one-year"
+          }
+        }
+      ],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 7,
+      "rawPath": "study/sources/extracted/seminar-2-solutions/page-007.md",
+      "rawHash": "f168c471da1de3697e3b18557200710fef5cb4d103ff02cf60ece9fc9907d38a",
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-007.png",
+      "imageHash": "ca308469a281eb6c5b0057ae3977a48562abefdb83897bb3fb219203b49dbde1",
+      "normalizedPath": "study/sources/annotated/seminar-2-solutions/page-007.md",
+      "normalizedHash": "83f00afd21ba855ee4917d8f23b7dcd677eb394db78d0011d60ff3c1c2f37780",
+      "units": [
+        {
+          "id": "seminar-2-solutions-p007-page-label",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 7,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-007.md",
+            "anchor": "seminar-2-solutions-p007-page-label"
+          },
+          "contentHash": "83f00afd21ba855ee4917d8f23b7dcd677eb394db78d0011d60ff3c1c2f37780",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-solutions-p007-q7-extension",
+          "sourceId": "seminar-2-solutions",
+          "locator": {
+            "pdfPage": 7,
+            "region": "Supplied solution: extending the zero curve"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-solutions/page-007.md",
+            "anchor": "seminar-2-solutions-p007-q7-extension"
+          },
+          "contentHash": "83f00afd21ba855ee4917d8f23b7dcd677eb394db78d0011d60ff3c1c2f37780",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    }
+  ]
+}

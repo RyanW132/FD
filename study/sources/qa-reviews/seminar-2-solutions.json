@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-2-solutions",
+  "sourceHash": "074aea7f63885981738447cd71ec9856fcc7a52cc822a053ff1de4721931d5d5",
+  "draftPath": "study/sources/qa-drafts/seminar-2-solutions.json",
+  "draftHash": "ecf7e6052c7d64ac0ec03f09cd3c9f2709a3b5dd875869de32a4bd8eac249c5f",
+  "reviewer": "g005-practice-source-qa",
+  "reviewedAt": "2026-10-22T14:33:49.579177+00:00",
+  "verdict": "approved",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "verdict": "approved",
+      "rawHash": "336cc17d7b6f47614563f96f6f4bd3b82622d4f38c7bebfacacc0efb9603fce2",
+      "imageHash": "51164125d49b2960014087203ad58bf30c1bf77ef665fa3a1e6830b7afe4a001",
+      "normalizedHash": "8ff45ff73c5ea41adc671109a3a62c560b56fe12ff02beaba8d6dd5c4f18f48d",
+      "unitIds": [
+        "seminar-2-solutions-p001-page-label",
+        "seminar-2-solutions-p001-q1",
+        "seminar-2-solutions-p001-q1-standardization",
+        "seminar-2-solutions-p001-q1-settlement",
+        "seminar-2-solutions-p001-q1-credit-risk",
+        "seminar-2-solutions-p001-q1-participants"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 2,
+      "verdict": "approved",
+      "rawHash": "0da710da23f2587c29a2cddc435e00eed502cb8bd72f90d2646da4a5cd7ba7f8",
+      "imageHash": "5505ad8f9f2323d67e19a30cf832efe1e35134ee1f889c2955a47f4ede817c6c",
+      "normalizedHash": "37c415b115b28d01dcdb7ec2951e120fe491e82778d9051ac31811dade8b720c",
+      "unitIds": [
+        "seminar-2-solutions-p002-page-label",
+        "seminar-2-solutions-p002-q2",
+        "seminar-2-solutions-p002-q2-solution",
+        "seminar-2-solutions-p002-q3",
+        "seminar-2-solutions-p002-q3-solution"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 3,
+      "verdict": "approved",
+      "rawHash": "5f2032e3e1a8f20deccd3c05617a207238e6ed5b793afc4e85d7e18b05d4393a",
+      "imageHash": "0f33d941cd8cfe45e1aa3805729eb11e031565627090d77f99edd64cb9dd9f2a",
+      "normalizedHash": "413cc6acb5476beee35a3bdb004a2407c272930b3461100904e227d1535a0919",
+      "unitIds": [
+        "seminar-2-solutions-p003-page-label",
+        "seminar-2-solutions-p003-q4",
+        "seminar-2-solutions-p003-q4-solution",
+        "seminar-2-solutions-p003-q5-start"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 4,
+      "verdict": "approved",
+      "rawHash": "30e07d4a8985183f9c579281778b08790df3eebad78860502298176beb9742fa",
+      "imageHash": "7420b6e992bcf6887e3251f4829738020c4a0cb3cb042be8582ca9ef65b5bc21",
+      "normalizedHash": "e6d1d2b7aa695f692f2a9412c6e18d6947bf7317160c38b85b3862045dc787bb",
+      "unitIds": [
+        "seminar-2-solutions-p004-page-label",
+        "seminar-2-solutions-p004-q5-prompts-continued",
+        "seminar-2-solutions-p004-q5-solution",
+        "seminar-2-solutions-p004-q6"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 5,
+      "verdict": "approved",
+      "rawHash": "c7da165cc98b7b04bf6b0ccf37b5ef33f2410a7721e08323e54338d0d745569d",
+      "imageHash": "59cf4be87077b60f1fc2a996ff63caaee1bdc3d1912d029ac5dae98c108f4057",
+      "normalizedHash": "d0daed15d065b7bc0ff6f7e6cf8ef844df98adbb429c338b4cc3a3c1b8fe080d",
+      "unitIds": [
+        "seminar-2-solutions-p005-page-label",
+        "seminar-2-solutions-p005-q6-spot",
+        "seminar-2-solutions-p005-q6-forward",
+        "seminar-2-solutions-p005-q6-par",
+        "seminar-2-solutions-p005-q6-zero-and-comparison",
+        "seminar-2-solutions-p005-q7",
+        "seminar-2-solutions-p005-q7-discount-factor"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 6,
+      "verdict": "approved",
+      "rawHash": "f61c8c95f1e6c9ffc93c4685c6e02b00235ad8546fc472342b0c7fa86d44df15",
+      "imageHash": "a9533c37014fdac9ce0be2d840d9dc0b399d909671288d4f72fd2b37b4fed025",
+      "normalizedHash": "008673983ab1ed99cc3b08c514e1f36099b4aa74ec9adcd3cab80a6b5fe9535b",
+      "unitIds": [
+        "seminar-2-solutions-p006-page-label",
+        "seminar-2-solutions-p006-q7-half-year",
+        "seminar-2-solutions-p006-q7-one-year"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 7,
+      "verdict": "approved",
+      "rawHash": "f168c471da1de3697e3b18557200710fef5cb4d103ff02cf60ece9fc9907d38a",
+      "imageHash": "ca308469a281eb6c5b0057ae3977a48562abefdb83897bb3fb219203b49dbde1",
+      "normalizedHash": "83f00afd21ba855ee4917d8f23b7dcd677eb394db78d0011d60ff3c1c2f37780",
+      "unitIds": [
+        "seminar-2-solutions-p007-page-label",
+        "seminar-2-solutions-p007-q7-extension"
+      ],
+      "allRegionsAccounted": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "reviewer": "g005-source-qa-lecture12",
+  "reviewedAt": "2026-10-22T14:17:15.687924+00:00",
+  "verdict": "request-changes",
+  "reviewedPages": 67,
+  "reviewedUnits": 262,
+  "findings": [
+    {
+      "path": "study/sources/annotated/lecture-1/page-037.md",
+      "anchor": "lecture-1-p037-call-break-even-question",
+      "reviewedHash": "693501ad97759f11ae1a97848225b2a4f1367734532883aa1f573f744dd4acda",
+      "requiredCorrection": "Retain the source convention of ignoring interest on the initial premium inside the question span, before its next anchor. It is currently only in the separate profit/answer spans."
+    },
+    {
+      "path": "study/sources/annotated/lecture-1/page-027.md",
+      "anchor": "lecture-1-p027-paired-long-diagram",
+      "reviewedHash": "72ef6d5410bb266f645c56ddf5cf894ccf6812943dcc06779f6f003a147fce28",
+      "requiredCorrection": "Make payoff/profit equality assumptions explicit: zero initial value/no premium and no extra financing/transaction costs, not merely unspecified initial-value/financing/cost assumptions."
+    },
+    {
+      "path": "study/sources/annotated/lecture-2/page-007.md",
+      "anchor": "lecture-2-p007-arbitrage-trade",
+      "reviewedHash": "839701a6d837159cc9318d7725d6558b2a38d761933e4bf76f3e95f9eca648b9",
+      "requiredCorrection": "Include the original footnote idealisations inside this trade span: ignoring transaction costs, taxes, bid\u2013ask spreads, trading restrictions, and settlement; preserve that the source line visibly ends at settlement. Do not imply $3 is net after costs."
+    },
+    {
+      "path": "study/sources/annotated/lecture-2/page-024.md",
+      "anchor": "lecture-2-p024-target-beta-formula",
+      "reviewedHash": "4b4e1f4dfdd9c8bf72581860525c149ee59317ccba0066ca8a309ba48cc83548",
+      "requiredCorrection": "Retain signed-to-short convention inside formula span: positive short, negative buy magnitude. It is currently only in following direction span."
+    },
+    {
+      "path": "study/sources/annotated/lecture-2/page-024.md",
+      "anchor": "lecture-2-p024-beta-neutral-special-case",
+      "reviewedHash": "4b4e1f4dfdd9c8bf72581860525c149ee59317ccba0066ca8a309ba48cc83548",
+      "requiredCorrection": "Retain same signed-to-short convention and clarify this removes estimated systematic market exposure, not all risk, inside this isolated span."
+    },
+    {
+      "path": "study/sources/annotated/lecture-2/page-007.md",
+      "anchor": "lecture-2-p007-cross-market-quotes",
+      "reviewedHash": "839701a6d837159cc9318d7725d6558b2a38d761933e4bf76f3e95f9eca648b9",
+      "requiredCorrection": "Replace overly broad authored claim that no currency-consistent arbitrage follows literal labels. Literal USD100 versus USD150 could imply reverse gross spread under frictionless assumptions. Restrict the caveat to the source's displayed GBP conversion/$3/buy-New-York conclusion not following literal dollar labels; do not invent an official solution."
+    }
+  ]
+}

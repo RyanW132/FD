@@ -1,0 +1,63 @@
+{
+  "status": "provisional issue registry; not independent review certification",
+  "issues": [
+    {
+      "id": "pilot-source-conflict-l3-p11",
+      "pageId": "lecture-3-pdfPage-011",
+      "kind": "source-numerical-error",
+      "reportedBy": "independent pilot visual QA via conductor; verifier owns review evidence",
+      "originalClaim": "The source prints r=10.15% and equivalent semiannual nominal rate 10.41%.",
+      "correctionNotOriginal": "From the stated growth 5000 to 5800 in 1.5 years, r=ln(5800/5000)/1.5=0.098946670079 (9.894667%). Equivalent nominal semiannual rate 2*expm1(r/2)=0.101435148997 (10.143515%).",
+      "disposition": "Preserve original raw extraction/image; do not teach printed values as correct.",
+      "teachingUse": "requires-labelled-correction-and-independent-review",
+      "reviewEvidence": {
+        "reviewer": "/root/g001_pilot_visual_qa",
+        "issueId": "PILOT-SOURCE-L3-P11",
+        "path": "study/pilot/qa/visual-review.json"
+      }
+    },
+    {
+      "id": "pilot-source-conflict-l1-p26",
+      "pageId": "lecture-1-pdfPage-026",
+      "kind": "source-terminology-conflict",
+      "reportedBy": "pilot extraction author; independent assessment requested",
+      "originalClaim": "The graph vertical axis reads Profit, while title/context/formula describe the long-forward payoff ST-K.",
+      "correctionNotOriginal": "Original graph description: vertical axis is labelled \u201cProfit\u201d; horizontal axis is \u201cPrice of Underlying at Maturity, S_T\u201d. The straight line slopes upward +1, crosses the horizontal zero line at K, is negative to the left of K and positive to its right. The surrounding formula calls this payoff S_T-K. Preserve this terminology conflict. Profit equals payoff only under explicit zero-initial-value/no additional financing-cost assumptions; do not silently relabel the original axis.",
+      "disposition": "Original axis and accompanying source language retained; conflict visible.",
+      "teachingUse": "requires-source-conflict-label",
+      "reviewEvidence": {
+        "reviewer": "/root/g001_pilot_visual_qa",
+        "issueId": "PILOT-FIGURE-L1-P26",
+        "path": "study/pilot/qa/visual-review.json"
+      }
+    },
+    {
+      "id": "pilot-source-convention-l3-p16",
+      "pageId": "lecture-3-pdfPage-016",
+      "kind": "source-convention-caveat",
+      "reportedBy": "independent pilot visual QA",
+      "originalClaim": "Coupon rate equals yield implies price at par.",
+      "correctionNotOriginal": "This comparison requires matched payment/compounding conventions. The nominal semiannual coupon rate is not directly comparable to the continuously compounded yield on neighboring p15. State the convention before using the at-par rule.",
+      "disposition": "Preserve source rule; explicitly teach the missing convention assumption.",
+      "reviewEvidence": {
+        "reviewer": "/root/g001_pilot_visual_qa",
+        "issueId": "PILOT-CONVENTION-L3-P16",
+        "path": "study/pilot/qa/visual-review.json"
+      }
+    },
+    {
+      "id": "pilot-source-convention-seminar2-q7",
+      "pageId": "seminar-2-problems-pdfPage-002",
+      "kind": "source-schedule-ambiguity",
+      "reportedBy": "independent pilot visual QA",
+      "originalClaim": "Question 7 specifies annual coupon payments with fractional maturities.",
+      "correctionNotOriginal": "Cashflow schedule and zero-rate compounding convention are not fully established by this prompt; state any assumptions and do not infer semiannual payment from lecture examples.",
+      "disposition": "Keep ambiguity visible; seek explicit convention before a definitive solution.",
+      "reviewEvidence": {
+        "reviewer": "/root/g001_pilot_visual_qa",
+        "issueId": "PILOT-CONVENTION-S2-Q7",
+        "path": "study/pilot/qa/visual-review.json"
+      }
+    }
+  ]
+}

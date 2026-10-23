@@ -1,0 +1,3692 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lecture-3",
+  "sourceHash": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+  "author": "/root/g005_sources_lecture34",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "rawPath": "study/sources/extracted/lecture-3/page-001.md",
+      "rawHash": "6b5d24fa3f9e966b64f4de269470551df71a9a803ab3d31a1a2e9ebbc667a5a1",
+      "imagePath": "study/sources/assets/lecture-3/page-001.png",
+      "imageHash": "acf77163c3ec5e7d886c452a9a3c01f10874a9e2269fea6c43f1c6edcefccbe3",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-001.md",
+      "normalizedHash": "6a8e4a5cebbd222224b6eb957831ea801c9cbef2b85f2bb3a4ce31ac0a0c4d01",
+      "units": [
+        {
+          "id": "lecture-3-p001-title",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Title block"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-001.md",
+            "anchor": "lecture-3-p001-title"
+          },
+          "contentHash": "6a8e4a5cebbd222224b6eb957831ea801c9cbef2b85f2bb3a4ce31ac0a0c4d01",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 1 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-01.png; SHA-256 acf77163c3ec5e7d886c452a9a3c01f10874a9e2269fea6c43f1c6edcefccbe3. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 1 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction.",
+        "Title/outline page classified administrative; no fabricated substantive formula or instructional outcome."
+      ]
+    },
+    {
+      "pdfPage": 2,
+      "rawPath": "study/sources/extracted/lecture-3/page-002.md",
+      "rawHash": "a30ced0823f0110c2af9de140cb0beeca770a059ac8318977a712ee0b9abd710",
+      "imagePath": "study/sources/assets/lecture-3/page-002.png",
+      "imageHash": "75a09bc3fb9e40c1a65d283cb4eb6a0c9fc16f261acaf22c24710f1522a20a5a",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-002.md",
+      "normalizedHash": "c30cf3eb9cfdfae9248ba9cb2d2d9f5eb912d7090c2f585cba696de3c8db646d",
+      "units": [
+        {
+          "id": "lecture-3-p002-outline",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 2,
+            "printedPage": "2",
+            "slideLabel": "2 / 41",
+            "region": "Main outline"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-002.md",
+            "anchor": "lecture-3-p002-outline"
+          },
+          "contentHash": "c30cf3eb9cfdfae9248ba9cb2d2d9f5eb912d7090c2f585cba696de3c8db646d",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p002-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 2,
+            "printedPage": "2",
+            "slideLabel": "2 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-002.md",
+            "anchor": "lecture-3-p002-page-furniture"
+          },
+          "contentHash": "c30cf3eb9cfdfae9248ba9cb2d2d9f5eb912d7090c2f585cba696de3c8db646d",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 2 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-02.png; SHA-256 75a09bc3fb9e40c1a65d283cb4eb6a0c9fc16f261acaf22c24710f1522a20a5a. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 2 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction.",
+        "Title/outline page classified administrative; no fabricated substantive formula or instructional outcome."
+      ]
+    },
+    {
+      "pdfPage": 3,
+      "rawPath": "study/sources/extracted/lecture-3/page-003.md",
+      "rawHash": "e23938d1c8e92c5515819603778fb68f9e43e70c4cdf8b496f2833cc44c7e6b1",
+      "imagePath": "study/sources/assets/lecture-3/page-003.png",
+      "imageHash": "90714622c4b1a01d39b125106450e18b80ca741f9b463b01915cd6a6822f230b",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-003.md",
+      "normalizedHash": "a406b39686a060a292be99877348da3693c719df51dd5e7d03aa1c844e290e8f",
+      "units": [
+        {
+          "id": "lecture-3-p003-dated-cashflows",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 3,
+            "printedPage": "3",
+            "slideLabel": "3 / 41",
+            "region": "Main introductory paragraph and bullet list"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-003.md",
+            "anchor": "lecture-3-p003-dated-cashflows"
+          },
+          "contentHash": "a406b39686a060a292be99877348da3693c719df51dd5e7d03aa1c844e290e8f",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p003-central-question",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 3,
+            "printedPage": "3",
+            "slideLabel": "3 / 41",
+            "region": "Lower central-question box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-003.md",
+            "anchor": "lecture-3-p003-central-question"
+          },
+          "contentHash": "a406b39686a060a292be99877348da3693c719df51dd5e7d03aa1c844e290e8f",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p003-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 3,
+            "printedPage": "3",
+            "slideLabel": "3 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-003.md",
+            "anchor": "lecture-3-p003-page-furniture"
+          },
+          "contentHash": "a406b39686a060a292be99877348da3693c719df51dd5e7d03aa1c844e290e8f",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 3 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-03.png; SHA-256 90714622c4b1a01d39b125106450e18b80ca741f9b463b01915cd6a6822f230b. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 4,
+      "rawPath": "study/sources/extracted/lecture-3/page-004.md",
+      "rawHash": "4b5c561639f53755e0677f5abaacc8f2d78c83c27efab308e5320107e3aaabd9",
+      "imagePath": "study/sources/assets/lecture-3/page-004.png",
+      "imageHash": "ebca8810cdf2e2f31154caab8de1d12ff3981142eeda74da3013289a51fe375d",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-004.md",
+      "normalizedHash": "270f81d8a464ee581f084c2ee52e12271f36252e2ce4518f764811b24ce7d5fd",
+      "units": [
+        {
+          "id": "lecture-3-p004-government-rates",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 4,
+            "printedPage": "4",
+            "slideLabel": "4 / 41",
+            "region": "Upper definition row"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-004.md",
+            "anchor": "lecture-3-p004-government-rates"
+          },
+          "contentHash": "270f81d8a464ee581f084c2ee52e12271f36252e2ce4518f764811b24ce7d5fd",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p004-policy-rates",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 4,
+            "printedPage": "4",
+            "slideLabel": "4 / 41",
+            "region": "Second definition row"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-004.md",
+            "anchor": "lecture-3-p004-policy-rates"
+          },
+          "contentHash": "270f81d8a464ee581f084c2ee52e12271f36252e2ce4518f764811b24ce7d5fd",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p004-repo-rates",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 4,
+            "printedPage": "4",
+            "slideLabel": "4 / 41",
+            "region": "Third definition row"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-004.md",
+            "anchor": "lecture-3-p004-repo-rates"
+          },
+          "contentHash": "270f81d8a464ee581f084c2ee52e12271f36252e2ce4518f764811b24ce7d5fd",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p004-reference-rates",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 4,
+            "printedPage": "4",
+            "slideLabel": "4 / 41",
+            "region": "Fourth definition row"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-004.md",
+            "anchor": "lecture-3-p004-reference-rates"
+          },
+          "contentHash": "270f81d8a464ee581f084c2ee52e12271f36252e2ce4518f764811b24ce7d5fd",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p004-risk-free-rate",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 4,
+            "printedPage": "4",
+            "slideLabel": "4 / 41",
+            "region": "Lower risk-free-rate box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-004.md",
+            "anchor": "lecture-3-p004-risk-free-rate"
+          },
+          "contentHash": "270f81d8a464ee581f084c2ee52e12271f36252e2ce4518f764811b24ce7d5fd",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p004-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 4,
+            "printedPage": "4",
+            "slideLabel": "4 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-004.md",
+            "anchor": "lecture-3-p004-page-furniture"
+          },
+          "contentHash": "270f81d8a464ee581f084c2ee52e12271f36252e2ce4518f764811b24ce7d5fd",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 4 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-04.png; SHA-256 ebca8810cdf2e2f31154caab8de1d12ff3981142eeda74da3013289a51fe375d. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 6 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 5,
+      "rawPath": "study/sources/extracted/lecture-3/page-005.md",
+      "rawHash": "c953893ba3e86344bc4ea036bf904cb64bad7fc53c9d030260c74e6d971273cd",
+      "imagePath": "study/sources/assets/lecture-3/page-005.png",
+      "imageHash": "2395a9d33c64ffc12767175bb4e2f5fa5aa8a1eb1ba65fb58d374d0377c8d058",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-005.md",
+      "normalizedHash": "2e576bec002310d502dad2ffe42c86b3c7ef84bafea57882aed12eb34b2302cb",
+      "units": [
+        {
+          "id": "lecture-3-p005-libor-status",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 5,
+            "printedPage": "5",
+            "slideLabel": "5 / 41",
+            "region": "Opening paragraph"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-005.md",
+            "anchor": "lecture-3-p005-libor-status"
+          },
+          "contentHash": "2e576bec002310d502dad2ffe42c86b3c7ef84bafea57882aed12eb34b2302cb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p005-sonia",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 5,
+            "printedPage": "5",
+            "slideLabel": "5 / 41",
+            "region": "First bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-005.md",
+            "anchor": "lecture-3-p005-sonia"
+          },
+          "contentHash": "2e576bec002310d502dad2ffe42c86b3c7ef84bafea57882aed12eb34b2302cb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p005-sofr",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 5,
+            "printedPage": "5",
+            "slideLabel": "5 / 41",
+            "region": "Second bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-005.md",
+            "anchor": "lecture-3-p005-sofr"
+          },
+          "contentHash": "2e576bec002310d502dad2ffe42c86b3c7ef84bafea57882aed12eb34b2302cb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p005-overnight-compounding",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 5,
+            "printedPage": "5",
+            "slideLabel": "5 / 41",
+            "region": "Third bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-005.md",
+            "anchor": "lecture-3-p005-overnight-compounding"
+          },
+          "contentHash": "2e576bec002310d502dad2ffe42c86b3c7ef84bafea57882aed12eb34b2302cb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p005-fra-convention",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 5,
+            "printedPage": "5",
+            "slideLabel": "5 / 41",
+            "region": "Lower teaching-convention box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-005.md",
+            "anchor": "lecture-3-p005-fra-convention"
+          },
+          "contentHash": "2e576bec002310d502dad2ffe42c86b3c7ef84bafea57882aed12eb34b2302cb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p005-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 5,
+            "printedPage": "5",
+            "slideLabel": "5 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-005.md",
+            "anchor": "lecture-3-p005-page-furniture"
+          },
+          "contentHash": "2e576bec002310d502dad2ffe42c86b3c7ef84bafea57882aed12eb34b2302cb",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 5 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-05.png; SHA-256 2395a9d33c64ffc12767175bb4e2f5fa5aa8a1eb1ba65fb58d374d0377c8d058. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 6 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 6,
+      "rawPath": "study/sources/extracted/lecture-3/page-006.md",
+      "rawHash": "eec5d86ed3404e335483f04bef2df63667110136b0c9f528b80df0d70c130cf6",
+      "imagePath": "study/sources/assets/lecture-3/page-006.png",
+      "imageHash": "e412a3f82001000d3ee1331001c3acafc424f81342f748f01f52caa7204e827a",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-006.md",
+      "normalizedHash": "bf85d88799a613c02e540b9d0b4de55bc6232c368f5ded938a48e8a936cd6b4a",
+      "units": [
+        {
+          "id": "lecture-3-p006-quotation-convention",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 6,
+            "printedPage": "6",
+            "slideLabel": "6 / 41",
+            "region": "Opening and closing paragraphs"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-006.md",
+            "anchor": "lecture-3-p006-quotation-convention"
+          },
+          "contentHash": "bf85d88799a613c02e540b9d0b4de55bc6232c368f5ded938a48e8a936cd6b4a",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p006-one-year-example",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 6,
+            "printedPage": "6",
+            "slideLabel": "6 / 41",
+            "region": "One-year investment box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-006.md",
+            "anchor": "lecture-3-p006-one-year-example"
+          },
+          "contentHash": "bf85d88799a613c02e540b9d0b4de55bc6232c368f5ded938a48e8a936cd6b4a",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p006-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 6,
+            "printedPage": "6",
+            "slideLabel": "6 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-006.md",
+            "anchor": "lecture-3-p006-page-furniture"
+          },
+          "contentHash": "bf85d88799a613c02e540b9d0b4de55bc6232c368f5ded938a48e8a936cd6b4a",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 6 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-06.png; SHA-256 e412a3f82001000d3ee1331001c3acafc424f81342f748f01f52caa7204e827a. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 7,
+      "rawPath": "study/sources/extracted/lecture-3/page-007.md",
+      "rawHash": "495cb323d19ae9acccf2a9e1c0438bf0e4789e00246add5dee20fb1475604388",
+      "imagePath": "study/sources/assets/lecture-3/page-007.png",
+      "imageHash": "d9ad519955e7f7f811e5ddc4a3fdc9a9c9c1dedd2a71f284cef97783a01de16d",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-007.md",
+      "normalizedHash": "324e89cad3578dd46d8a2a5c329125af6f328ba2c909e91df18c282a16e2180d",
+      "units": [
+        {
+          "id": "lecture-3-p007-future-value",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 7,
+            "printedPage": "7",
+            "slideLabel": "7 / 41",
+            "region": "Upper definition and boxed formula"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-007.md",
+            "anchor": "lecture-3-p007-future-value"
+          },
+          "contentHash": "324e89cad3578dd46d8a2a5c329125af6f328ba2c909e91df18c282a16e2180d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p007-present-value",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 7,
+            "printedPage": "7",
+            "slideLabel": "7 / 41",
+            "region": "Middle boxed formula"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-007.md",
+            "anchor": "lecture-3-p007-present-value"
+          },
+          "contentHash": "324e89cad3578dd46d8a2a5c329125af6f328ba2c909e91df18c282a16e2180d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p007-quarterly-example",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 7,
+            "printedPage": "7",
+            "slideLabel": "7 / 41",
+            "region": "Lower example"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-007.md",
+            "anchor": "lecture-3-p007-quarterly-example"
+          },
+          "contentHash": "324e89cad3578dd46d8a2a5c329125af6f328ba2c909e91df18c282a16e2180d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p007-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 7,
+            "printedPage": "7",
+            "slideLabel": "7 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-007.md",
+            "anchor": "lecture-3-p007-page-furniture"
+          },
+          "contentHash": "324e89cad3578dd46d8a2a5c329125af6f328ba2c909e91df18c282a16e2180d",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 7 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-07.png; SHA-256 d9ad519955e7f7f811e5ddc4a3fdc9a9c9c1dedd2a71f284cef97783a01de16d. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 8,
+      "rawPath": "study/sources/extracted/lecture-3/page-008.md",
+      "rawHash": "86362cae8a905b4894c3ac7127b925628b1ae5cae992ffefb00bcbc50886e1ab",
+      "imagePath": "study/sources/assets/lecture-3/page-008.png",
+      "imageHash": "61b99356fccf86dff51fe1fa1b859ef92814e6e874e1a3946473fc0e28447b14",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-008.md",
+      "normalizedHash": "56ea41c708ca19f0b693ea99270d9a5408d8614ba5803760d81bf76673d352db",
+      "units": [
+        {
+          "id": "lecture-3-p008-frequency-table",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 8,
+            "printedPage": "8",
+            "slideLabel": "8 / 41",
+            "region": "Upper table"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-008.md",
+            "anchor": "lecture-3-p008-frequency-table"
+          },
+          "contentHash": "56ea41c708ca19f0b693ea99270d9a5408d8614ba5803760d81bf76673d352db",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p008-effective-annual-rate",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 8,
+            "printedPage": "8",
+            "slideLabel": "8 / 41",
+            "region": "Lower definition and equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-008.md",
+            "anchor": "lecture-3-p008-effective-annual-rate"
+          },
+          "contentHash": "56ea41c708ca19f0b693ea99270d9a5408d8614ba5803760d81bf76673d352db",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p008-effective-example",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 8,
+            "printedPage": "8",
+            "slideLabel": "8 / 41",
+            "region": "Last sentence"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-008.md",
+            "anchor": "lecture-3-p008-effective-example"
+          },
+          "contentHash": "56ea41c708ca19f0b693ea99270d9a5408d8614ba5803760d81bf76673d352db",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p008-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 8,
+            "printedPage": "8",
+            "slideLabel": "8 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-008.md",
+            "anchor": "lecture-3-p008-page-furniture"
+          },
+          "contentHash": "56ea41c708ca19f0b693ea99270d9a5408d8614ba5803760d81bf76673d352db",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 8 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-08.png; SHA-256 61b99356fccf86dff51fe1fa1b859ef92814e6e874e1a3946473fc0e28447b14. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 9,
+      "rawPath": "study/sources/extracted/lecture-3/page-009.md",
+      "rawHash": "9c9b385538333043578ef8e71a7d333e60875b4266ffc31752bc9c236835f38a",
+      "imagePath": "study/sources/assets/lecture-3/page-009.png",
+      "imageHash": "bc82da1cae12f1e7202202a087fd55a224f4c24fe9c25b343902a9842c85d47b",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-009.md",
+      "normalizedHash": "940b1a1e1d8c76b215bfc36f7ed40aba0559f4869e9934f72ca607dd3d857cc6",
+      "units": [
+        {
+          "id": "lecture-3-p009-exponential-limit",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 9,
+            "printedPage": "9",
+            "slideLabel": "9 / 41",
+            "region": "Upper defining equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-009.md",
+            "anchor": "lecture-3-p009-exponential-limit"
+          },
+          "contentHash": "940b1a1e1d8c76b215bfc36f7ed40aba0559f4869e9934f72ca607dd3d857cc6",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p009-accumulation-limit",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 9,
+            "printedPage": "9",
+            "slideLabel": "9 / 41",
+            "region": "Middle equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-009.md",
+            "anchor": "lecture-3-p009-accumulation-limit"
+          },
+          "contentHash": "940b1a1e1d8c76b215bfc36f7ed40aba0559f4869e9934f72ca607dd3d857cc6",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p009-continuous-values",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 9,
+            "printedPage": "9",
+            "slideLabel": "9 / 41",
+            "region": "Lower boxed formulas"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-009.md",
+            "anchor": "lecture-3-p009-continuous-values"
+          },
+          "contentHash": "940b1a1e1d8c76b215bfc36f7ed40aba0559f4869e9934f72ca607dd3d857cc6",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p009-sign-check",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 9,
+            "printedPage": "9",
+            "slideLabel": "9 / 41",
+            "region": "Bottom sign-check box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-009.md",
+            "anchor": "lecture-3-p009-sign-check"
+          },
+          "contentHash": "940b1a1e1d8c76b215bfc36f7ed40aba0559f4869e9934f72ca607dd3d857cc6",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p009-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 9,
+            "printedPage": "9",
+            "slideLabel": "9 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-009.md",
+            "anchor": "lecture-3-p009-page-furniture"
+          },
+          "contentHash": "940b1a1e1d8c76b215bfc36f7ed40aba0559f4869e9934f72ca607dd3d857cc6",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 9 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-09.png; SHA-256 bc82da1cae12f1e7202202a087fd55a224f4c24fe9c25b343902a9842c85d47b. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 5 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 10,
+      "rawPath": "study/sources/extracted/lecture-3/page-010.md",
+      "rawHash": "270dec02563097c71866f7f4683c9c5e4fd06580395c0362647676160407d7c1",
+      "imagePath": "study/sources/assets/lecture-3/page-010.png",
+      "imageHash": "e0360c0e8bcaf1967406a6f9b9cf66b10b0ff372e5a738580830405638e67b91",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-010.md",
+      "normalizedHash": "3a4612c20b508e29c14e288af94dcfcd1f4de349666f837cb0fd59241ed2b966",
+      "units": [
+        {
+          "id": "lecture-3-p010-equivalent-accumulation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 10,
+            "printedPage": "10",
+            "slideLabel": "10 / 41",
+            "region": "Upper equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-010.md",
+            "anchor": "lecture-3-p010-equivalent-accumulation"
+          },
+          "contentHash": "3a4612c20b508e29c14e288af94dcfcd1f4de349666f837cb0fd59241ed2b966",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p010-conversion-formulas",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 10,
+            "printedPage": "10",
+            "slideLabel": "10 / 41",
+            "region": "Middle paired boxed formulas"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-010.md",
+            "anchor": "lecture-3-p010-conversion-formulas"
+          },
+          "contentHash": "3a4612c20b508e29c14e288af94dcfcd1f4de349666f837cb0fd59241ed2b966",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p010-semiannual-example",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 10,
+            "printedPage": "10",
+            "slideLabel": "10 / 41",
+            "region": "Lower example"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-010.md",
+            "anchor": "lecture-3-p010-semiannual-example"
+          },
+          "contentHash": "3a4612c20b508e29c14e288af94dcfcd1f4de349666f837cb0fd59241ed2b966",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p010-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 10,
+            "printedPage": "10",
+            "slideLabel": "10 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-010.md",
+            "anchor": "lecture-3-p010-page-furniture"
+          },
+          "contentHash": "3a4612c20b508e29c14e288af94dcfcd1f4de349666f837cb0fd59241ed2b966",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 10 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-10.png; SHA-256 e0360c0e8bcaf1967406a6f9b9cf66b10b0ff372e5a738580830405638e67b91. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "rawPath": "study/sources/extracted/lecture-3/page-011.md",
+      "rawHash": "b1bb79a17911517bc5487a089fea431d6cbcf220bba36922b16162d5d245ce9c",
+      "imagePath": "study/sources/assets/lecture-3/page-011.png",
+      "imageHash": "3328311dac4325668f1acdbd600f2cd1c9da91c88272f06c65bdbedc0986e81e",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-011.md",
+      "normalizedHash": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+      "units": [
+        {
+          "id": "lecture-3-p011-growth-questions",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 11,
+            "printedPage": "11",
+            "slideLabel": "11 / 41",
+            "region": "Upper exercise"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-011.md",
+            "anchor": "lecture-3-p011-growth-questions"
+          },
+          "contentHash": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "source-l3-p011-printed-rate-error"
+          ]
+        },
+        {
+          "id": "lecture-3-p011-printed-continuous-solution",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 11,
+            "printedPage": "11",
+            "slideLabel": "11 / 41",
+            "region": "Solution first displayed equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-011.md",
+            "anchor": "lecture-3-p011-printed-continuous-solution"
+          },
+          "contentHash": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "source-l3-p011-printed-rate-error"
+          ]
+        },
+        {
+          "id": "lecture-3-p011-printed-semiannual-solution",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 11,
+            "printedPage": "11",
+            "slideLabel": "11 / 41",
+            "region": "Solution final displayed equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-011.md",
+            "anchor": "lecture-3-p011-printed-semiannual-solution"
+          },
+          "contentHash": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "source-l3-p011-printed-rate-error"
+          ]
+        },
+        {
+          "id": "lecture-3-p011-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 11,
+            "printedPage": "11",
+            "slideLabel": "11 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-011.md",
+            "anchor": "lecture-3-p011-page-furniture"
+          },
+          "contentHash": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [
+        {
+          "id": "source-l3-p011-printed-rate-error",
+          "scopeRef": {
+            "kind": "source",
+            "unitId": "lecture-3-p011-printed-continuous-solution"
+          },
+          "reason": "Original slide prints incorrect continuous and semiannual rates for growth 5800/5000 over 1.5 years. Printed equations/rates preserved; separately labelled correction awaits independent mathematical review.",
+          "status": "open",
+          "resolutionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-011.md",
+            "anchor": "lecture-3-p011-labelled-correction"
+          }
+        }
+      ],
+      "observations": [
+        "Author actually displayed physical page 11 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-11.png; SHA-256 3328311dac4325668f1acdbd600f2cd1c9da91c88272f06c65bdbedc0986e81e. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction.",
+        "Known original-source issue explicitly preserved and separately labelled; open pending different reviewer, never silently corrected."
+      ]
+    },
+    {
+      "pdfPage": 12,
+      "rawPath": "study/sources/extracted/lecture-3/page-012.md",
+      "rawHash": "df6ee7817074fab5f0be95ddd2085512f1b0f4d7e67fde16776fffb8b74ae8c4",
+      "imagePath": "study/sources/assets/lecture-3/page-012.png",
+      "imageHash": "a5e41397d252d0a10b5b88e0de880f55de7b151b85109d0266580d6a70d289cc",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-012.md",
+      "normalizedHash": "5aa58fed8c8dc902675a71f3c5f219bddb65891e3f3df4252c91bd50d59124a8",
+      "units": [
+        {
+          "id": "lecture-3-p012-zero-rate",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 12,
+            "printedPage": "12",
+            "slideLabel": "12 / 41",
+            "region": "Upper definition"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-012.md",
+            "anchor": "lecture-3-p012-zero-rate"
+          },
+          "contentHash": "5aa58fed8c8dc902675a71f3c5f219bddb65891e3f3df4252c91bd50d59124a8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p012-discount-factor",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 12,
+            "printedPage": "12",
+            "slideLabel": "12 / 41",
+            "region": "Middle boxed formula"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-012.md",
+            "anchor": "lecture-3-p012-discount-factor"
+          },
+          "contentHash": "5aa58fed8c8dc902675a71f3c5f219bddb65891e3f3df4252c91bd50d59124a8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p012-cashflow-present-value",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 12,
+            "printedPage": "12",
+            "slideLabel": "12 / 41",
+            "region": "Middle present-value equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-012.md",
+            "anchor": "lecture-3-p012-cashflow-present-value"
+          },
+          "contentHash": "5aa58fed8c8dc902675a71f3c5f219bddb65891e3f3df4252c91bd50d59124a8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p012-five-year-example",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 12,
+            "printedPage": "12",
+            "slideLabel": "12 / 41",
+            "region": "Lower example"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-012.md",
+            "anchor": "lecture-3-p012-five-year-example"
+          },
+          "contentHash": "5aa58fed8c8dc902675a71f3c5f219bddb65891e3f3df4252c91bd50d59124a8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p012-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 12,
+            "printedPage": "12",
+            "slideLabel": "12 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-012.md",
+            "anchor": "lecture-3-p012-page-furniture"
+          },
+          "contentHash": "5aa58fed8c8dc902675a71f3c5f219bddb65891e3f3df4252c91bd50d59124a8",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 12 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-12.png; SHA-256 a5e41397d252d0a10b5b88e0de880f55de7b151b85109d0266580d6a70d289cc. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 5 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "rawPath": "study/sources/extracted/lecture-3/page-013.md",
+      "rawHash": "6bc3ed9d3633159d0ec2f82511a476c51c147f66e917da7a3bbfff4ba948336a",
+      "imagePath": "study/sources/assets/lecture-3/page-013.png",
+      "imageHash": "8597628f00e826970cf59fc62a51736787b38b644744eaa6305bed483e09da3b",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-013.md",
+      "normalizedHash": "cd1feb65c99f0c72eee9b477c9c99a159bd5c3998c99d39101847aa9a42d04ae",
+      "units": [
+        {
+          "id": "lecture-3-p013-coupon-principal",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 13,
+            "printedPage": "13",
+            "slideLabel": "13 / 41",
+            "region": "Upper text and bullets"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-013.md",
+            "anchor": "lecture-3-p013-coupon-principal"
+          },
+          "contentHash": "cd1feb65c99f0c72eee9b477c9c99a159bd5c3998c99d39101847aa9a42d04ae",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p013-bond-pricing-sum",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 13,
+            "printedPage": "13",
+            "slideLabel": "13 / 41",
+            "region": "Middle boxed equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-013.md",
+            "anchor": "lecture-3-p013-bond-pricing-sum"
+          },
+          "contentHash": "cd1feb65c99f0c72eee9b477c9c99a159bd5c3998c99d39101847aa9a42d04ae",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p013-own-maturity-discounting",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 13,
+            "printedPage": "13",
+            "slideLabel": "13 / 41",
+            "region": "Lower key-principle box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-013.md",
+            "anchor": "lecture-3-p013-own-maturity-discounting"
+          },
+          "contentHash": "cd1feb65c99f0c72eee9b477c9c99a159bd5c3998c99d39101847aa9a42d04ae",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p013-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 13,
+            "printedPage": "13",
+            "slideLabel": "13 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-013.md",
+            "anchor": "lecture-3-p013-page-furniture"
+          },
+          "contentHash": "cd1feb65c99f0c72eee9b477c9c99a159bd5c3998c99d39101847aa9a42d04ae",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 13 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-13.png; SHA-256 8597628f00e826970cf59fc62a51736787b38b644744eaa6305bed483e09da3b. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 14,
+      "rawPath": "study/sources/extracted/lecture-3/page-014.md",
+      "rawHash": "bcfb0e70d78f6e45afbb69534d18c856ebf3debff77fa3089f51066524bab442",
+      "imagePath": "study/sources/assets/lecture-3/page-014.png",
+      "imageHash": "7032ac3586eb2223ff98f7cad2a08630eb0d06095ca346e0b3cefaab4e972e9d",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-014.md",
+      "normalizedHash": "aad1ce042f2fc30c71f25bdbea69effd774dc16a787df2c0e6f7c6465fe497f2",
+      "units": [
+        {
+          "id": "lecture-3-p014-coupon-data",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 14,
+            "printedPage": "14",
+            "slideLabel": "14 / 41",
+            "region": "Opening paragraph and table"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-014.md",
+            "anchor": "lecture-3-p014-coupon-data"
+          },
+          "contentHash": "aad1ce042f2fc30c71f25bdbea69effd774dc16a787df2c0e6f7c6465fe497f2",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p014-coupon-pricing-calculation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 14,
+            "printedPage": "14",
+            "slideLabel": "14 / 41",
+            "region": "Lower displayed calculation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-014.md",
+            "anchor": "lecture-3-p014-coupon-pricing-calculation"
+          },
+          "contentHash": "aad1ce042f2fc30c71f25bdbea69effd774dc16a787df2c0e6f7c6465fe497f2",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p014-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 14,
+            "printedPage": "14",
+            "slideLabel": "14 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-014.md",
+            "anchor": "lecture-3-p014-page-furniture"
+          },
+          "contentHash": "aad1ce042f2fc30c71f25bdbea69effd774dc16a787df2c0e6f7c6465fe497f2",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 14 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-14.png; SHA-256 7032ac3586eb2223ff98f7cad2a08630eb0d06095ca346e0b3cefaab4e972e9d. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 15,
+      "rawPath": "study/sources/extracted/lecture-3/page-015.md",
+      "rawHash": "8ff1c5e6f8b4817193aeefa10a2e408b9aa87a1073f9635433305c3577e1c6c7",
+      "imagePath": "study/sources/assets/lecture-3/page-015.png",
+      "imageHash": "9890442dc7c596c293c2bfd4d4a90f13e500383c5118f971d8c868bbb68eebca",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-015.md",
+      "normalizedHash": "5e5ecd96b9242dc6a148e5a0d869d01e1629ecf244757e6069dd35d115936962",
+      "units": [
+        {
+          "id": "lecture-3-p015-yield-definition",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 15,
+            "printedPage": "15",
+            "slideLabel": "15 / 41",
+            "region": "Upper definition and equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-015.md",
+            "anchor": "lecture-3-p015-yield-definition"
+          },
+          "contentHash": "5e5ecd96b9242dc6a148e5a0d869d01e1629ecf244757e6069dd35d115936962",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p015-yield-example",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 15,
+            "printedPage": "15",
+            "slideLabel": "15 / 41",
+            "region": "Middle numerical equation and answer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-015.md",
+            "anchor": "lecture-3-p015-yield-example"
+          },
+          "contentHash": "5e5ecd96b9242dc6a148e5a0d869d01e1629ecf244757e6069dd35d115936962",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p015-yield-versus-zero",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 15,
+            "printedPage": "15",
+            "slideLabel": "15 / 41",
+            "region": "Lower do-not-confuse box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-015.md",
+            "anchor": "lecture-3-p015-yield-versus-zero"
+          },
+          "contentHash": "5e5ecd96b9242dc6a148e5a0d869d01e1629ecf244757e6069dd35d115936962",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p015-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 15,
+            "printedPage": "15",
+            "slideLabel": "15 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-015.md",
+            "anchor": "lecture-3-p015-page-furniture"
+          },
+          "contentHash": "5e5ecd96b9242dc6a148e5a0d869d01e1629ecf244757e6069dd35d115936962",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 15 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-15.png; SHA-256 9890442dc7c596c293c2bfd4d4a90f13e500383c5118f971d8c868bbb68eebca. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 16,
+      "rawPath": "study/sources/extracted/lecture-3/page-016.md",
+      "rawHash": "084d6f451729cb2f7f20b93c0a6a72756ab8711cff4d5a1d88baff50811ebddf",
+      "imagePath": "study/sources/assets/lecture-3/page-016.png",
+      "imageHash": "614885cc5d33e3f890e5a256b9d490e4095c443ac358f78b75332621b7f87709",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-016.md",
+      "normalizedHash": "2494d61bdb2b6e81753fa4c0a6b3f728740f21ac4f63f057b0d4754f137233b2",
+      "units": [
+        {
+          "id": "lecture-3-p016-printed-coupon-yield-table",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 16,
+            "printedPage": "16",
+            "slideLabel": "16 / 41",
+            "region": "Upper table"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-016.md",
+            "anchor": "lecture-3-p016-printed-coupon-yield-table"
+          },
+          "contentHash": "2494d61bdb2b6e81753fa4c0a6b3f728740f21ac4f63f057b0d4754f137233b2",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "source-l3-p016-rate-conventions"
+          ]
+        },
+        {
+          "id": "lecture-3-p016-concept-check",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 16,
+            "printedPage": "16",
+            "slideLabel": "16 / 41",
+            "region": "Lower question and supplied answer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-016.md",
+            "anchor": "lecture-3-p016-concept-check"
+          },
+          "contentHash": "2494d61bdb2b6e81753fa4c0a6b3f728740f21ac4f63f057b0d4754f137233b2",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "source-l3-p016-rate-conventions"
+          ]
+        },
+        {
+          "id": "lecture-3-p016-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 16,
+            "printedPage": "16",
+            "slideLabel": "16 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-016.md",
+            "anchor": "lecture-3-p016-page-furniture"
+          },
+          "contentHash": "2494d61bdb2b6e81753fa4c0a6b3f728740f21ac4f63f057b0d4754f137233b2",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [
+        {
+          "id": "source-l3-p016-rate-conventions",
+          "scopeRef": {
+            "kind": "source",
+            "unitId": "lecture-3-p016-printed-coupon-yield-table"
+          },
+          "reason": "Coupon versus yield par comparison requires matching compounding/payment conventions; source follows a continuously compounded yield example with a nominal semiannual coupon. Original table preserved; separate qualification awaits independent review.",
+          "status": "open",
+          "resolutionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-016.md",
+            "anchor": "lecture-3-p016-rate-convention-caution"
+          }
+        }
+      ],
+      "observations": [
+        "Author actually displayed physical page 16 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-16.png; SHA-256 614885cc5d33e3f890e5a256b9d490e4095c443ac358f78b75332621b7f87709. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction.",
+        "Known original-source issue explicitly preserved and separately labelled; open pending different reviewer, never silently corrected."
+      ]
+    },
+    {
+      "pdfPage": 17,
+      "rawPath": "study/sources/extracted/lecture-3/page-017.md",
+      "rawHash": "6bdd6d5401e4cf0b8476bfde70e3fc0b8079ef607888071863283e0ec40a003a",
+      "imagePath": "study/sources/assets/lecture-3/page-017.png",
+      "imageHash": "a2a43031483cf27857d4a934cafb1858518b4ab6348caa1bc22b390c51708a4a",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-017.md",
+      "normalizedHash": "6dfbf874b92d94ba6e432f66d448ef4a64c0368df8539974809360d25dd9d132",
+      "units": [
+        {
+          "id": "lecture-3-p017-par-yield-definition",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 17,
+            "printedPage": "17",
+            "slideLabel": "17 / 41",
+            "region": "Opening paragraph"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-017.md",
+            "anchor": "lecture-3-p017-par-yield-definition"
+          },
+          "contentHash": "6dfbf874b92d94ba6e432f66d448ef4a64c0368df8539974809360d25dd9d132",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p017-annuity-and-principal-factors",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 17,
+            "printedPage": "17",
+            "slideLabel": "17 / 41",
+            "region": "Middle definitions"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-017.md",
+            "anchor": "lecture-3-p017-annuity-and-principal-factors"
+          },
+          "contentHash": "6dfbf874b92d94ba6e432f66d448ef4a64c0368df8539974809360d25dd9d132",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p017-par-equation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 17,
+            "printedPage": "17",
+            "slideLabel": "17 / 41",
+            "region": "Lower derivation and boxed result"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-017.md",
+            "anchor": "lecture-3-p017-par-equation"
+          },
+          "contentHash": "6dfbf874b92d94ba6e432f66d448ef4a64c0368df8539974809360d25dd9d132",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p017-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 17,
+            "printedPage": "17",
+            "slideLabel": "17 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-017.md",
+            "anchor": "lecture-3-p017-page-furniture"
+          },
+          "contentHash": "6dfbf874b92d94ba6e432f66d448ef4a64c0368df8539974809360d25dd9d132",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 17 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-17.png; SHA-256 a2a43031483cf27857d4a934cafb1858518b4ab6348caa1bc22b390c51708a4a. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 18,
+      "rawPath": "study/sources/extracted/lecture-3/page-018.md",
+      "rawHash": "8ab8f49ed339a116d2299169c9ef78120879358100c17eef68389899d311323c",
+      "imagePath": "study/sources/assets/lecture-3/page-018.png",
+      "imageHash": "a66cee342dee07336216fba4439c09e5a28fbc3bcf10aa956a2f9a89887684d1",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-018.md",
+      "normalizedHash": "a59cbfa17380a99a0af535c5ce03fabc7075a7793bf04eeede2522401aef0666",
+      "units": [
+        {
+          "id": "lecture-3-p018-par-discount-factors",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 18,
+            "printedPage": "18",
+            "slideLabel": "18 / 41",
+            "region": "Upper numerical definitions"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-018.md",
+            "anchor": "lecture-3-p018-par-discount-factors"
+          },
+          "contentHash": "a59cbfa17380a99a0af535c5ce03fabc7075a7793bf04eeede2522401aef0666",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p018-par-calculation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 18,
+            "printedPage": "18",
+            "slideLabel": "18 / 41",
+            "region": "Middle calculation and conclusion"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-018.md",
+            "anchor": "lecture-3-p018-par-calculation"
+          },
+          "contentHash": "a59cbfa17380a99a0af535c5ce03fabc7075a7793bf04eeede2522401aef0666",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p018-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 18,
+            "printedPage": "18",
+            "slideLabel": "18 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-018.md",
+            "anchor": "lecture-3-p018-page-furniture"
+          },
+          "contentHash": "a59cbfa17380a99a0af535c5ce03fabc7075a7793bf04eeede2522401aef0666",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 18 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-18.png; SHA-256 a66cee342dee07336216fba4439c09e5a28fbc3bcf10aa956a2f9a89887684d1. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 19,
+      "rawPath": "study/sources/extracted/lecture-3/page-019.md",
+      "rawHash": "132b24ddf83f2f15e43d9db6c7d44356afa39f07ee84cab9ccef6f3bcf94c6d6",
+      "imagePath": "study/sources/assets/lecture-3/page-019.png",
+      "imageHash": "ddd7d4ed4fb03694d48bcbab4ed5bed44e51072870cf119d2ea7cd60d536b213",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-019.md",
+      "normalizedHash": "c894f6cf748ff67486a0368665c8ff8fa6325acbc9f0e7bb586698ced5f616f2",
+      "units": [
+        {
+          "id": "lecture-3-p019-bootstrap-procedure",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 19,
+            "printedPage": "19",
+            "slideLabel": "19 / 41",
+            "region": "Main paragraph and bullets"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-019.md",
+            "anchor": "lecture-3-p019-bootstrap-procedure"
+          },
+          "contentHash": "c894f6cf748ff67486a0368665c8ff8fa6325acbc9f0e7bb586698ced5f616f2",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p019-bootstrap-name",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 19,
+            "printedPage": "19",
+            "slideLabel": "19 / 41",
+            "region": "Lower why-the-name box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-019.md",
+            "anchor": "lecture-3-p019-bootstrap-name"
+          },
+          "contentHash": "c894f6cf748ff67486a0368665c8ff8fa6325acbc9f0e7bb586698ced5f616f2",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p019-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 19,
+            "printedPage": "19",
+            "slideLabel": "19 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-019.md",
+            "anchor": "lecture-3-p019-page-furniture"
+          },
+          "contentHash": "c894f6cf748ff67486a0368665c8ff8fa6325acbc9f0e7bb586698ced5f616f2",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 19 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-19.png; SHA-256 ddd7d4ed4fb03694d48bcbab4ed5bed44e51072870cf119d2ea7cd60d536b213. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 20,
+      "rawPath": "study/sources/extracted/lecture-3/page-020.md",
+      "rawHash": "b37cc57c1a1ffd8a82dda9cfc1abe410eb85500ec4ea80f1651b3469c62d2dd1",
+      "imagePath": "study/sources/assets/lecture-3/page-020.png",
+      "imageHash": "70320a81813448a0ded9f11f44a8ff030c916799d6268de12d8fa9c503a1a66e",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-020.md",
+      "normalizedHash": "e22c4fe8be66802fa901ebcffa03adddbab519e56bf842350ad873b3618dafcf",
+      "units": [
+        {
+          "id": "lecture-3-p020-bootstrap-instrument-table",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 20,
+            "printedPage": "20",
+            "slideLabel": "20 / 41",
+            "region": "Opening conventions and central table"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-020.md",
+            "anchor": "lecture-3-p020-bootstrap-instrument-table"
+          },
+          "contentHash": "e22c4fe8be66802fa901ebcffa03adddbab519e56bf842350ad873b3618dafcf",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p020-bootstrap-start",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 20,
+            "printedPage": "20",
+            "slideLabel": "20 / 41",
+            "region": "Lower starting-point box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-020.md",
+            "anchor": "lecture-3-p020-bootstrap-start"
+          },
+          "contentHash": "e22c4fe8be66802fa901ebcffa03adddbab519e56bf842350ad873b3618dafcf",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p020-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 20,
+            "printedPage": "20",
+            "slideLabel": "20 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-020.md",
+            "anchor": "lecture-3-p020-page-furniture"
+          },
+          "contentHash": "e22c4fe8be66802fa901ebcffa03adddbab519e56bf842350ad873b3618dafcf",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 20 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-20.png; SHA-256 70320a81813448a0ded9f11f44a8ff030c916799d6268de12d8fa9c503a1a66e. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 21,
+      "rawPath": "study/sources/extracted/lecture-3/page-021.md",
+      "rawHash": "0abf79dd98c2094f33083cb1afd42e4cecbb4371ce27e528ab06dd1f6a8a7fbb",
+      "imagePath": "study/sources/assets/lecture-3/page-021.png",
+      "imageHash": "87ba75df81dd0a7fe745fe097b527c7199dccd953ca5cabb689ac1b13c1adc4f",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-021.md",
+      "normalizedHash": "cac34bd2cda557c7b30318b1ce91600f63223a249c9336041cbe8acdc6c494ea",
+      "units": [
+        {
+          "id": "lecture-3-p021-zero-rate-inversion",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 21,
+            "printedPage": "21",
+            "slideLabel": "21 / 41",
+            "region": "Upper equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-021.md",
+            "anchor": "lecture-3-p021-zero-rate-inversion"
+          },
+          "contentHash": "cac34bd2cda557c7b30318b1ce91600f63223a249c9336041cbe8acdc6c494ea",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p021-first-three-rates",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 21,
+            "printedPage": "21",
+            "slideLabel": "21 / 41",
+            "region": "Lower three calculations"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-021.md",
+            "anchor": "lecture-3-p021-first-three-rates"
+          },
+          "contentHash": "cac34bd2cda557c7b30318b1ce91600f63223a249c9336041cbe8acdc6c494ea",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p021-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 21,
+            "printedPage": "21",
+            "slideLabel": "21 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-021.md",
+            "anchor": "lecture-3-p021-page-furniture"
+          },
+          "contentHash": "cac34bd2cda557c7b30318b1ce91600f63223a249c9336041cbe8acdc6c494ea",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 21 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-21.png; SHA-256 87ba75df81dd0a7fe745fe097b527c7199dccd953ca5cabb689ac1b13c1adc4f. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 22,
+      "rawPath": "study/sources/extracted/lecture-3/page-022.md",
+      "rawHash": "7b42eb92141b2e0b5dcd299ad01422ad2b9b3684abf500926bdbb27f92c6d3d0",
+      "imagePath": "study/sources/assets/lecture-3/page-022.png",
+      "imageHash": "fdeafcfe982370ab666fd4035e8dbbb58c45af066cd6a67cf294da056a7a63c6",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-022.md",
+      "normalizedHash": "8c7ba9959f15317dc120fc1b1469cb23838fc008569b4ae605fe7acd7505baff",
+      "units": [
+        {
+          "id": "lecture-3-p022-one-point-five-cashflows",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 22,
+            "printedPage": "22",
+            "slideLabel": "22 / 41",
+            "region": "Upper cash-flow statement and equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-022.md",
+            "anchor": "lecture-3-p022-one-point-five-cashflows"
+          },
+          "contentHash": "8c7ba9959f15317dc120fc1b1469cb23838fc008569b4ae605fe7acd7505baff",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p022-one-point-five-solution",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 22,
+            "printedPage": "22",
+            "slideLabel": "22 / 41",
+            "region": "Lower rearrangement and answer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-022.md",
+            "anchor": "lecture-3-p022-one-point-five-solution"
+          },
+          "contentHash": "8c7ba9959f15317dc120fc1b1469cb23838fc008569b4ae605fe7acd7505baff",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p022-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 22,
+            "printedPage": "22",
+            "slideLabel": "22 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-022.md",
+            "anchor": "lecture-3-p022-page-furniture"
+          },
+          "contentHash": "8c7ba9959f15317dc120fc1b1469cb23838fc008569b4ae605fe7acd7505baff",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 22 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-22.png; SHA-256 fdeafcfe982370ab666fd4035e8dbbb58c45af066cd6a67cf294da056a7a63c6. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 23,
+      "rawPath": "study/sources/extracted/lecture-3/page-023.md",
+      "rawHash": "ecf4db777f89327cb542b3444d1b55d5c070881a2e981e60850b8e32f4b2da50",
+      "imagePath": "study/sources/assets/lecture-3/page-023.png",
+      "imageHash": "0d6a698ee81c825889a260040ea6cd4660ec007f722b6a0d7256ef0dd90384ba",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-023.md",
+      "normalizedHash": "6d04497a7f97695dc911a58beb1e16f3ea0cd79762c865312421c40bf491a69a",
+      "units": [
+        {
+          "id": "lecture-3-p023-two-year-equation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 23,
+            "printedPage": "23",
+            "slideLabel": "23 / 41",
+            "region": "Upper cash-flow statement and equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-023.md",
+            "anchor": "lecture-3-p023-two-year-equation"
+          },
+          "contentHash": "6d04497a7f97695dc911a58beb1e16f3ea0cd79762c865312421c40bf491a69a",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p023-two-year-solution",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 23,
+            "printedPage": "23",
+            "slideLabel": "23 / 41",
+            "region": "Middle boxed result"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-023.md",
+            "anchor": "lecture-3-p023-two-year-solution"
+          },
+          "contentHash": "6d04497a7f97695dc911a58beb1e16f3ea0cd79762c865312421c40bf491a69a",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p023-bootstrap-order-question",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 23,
+            "printedPage": "23",
+            "slideLabel": "23 / 41",
+            "region": "Lower check-the-method box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-023.md",
+            "anchor": "lecture-3-p023-bootstrap-order-question"
+          },
+          "contentHash": "6d04497a7f97695dc911a58beb1e16f3ea0cd79762c865312421c40bf491a69a",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p023-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 23,
+            "printedPage": "23",
+            "slideLabel": "23 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-023.md",
+            "anchor": "lecture-3-p023-page-furniture"
+          },
+          "contentHash": "6d04497a7f97695dc911a58beb1e16f3ea0cd79762c865312421c40bf491a69a",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 23 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-23.png; SHA-256 0d6a698ee81c825889a260040ea6cd4660ec007f722b6a0d7256ef0dd90384ba. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 24,
+      "rawPath": "study/sources/extracted/lecture-3/page-024.md",
+      "rawHash": "a0bef5cab4f9e37efae2a5cb698c2cab968c991dfc150dff36543d609546aaf6",
+      "imagePath": "study/sources/assets/lecture-3/page-024.png",
+      "imageHash": "62f9baf58f62463345b09d15cfdfe7f8cd7743100a5873bfaf0c3d8c903ec8e8",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-024.md",
+      "normalizedHash": "3bd87119a4c361e22506a57673969ce8be4fc3166d1fde7432460cd955fa35e7",
+      "units": [
+        {
+          "id": "lecture-3-p024-zero-curve-table",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 24,
+            "printedPage": "24",
+            "slideLabel": "24 / 41",
+            "region": "Upper table"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-024.md",
+            "anchor": "lecture-3-p024-zero-curve-table"
+          },
+          "contentHash": "3bd87119a4c361e22506a57673969ce8be4fc3166d1fde7432460cd955fa35e7",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p024-interpolation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 24,
+            "printedPage": "24",
+            "slideLabel": "24 / 41",
+            "region": "Lower between-observed-maturities box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-024.md",
+            "anchor": "lecture-3-p024-interpolation"
+          },
+          "contentHash": "3bd87119a4c361e22506a57673969ce8be4fc3166d1fde7432460cd955fa35e7",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p024-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 24,
+            "printedPage": "24",
+            "slideLabel": "24 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-024.md",
+            "anchor": "lecture-3-p024-page-furniture"
+          },
+          "contentHash": "3bd87119a4c361e22506a57673969ce8be4fc3166d1fde7432460cd955fa35e7",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 24 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-24.png; SHA-256 62f9baf58f62463345b09d15cfdfe7f8cd7743100a5873bfaf0c3d8c903ec8e8. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 25,
+      "rawPath": "study/sources/extracted/lecture-3/page-025.md",
+      "rawHash": "76c28728487c20e7dc047b4511502f208864f90b2fa6c2fbd92ce528d601a20c",
+      "imagePath": "study/sources/assets/lecture-3/page-025.png",
+      "imageHash": "4ede116b9ced1a6e8d8cb25254763648c2ff16115b6135f4b319902a1d194b9e",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-025.md",
+      "normalizedHash": "c07c6ab9b821d53ecd2d6ed5b8716689ce268cf881856d6a011e04cd8f925f09",
+      "units": [
+        {
+          "id": "lecture-3-p025-forward-rate-definition",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 25,
+            "printedPage": "25",
+            "slideLabel": "25 / 41",
+            "region": "Opening paragraph"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-025.md",
+            "anchor": "lecture-3-p025-forward-rate-definition"
+          },
+          "contentHash": "c07c6ab9b821d53ecd2d6ed5b8716689ce268cf881856d6a011e04cd8f925f09",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p025-forward-accumulation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 25,
+            "printedPage": "25",
+            "slideLabel": "25 / 41",
+            "region": "Middle no-arbitrage equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-025.md",
+            "anchor": "lecture-3-p025-forward-accumulation"
+          },
+          "contentHash": "c07c6ab9b821d53ecd2d6ed5b8716689ce268cf881856d6a011e04cd8f925f09",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p025-forward-rate-formula",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 25,
+            "printedPage": "25",
+            "slideLabel": "25 / 41",
+            "region": "Boxed formula"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-025.md",
+            "anchor": "lecture-3-p025-forward-rate-formula"
+          },
+          "contentHash": "c07c6ab9b821d53ecd2d6ed5b8716689ce268cf881856d6a011e04cd8f925f09",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p025-discount-factor-ratio",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 25,
+            "printedPage": "25",
+            "slideLabel": "25 / 41",
+            "region": "Lower equivalent equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-025.md",
+            "anchor": "lecture-3-p025-discount-factor-ratio"
+          },
+          "contentHash": "c07c6ab9b821d53ecd2d6ed5b8716689ce268cf881856d6a011e04cd8f925f09",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p025-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 25,
+            "printedPage": "25",
+            "slideLabel": "25 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-025.md",
+            "anchor": "lecture-3-p025-page-furniture"
+          },
+          "contentHash": "c07c6ab9b821d53ecd2d6ed5b8716689ce268cf881856d6a011e04cd8f925f09",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 25 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-25.png; SHA-256 4ede116b9ced1a6e8d8cb25254763648c2ff16115b6135f4b319902a1d194b9e. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 5 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 26,
+      "rawPath": "study/sources/extracted/lecture-3/page-026.md",
+      "rawHash": "45f581175ba06ecd52851217cf55316f9573cc243f66cdb0307bf240bb5638d4",
+      "imagePath": "study/sources/assets/lecture-3/page-026.png",
+      "imageHash": "cdd195ec5ad305e90f4a4e7c24bd01e1abd02efda547c1e471d2bf7978d891b4",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-026.md",
+      "normalizedHash": "968cf5737f7d8ef32ab908d3e32f8f9f3302c83a40c8117172ea17325d59746b",
+      "units": [
+        {
+          "id": "lecture-3-p026-one-two-forward-example",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 26,
+            "printedPage": "26",
+            "slideLabel": "26 / 41",
+            "region": "Upper rate calculation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-026.md",
+            "anchor": "lecture-3-p026-one-two-forward-example"
+          },
+          "contentHash": "968cf5737f7d8ef32ab908d3e32f8f9f3302c83a40c8117172ea17325d59746b",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p026-strategy-terminal-values",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 26,
+            "printedPage": "26",
+            "slideLabel": "26 / 41",
+            "region": "Middle equality"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-026.md",
+            "anchor": "lecture-3-p026-strategy-terminal-values"
+          },
+          "contentHash": "968cf5737f7d8ef32ab908d3e32f8f9f3302c83a40c8117172ea17325d59746b",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p026-forward-not-forecast",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 26,
+            "printedPage": "26",
+            "slideLabel": "26 / 41",
+            "region": "Lower interpretation box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-026.md",
+            "anchor": "lecture-3-p026-forward-not-forecast"
+          },
+          "contentHash": "968cf5737f7d8ef32ab908d3e32f8f9f3302c83a40c8117172ea17325d59746b",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p026-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 26,
+            "printedPage": "26",
+            "slideLabel": "26 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-026.md",
+            "anchor": "lecture-3-p026-page-furniture"
+          },
+          "contentHash": "968cf5737f7d8ef32ab908d3e32f8f9f3302c83a40c8117172ea17325d59746b",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 26 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-26.png; SHA-256 cdd195ec5ad305e90f4a4e7c24bd01e1abd02efda547c1e471d2bf7978d891b4. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 27,
+      "rawPath": "study/sources/extracted/lecture-3/page-027.md",
+      "rawHash": "7f940cc37354d64f82781c951f7b2f1a66b540e793b7be79e77047a6c304f0e8",
+      "imagePath": "study/sources/assets/lecture-3/page-027.png",
+      "imageHash": "f4a0bddbcdcbbd782e417555732d740caefac93a39d7b5376937491df8af423a",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-027.md",
+      "normalizedHash": "c69254b1474affe77aac3ff953e247bdc4463105a0e215287a9fdb0bbd1336ee",
+      "units": [
+        {
+          "id": "lecture-3-p027-annual-forward-table",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 27,
+            "printedPage": "27",
+            "slideLabel": "27 / 41",
+            "region": "Upper table"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-027.md",
+            "anchor": "lecture-3-p027-annual-forward-table"
+          },
+          "contentHash": "c69254b1474affe77aac3ff953e247bdc4463105a0e215287a9fdb0bbd1336ee",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p027-fourth-year-calculation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 27,
+            "printedPage": "27",
+            "slideLabel": "27 / 41",
+            "region": "Middle example"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-027.md",
+            "anchor": "lecture-3-p027-fourth-year-calculation"
+          },
+          "contentHash": "c69254b1474affe77aac3ff953e247bdc4463105a0e215287a9fdb0bbd1336ee",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p027-third-year-question",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 27,
+            "printedPage": "27",
+            "slideLabel": "27 / 41",
+            "region": "Lower your-turn box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-027.md",
+            "anchor": "lecture-3-p027-third-year-question"
+          },
+          "contentHash": "c69254b1474affe77aac3ff953e247bdc4463105a0e215287a9fdb0bbd1336ee",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p027-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 27,
+            "printedPage": "27",
+            "slideLabel": "27 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-027.md",
+            "anchor": "lecture-3-p027-page-furniture"
+          },
+          "contentHash": "c69254b1474affe77aac3ff953e247bdc4463105a0e215287a9fdb0bbd1336ee",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 27 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-27.png; SHA-256 f4a0bddbcdcbbd782e417555732d740caefac93a39d7b5376937491df8af423a. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 28,
+      "rawPath": "study/sources/extracted/lecture-3/page-028.md",
+      "rawHash": "834c8dbafe9d6f0db64fc9d427f0b8d2c99058d5b940f7bc733195e645970541",
+      "imagePath": "study/sources/assets/lecture-3/page-028.png",
+      "imageHash": "f5107629096a4dc1079924575645d95fcf0ee5b76afacf4d06b81f7b70cb80c1",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-028.md",
+      "normalizedHash": "5832207f6a7da766110ac6af1a2d4028b8725a5012cb4279060a81cb7e36af37",
+      "units": [
+        {
+          "id": "lecture-3-p028-fra-definition-mechanics",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 28,
+            "printedPage": "28",
+            "slideLabel": "28 / 41",
+            "region": "Opening definition and bullets"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-028.md",
+            "anchor": "lecture-3-p028-fra-definition-mechanics"
+          },
+          "contentHash": "5832207f6a7da766110ac6af1a2d4028b8725a5012cb4279060a81cb7e36af37",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p028-fra-purpose",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 28,
+            "printedPage": "28",
+            "slideLabel": "28 / 41",
+            "region": "Lower economic-purpose box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-028.md",
+            "anchor": "lecture-3-p028-fra-purpose"
+          },
+          "contentHash": "5832207f6a7da766110ac6af1a2d4028b8725a5012cb4279060a81cb7e36af37",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p028-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 28,
+            "printedPage": "28",
+            "slideLabel": "28 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-028.md",
+            "anchor": "lecture-3-p028-page-furniture"
+          },
+          "contentHash": "5832207f6a7da766110ac6af1a2d4028b8725a5012cb4279060a81cb7e36af37",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 28 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-28.png; SHA-256 f5107629096a4dc1079924575645d95fcf0ee5b76afacf4d06b81f7b70cb80c1. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 29,
+      "rawPath": "study/sources/extracted/lecture-3/page-029.md",
+      "rawHash": "ff7ba9219f2e3bd10f23dc1e4bed1a8599068e87f925d6353331be2f1a6fd917",
+      "imagePath": "study/sources/assets/lecture-3/page-029.png",
+      "imageHash": "3fc308125e903123bef1ba9ccff27ae632b09b0a5d8d4b13fda4168d1bb58857",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-029.md",
+      "normalizedHash": "88ff5cd5f839702ed5edbf3bb71530b15e6a1030cdefb3bb86988a70ca324d94",
+      "units": [
+        {
+          "id": "lecture-3-p029-fra-notation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 29,
+            "printedPage": "29",
+            "slideLabel": "29 / 41",
+            "region": "Upper notation list"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-029.md",
+            "anchor": "lecture-3-p029-fra-notation"
+          },
+          "contentHash": "88ff5cd5f839702ed5edbf3bb71530b15e6a1030cdefb3bb86988a70ca324d94",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p029-fra-terminal-difference",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 29,
+            "printedPage": "29",
+            "slideLabel": "29 / 41",
+            "region": "Middle payoff equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-029.md",
+            "anchor": "lecture-3-p029-fra-terminal-difference"
+          },
+          "contentHash": "88ff5cd5f839702ed5edbf3bb71530b15e6a1030cdefb3bb86988a70ca324d94",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p029-fra-start-settlement",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 29,
+            "printedPage": "29",
+            "slideLabel": "29 / 41",
+            "region": "Lower boxed fraction and opposite-side statement"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-029.md",
+            "anchor": "lecture-3-p029-fra-start-settlement"
+          },
+          "contentHash": "88ff5cd5f839702ed5edbf3bb71530b15e6a1030cdefb3bb86988a70ca324d94",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p029-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 29,
+            "printedPage": "29",
+            "slideLabel": "29 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-029.md",
+            "anchor": "lecture-3-p029-page-furniture"
+          },
+          "contentHash": "88ff5cd5f839702ed5edbf3bb71530b15e6a1030cdefb3bb86988a70ca324d94",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 29 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-29.png; SHA-256 3fc308125e903123bef1ba9ccff27ae632b09b0a5d8d4b13fda4168d1bb58857. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 30,
+      "rawPath": "study/sources/extracted/lecture-3/page-030.md",
+      "rawHash": "a544ed6b553942d6e529436d2d6038aaf6d39705836947a61bf01eaedcc93d1c",
+      "imagePath": "study/sources/assets/lecture-3/page-030.png",
+      "imageHash": "ed78030e102513dd5b2b014e5f7ceaba55ba757fcbfa00a6451bf68c66a897c1",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-030.md",
+      "normalizedHash": "129ff3c8d1cf586979b9168bdcd6fc88b455864b3e01e185682d485f0a0cdb33",
+      "units": [
+        {
+          "id": "lecture-3-p030-fra-example-terminal",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 30,
+            "printedPage": "30",
+            "slideLabel": "30 / 41",
+            "region": "Upper data and terminal calculation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-030.md",
+            "anchor": "lecture-3-p030-fra-example-terminal"
+          },
+          "contentHash": "129ff3c8d1cf586979b9168bdcd6fc88b455864b3e01e185682d485f0a0cdb33",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p030-fra-example-settlement",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 30,
+            "printedPage": "30",
+            "slideLabel": "30 / 41",
+            "region": "Middle settlement fraction"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-030.md",
+            "anchor": "lecture-3-p030-fra-example-settlement"
+          },
+          "contentHash": "129ff3c8d1cf586979b9168bdcd6fc88b455864b3e01e185682d485f0a0cdb33",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p030-fra-example-interpretation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 30,
+            "printedPage": "30",
+            "slideLabel": "30 / 41",
+            "region": "Lower interpretation box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-030.md",
+            "anchor": "lecture-3-p030-fra-example-interpretation"
+          },
+          "contentHash": "129ff3c8d1cf586979b9168bdcd6fc88b455864b3e01e185682d485f0a0cdb33",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p030-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 30,
+            "printedPage": "30",
+            "slideLabel": "30 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-030.md",
+            "anchor": "lecture-3-p030-page-furniture"
+          },
+          "contentHash": "129ff3c8d1cf586979b9168bdcd6fc88b455864b3e01e185682d485f0a0cdb33",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 30 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-30.png; SHA-256 ed78030e102513dd5b2b014e5f7ceaba55ba757fcbfa00a6451bf68c66a897c1. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 31,
+      "rawPath": "study/sources/extracted/lecture-3/page-031.md",
+      "rawHash": "8df6d5e0146d0b73d0adb1756f1e080e0677093151ad3fa869bd41fdfc5d3c33",
+      "imagePath": "study/sources/assets/lecture-3/page-031.png",
+      "imageHash": "a23eab6c3f78c2cf0ec023d16071c2e6ec3bc6a188feebe2a3298aa22f5d20b7",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-031.md",
+      "normalizedHash": "d0c18d71ee6e8258803728f29b0e297a01b42dde52d26f43d66a12bf4872e41f",
+      "units": [
+        {
+          "id": "lecture-3-p031-fra-exposure-questions",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 31,
+            "printedPage": "31",
+            "slideLabel": "31 / 41",
+            "region": "Upper two questions"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-031.md",
+            "anchor": "lecture-3-p031-fra-exposure-questions"
+          },
+          "contentHash": "d0c18d71ee6e8258803728f29b0e297a01b42dde52d26f43d66a12bf4872e41f",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p031-fra-exposure-answers",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 31,
+            "printedPage": "31",
+            "slideLabel": "31 / 41",
+            "region": "Lower supplied-answer box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-031.md",
+            "anchor": "lecture-3-p031-fra-exposure-answers"
+          },
+          "contentHash": "d0c18d71ee6e8258803728f29b0e297a01b42dde52d26f43d66a12bf4872e41f",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p031-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 31,
+            "printedPage": "31",
+            "slideLabel": "31 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-031.md",
+            "anchor": "lecture-3-p031-page-furniture"
+          },
+          "contentHash": "d0c18d71ee6e8258803728f29b0e297a01b42dde52d26f43d66a12bf4872e41f",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 31 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-31.png; SHA-256 a23eab6c3f78c2cf0ec023d16071c2e6ec3bc6a188feebe2a3298aa22f5d20b7. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 32,
+      "rawPath": "study/sources/extracted/lecture-3/page-032.md",
+      "rawHash": "e6184f4bdb22afa70a3543334cab56ae57ffbe0477e9547b8b3f6845c0825c03",
+      "imagePath": "study/sources/assets/lecture-3/page-032.png",
+      "imageHash": "b58b09ad4cd1de179c4a443dbcdac7c2589357e714b3cc90cc5d07e9987dd67b",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-032.md",
+      "normalizedHash": "6252547517b580713704269291a7a827aa82b43ecab79d67322ff86da1cb504e",
+      "units": [
+        {
+          "id": "lecture-3-p032-price-yield-function",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 32,
+            "printedPage": "32",
+            "slideLabel": "32 / 41",
+            "region": "Upper boxed equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-032.md",
+            "anchor": "lecture-3-p032-price-yield-function"
+          },
+          "contentHash": "6252547517b580713704269291a7a827aa82b43ecab79d67322ff86da1cb504e",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p032-price-first-derivative",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 32,
+            "printedPage": "32",
+            "slideLabel": "32 / 41",
+            "region": "Middle differentiation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-032.md",
+            "anchor": "lecture-3-p032-price-first-derivative"
+          },
+          "contentHash": "6252547517b580713704269291a7a827aa82b43ecab79d67322ff86da1cb504e",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p032-sensitivity-prediction",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 32,
+            "printedPage": "32",
+            "slideLabel": "32 / 41",
+            "region": "Lower prediction box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-032.md",
+            "anchor": "lecture-3-p032-sensitivity-prediction"
+          },
+          "contentHash": "6252547517b580713704269291a7a827aa82b43ecab79d67322ff86da1cb504e",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p032-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 32,
+            "printedPage": "32",
+            "slideLabel": "32 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-032.md",
+            "anchor": "lecture-3-p032-page-furniture"
+          },
+          "contentHash": "6252547517b580713704269291a7a827aa82b43ecab79d67322ff86da1cb504e",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 32 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-32.png; SHA-256 b58b09ad4cd1de179c4a443dbcdac7c2589357e714b3cc90cc5d07e9987dd67b. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 33,
+      "rawPath": "study/sources/extracted/lecture-3/page-033.md",
+      "rawHash": "babcf155cb1f60b264b23f6561f86027fcbc099794f296e3f64eac3881d19fa5",
+      "imagePath": "study/sources/assets/lecture-3/page-033.png",
+      "imageHash": "d2c3c36f9481fc6d982d4b21b53ed925b3a08724e96312b23101ad915eb890f3",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-033.md",
+      "normalizedHash": "2f0d197e8701672b59441e73e119bc0c3e3a5a327c963451296f21f57a867726",
+      "units": [
+        {
+          "id": "lecture-3-p033-duration-definition",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 33,
+            "printedPage": "33",
+            "slideLabel": "33 / 41",
+            "region": "Upper definition and formula"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-033.md",
+            "anchor": "lecture-3-p033-duration-definition"
+          },
+          "contentHash": "2f0d197e8701672b59441e73e119bc0c3e3a5a327c963451296f21f57a867726",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p033-duration-weights",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 33,
+            "printedPage": "33",
+            "slideLabel": "33 / 41",
+            "region": "Middle equations"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-033.md",
+            "anchor": "lecture-3-p033-duration-weights"
+          },
+          "contentHash": "2f0d197e8701672b59441e73e119bc0c3e3a5a327c963451296f21f57a867726",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p033-duration-maturity",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 33,
+            "printedPage": "33",
+            "slideLabel": "33 / 41",
+            "region": "Lower bullets"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-033.md",
+            "anchor": "lecture-3-p033-duration-maturity"
+          },
+          "contentHash": "2f0d197e8701672b59441e73e119bc0c3e3a5a327c963451296f21f57a867726",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p033-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 33,
+            "printedPage": "33",
+            "slideLabel": "33 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-033.md",
+            "anchor": "lecture-3-p033-page-furniture"
+          },
+          "contentHash": "2f0d197e8701672b59441e73e119bc0c3e3a5a327c963451296f21f57a867726",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 33 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-33.png; SHA-256 d2c3c36f9481fc6d982d4b21b53ed925b3a08724e96312b23101ad915eb890f3. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 34,
+      "rawPath": "study/sources/extracted/lecture-3/page-034.md",
+      "rawHash": "2fa3d2ac34933ca5c415836206cf3f45e5802b6fb170e599fde4e0a3b1d414bc",
+      "imagePath": "study/sources/assets/lecture-3/page-034.png",
+      "imageHash": "24c08814deb8d61dac4bd3da23264b434d2c9e1a2eaf704822f3f5b68515fd3c",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-034.md",
+      "normalizedHash": "5fd77e3dbe1da085ab7dc7003721af60290f7fd501b35b2b9d63f72793f3b850",
+      "units": [
+        {
+          "id": "lecture-3-p034-duration-first-order",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 34,
+            "printedPage": "34",
+            "slideLabel": "34 / 41",
+            "region": "Upper derivative and boxed approximation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-034.md",
+            "anchor": "lecture-3-p034-duration-first-order"
+          },
+          "contentHash": "5fd77e3dbe1da085ab7dc7003721af60290f7fd501b35b2b9d63f72793f3b850",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p034-basis-point",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 34,
+            "printedPage": "34",
+            "slideLabel": "34 / 41",
+            "region": "Middle units-matter box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-034.md",
+            "anchor": "lecture-3-p034-basis-point"
+          },
+          "contentHash": "5fd77e3dbe1da085ab7dc7003721af60290f7fd501b35b2b9d63f72793f3b850",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p034-longer-duration-sensitivity",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 34,
+            "printedPage": "34",
+            "slideLabel": "34 / 41",
+            "region": "Last sentence"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-034.md",
+            "anchor": "lecture-3-p034-longer-duration-sensitivity"
+          },
+          "contentHash": "5fd77e3dbe1da085ab7dc7003721af60290f7fd501b35b2b9d63f72793f3b850",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p034-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 34,
+            "printedPage": "34",
+            "slideLabel": "34 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-034.md",
+            "anchor": "lecture-3-p034-page-furniture"
+          },
+          "contentHash": "5fd77e3dbe1da085ab7dc7003721af60290f7fd501b35b2b9d63f72793f3b850",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 34 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-34.png; SHA-256 24c08814deb8d61dac4bd3da23264b434d2c9e1a2eaf704822f3f5b68515fd3c. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 35,
+      "rawPath": "study/sources/extracted/lecture-3/page-035.md",
+      "rawHash": "e2e5f36b6b11060d3f32356373804138921169c7603229caaaf735e91c33f3ba",
+      "imagePath": "study/sources/assets/lecture-3/page-035.png",
+      "imageHash": "17aca8cfca4bab43195168364a0575c0a935f6f542d558aa23a6ad2135573ab8",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-035.md",
+      "normalizedHash": "bce27b8e7906767b03eaa634c25c8d0e7cdbfdc80c0054504aa2d1c040144d8e",
+      "units": [
+        {
+          "id": "lecture-3-p035-duration-example-table",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 35,
+            "printedPage": "35",
+            "slideLabel": "35 / 41",
+            "region": "Data and entire table"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-035.md",
+            "anchor": "lecture-3-p035-duration-example-table"
+          },
+          "contentHash": "bce27b8e7906767b03eaa634c25c8d0e7cdbfdc80c0054504aa2d1c040144d8e",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p035-duration-example-results",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 35,
+            "printedPage": "35",
+            "slideLabel": "35 / 41",
+            "region": "Last sentence"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-035.md",
+            "anchor": "lecture-3-p035-duration-example-results"
+          },
+          "contentHash": "bce27b8e7906767b03eaa634c25c8d0e7cdbfdc80c0054504aa2d1c040144d8e",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p035-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 35,
+            "printedPage": "35",
+            "slideLabel": "35 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-035.md",
+            "anchor": "lecture-3-p035-page-furniture"
+          },
+          "contentHash": "bce27b8e7906767b03eaa634c25c8d0e7cdbfdc80c0054504aa2d1c040144d8e",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 35 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-35.png; SHA-256 17aca8cfca4bab43195168364a0575c0a935f6f542d558aa23a6ad2135573ab8. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 36,
+      "rawPath": "study/sources/extracted/lecture-3/page-036.md",
+      "rawHash": "789dd0b066317031f4ab6ba268910d94f94a5b532c5cb4c85a4c06b8eb7b526e",
+      "imagePath": "study/sources/assets/lecture-3/page-036.png",
+      "imageHash": "2f8ee7119c9f1a4191c77c7db789a3aea252b8b14fc203ab3970f525e4eb95a3",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-036.md",
+      "normalizedHash": "53d9c63de557a3d2651dc73989440651798f5bf680732caaa96c91c26a7e7171",
+      "units": [
+        {
+          "id": "lecture-3-p036-duration-small-change",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 36,
+            "printedPage": "36",
+            "slideLabel": "36 / 41",
+            "region": "Upper assumption and calculations"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-036.md",
+            "anchor": "lecture-3-p036-duration-small-change"
+          },
+          "contentHash": "53d9c63de557a3d2651dc73989440651798f5bf680732caaa96c91c26a7e7171",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p036-duration-new-price",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 36,
+            "printedPage": "36",
+            "slideLabel": "36 / 41",
+            "region": "Lower boxed estimate and comparison"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-036.md",
+            "anchor": "lecture-3-p036-duration-new-price"
+          },
+          "contentHash": "53d9c63de557a3d2651dc73989440651798f5bf680732caaa96c91c26a7e7171",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p036-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 36,
+            "printedPage": "36",
+            "slideLabel": "36 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-036.md",
+            "anchor": "lecture-3-p036-page-furniture"
+          },
+          "contentHash": "53d9c63de557a3d2651dc73989440651798f5bf680732caaa96c91c26a7e7171",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 36 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-36.png; SHA-256 2f8ee7119c9f1a4191c77c7db789a3aea252b8b14fc203ab3970f525e4eb95a3. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 37,
+      "rawPath": "study/sources/extracted/lecture-3/page-037.md",
+      "rawHash": "766249776ce763a312dc981c9ce02ba026651982f2d3988d8ece02a19bab1e73",
+      "imagePath": "study/sources/assets/lecture-3/page-037.png",
+      "imageHash": "6f62e1b0d8d23071427c0e261660bc5f0acc1299b73c16d8addf183c753f9960",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-037.md",
+      "normalizedHash": "cd8d006d1398899f85d26c2670463850eae327db994c7c07d07552574f64c8e9",
+      "units": [
+        {
+          "id": "lecture-3-p037-tangent-approximation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 37,
+            "printedPage": "37",
+            "slideLabel": "37 / 41",
+            "region": "Upper paragraph and bullets"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-037.md",
+            "anchor": "lecture-3-p037-tangent-approximation"
+          },
+          "contentHash": "cd8d006d1398899f85d26c2670463850eae327db994c7c07d07552574f64c8e9",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p037-duration-errors-table",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 37,
+            "printedPage": "37",
+            "slideLabel": "37 / 41",
+            "region": "Lower comparison table"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-037.md",
+            "anchor": "lecture-3-p037-duration-errors-table"
+          },
+          "contentHash": "cd8d006d1398899f85d26c2670463850eae327db994c7c07d07552574f64c8e9",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p037-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 37,
+            "printedPage": "37",
+            "slideLabel": "37 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-037.md",
+            "anchor": "lecture-3-p037-page-furniture"
+          },
+          "contentHash": "cd8d006d1398899f85d26c2670463850eae327db994c7c07d07552574f64c8e9",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 37 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-37.png; SHA-256 6f62e1b0d8d23071427c0e261660bc5f0acc1299b73c16d8addf183c753f9960. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 38,
+      "rawPath": "study/sources/extracted/lecture-3/page-038.md",
+      "rawHash": "c9cca5d2f877387193465c68ab787bc65023322b8f69f5a2bdf9a700c966131f",
+      "imagePath": "study/sources/assets/lecture-3/page-038.png",
+      "imageHash": "faf64b324027d1ef4232727b602fc1225f6468e8ea3dd68dc71aad5a5fdfca2e",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-038.md",
+      "normalizedHash": "972366b241547f7f97f5d7b1cf4ae626f9038c3df1356d8f0cc2536058ea7d63",
+      "units": [
+        {
+          "id": "lecture-3-p038-convexity-definition",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 38,
+            "printedPage": "38",
+            "slideLabel": "38 / 41",
+            "region": "Upper definition and equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-038.md",
+            "anchor": "lecture-3-p038-convexity-definition"
+          },
+          "contentHash": "972366b241547f7f97f5d7b1cf4ae626f9038c3df1356d8f0cc2536058ea7d63",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p038-convexity-approximation",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 38,
+            "printedPage": "38",
+            "slideLabel": "38 / 41",
+            "region": "Middle boxed equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-038.md",
+            "anchor": "lecture-3-p038-convexity-approximation"
+          },
+          "contentHash": "972366b241547f7f97f5d7b1cf4ae626f9038c3df1356d8f0cc2536058ea7d63",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p038-convexity-example-value",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 38,
+            "printedPage": "38",
+            "slideLabel": "38 / 41",
+            "region": "Last equation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-038.md",
+            "anchor": "lecture-3-p038-convexity-example-value"
+          },
+          "contentHash": "972366b241547f7f97f5d7b1cf4ae626f9038c3df1356d8f0cc2536058ea7d63",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p038-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 38,
+            "printedPage": "38",
+            "slideLabel": "38 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-038.md",
+            "anchor": "lecture-3-p038-page-furniture"
+          },
+          "contentHash": "972366b241547f7f97f5d7b1cf4ae626f9038c3df1356d8f0cc2536058ea7d63",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 38 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-38.png; SHA-256 faf64b324027d1ef4232727b602fc1225f6468e8ea3dd68dc71aad5a5fdfca2e. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 39,
+      "rawPath": "study/sources/extracted/lecture-3/page-039.md",
+      "rawHash": "de4c02036a2fe62f4181746ba6caf93374833771015978548e19f615e72fb2b0",
+      "imagePath": "study/sources/assets/lecture-3/page-039.png",
+      "imageHash": "e085722bd4ad5d1397deb3bc6a1a53333dcf3614902d438a8c8a3fc8865d98eb",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-039.md",
+      "normalizedHash": "5c6f90a1a5eb67886cb15da5ab0a54c62dd1ffd317b982831eeed74a5449cd68",
+      "units": [
+        {
+          "id": "lecture-3-p039-duration-convexity-example",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 39,
+            "printedPage": "39",
+            "slideLabel": "39 / 41",
+            "region": "Upper data and calculations"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-039.md",
+            "anchor": "lecture-3-p039-duration-convexity-example"
+          },
+          "contentHash": "5c6f90a1a5eb67886cb15da5ab0a54c62dd1ffd317b982831eeed74a5449cd68",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p039-duration-convexity-comparison",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 39,
+            "printedPage": "39",
+            "slideLabel": "39 / 41",
+            "region": "Lower comparison and interpretation"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-039.md",
+            "anchor": "lecture-3-p039-duration-convexity-comparison"
+          },
+          "contentHash": "5c6f90a1a5eb67886cb15da5ab0a54c62dd1ffd317b982831eeed74a5449cd68",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p039-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 39,
+            "printedPage": "39",
+            "slideLabel": "39 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-039.md",
+            "anchor": "lecture-3-p039-page-furniture"
+          },
+          "contentHash": "5c6f90a1a5eb67886cb15da5ab0a54c62dd1ffd317b982831eeed74a5449cd68",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 39 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-39.png; SHA-256 e085722bd4ad5d1397deb3bc6a1a53333dcf3614902d438a8c8a3fc8865d98eb. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 3 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 40,
+      "rawPath": "study/sources/extracted/lecture-3/page-040.md",
+      "rawHash": "6785be57ebe0d1b23fad7c3035049e62648395977f803b4c2d9864ff35ce2857",
+      "imagePath": "study/sources/assets/lecture-3/page-040.png",
+      "imageHash": "81e5200a015ff1db8edc6f89000eb77f958537fb2e2d69f4b0bb9bd9fbf285d2",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-040.md",
+      "normalizedHash": "eda79e72f366de0e755d9ba8b35e5c3287bd5872cad49eca8c135b59f0789375",
+      "units": [
+        {
+          "id": "lecture-3-p040-immunisation-benefit",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 40,
+            "printedPage": "40",
+            "slideLabel": "40 / 41",
+            "region": "Opening paragraph and first bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-040.md",
+            "anchor": "lecture-3-p040-immunisation-benefit"
+          },
+          "contentHash": "eda79e72f366de0e755d9ba8b35e5c3287bd5872cad49eca8c135b59f0789375",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p040-immunisation-limitations",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 40,
+            "printedPage": "40",
+            "slideLabel": "40 / 41",
+            "region": "Remaining bullets"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-040.md",
+            "anchor": "lecture-3-p040-immunisation-limitations"
+          },
+          "contentHash": "eda79e72f366de0e755d9ba8b35e5c3287bd5872cad49eca8c135b59f0789375",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p040-risk-management-caution",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 40,
+            "printedPage": "40",
+            "slideLabel": "40 / 41",
+            "region": "Lower risk-management-lesson box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-040.md",
+            "anchor": "lecture-3-p040-risk-management-caution"
+          },
+          "contentHash": "eda79e72f366de0e755d9ba8b35e5c3287bd5872cad49eca8c135b59f0789375",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p040-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 40,
+            "printedPage": "40",
+            "slideLabel": "40 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-040.md",
+            "anchor": "lecture-3-p040-page-furniture"
+          },
+          "contentHash": "eda79e72f366de0e755d9ba8b35e5c3287bd5872cad49eca8c135b59f0789375",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 40 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-40.png; SHA-256 81e5200a015ff1db8edc6f89000eb77f958537fb2e2d69f4b0bb9bd9fbf285d2. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 4 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    },
+    {
+      "pdfPage": 41,
+      "rawPath": "study/sources/extracted/lecture-3/page-041.md",
+      "rawHash": "ae4c84fcdb05298b4cf6f56f985a11429e2e03a93a7a59f114d3aa74c37138bd",
+      "imagePath": "study/sources/assets/lecture-3/page-041.png",
+      "imageHash": "d5871922ef4fb85011434f3e57d237db6edb35200491b1fc0e0ea9f717ad01c1",
+      "normalizedPath": "study/sources/annotated/lecture-3/page-041.md",
+      "normalizedHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+      "units": [
+        {
+          "id": "lecture-3-p041-summary-compounding",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 41,
+            "printedPage": "41",
+            "slideLabel": "41 / 41",
+            "region": "First bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-041.md",
+            "anchor": "lecture-3-p041-summary-compounding"
+          },
+          "contentHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p041-summary-zero",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 41,
+            "printedPage": "41",
+            "slideLabel": "41 / 41",
+            "region": "Second bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-041.md",
+            "anchor": "lecture-3-p041-summary-zero"
+          },
+          "contentHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p041-summary-yields",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 41,
+            "printedPage": "41",
+            "slideLabel": "41 / 41",
+            "region": "Third bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-041.md",
+            "anchor": "lecture-3-p041-summary-yields"
+          },
+          "contentHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p041-summary-bootstrap",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 41,
+            "printedPage": "41",
+            "slideLabel": "41 / 41",
+            "region": "Fourth bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-041.md",
+            "anchor": "lecture-3-p041-summary-bootstrap"
+          },
+          "contentHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p041-summary-forward",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 41,
+            "printedPage": "41",
+            "slideLabel": "41 / 41",
+            "region": "Fifth bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-041.md",
+            "anchor": "lecture-3-p041-summary-forward"
+          },
+          "contentHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p041-summary-fra",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 41,
+            "printedPage": "41",
+            "slideLabel": "41 / 41",
+            "region": "Sixth bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-041.md",
+            "anchor": "lecture-3-p041-summary-fra"
+          },
+          "contentHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p041-summary-sensitivity",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 41,
+            "printedPage": "41",
+            "slideLabel": "41 / 41",
+            "region": "Seventh bullet"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-041.md",
+            "anchor": "lecture-3-p041-summary-sensitivity"
+          },
+          "contentHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p041-summary-unifying",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 41,
+            "printedPage": "41",
+            "slideLabel": "41 / 41",
+            "region": "Lower unifying-idea box"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-041.md",
+            "anchor": "lecture-3-p041-summary-unifying"
+          },
+          "contentHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-3-p041-page-furniture",
+          "sourceId": "lecture-3",
+          "locator": {
+            "pdfPage": 41,
+            "printedPage": "41",
+            "slideLabel": "41 / 41",
+            "region": "Top section strip where present and bottom course/author/page footer"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-3/page-041.md",
+            "anchor": "lecture-3-p041-page-furniture"
+          },
+          "contentHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author actually displayed physical page 41 using view_image before transcription; viewed render study/pilot/lecture-3/assets/page-41.png; SHA-256 d5871922ef4fb85011434f3e57d237db6edb35200491b1fc0e0ea9f717ad01c1. This is author inspection, not independent approval.",
+        "Production raw and fullpage image bytes are bound below; source PDF hash is bound at document root. All 9 unit hashes bind the complete normalized page bytes.",
+        "No chart/graph/figure with axes or cashflow timeline appears on this original page; displayed formulas/tables and textual boxes are transcribed semantically, not inferred from raw extraction."
+      ]
+    }
+  ]
+}

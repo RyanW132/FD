@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-2-problems",
+  "sourceHash": "8bd655a060ef54653746085d39d3fd47d9308b4f613fe9927f47d99df3d939c3",
+  "revision": "009f33125d475d12dba3cd8478f295d8908da569e755e00163c7c76173068209",
+  "config": {
+    "schemaVersion": 1,
+    "layout": true,
+    "encoding": "UTF-8",
+    "pageBreaks": true,
+    "dpi": 120,
+    "imageFormat": "png",
+    "crop": false,
+    "ocr": false,
+    "tools": {
+      "pdfinfo": "26.01.0",
+      "pdftotext": "26.01.0",
+      "pdftoppm": "26.01.0"
+    }
+  },
+  "rawExtractionComplete": true,
+  "semanticQA": "needs-review",
+  "pages": 2,
+  "lines": null,
+  "membership": [
+    {
+      "path": "study/sources/assets/seminar-2-problems/page-001.png",
+      "sha256": "b72c418a4529ed159d6b18a93eb1b125ff82bfc421ed4d7ad20478c3077ba84a",
+      "byteLength": 127231
+    },
+    {
+      "path": "study/sources/assets/seminar-2-problems/page-002.png",
+      "sha256": "12bf900df1b5e3d18445ab9356e636f57a96fddbd3793bd0587a45e84f2f479d",
+      "byteLength": 143228
+    },
+    {
+      "path": "study/sources/extracted/seminar-2-problems/page-001.md",
+      "sha256": "e6a9e202d7248fc45c3a544f393b04c6c502389248fca03157e11e64716733fe",
+      "byteLength": 1426
+    },
+    {
+      "path": "study/sources/extracted/seminar-2-problems/page-002.md",
+      "sha256": "5a37744845ec344e6764c9ccdda6ebb7a9ef371603f22dfe50bdebf2a54dffb7",
+      "byteLength": 1832
+    },
+    {
+      "path": "study/sources/extracted/seminar-2-problems/rawfull-layout.txt",
+      "sha256": "ca2d3e3112615f5db18ec5dd42705ba37f3fd403843b1d46622a16ce22d1964a",
+      "byteLength": 2664
+    }
+  ],
+  "membershipDigest": "6f5eac3c2e9ad049503c04af534d9021c32046919535a99350ae2c6ab2e3d284"
+}

@@ -1,0 +1,7219 @@
+{
+  "ok": true,
+  "scope": "Frozen lecture-3/4 source QA freshness and reproduction; not teaching readiness",
+  "totals": {
+    "pages": 73,
+    "units": 276,
+    "substantive": 201,
+    "administrative": 75
+  },
+  "checks": [
+    {
+      "check": "frozen bytes: study/sources/qa-drafts/lecture-3.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: context/lecture slides/Lecture 3 Interest rates and bonds.pdf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-001.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-001.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-001.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-002.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-002.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-002.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-003.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-003.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-003.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-004.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-004.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-004.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-005.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-005.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-005.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-006.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-006.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-006.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-007.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-007.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-007.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-008.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-008.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-008.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-009.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-009.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-009.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-010.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-010.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-010.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-011.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-011.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-011.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-012.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-012.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-012.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-013.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-013.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-013.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-014.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-014.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-014.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-015.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-015.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-015.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-016.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-016.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-016.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-017.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-017.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-017.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-018.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-018.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-018.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-019.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-019.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-019.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-020.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-020.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-020.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-021.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-021.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-021.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-022.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-022.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-022.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-023.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-023.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-023.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-024.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-024.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-024.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-025.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-025.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-025.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-026.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-026.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-026.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-027.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-027.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-027.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-028.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-028.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-028.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-029.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-029.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-029.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-030.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-030.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-030.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-031.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-031.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-031.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-032.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-032.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-032.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-033.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-033.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-033.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-034.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-034.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-034.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-035.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-035.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-035.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-036.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-036.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-036.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-037.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-037.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-037.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-038.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-038.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-038.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-039.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-039.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-039.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-040.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-040.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-040.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-3/page-041.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-3/page-041.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-3/page-041.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 source identity",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 permitted agent channel",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 exhaustive physical pages",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-001.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p001-title unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p001-title exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-001.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-002.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p002-outline unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p002-outline exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p002-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p002-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-002.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-003.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p003-dated-cashflows unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p003-dated-cashflows exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p003-dated-cashflows self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p003-central-question unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p003-central-question exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p003-central-question self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p003-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p003-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-003.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-004.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-government-rates unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-government-rates exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-government-rates self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-policy-rates unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-policy-rates exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-policy-rates self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-repo-rates unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-repo-rates exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-repo-rates self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-reference-rates unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-reference-rates exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-reference-rates self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-risk-free-rate unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-risk-free-rate exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-risk-free-rate self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p004-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-004.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-005.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-libor-status unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-libor-status exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-libor-status self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-sonia unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-sonia exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-sonia self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-sofr unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-sofr exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-sofr self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-overnight-compounding unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-overnight-compounding exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-overnight-compounding self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-fra-convention unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-fra-convention exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-fra-convention self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p005-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-005.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-006.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p006-quotation-convention unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p006-quotation-convention exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p006-quotation-convention self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p006-one-year-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p006-one-year-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p006-one-year-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p006-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p006-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-006.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-007.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-future-value unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-future-value exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-future-value self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-present-value unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-present-value exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-present-value self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-quarterly-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-quarterly-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-quarterly-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p007-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-007.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-008.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-frequency-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-frequency-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-frequency-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-effective-annual-rate unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-effective-annual-rate exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-effective-annual-rate self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-effective-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-effective-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-effective-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p008-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-008.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-009.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-exponential-limit unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-exponential-limit exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-exponential-limit self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-accumulation-limit unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-accumulation-limit exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-accumulation-limit self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-continuous-values unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-continuous-values exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-continuous-values self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-sign-check unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-sign-check exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-sign-check self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p009-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-009.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-010.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-equivalent-accumulation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-equivalent-accumulation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-equivalent-accumulation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-conversion-formulas unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-conversion-formulas exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-conversion-formulas self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-semiannual-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-semiannual-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-semiannual-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p010-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-010.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-011.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-growth-questions unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-growth-questions exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-growth-questions self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-growth-questions local printed-error correction",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-printed-continuous-solution unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-printed-continuous-solution exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-printed-continuous-solution self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-printed-continuous-solution local printed-error correction",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-printed-semiannual-solution unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-printed-semiannual-solution exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-printed-semiannual-solution self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-printed-semiannual-solution local printed-error correction",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p011-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-011.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-012.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-zero-rate unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-zero-rate exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-zero-rate self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-discount-factor unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-discount-factor exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-discount-factor self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-cashflow-present-value unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-cashflow-present-value exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-cashflow-present-value self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-five-year-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-five-year-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-five-year-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p012-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-012.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-013.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-coupon-principal unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-coupon-principal exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-coupon-principal self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-bond-pricing-sum unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-bond-pricing-sum exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-bond-pricing-sum self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-own-maturity-discounting unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-own-maturity-discounting exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-own-maturity-discounting self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p013-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-013.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-014.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p014-coupon-data unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p014-coupon-data exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p014-coupon-data self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p014-coupon-pricing-calculation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p014-coupon-pricing-calculation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p014-coupon-pricing-calculation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p014-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p014-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-014.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-015.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-yield-definition unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-yield-definition exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-yield-definition self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-yield-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-yield-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-yield-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-yield-versus-zero unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-yield-versus-zero exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-yield-versus-zero self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p015-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-015.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-016.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-printed-coupon-yield-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-printed-coupon-yield-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-printed-coupon-yield-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-printed-coupon-yield-table local matched-convention caveat",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-concept-check unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-concept-check exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-concept-check self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-concept-check local matched-convention caveat",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p016-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-016.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-017.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-par-yield-definition unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-par-yield-definition exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-par-yield-definition self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-annuity-and-principal-factors unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-annuity-and-principal-factors exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-annuity-and-principal-factors self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-par-equation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-par-equation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-par-equation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p017-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-017.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-018.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p018-par-discount-factors unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p018-par-discount-factors exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p018-par-discount-factors self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p018-par-calculation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p018-par-calculation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p018-par-calculation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p018-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p018-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-018.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-019.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p019-bootstrap-procedure unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p019-bootstrap-procedure exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p019-bootstrap-procedure self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p019-bootstrap-name unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p019-bootstrap-name exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p019-bootstrap-name self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p019-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p019-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-019.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-020.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p020-bootstrap-instrument-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p020-bootstrap-instrument-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p020-bootstrap-instrument-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p020-bootstrap-start unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p020-bootstrap-start exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p020-bootstrap-start self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p020-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p020-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-020.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-021.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p021-zero-rate-inversion unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p021-zero-rate-inversion exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p021-zero-rate-inversion self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p021-first-three-rates unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p021-first-three-rates exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p021-first-three-rates self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p021-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p021-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-021.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-022.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p022-one-point-five-cashflows unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p022-one-point-five-cashflows exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p022-one-point-five-cashflows self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p022-one-point-five-solution unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p022-one-point-five-solution exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p022-one-point-five-solution self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p022-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p022-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-022.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-023.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-two-year-equation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-two-year-equation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-two-year-equation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-two-year-solution unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-two-year-solution exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-two-year-solution self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-bootstrap-order-question unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-bootstrap-order-question exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-bootstrap-order-question self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p023-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-023.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-024.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p024-zero-curve-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p024-zero-curve-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p024-zero-curve-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p024-interpolation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p024-interpolation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p024-interpolation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p024-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p024-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-024.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-025.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-forward-rate-definition unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-forward-rate-definition exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-forward-rate-definition self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-forward-accumulation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-forward-accumulation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-forward-accumulation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-forward-rate-formula unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-forward-rate-formula exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-forward-rate-formula self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-discount-factor-ratio unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-discount-factor-ratio exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-discount-factor-ratio self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p025-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-025.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-026.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-one-two-forward-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-one-two-forward-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-one-two-forward-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-strategy-terminal-values unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-strategy-terminal-values exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-strategy-terminal-values self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-forward-not-forecast unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-forward-not-forecast exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-forward-not-forecast self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p026-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-026.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-027.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-annual-forward-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-annual-forward-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-annual-forward-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-fourth-year-calculation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-fourth-year-calculation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-fourth-year-calculation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-third-year-question unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-third-year-question exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-third-year-question self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p027-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-027.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-028.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p028-fra-definition-mechanics unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p028-fra-definition-mechanics exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p028-fra-definition-mechanics self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p028-fra-purpose unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p028-fra-purpose exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p028-fra-purpose self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p028-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p028-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-028.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-029.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-fra-notation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-fra-notation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-fra-notation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-fra-terminal-difference unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-fra-terminal-difference exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-fra-terminal-difference self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-fra-start-settlement unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-fra-start-settlement exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-fra-start-settlement self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p029-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-029.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-030.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-fra-example-terminal unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-fra-example-terminal exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-fra-example-terminal self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-fra-example-settlement unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-fra-example-settlement exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-fra-example-settlement self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-fra-example-interpretation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-fra-example-interpretation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-fra-example-interpretation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p030-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-030.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-031.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p031-fra-exposure-questions unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p031-fra-exposure-questions exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p031-fra-exposure-questions self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p031-fra-exposure-answers unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p031-fra-exposure-answers exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p031-fra-exposure-answers self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p031-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p031-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-031.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-032.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-price-yield-function unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-price-yield-function exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-price-yield-function self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-price-first-derivative unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-price-first-derivative exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-price-first-derivative self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-sensitivity-prediction unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-sensitivity-prediction exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-sensitivity-prediction self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p032-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-032.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-033.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-duration-definition unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-duration-definition exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-duration-definition self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-duration-weights unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-duration-weights exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-duration-weights self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-duration-maturity unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-duration-maturity exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-duration-maturity self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p033-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-033.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-034.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-duration-first-order unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-duration-first-order exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-duration-first-order self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-basis-point unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-basis-point exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-basis-point self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-longer-duration-sensitivity unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-longer-duration-sensitivity exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-longer-duration-sensitivity self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p034-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-034.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-035.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p035-duration-example-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p035-duration-example-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p035-duration-example-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p035-duration-example-results unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p035-duration-example-results exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p035-duration-example-results self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p035-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p035-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-035.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-036.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p036-duration-small-change unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p036-duration-small-change exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p036-duration-small-change self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p036-duration-new-price unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p036-duration-new-price exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p036-duration-new-price self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p036-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p036-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-036.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-037.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p037-tangent-approximation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p037-tangent-approximation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p037-tangent-approximation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p037-duration-errors-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p037-duration-errors-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p037-duration-errors-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p037-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p037-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-037.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-038.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-convexity-definition unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-convexity-definition exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-convexity-definition self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-convexity-approximation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-convexity-approximation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-convexity-approximation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-convexity-example-value unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-convexity-example-value exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-convexity-example-value self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p038-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-038.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-039.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p039-duration-convexity-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p039-duration-convexity-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p039-duration-convexity-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p039-duration-convexity-comparison unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p039-duration-convexity-comparison exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p039-duration-convexity-comparison self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p039-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p039-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-039.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-040.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-immunisation-benefit unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-immunisation-benefit exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-immunisation-benefit self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-immunisation-limitations unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-immunisation-limitations exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-immunisation-limitations self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-risk-management-caution unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-risk-management-caution exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-risk-management-caution self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p040-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-040.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-041.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-compounding unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-compounding exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-compounding self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-zero unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-zero exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-zero self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-yields unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-yields exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-yields self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-bootstrap unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-bootstrap exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-bootstrap self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-forward unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-forward exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-forward self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-fra unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-fra exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-fra self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-sensitivity unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-sensitivity exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-sensitivity self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-unifying unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-unifying exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-summary-unifying self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3-p041-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-3/page-041.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 fresh original PDF metadata",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 fresh full raw extraction byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 raw page separation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 render membership",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 1 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 1 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 2 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 2 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 3 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 3 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 4 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 4 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 5 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 5 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 6 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 6 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 7 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 7 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 8 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 8 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 9 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 9 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 10 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 10 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 11 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 11 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 12 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 12 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 13 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 13 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 14 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 14 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 15 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 15 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 16 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 16 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 17 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 17 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 18 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 18 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 19 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 19 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 20 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 20 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 21 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 21 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 22 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 22 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 23 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 23 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 24 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 24 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 25 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 25 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 26 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 26 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 27 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 27 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 28 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 28 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 29 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 29 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 30 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 30 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 31 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 31 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 32 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 32 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 33 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 33 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 34 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 34 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 35 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 35 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 36 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 36 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 37 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 37 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 38 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 38 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 39 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 39 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 40 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 40 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 41 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 page 41 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 review frozen draft/source/independence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-3 exact reviewed page bytes/unit ordering",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/qa-drafts/lecture-4.json",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: context/lecture slides/Lecture 4 Forward and Futures.pdf",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-001.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-001.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-001.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-002.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-002.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-002.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-003.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-003.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-003.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-004.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-004.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-004.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-005.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-005.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-005.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-006.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-006.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-006.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-007.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-007.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-007.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-008.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-008.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-008.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-009.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-009.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-009.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-010.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-010.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-010.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-011.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-011.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-011.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-012.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-012.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-012.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-013.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-013.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-013.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-014.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-014.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-014.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-015.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-015.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-015.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-016.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-016.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-016.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-017.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-017.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-017.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-018.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-018.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-018.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-019.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-019.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-019.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-020.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-020.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-020.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-021.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-021.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-021.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-022.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-022.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-022.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-023.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-023.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-023.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-024.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-024.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-024.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-025.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-025.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-025.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-026.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-026.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-026.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-027.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-027.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-027.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-028.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-028.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-028.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-029.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-029.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-029.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-030.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-030.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-030.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-031.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-031.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-031.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/extracted/lecture-4/page-032.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/assets/lecture-4/page-032.png",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "frozen bytes: study/sources/annotated/lecture-4/page-032.md",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 source identity",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 permitted agent channel",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 exhaustive physical pages",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-001.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p001-title unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p001-title exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-001.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-002.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p002-outline unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p002-outline exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p002-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p002-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-002.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-003.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-investment-assets unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-investment-assets exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-investment-assets self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-consumption-assets unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-consumption-assets exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-consumption-assets self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-asset-distinction unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-asset-distinction exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-asset-distinction self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p003-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-003.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-004.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p004-risk-transfer-uses unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p004-risk-transfer-uses exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p004-risk-transfer-uses self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p004-futures-not-forecast unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p004-futures-not-forecast exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p004-futures-not-forecast self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p004-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p004-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-004.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-005.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-short-sale-mechanics unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-short-sale-mechanics exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-short-sale-mechanics self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-short-sale-risks unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-short-sale-risks exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-short-sale-risks self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-short-sale-pricing unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-short-sale-pricing exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-short-sale-pricing self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p005-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-005.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-006.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p006-short-sale-cashflow-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p006-short-sale-cashflow-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p006-short-sale-cashflow-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p006-short-sale-example-assumptions unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p006-short-sale-example-assumptions exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p006-short-sale-example-assumptions self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p006-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p006-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-006.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-007.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-forward-futures-obligation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-forward-futures-obligation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-forward-futures-obligation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-forward-futures-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-forward-futures-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-forward-futures-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-delivery-forward-price unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-delivery-forward-price exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-delivery-forward-price self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p007-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-007.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-008.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-daily-gain-formula unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-daily-gain-formula exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-daily-gain-formula self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-margin-mechanics unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-margin-mechanics exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-margin-mechanics self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-daily-loss-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-daily-loss-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-daily-loss-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p008-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-008.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-009.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p009-pricing-assumptions unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p009-pricing-assumptions exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p009-pricing-assumptions self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p009-benchmark-limitations unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p009-benchmark-limitations exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p009-benchmark-limitations self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p009-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p009-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-009.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-010.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-spot-forward-delivery-notation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-spot-forward-delivery-notation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-spot-forward-delivery-notation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-carry-notation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-carry-notation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-carry-notation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-inception-versus-later unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-inception-versus-later exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-inception-versus-later self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p010-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-010.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-011.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p011-cash-and-carry-replication unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p011-cash-and-carry-replication exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p011-cash-and-carry-replication self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p011-no-income-price unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p011-no-income-price exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p011-no-income-price self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p011-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p011-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-011.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-012.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-overpriced-forward-data unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-overpriced-forward-data exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-overpriced-forward-data self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-overpriced-arbitrage unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-overpriced-arbitrage exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-overpriced-arbitrage self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-overpriced-profit unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-overpriced-profit exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-overpriced-profit self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p012-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-012.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-013.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p013-underpriced-arbitrage unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p013-underpriced-arbitrage exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p013-underpriced-arbitrage self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p013-underpriced-profit unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p013-underpriced-profit exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p013-underpriced-profit self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p013-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p013-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-013.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-014.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-forward-upper-bound unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-forward-upper-bound exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-forward-upper-bound self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-restricted-short-consequence unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-restricted-short-consequence exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-restricted-short-consequence self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-existing-owner-substitution unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-existing-owner-substitution exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-existing-owner-substitution self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p014-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-014.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-015.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-known-income-replication unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-known-income-replication exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-known-income-replication self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-known-income-interpretation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-known-income-interpretation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-known-income-interpretation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-income-present-value-sum unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-income-present-value-sum exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-income-present-value-sum self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p015-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-015.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-016.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-bond-income-data-pv unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-bond-income-data-pv exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-bond-income-data-pv self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-bond-income-forward unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-bond-income-forward exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-bond-income-forward self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-positive-rates-question unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-positive-rates-question exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-positive-rates-question self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p016-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-016.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-017.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-income-overpriced-strategy unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-income-overpriced-strategy exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-income-overpriced-strategy self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-income-underpriced-strategy unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-income-underpriced-strategy exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-income-underpriced-strategy self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-income-short-qualification unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-income-short-qualification exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-income-short-qualification self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p017-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-017.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-018.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-known-yield-formula unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-known-yield-formula exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-known-yield-formula self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-known-yield-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-known-yield-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-known-yield-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-cash-versus-yield unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-cash-versus-yield exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-cash-versus-yield self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p018-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-018.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-019.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-contract-inception unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-contract-inception exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-contract-inception self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-contract-later unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-contract-later exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-contract-later self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-contract-value unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-contract-value exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-contract-value self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p019-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-019.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-020.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-offsetting-forward-portfolio unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-offsetting-forward-portfolio exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-offsetting-forward-portfolio self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-discounted-forward-value unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-discounted-forward-value exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-discounted-forward-value self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-no-income-value unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-no-income-value exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-no-income-value self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p020-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-020.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-021.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p021-existing-forward-price-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p021-existing-forward-price-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p021-existing-forward-price-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p021-existing-forward-value-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p021-existing-forward-value-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p021-existing-forward-value-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p021-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p021-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-021.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-022.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-deterministic-rates unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-deterministic-rates exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-deterministic-rates self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-uncertain-rate-effects unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-uncertain-rate-effects exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-uncertain-rate-effects self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-variation-margin-mechanism unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-variation-margin-mechanism exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-variation-margin-mechanism self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p022-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-022.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-023.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-index-pricing unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-index-pricing exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-index-pricing self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-index-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-index-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-index-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-index-dividend-period unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-index-dividend-period exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-index-dividend-period self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p023-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-023.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-024.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-currency-quote-investment unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-currency-quote-investment exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-currency-quote-investment self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-covered-interest-parity unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-covered-interest-parity exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-covered-interest-parity self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-currency-sign-quotation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-currency-sign-quotation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-currency-sign-quotation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p024-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-024.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-025.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p025-usd-aud-forward-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p025-usd-aud-forward-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p025-usd-aud-forward-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p025-currency-borrow-question unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p025-currency-borrow-question exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p025-currency-borrow-question self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p025-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p025-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-025.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-026.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p026-currency-arbitrage-steps unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p026-currency-arbitrage-steps exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p026-currency-arbitrage-steps self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p026-currency-arbitrage-profit unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p026-currency-arbitrage-profit exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p026-currency-arbitrage-profit self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p026-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p026-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-026.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-027.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-commodity-carry-components unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-commodity-carry-components exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-commodity-carry-components self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-commodity-proportional-formula unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-commodity-proportional-formula exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-commodity-proportional-formula self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-commodity-cash-storage-formula unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-commodity-cash-storage-formula exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-commodity-cash-storage-formula self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-consumption-inventory-benefit unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-consumption-inventory-benefit exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-consumption-inventory-benefit self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p027-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-027.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-028.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-net-carry-definition unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-net-carry-definition exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-net-carry-definition self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-carry-table unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-carry-table exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-carry-table self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-carry-not-future-spot unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-carry-not-future-spot exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-carry-not-future-spot self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p028-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-028.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-029.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-storage-payment-present-value unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-storage-payment-present-value exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-storage-payment-present-value self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-storage-forward-example unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-storage-forward-example exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-storage-forward-example self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-storage-overpricing-arbitrage unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-storage-overpricing-arbitrage exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-storage-overpricing-arbitrage self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p029-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-029.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-030.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-contango-definition unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-contango-definition exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-contango-definition self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-backwardation-definition unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-backwardation-definition exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-backwardation-definition self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-net-carry-curve-shape unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-net-carry-curve-shape exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-net-carry-curve-shape self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-curve-not-expectation unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-curve-not-expectation exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-curve-not-expectation self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p030-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-030.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-031.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p031-formula-matching-question unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p031-formula-matching-question exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p031-formula-matching-question self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p031-formula-matching-answers unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p031-formula-matching-answers exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p031-formula-matching-answers self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p031-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p031-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-031.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-032.md unique anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-carry unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-carry exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-carry self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-arbitrage unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-arbitrage exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-arbitrage self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-income unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-income exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-income self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-value unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-value exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-value self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-settlement unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-settlement exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-settlement self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-currency unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-currency exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-currency self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-commodity unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-commodity exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-commodity self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-replication unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-replication exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-summary-replication self-contained source evidence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-page-furniture unique source unit",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4-p032-page-furniture exact source locator/reference/hash",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "study/sources/annotated/lecture-4/page-032.md only labelled editorial extra anchors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 fresh original PDF metadata",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 fresh full raw extraction byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 raw page separation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 render membership",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 1 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 1 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 2 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 2 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 3 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 3 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 4 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 4 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 5 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 5 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 6 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 6 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 7 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 7 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 8 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 8 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 9 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 9 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 10 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 10 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 11 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 11 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 12 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 12 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 13 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 13 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 14 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 14 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 15 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 15 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 16 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 16 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 17 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 17 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 18 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 18 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 19 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 19 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 20 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 20 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 21 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 21 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 22 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 22 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 23 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 23 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 24 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 24 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 25 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 25 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 26 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 26 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 27 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 27 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 28 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 28 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 29 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 29 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 30 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 30 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 31 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 31 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 32 fresh uncropped image byte equality",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 page 32 raw text is original physical page",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 review frozen draft/source/independence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "lecture-4 exact reviewed page bytes/unit ordering",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "L3 p6 annual",
+      "pass": true,
+      "detail": {
+        "actual": 110.00000000000001,
+        "expected": 110,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p6 semiannual",
+      "pass": true,
+      "detail": {
+        "actual": 110.25,
+        "expected": 110.25,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p6 continuous",
+      "pass": true,
+      "detail": {
+        "actual": 110.51709180756477,
+        "expected": 110.52,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p7 quarterly two-year",
+      "pass": true,
+      "detail": {
+        "actual": 1171.6593810022657,
+        "expected": 1171.66,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p8 m=1",
+      "pass": true,
+      "detail": {
+        "actual": 110.00000000000001,
+        "expected": 110,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p8 m=2",
+      "pass": true,
+      "detail": {
+        "actual": 110.25,
+        "expected": 110.25,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p8 m=4",
+      "pass": true,
+      "detail": {
+        "actual": 110.38128906249996,
+        "expected": 110.38,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p8 m=12",
+      "pass": true,
+      "detail": {
+        "actual": 110.47130674412968,
+        "expected": 110.47,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p8 m=365",
+      "pass": true,
+      "detail": {
+        "actual": 110.51557816162325,
+        "expected": 110.52,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p8 effective annual percent",
+      "pass": true,
+      "detail": {
+        "actual": 10.250000000000004,
+        "expected": 10.25,
+        "tolerance": 1e-10
+      }
+    },
+    {
+      "check": "L3 p10 nominal-to-continuous percent",
+      "pass": true,
+      "detail": {
+        "actual": 9.75803283388641,
+        "expected": 9.758,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p11 corrected continuous percent",
+      "pass": true,
+      "detail": {
+        "actual": 9.894667007884882,
+        "expected": 9.894667007884882,
+        "tolerance": 1e-12
+      }
+    },
+    {
+      "check": "L3 p11 corrected nominal semiannual percent",
+      "pass": true,
+      "detail": {
+        "actual": 10.143514899716033,
+        "expected": 10.14351489971605,
+        "tolerance": 1e-12
+      }
+    },
+    {
+      "check": "L3 p11 distinct effective annual percent",
+      "pass": true,
+      "detail": {
+        "actual": 10.40074213601796,
+        "expected": 10.400742136017955,
+        "tolerance": 1e-12
+      }
+    },
+    {
+      "check": "L3 p11 preserved printed claims actually incorrect",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "L3 p12 accumulation",
+      "pass": true,
+      "detail": {
+        "actual": 128.40254166877415,
+        "expected": 128.4,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p12 discounting",
+      "pass": true,
+      "detail": {
+        "actual": 77.8800783071405,
+        "expected": 77.88,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p14 bond price",
+      "pass": true,
+      "detail": {
+        "actual": 98.3850627729396,
+        "expected": 98.39,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p15 continuous yield percent",
+      "pass": true,
+      "detail": {
+        "actual": 6.7598162341428845,
+        "expected": 6.76,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p18 final discount factor",
+      "pass": true,
+      "detail": {
+        "actual": 0.8728426324887193,
+        "expected": 0.87284,
+        "tolerance": 5e-06
+      }
+    },
+    {
+      "check": "L3 p18 annuity factor",
+      "pass": true,
+      "detail": {
+        "actual": 3.7002665080225565,
+        "expected": 3.70027,
+        "tolerance": 5e-06
+      }
+    },
+    {
+      "check": "L3 p18 par coupon percent",
+      "pass": true,
+      "detail": {
+        "actual": 6.8728761690862274,
+        "expected": 6.87,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p21 T=0.25 zero percent",
+      "pass": true,
+      "detail": {
+        "actual": 10.127123193715914,
+        "expected": 10.127,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p21 T=0.5 zero percent",
+      "pass": true,
+      "detail": {
+        "actual": 10.46929607444184,
+        "expected": 10.469,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p21 T=1 zero percent",
+      "pass": true,
+      "detail": {
+        "actual": 10.536051565782635,
+        "expected": 10.536,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p22 discount factor",
+      "pass": true,
+      "detail": {
+        "actual": 0.8519615384615384,
+        "expected": 0.85196,
+        "tolerance": 5e-06
+      }
+    },
+    {
+      "check": "L3 p22 bootstrap rate percent",
+      "pass": true,
+      "detail": {
+        "actual": 10.68092638817053,
+        "expected": 10.681,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p23 bootstrap rate percent",
+      "pass": true,
+      "detail": {
+        "actual": 10.808027549746793,
+        "expected": 10.808,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p26 forward rate percent",
+      "pass": true,
+      "detail": {
+        "actual": 5.0,
+        "expected": 5,
+        "tolerance": 1e-12
+      }
+    },
+    {
+      "check": "L3 p26 equal terminal value",
+      "pass": true,
+      "detail": {
+        "actual": 108.32870676749586,
+        "expected": 108.33,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L3 p27 year 2 forward percent",
+      "pass": true,
+      "detail": {
+        "actual": 5.0,
+        "expected": 5,
+        "tolerance": 1e-10
+      }
+    },
+    {
+      "check": "L3 p27 year 3 forward percent",
+      "pass": true,
+      "detail": {
+        "actual": 5.800000000000001,
+        "expected": 5.8,
+        "tolerance": 1e-10
+      }
+    },
+    {
+      "check": "L3 p27 year 4 forward percent",
+      "pass": true,
+      "detail": {
+        "actual": 6.2,
+        "expected": 6.2,
+        "tolerance": 1e-10
+      }
+    },
+    {
+      "check": "L3 p27 year 5 forward percent",
+      "pass": true,
+      "detail": {
+        "actual": 6.5,
+        "expected": 6.5,
+        "tolerance": 1e-10
+      }
+    },
+    {
+      "check": "L3 p30 terminal FRA",
+      "pass": true,
+      "detail": {
+        "actual": -124999.99999999994,
+        "expected": -125000,
+        "tolerance": 1e-08
+      }
+    },
+    {
+      "check": "L3 p30 start FRA",
+      "pass": true,
+      "detail": {
+        "actual": -123609.39431396786,
+        "expected": -123609,
+        "tolerance": 0.5
+      }
+    },
+    {
+      "check": "L3 p35 PV row 1",
+      "pass": true,
+      "detail": {
+        "actual": 4.708822667921243,
+        "expected": 4.709,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 weighted time row 1",
+      "pass": true,
+      "detail": {
+        "actual": 0.024990296671276748,
+        "expected": 0.025,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 PV row 2",
+      "pass": true,
+      "detail": {
+        "actual": 4.434602183585787,
+        "expected": 4.435,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 weighted time row 2",
+      "pass": true,
+      "detail": {
+        "actual": 0.0470699501775139,
+        "expected": 0.047,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 PV row 3",
+      "pass": true,
+      "detail": {
+        "actual": 4.17635105705636,
+        "expected": 4.176,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 weighted time row 3",
+      "pass": true,
+      "detail": {
+        "actual": 0.0664932145121403,
+        "expected": 0.066,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 PV row 4",
+      "pass": true,
+      "detail": {
+        "actual": 3.9331393053327672,
+        "expected": 3.933,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 weighted time row 4",
+      "pass": true,
+      "detail": {
+        "actual": 0.08349460153539096,
+        "expected": 0.083,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 PV row 5",
+      "pass": true,
+      "detail": {
+        "actual": 3.7040911034085893,
+        "expected": 3.704,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 weighted time row 5",
+      "pass": true,
+      "detail": {
+        "actual": 0.09829031808972519,
+        "expected": 0.098,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 PV row 6",
+      "pass": true,
+      "detail": {
+        "actual": 73.25601423745826,
+        "expected": 73.256,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 weighted time row 6",
+      "pass": true,
+      "detail": {
+        "actual": 2.3326716564047607,
+        "expected": 2.333,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 cashflow total",
+      "pass": true,
+      "detail": {
+        "actual": 130,
+        "expected": 130,
+        "tolerance": 1e-12
+      }
+    },
+    {
+      "check": "L3 p35 PV total",
+      "pass": true,
+      "detail": {
+        "actual": 94.213020554763,
+        "expected": 94.213,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p35 duration total",
+      "pass": true,
+      "detail": {
+        "actual": 2.653010037390808,
+        "expected": 2.653,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p38 convexity",
+      "pass": true,
+      "detail": {
+        "actual": 7.570034887790739,
+        "expected": 7.57,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p37 0.001 exact",
+      "pass": true,
+      "detail": {
+        "actual": 93.96342871603265,
+        "expected": 93.963,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p37 0.001 linear",
+      "pass": true,
+      "detail": {
+        "actual": 93.9630724655783,
+        "expected": 93.963,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p37 0.001 error",
+      "pass": true,
+      "detail": {
+        "actual": 0.000356250454345286,
+        "expected": 0,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p37 0.01 exact",
+      "pass": true,
+      "detail": {
+        "actual": 91.74885428130538,
+        "expected": 91.749,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p37 0.01 linear",
+      "pass": true,
+      "detail": {
+        "actual": 91.71353966291608,
+        "expected": 91.714,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p37 0.01 error",
+      "pass": true,
+      "detail": {
+        "actual": 0.035314618389307384,
+        "expected": 0.035,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p37 0.02 exact",
+      "pass": true,
+      "detail": {
+        "actual": 89.35395674282788,
+        "expected": 89.354,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p37 0.02 linear",
+      "pass": true,
+      "detail": {
+        "actual": 89.21405877106915,
+        "expected": 89.214,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p37 0.02 error",
+      "pass": true,
+      "detail": {
+        "actual": 0.1398979717587281,
+        "expected": 0.14,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L3 p39 quadratic estimate",
+      "pass": true,
+      "detail": {
+        "actual": 91.74918873049998,
+        "expected": 91.749,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L4 p6 long net profit",
+      "pass": true,
+      "detail": {
+        "actual": -9500,
+        "expected": -9500,
+        "tolerance": 1e-12
+      }
+    },
+    {
+      "check": "L4 p6 short net profit",
+      "pass": true,
+      "detail": {
+        "actual": 9500,
+        "expected": 9500,
+        "tolerance": 1e-12
+      }
+    },
+    {
+      "check": "L4 p8 daily variation",
+      "pass": true,
+      "detail": {
+        "actual": -300.0,
+        "expected": -300,
+        "tolerance": 1e-12
+      }
+    },
+    {
+      "check": "L4 p12 fair forward",
+      "pass": true,
+      "detail": {
+        "actual": 40.50313806162538,
+        "expected": 40.5,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p12 cash-carry profit",
+      "pass": true,
+      "detail": {
+        "actual": 2.4968619383746216,
+        "expected": 2.5,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p13 reverse-carry profit",
+      "pass": true,
+      "detail": {
+        "actual": 1.5031380616253784,
+        "expected": 1.5,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p16 coupon PV",
+      "pass": true,
+      "detail": {
+        "actual": 39.601993349966726,
+        "expected": 39.6,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p16 income forward",
+      "pass": true,
+      "detail": {
+        "actual": 886.601026957095,
+        "expected": 886.6,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p17 overpriced profit",
+      "pass": true,
+      "detail": {
+        "actual": 23.398973042905027,
+        "expected": 23.4,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p17 underpriced profit",
+      "pass": true,
+      "detail": {
+        "actual": 16.601026957094973,
+        "expected": 16.6,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p18 yield forward",
+      "pass": true,
+      "detail": {
+        "actual": 25.766516136769308,
+        "expected": 25.77,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p21 forward price",
+      "pass": true,
+      "detail": {
+        "actual": 26.281777409400604,
+        "expected": 26.28,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p21 forward value",
+      "pass": true,
+      "detail": {
+        "actual": 2.1704938119828654,
+        "expected": 2.17,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p21 rounded-route value",
+      "pass": true,
+      "detail": {
+        "actual": 2.168803087861629,
+        "expected": 2.17,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p23 stock index",
+      "pass": true,
+      "detail": {
+        "actual": 1313.0652172094183,
+        "expected": 1313.07,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p25 currency forward",
+      "pass": true,
+      "detail": {
+        "actual": 0.9415736503692766,
+        "expected": 0.9416,
+        "tolerance": 5e-05
+      }
+    },
+    {
+      "check": "L4 p26 USD investment",
+      "pass": true,
+      "detail": {
+        "actual": 999.7973132262207,
+        "expected": 999.8,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p26 AUD repayment",
+      "pass": true,
+      "detail": {
+        "actual": 1061.8365465453596,
+        "expected": 1061.84,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p26 USD forward cost",
+      "pass": true,
+      "detail": {
+        "actual": 987.5079882871845,
+        "expected": 987.51,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p26 profit",
+      "pass": true,
+      "detail": {
+        "actual": 12.289324939036192,
+        "expected": 12.29,
+        "tolerance": 0.005
+      }
+    },
+    {
+      "check": "L4 p29 storage PV",
+      "pass": true,
+      "detail": {
+        "actual": 1.8647876398118965,
+        "expected": 1.865,
+        "tolerance": 0.0005
+      }
+    },
+    {
+      "check": "L4 p29 storage forward",
+      "pass": true,
+      "detail": {
+        "actual": 484.6286815643974,
+        "expected": 484.63,
+        "tolerance": 0.005
+      }
+    }
+  ]
+}

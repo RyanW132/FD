@@ -1,0 +1,14 @@
+[
+  {
+    "command": ".omx/tools/poppler/bin/pdftotext -f 26 -l 26 -layout -enc UTF-8 'context/lecture slides/Lecture 1 Intro to Derivatives.pdf' -",
+    "exitStatus": 0,
+    "stdout": "                                                   Forwards\n\n\n\n The Long Forward Gains When ST > K\n\n\n                                                                             Reading the graph\n                                                                             The payoff is\n\n                                                                                    \u03a0long\n                                                                                     T    = ST \u2212 K .\n\n                                                                             The line has slope +1: a \u00a31\n                                                                             increase in ST increases the\n                                                                             payoff by \u00a31 per unit.\n\n  Prediction\n  What should the short-forward payoff graph look like?\n\n\n\nES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives       Aliya Kenjegalieva   26 / 38\n\f",
+    "stderr": ""
+  },
+  {
+    "command": ".omx/tools/poppler/bin/pdftoppm -f 26 -l 26 -singlefile -r 120 -png 'context/lecture slides/Lecture 1 Intro to Derivatives.pdf' study/pilot/figure-sample/lecture-1-pdfPage-026",
+    "exitStatus": 0,
+    "stdout": "",
+    "stderr": ""
+  }
+]

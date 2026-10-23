@@ -1,0 +1,696 @@
+{
+  "reviewer": "independent native verifier /root/g001_lesson_review",
+  "timeUtc": "2026-10-21T17:41:36.321429+00:00",
+  "scope": "Only provisional compounding/discounting pilot; not production readiness, learner mastery or whole-lecture coverage.",
+  "automatedChecksVerdict": "PASS",
+  "checkCount": 110,
+  "failures": [],
+  "checks": [
+    {
+      "name": "page6 annual balance",
+      "pass": true,
+      "actual": "110.0",
+      "expected": "110"
+    },
+    {
+      "name": "page6 semiannual balance",
+      "pass": true,
+      "actual": "110.2500",
+      "expected": "110.25"
+    },
+    {
+      "name": "page6 continuous rounded balance",
+      "pass": true,
+      "actual": "110.52",
+      "expected": "110.52"
+    },
+    {
+      "name": "page8 m=1 rounded balance",
+      "pass": true,
+      "actual": "110.00",
+      "expected": "110.00"
+    },
+    {
+      "name": "page8 m=2 rounded balance",
+      "pass": true,
+      "actual": "110.25",
+      "expected": "110.25"
+    },
+    {
+      "name": "page8 m=4 rounded balance",
+      "pass": true,
+      "actual": "110.38",
+      "expected": "110.38"
+    },
+    {
+      "name": "page8 m=12 rounded balance",
+      "pass": true,
+      "actual": "110.47",
+      "expected": "110.47"
+    },
+    {
+      "name": "page8 m=365 rounded balance",
+      "pass": true,
+      "actual": "110.52",
+      "expected": "110.52"
+    },
+    {
+      "name": "quarterly growth factor",
+      "pass": true,
+      "actual": "1.1716593810022656",
+      "expected": "1.1716593810022657"
+    },
+    {
+      "name": "quarterly future value",
+      "pass": true,
+      "actual": "1171.6593810022656000",
+      "expected": "1171.6593810022657"
+    },
+    {
+      "name": "quarterly reverse exact",
+      "pass": true,
+      "actual": "1000",
+      "expected": "1000"
+    },
+    {
+      "name": "quarterly reverse rounded within one cent",
+      "pass": true,
+      "actual": "1000.0005283086060988940812500713853538632131426107",
+      "expected": "1000"
+    },
+    {
+      "name": "10% semiannual effective",
+      "pass": true,
+      "actual": "0.1025",
+      "expected": "0.1025"
+    },
+    {
+      "name": "continuous discount factor",
+      "pass": true,
+      "actual": "0.90483741803595957316424905944643662119470536098040",
+      "expected": "0.9048374180359595"
+    },
+    {
+      "name": "continuous growth factor",
+      "pass": true,
+      "actual": "1.1051709180756476248117078264902466682245471947375",
+      "expected": "1.1051709180756477"
+    },
+    {
+      "name": "continuous example PV",
+      "pass": true,
+      "actual": "904.83741803595957316424905944643662119470536098040",
+      "expected": "904.8374180359596"
+    },
+    {
+      "name": "continuous example roundtrip",
+      "pass": true,
+      "actual": "999.99999999999999999999999999999999999999999999998",
+      "expected": "1000"
+    },
+    {
+      "name": "annual-convention comparison PV",
+      "pass": true,
+      "actual": "907.02947845804988662131519274376417233560090702948",
+      "expected": "907.0294784580499"
+    },
+    {
+      "name": "exercise1 annual rate",
+      "pass": true,
+      "actual": "0.06",
+      "expected": "0.06"
+    },
+    {
+      "name": "exercise1 per-period rate",
+      "pass": true,
+      "actual": "0.03",
+      "expected": "0.03"
+    },
+    {
+      "name": "exercise1 years",
+      "pass": true,
+      "actual": "1.5",
+      "expected": "1.5"
+    },
+    {
+      "name": "exercise1 periods",
+      "pass": true,
+      "actual": "3.0",
+      "expected": "3"
+    },
+    {
+      "name": "exercise2 growth factor",
+      "pass": true,
+      "actual": "1.12550881",
+      "expected": "1.12550881"
+    },
+    {
+      "name": "exercise2 FV",
+      "pass": true,
+      "actual": "225.10176200",
+      "expected": "225.101762"
+    },
+    {
+      "name": "exercise2 reverse",
+      "pass": true,
+      "actual": "200",
+      "expected": "200"
+    },
+    {
+      "name": "exercise3 effective annual",
+      "pass": true,
+      "actual": "0.0609",
+      "expected": "0.0609"
+    },
+    {
+      "name": "exercise4 discount factor",
+      "pass": true,
+      "actual": "0.98019867330675530222081410422530886629971240046914",
+      "expected": "0.9801986733067553"
+    },
+    {
+      "name": "exercise4 PV",
+      "pass": true,
+      "actual": "490.09933665337765111040705211265443314985620023457",
+      "expected": "490.09933665337764"
+    },
+    {
+      "name": "exercise4 reverse",
+      "pass": true,
+      "actual": "499.99999999999999999999999999999999999999999999999",
+      "expected": "500"
+    },
+    {
+      "name": "zero rate discount factor",
+      "pass": true,
+      "actual": "1",
+      "expected": "1"
+    },
+    {
+      "name": "zero time discount factor",
+      "pass": true,
+      "actual": "1",
+      "expected": "1"
+    },
+    {
+      "name": "positive rate/time discount factor between 0 and 1",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "negative rate positive time discount factor exceeds 1",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "discrete and continuous identical numeric rate not conflated",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref pilot-compounding-discounting",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref prerequisite-bridge",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-003",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-006",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-007",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-008",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-009",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-006",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-007",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-007",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-006",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-008",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref lecture-3-pdfPage-009",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref exercise-rate-units",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer exercise-rate-units",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref answer-rate-units",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer answer-rate-units",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref exercise-discrete-roundtrip",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer exercise-discrete-roundtrip",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref answer-discrete-roundtrip",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer answer-discrete-roundtrip",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref exercise-effective-rate",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer exercise-effective-rate",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref answer-effective-rate",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer answer-effective-rate",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref exercise-continuous-discount",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer exercise-continuous-discount",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref answer-continuous-discount",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer answer-continuous-discount",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref exercise-teachback",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer exercise-teachback",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata ref answer-teachback",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "nonempty prompt/answer answer-teachback",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-003.md#lecture-3-pdfPage-003",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-006.md#lecture-3-pdfPage-006",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-007.md#lecture-3-pdfPage-007",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-008.md#lecture-3-pdfPage-008",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-009.md#lecture-3-pdfPage-009",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-003.md#lecture-3-pdfPage-003",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-006.md#lecture-3-pdfPage-006",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-006.md#lecture-3-pdfPage-006",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-007.md#lecture-3-pdfPage-007",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-007.md#lecture-3-pdfPage-007",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-008.md#lecture-3-pdfPage-008",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/assets/page-08.png",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson link ../lecture-3/pages/lecture-3-pdfPage-009.md#lecture-3-pdfPage-009",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "unique outcome ids",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "unique exercise ids",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson stable id resolves",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome present in lesson pilot-rate-units",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome criterion/evidence pilot-rate-units",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome reciprocal exercises pilot-rate-units",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome present in lesson pilot-discrete-roundtrip",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome criterion/evidence pilot-discrete-roundtrip",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome reciprocal exercises pilot-discrete-roundtrip",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome present in lesson pilot-effective-rate",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome criterion/evidence pilot-effective-rate",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome reciprocal exercises pilot-effective-rate",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome present in lesson pilot-continuous-discount",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome criterion/evidence pilot-continuous-discount",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "outcome reciprocal exercises pilot-continuous-discount",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "exercise reciprocal outcomes pilot-exercise-rate-units",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "exercise supplement label pilot-exercise-rate-units",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "exercise reciprocal outcomes pilot-exercise-discrete-roundtrip",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "exercise supplement label pilot-exercise-discrete-roundtrip",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "exercise reciprocal outcomes pilot-exercise-effective-rate",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "exercise supplement label pilot-exercise-effective-rate",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "exercise reciprocal outcomes pilot-exercise-continuous-discount",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "exercise supplement label pilot-exercise-continuous-discount",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "teachback mappings exist",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "correct exact physical pages",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "metadata honestly provisional",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "lesson honestly provisional",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "does not copy known page11 error",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "original source equals declared hash",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "name": "test-spec equals approved digest",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    }
+  ],
+  "hashes": {
+    "study/pilot/lessons/pilot-compounding-discounting.md": "5cb92da2ba142d456c4b1f8ac96ece808609d0754baa5c82bcab5ec0541f86f2",
+    "study/pilot/lessons/pilot-compounding-discounting.metadata.json": "b98bf0d08b7daaf15e0214aac115192430b8bc111924f355c47354f42cf9a4c2",
+    "study/pilot/lessons/AUTHOR-NOTES.md": "52865750fc2e352dfae94e67b89a7a2ca07bca2bf4a87a883a529aac8927e6a9",
+    "context/lecture slides/Lecture 3 Interest rates and bonds.pdf": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+    ".omx/plans/test-spec-fd-study-helper.md": "de12b1ecf2c8df006bc73e9645e3822c39a9b4afb2e69ed763d0f9de03e5e762",
+    ".omx/ultragoal/brief.md": "54eb4e9f21e421af9190a92ebc71547e70aad27f9243a70274d234fec506f57e",
+    "study/pilot/lecture-3/pages/lecture-3-pdfPage-003.md": "cb1e9c749c98783551f13b3dc2ea04e325199ca6b52e01a3d815ad844d252e1e",
+    "study/pilot/lecture-3/assets/page-03.png": "90714622c4b1a01d39b125106450e18b80ca741f9b463b01915cd6a6822f230b",
+    "study/pilot/lecture-3/pages/lecture-3-pdfPage-006.md": "3ad15fb0382c4c5c238d511fd1e72506fc249bfa3a320839e1a19e87a3efb262",
+    "study/pilot/lecture-3/assets/page-06.png": "e412a3f82001000d3ee1331001c3acafc424f81342f748f01f52caa7204e827a",
+    "study/pilot/lecture-3/pages/lecture-3-pdfPage-007.md": "4c510607316f04f1ece559fd36ee023889c7e7b7b688765edce71319742d97f6",
+    "study/pilot/lecture-3/assets/page-07.png": "d9ad519955e7f7f811e5ddc4a3fdc9a9c9c1dedd2a71f284cef97783a01de16d",
+    "study/pilot/lecture-3/pages/lecture-3-pdfPage-008.md": "235379d0e363595146602ccacaa1663ff13fbd83f59c43350105bcccc9e2bb75",
+    "study/pilot/lecture-3/assets/page-08.png": "61b99356fccf86dff51fe1fa1b859ef92814e6e874e1a3946473fc0e28447b14",
+    "study/pilot/lecture-3/pages/lecture-3-pdfPage-009.md": "8871c7fc2e26664eabba3c900df0b5ffb760784f1becbcd2b1d57f89636116ba",
+    "study/pilot/lecture-3/assets/page-09.png": "bc82da1cae12f1e7202202a087fd55a224f4c24fe9c25b343902a9842c85d47b"
+  },
+  "visualEvidenceInspected": [
+    "study/pilot/lecture-3/assets/page-03.png",
+    "study/pilot/lecture-3/assets/page-06.png",
+    "study/pilot/lecture-3/assets/page-07.png",
+    "study/pilot/lecture-3/assets/page-08.png",
+    "study/pilot/lecture-3/assets/page-09.png"
+  ],
+  "method": "Independent manual source/rubric review plus Python Decimal precision 50 numerical checks, link/anchor/reference and reciprocal mapping checks. Automated checks alone are not the eight-dimension teaching review."
+}

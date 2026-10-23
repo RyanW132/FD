@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lecture-4",
+  "sourceHash": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+  "draftPath": "study/sources/qa-drafts/lecture-4.json",
+  "draftHash": "c5b547349494960d075a436733a8fcec404f7895b7cdd24985d518fd06071df1",
+  "reviewer": "/root/g005_source_qa_lecture34",
+  "reviewedAt": "2026-10-22T14:15:44.973285+00:00",
+  "verdict": "approved",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "verdict": "approved",
+      "rawHash": "7790d158a37dd6fbd097deeda01f65bce61a201f49cd989c1f80790a9c88f9e5",
+      "imageHash": "f94d461b566e358c1d4d55200898ba69503a25df03f469f4ba4fc10c82ae90f6",
+      "normalizedHash": "d17fd7613907241a4cfbc92c5b30e55a6095b9d35a8684f93b5e9490b6d42567",
+      "unitIds": [
+        "lecture-4-p001-title"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 2,
+      "verdict": "approved",
+      "rawHash": "61fabb6728cb2197456ad8717ff6d50eb315491d5680e3a1667a85b7fa68ba63",
+      "imageHash": "1d5437461fd7e9dec0866c3f449c1742ccfdeaa547beb845f45e90cc6b2e223c",
+      "normalizedHash": "1c8c033abaa92618eae2bd4cde62760ec9d772b0d54e4960c1388a6170fdb30b",
+      "unitIds": [
+        "lecture-4-p002-outline",
+        "lecture-4-p002-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 3,
+      "verdict": "approved",
+      "rawHash": "62fb67749ee86d3ec374b7b993c35d12ea2a0030c327f7261b2739d14fcee4d3",
+      "imageHash": "21a4fff75fad1ae2f97464f9fe8bed590f3213fb33789ff1171005fab45ed183",
+      "normalizedHash": "2fd1d0cb3f1009ab98f1327a42938eda1a5f2a140e05697c77d3346d97051206",
+      "unitIds": [
+        "lecture-4-p003-investment-assets",
+        "lecture-4-p003-consumption-assets",
+        "lecture-4-p003-asset-distinction",
+        "lecture-4-p003-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 4,
+      "verdict": "approved",
+      "rawHash": "cb594fa0283d3be63f9aa340c16c6bced9c527cfedf410580afdd2bf498c3ff9",
+      "imageHash": "b79b1412c7831ed0f7a10ed77f57434af941fba6814f346a2554e8bb4afe249d",
+      "normalizedHash": "6f007fe76a5718b76bf8e2c8780b7e8649a6533b1979c50080875223e39e8ae5",
+      "unitIds": [
+        "lecture-4-p004-risk-transfer-uses",
+        "lecture-4-p004-futures-not-forecast",
+        "lecture-4-p004-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 5,
+      "verdict": "approved",
+      "rawHash": "371d9ba39395e273f15eb6f0584f8e14b4cd909b387fa7398c6c4b1e6acb0598",
+      "imageHash": "50824a4d28c6f376003c05f898579dd5dd3e63ebebd7f01f091abd6cf5657aab",
+      "normalizedHash": "8bd058c5b2dba4feeefd55e2ae86240e1c26dd0397711a66bf06f9499bbfcf50",
+      "unitIds": [
+        "lecture-4-p005-short-sale-mechanics",
+        "lecture-4-p005-short-sale-risks",
+        "lecture-4-p005-short-sale-pricing",
+        "lecture-4-p005-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 6,
+      "verdict": "approved",
+      "rawHash": "854e1f8d80d7a675489afcca68758e0ba159b88356e708165ae8ed1d20c758ae",
+      "imageHash": "1dae17a456f45cae966b43dd1cb4b54c3edb123c4fa0514911172a4615c8691f",
+      "normalizedHash": "88ffef5f2495624b99b9bee55c9204d65ebbec72d32c1ad802682e3bfffa8748",
+      "unitIds": [
+        "lecture-4-p006-short-sale-cashflow-table",
+        "lecture-4-p006-short-sale-example-assumptions",
+        "lecture-4-p006-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 7,
+      "verdict": "approved",
+      "rawHash": "cd6120681d2b7bd1e982f24839272e07c3f5f22ba485a60002cbdf8b0c3dd5c7",
+      "imageHash": "5adaadf0c7d6299cc5bbff886c4a87742997df127285e54fd3f4d2de28ebe087",
+      "normalizedHash": "41234af5333c785c2e2547695d6c477e761bbc74c9f8395b37d0d4f1ade6fa85",
+      "unitIds": [
+        "lecture-4-p007-forward-futures-obligation",
+        "lecture-4-p007-forward-futures-table",
+        "lecture-4-p007-delivery-forward-price",
+        "lecture-4-p007-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 8,
+      "verdict": "approved",
+      "rawHash": "afbd2a0fd7eb57e3bb8962ce9b956594d6d409119b771371724f4fcd4b73028b",
+      "imageHash": "fd49cf031f993de4b1be6ef2e936feaeb0030090b2bb1fc813a8cbecd5a8cb57",
+      "normalizedHash": "a95d439bb9f43826d4a49b22d2f23d7d139eea156c84a43a4106a1042f3a5f2e",
+      "unitIds": [
+        "lecture-4-p008-daily-gain-formula",
+        "lecture-4-p008-margin-mechanics",
+        "lecture-4-p008-daily-loss-example",
+        "lecture-4-p008-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 9,
+      "verdict": "approved",
+      "rawHash": "b03708f9dd1a1fc61fee8bb4e90531da3d9efe6cdd51bc436237c5cbfabc1d4f",
+      "imageHash": "71c3ad7bea0c782169957c8dece6d012c8de2665bb7bc6215a733141aae0f494",
+      "normalizedHash": "ab4f00f14aa1922ae8b207183c2a0de0ca3b60ccb901125059b0b80b9a383427",
+      "unitIds": [
+        "lecture-4-p009-pricing-assumptions",
+        "lecture-4-p009-benchmark-limitations",
+        "lecture-4-p009-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 10,
+      "verdict": "approved",
+      "rawHash": "6e0369cb7c8524ccecb7df9f6df67bb665be33462beaf7610cc8dfaade699af9",
+      "imageHash": "b4c197de1db399fb0785a84302cd43fe5a2adcf44b75952ffc083f06f89ebbee",
+      "normalizedHash": "b19b48f2fdc297e09e4405de59b6714771277c5797c6c9f01ab7c88742711815",
+      "unitIds": [
+        "lecture-4-p010-spot-forward-delivery-notation",
+        "lecture-4-p010-carry-notation",
+        "lecture-4-p010-inception-versus-later",
+        "lecture-4-p010-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 11,
+      "verdict": "approved",
+      "rawHash": "7ad298742b4503fe9148ffe12094f1f28829585e0c31d1edba9c8af5ad485702",
+      "imageHash": "b5096cb9cd05eb6946389c25dc1527e03c5e8f4ec63c1f6c2d853d449abdf1a1",
+      "normalizedHash": "af0571ac5f85c95bd091c6a2a8d972ad68bce6d78c2d6573071cab4f4fc77deb",
+      "unitIds": [
+        "lecture-4-p011-cash-and-carry-replication",
+        "lecture-4-p011-no-income-price",
+        "lecture-4-p011-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 12,
+      "verdict": "approved",
+      "rawHash": "955248017e22d420b4efabed0b017fbc100b75afef9df72538d3cfe009f1dad1",
+      "imageHash": "b9f3d86cf829d68a0a976d3febaad6d2e4746f21a057bcc2031b970fa0908039",
+      "normalizedHash": "f9046e9aab0b3210f82c5f64e6fd65975aa655335bfcbe4803b2605f33635914",
+      "unitIds": [
+        "lecture-4-p012-overpriced-forward-data",
+        "lecture-4-p012-overpriced-arbitrage",
+        "lecture-4-p012-overpriced-profit",
+        "lecture-4-p012-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 13,
+      "verdict": "approved",
+      "rawHash": "d940560544d27b696c977b83a96296544538d683976ab230ece06e4931b4e57c",
+      "imageHash": "a769d2e061b4a650f98c55275a3b2ff80f7b257e593116ddb87244b370c55e65",
+      "normalizedHash": "582f49c9d79c5e17b5fc9591bfaa75325074bc968a40f76e8eec5f5e8f500dc1",
+      "unitIds": [
+        "lecture-4-p013-underpriced-arbitrage",
+        "lecture-4-p013-underpriced-profit",
+        "lecture-4-p013-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 14,
+      "verdict": "approved",
+      "rawHash": "62b5720d6c84e97e7063f70784263ca5eebfdccf4ad29ab8ddb46324979c1ed7",
+      "imageHash": "633788b1e87dda8c311ac651d3fc874174dff148760eec165a84cd479a3bedc9",
+      "normalizedHash": "230e044bfc03f49055ae2caa823c4658142dc86cb6bfa1da8e20ea3bf81a8f97",
+      "unitIds": [
+        "lecture-4-p014-forward-upper-bound",
+        "lecture-4-p014-restricted-short-consequence",
+        "lecture-4-p014-existing-owner-substitution",
+        "lecture-4-p014-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 15,
+      "verdict": "approved",
+      "rawHash": "e7e4ba99cc0a6853530ee978f2f702a540d2b0c74fdd6e14253668dd0675aa2f",
+      "imageHash": "f169efc56c97dc6b749e4110e784cea4ee51e7b122848e7487a0cd26e4659b89",
+      "normalizedHash": "c922e426dd952c9b02d60413f02ab2acd8a454aeedda2b67188302eb3fba43d1",
+      "unitIds": [
+        "lecture-4-p015-known-income-replication",
+        "lecture-4-p015-known-income-interpretation",
+        "lecture-4-p015-income-present-value-sum",
+        "lecture-4-p015-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 16,
+      "verdict": "approved",
+      "rawHash": "a490a76b5ae650d5fd73ff6f158a65970514876e781e078b7b2ed7a3364a3789",
+      "imageHash": "0914c3534bb278aa515c4dc065790accb00008ee41b7293720e83d9a009038bd",
+      "normalizedHash": "588c4d342324c37c26b7e791f2ce633eb2c553be98730df91db0077a1fe4eb3c",
+      "unitIds": [
+        "lecture-4-p016-bond-income-data-pv",
+        "lecture-4-p016-bond-income-forward",
+        "lecture-4-p016-positive-rates-question",
+        "lecture-4-p016-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 17,
+      "verdict": "approved",
+      "rawHash": "1c972554ef533f00dd1dc93622ab1c19be67e46076b5c2543aa2dddafc740111",
+      "imageHash": "21af39c71b43dc41fc5efa4ba0e5aedc4c47efff77de8a2c3d3d36636235069a",
+      "normalizedHash": "0d5209f10710779731eff8d67da99eb2e3e19537369564ad9d7c54f5bf080e6e",
+      "unitIds": [
+        "lecture-4-p017-income-overpriced-strategy",
+        "lecture-4-p017-income-underpriced-strategy",
+        "lecture-4-p017-income-short-qualification",
+        "lecture-4-p017-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 18,
+      "verdict": "approved",
+      "rawHash": "0b95dd719c33361bec223d461b8661b3a241f2c0c2d564f057f6fafcd6c1e4e4",
+      "imageHash": "490c2511146cf062207d7aea030c0197826d0a090f4b6d2f0f6a0cc07b87dda0",
+      "normalizedHash": "de63532672040c8fd72389f689cf77c6da229e7cbe2851e0e0988911d284645d",
+      "unitIds": [
+        "lecture-4-p018-known-yield-formula",
+        "lecture-4-p018-known-yield-example",
+        "lecture-4-p018-cash-versus-yield",
+        "lecture-4-p018-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 19,
+      "verdict": "approved",
+      "rawHash": "1d7b757b4f287a8faf37092d9b2036a802b39f8737dbfc86d6b15b256d5f3f7a",
+      "imageHash": "b7c4b7aea7bd0830185eabc18046b57ddf9e57279379b26ca8cfc832daa90100",
+      "normalizedHash": "ba56a11c5440191301b19257b9ec2699425b469c1e518f290dea65e8ba95a5c4",
+      "unitIds": [
+        "lecture-4-p019-contract-inception",
+        "lecture-4-p019-contract-later",
+        "lecture-4-p019-contract-value",
+        "lecture-4-p019-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 20,
+      "verdict": "approved",
+      "rawHash": "0375bf3708010dff5710d7f56989d5a190fdbc1c4592d4ab4777c52e5e228d29",
+      "imageHash": "1b98f1a839174245526978d9313651bb647f29671f80a2de909b7a0fab615925",
+      "normalizedHash": "dadcb382fd86b1139efb5c73f6163d1b3219e2ae212281be59c41494ff14ad5b",
+      "unitIds": [
+        "lecture-4-p020-offsetting-forward-portfolio",
+        "lecture-4-p020-discounted-forward-value",
+        "lecture-4-p020-no-income-value",
+        "lecture-4-p020-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 21,
+      "verdict": "approved",
+      "rawHash": "cefe0c3c1846e5bbb51f1ebc4456fecbdacf78879a6b27720cc118261f81bdd8",
+      "imageHash": "0bd263cd69d5b9641f1bffc705d4d1faca708dc4f573ec392d2c759430521e1a",
+      "normalizedHash": "5963dbaaa0029b87d8c48e7ac7d7781893d114d4adbd081a010c7545dbeca23e",
+      "unitIds": [
+        "lecture-4-p021-existing-forward-price-example",
+        "lecture-4-p021-existing-forward-value-example",
+        "lecture-4-p021-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 22,
+      "verdict": "approved",
+      "rawHash": "5857a82c533b2c7488c987e4ac3458535d927f01ed7516893a2b2b1f80b3c7fc",
+      "imageHash": "a94366f40efbd3405b9c6875e947cc1f86ae4123ae38cec6de4c497b0b516c35",
+      "normalizedHash": "e8af9e5e99ad41e5e0735a2281379b0edc81933e8eb28c77c9f8c512ef8c5757",
+      "unitIds": [
+        "lecture-4-p022-deterministic-rates",
+        "lecture-4-p022-uncertain-rate-effects",
+        "lecture-4-p022-variation-margin-mechanism",
+        "lecture-4-p022-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 23,
+      "verdict": "approved",
+      "rawHash": "81b371032b2a844b4c5fe8abe0fd7c6adc38c31f4f8ff0e3a17486b4c5600393",
+      "imageHash": "0a7f9fd34cbf8848a1a29e2cf169602901d85aa127648b5833dbefd84d510ffb",
+      "normalizedHash": "53934f2f035ebc7b3162d2ce5fd7707d33642c36689a83240f8a65d5f1038053",
+      "unitIds": [
+        "lecture-4-p023-index-pricing",
+        "lecture-4-p023-index-example",
+        "lecture-4-p023-index-dividend-period",
+        "lecture-4-p023-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 24,
+      "verdict": "approved",
+      "rawHash": "d0fbf6f275b9f41e469a8f8baca10432c7c2370b1e269038a61f9ac9bfa6e87b",
+      "imageHash": "0ae2c07c62f220d6fe498acfa61963632fd5ef11db9a651aadf24ff39afa5f96",
+      "normalizedHash": "c6cc0258832eedeca15cde75ad4499d370017a619890ad916fa543b4d81ddb66",
+      "unitIds": [
+        "lecture-4-p024-currency-quote-investment",
+        "lecture-4-p024-covered-interest-parity",
+        "lecture-4-p024-currency-sign-quotation",
+        "lecture-4-p024-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 25,
+      "verdict": "approved",
+      "rawHash": "d79be03d92f393128b7f819987ce7794803cd58ce3cc8e164627c8a58eb9563f",
+      "imageHash": "a103fcaefea89eccdb65cccc27b3e7d1c7d0cc3ca4fdb990f7275c63d0e0b373",
+      "normalizedHash": "a5763b46a8a1dd9a5e248781382d6915581f161e359a48f7af71487597fe4949",
+      "unitIds": [
+        "lecture-4-p025-usd-aud-forward-example",
+        "lecture-4-p025-currency-borrow-question",
+        "lecture-4-p025-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 26,
+      "verdict": "approved",
+      "rawHash": "35c6fc21fbc002174a39813039eb8ee886403b1388ca746f2db2b215c270c788",
+      "imageHash": "8a8e882c8f92e840de2d01419b905d5ea0f3abbf7dc46852cff2db33553991a8",
+      "normalizedHash": "dbf9026628e1242e8fdc977dee28e78e892ec4a88c28c78c0152340bb9778526",
+      "unitIds": [
+        "lecture-4-p026-currency-arbitrage-steps",
+        "lecture-4-p026-currency-arbitrage-profit",
+        "lecture-4-p026-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 27,
+      "verdict": "approved",
+      "rawHash": "5a1f2cb272bec740e7074977a279337dfacbd950b1e4439c9a116b142574de5a",
+      "imageHash": "a77e94c5b93226193fa375c0d794e9e5fb923aaf4b48e69235546f23b7173c08",
+      "normalizedHash": "d29423f5a9892ae5005ba2210bc38b8c9b396d3c1f7735c0d1a53d11d8d95c4a",
+      "unitIds": [
+        "lecture-4-p027-commodity-carry-components",
+        "lecture-4-p027-commodity-proportional-formula",
+        "lecture-4-p027-commodity-cash-storage-formula",
+        "lecture-4-p027-consumption-inventory-benefit",
+        "lecture-4-p027-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 28,
+      "verdict": "approved",
+      "rawHash": "0802269b23faaae723c4058a2b3702f4796553397ab6daa90d29fefe1a01aa9a",
+      "imageHash": "747a9d7c2fcb2dcc3454b64660bcf72cfe5fe7fa0b6f3f586fd9ce7cb5955f09",
+      "normalizedHash": "80b1d14d367891e0eaa18477179f42624f3c27352ab17752156ee6fac0d3e3c4",
+      "unitIds": [
+        "lecture-4-p028-net-carry-definition",
+        "lecture-4-p028-carry-table",
+        "lecture-4-p028-carry-not-future-spot",
+        "lecture-4-p028-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 29,
+      "verdict": "approved",
+      "rawHash": "c82f370086c387ddb66c49dcce78eecb347ec8069714a7bacbfb5fd4cf4d6d05",
+      "imageHash": "4ea993bcf357556b9f6039d4b9871cf16e0ae97e8f884d38a14bd25011a6b381",
+      "normalizedHash": "6f35923697db23e6598dd3338e55a00c2bf7258fea40c1cf514a510f5f5f5dbc",
+      "unitIds": [
+        "lecture-4-p029-storage-payment-present-value",
+        "lecture-4-p029-storage-forward-example",
+        "lecture-4-p029-storage-overpricing-arbitrage",
+        "lecture-4-p029-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 30,
+      "verdict": "approved",
+      "rawHash": "449a7b8635501c8587e613b63bcbf5f8c18a8058003948b4e2f1dca967f878dc",
+      "imageHash": "8b09ea4a3e0f71cd8f7671ba360a6a7e36cf4dda9df9779b4c545b5a9a2ad420",
+      "normalizedHash": "8987a018e4bbb508bc8e1b2c61c9855583c6a13ae4687dda65681bea7d68538f",
+      "unitIds": [
+        "lecture-4-p030-contango-definition",
+        "lecture-4-p030-backwardation-definition",
+        "lecture-4-p030-net-carry-curve-shape",
+        "lecture-4-p030-curve-not-expectation",
+        "lecture-4-p030-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 31,
+      "verdict": "approved",
+      "rawHash": "472d5e5443dac28aeaeaba13b5551fbc507221b3b9e221cfe52e847f0a6c1789",
+      "imageHash": "12d23727b4f1703cd3e987d8a48d77d7b9ccb226bdd0d44e91a46fadceb1425e",
+      "normalizedHash": "491a6c5395e1deb69b0436202dfed2900cbe9a7d6c30816b99b327a646966026",
+      "unitIds": [
+        "lecture-4-p031-formula-matching-question",
+        "lecture-4-p031-formula-matching-answers",
+        "lecture-4-p031-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 32,
+      "verdict": "approved",
+      "rawHash": "64864cde62e6e751fef462d884c5aa913efed6896354fe57f11a7ba884dd028c",
+      "imageHash": "d99e0375538980a57d62d897412017e19b129062b3ddc5cbeb529a31df2e4524",
+      "normalizedHash": "6b067cbecbea6fe8094f0fb63b746affc2799cf46653abde34b2be68c1ca69d2",
+      "unitIds": [
+        "lecture-4-p032-summary-carry",
+        "lecture-4-p032-summary-arbitrage",
+        "lecture-4-p032-summary-income",
+        "lecture-4-p032-summary-value",
+        "lecture-4-p032-summary-settlement",
+        "lecture-4-p032-summary-currency",
+        "lecture-4-p032-summary-commodity",
+        "lecture-4-p032-summary-replication",
+        "lecture-4-p032-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    }
+  ]
+}

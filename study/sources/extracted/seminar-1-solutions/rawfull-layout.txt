@@ -1,0 +1,311 @@
+                     ES32079 Financial Derivatives
+                       Problem Set 1 Solutions
+
+
+
+Question 1
+Give an example of a hedger, a speculator, and an arbitrageur in derivatives markets.
+   Why might a hedger sometimes be accused of ”speculating”? What controls should firms
+have in place?
+
+Solution
+    Hedger: A wheat farmer expects to sell wheat in three months and is concerned that
+     its price may fall. The farmer shorts wheat futures.
+     If wheat prices fall, the gain on the futures position offsets some or all of the lower
+     cash-market revenue. The hedge stabilises the selling price, although basis risk may
+     remain.
+
+    Speculator: A trader expects crude-oil prices to rise and buys oil futures without
+     having an existing oil exposure.
+     The trader profits if the futures price rises and loses if it falls. The objective is to take
+     risk in anticipation of a return.
+
+    Arbitrageur: Suppose gold is priced at $2,000 per ounce and carrying costs imply a
+     fair one-year futures price of $2,120, but the market futures price is $2,150.
+     The arbitrageur can buy gold, finance and carry it for one year, and short the futures
+     contract. At maturity, the gold is delivered for $2,150, generating an arbitrage profit
+     of
+
+                                       $2,150 − $2,120 = $30
+
+     per ounce, before transaction costs.
+
+   A hedge may become speculative if the derivative position does not match the underlying
+exposure. This can occur when the firm:
+
+    hedges more than its actual exposure;
+
+
+                                               1
+    trades without an underlying exposure;
+
+    changes the hedge according to market forecasts; or
+
+    uses instruments that introduce additional risks.
+
+   Firms should therefore have:
+
+    a written hedging policy;
+
+    documentation linking each derivative to an underlying exposure;
+
+    position limits and appropriate authorisation;
+
+    independent risk monitoring and valuation; and
+
+    regular reporting and reconciliation.
+
+   A hedge should be evaluated by how effectively it reduces the risk of the combined
+position, not by whether the derivative makes a profit.
+
+
+Question 2
+Which of the following instruments are OTC vs exchange-traded?
+    Futures on crude oil
+
+    A customized forward contract on jet fuel
+
+    An S&P 500 index option
+
+    A 5-year interest rate swap
+
+    What are the advantages and disadvantages of OTC vs exchange? Why do most FX and
+interest rate derivatives trade OTC instead of on exchanges?
+
+Solution
+                   Instrument                         Typical market
+                   Crude-oil futures             Exchange-traded
+                   Customised jet-fuel forward   OTC
+                   Standard S&P 500 index option Exchange-traded
+                   Five-year interest-rate swap  OTC
+
+  Exchange-traded derivatives have standardised contract sizes, maturities, and terms.
+Their main advantages are:
+
+    transparent market prices;
+
+                                              2
+    generally high liquidity;
+
+    central clearing and daily margining; and
+
+    reduced and actively managed counterparty risk.
+
+  Their main disadvantage is limited flexibility: the available contracts may not match the
+amount, maturity, or underlying exposure that a firm needs to hedge.
+   OTC derivatives are negotiated between counterparties. Their main advantage is cus-
+tomisation: the parties can choose the notional amount, maturity, underlying asset, and
+payment terms.
+   Their disadvantages may include:
+
+    lower liquidity for customised contracts;
+
+    less public price transparency;
+
+    more complex documentation and valuation; and
+
+    counterparty risk, particularly for uncleared contracts.
+
+    Many FX and interest-rate derivatives trade OTC because firms and financial institutions
+often need contracts that match precise currencies, amounts, dates, interest-rate conventions,
+and cash flows. OTC dealer markets can provide this flexibility and can also be highly liquid
+for commonly traded products.
+    Some standardised OTC derivatives are centrally cleared, while uncleared contracts may
+be subject to collateral, margin, and reporting requirements.
+
+
+Question 3
+A farmer expects to harvest 50,000 bushels of wheat in 3 months. Wheat futures (contract
+size 5,000 bushels) for delivery in 3 months trade at $5.20 per bushel.
+
+  1. What hedge should the farmer take today?
+
+  2. How many contracts are required?
+
+  3. If the spot price turns out to be $4.80 at harvest and the futures settle at $4.85, what
+     is the effective price the farmer receives?
+
+   Why is the hedge not perfect?
+
+
+
+
+                                              3
+Solution
+Because the farmer will sell wheat in three months and is concerned that its price may fall,
+the farmer should take a short futures hedge.
+   The required number of contracts is
+                         quantity hedged   50,000
+                   N=                    =        = 10 short contracts .
+                          contract size    5,000
+   At harvest, the farmer sells the physical wheat in the spot market:
+
+                          Spot revenue = 50,000($4.80) = $240,000.
+   The short futures position gains
+
+                                     $5.20 − $4.85 = $0.35
+   per bushel. Therefore,
+
+                           Futures gain = 50,000($0.35) = $17,500.
+   The total proceeds are
+
+                               $240,000 + $17,500 = $257,500.
+   Hence, the effective price per bushel is
+
+                                           $257,500
+                       Effective price =            = $5.15 per bushel .
+                                            50,000
+   Equivalently,
+
+              Effective price = ST + (F0 − FT ) = 4.80 + (5.20 − 4.85) = $5.15.
+   The hedge is imperfect because of basis risk. The closing basis is
+
+                            bT = ST − FT = 4.80 − 4.85 = −$0.05.
+   Thus,
+
+                       Effective price = F0 + bT = 5.20 − 0.05 = $5.15.
+   The effective price differs from the initial futures price because the spot and futures prices
+do not move perfectly together. Differences in quality, location, timing, transaction costs,
+and the quantity actually harvested may also reduce hedge effectiveness.
+
+
+
+
+                                                4
+Question 4
+Define the basis and explain why it matters in a hedge.
+   Spot price of corn today = $3.00, futures price (3 months) = $3.10. In 3 months, spot =
+$2.70, futures = $2.75.
+
+    What was the basis at hedge initiation and at hedge close?
+
+    How did the basis risk affect the hedge outcome?
+
+   Why does the basis tend to converge to zero at maturity?
+
+Solution
+The basis is defined as
+
+                                        bt = St − Ft ,
+   where St is the spot price and Ft is the futures price.
+   The initial basis is
+
+                          b0 = S0 − F0 = 3.00 − 3.10 = −$0.10 .
+   The closing basis is
+
+                          bT = ST − FT = 2.70 − 2.75 = −$0.05 .
+   The basis has strengthened, because it increased from −$0.10 to −$0.05.
+   For a short hedger, such as a corn farmer, the effective selling price is
+
+                             Effective price = ST + (F0 − FT ).
+   Therefore,
+
+                      Effective price = 2.70 + (3.10 − 2.75) = $3.05 .
+   Equivalently,
+
+                      Effective price = F0 + bT = 3.10 − 0.05 = $3.05.
+   If the basis had remained at −$0.10, the effective price would have been
+
+                                    3.10 − 0.10 = $3.00.
+   Thus, the strengthening basis improves the short hedger’s effective selling price by $0.05
+per bushel. For a long hedger, the same basis strengthening would increase the effective
+purchase price and would therefore be unfavourable.
+   The uncertainty about the closing basis is called basis risk. It means that a futures
+hedge does not normally guarantee the exact initial futures price.
+
+
+                                              5
+    At the delivery date, the futures price and spot price for the same deliverable asset,
+location, and delivery terms must converge:
+
+                          FT → ST        ⇒         bT = ST − FT → 0.
+   Otherwise, traders could buy in the cheaper market and sell in the more expensive market,
+creating an arbitrage opportunity.
+
+
+Question 5
+An airline wants to hedge jet fuel costs, but there are no jet fuel futures. It considers using
+crude oil futures.
+
+    What are the risks in this strategy? What factors determine whether cross-hedging is
+effective?
+
+Solution
+Because the airline will buy fuel in the future and is concerned that prices may rise, it should
+take a long position in crude-oil futures.
+   This is a cross-hedge because the asset being hedged, jet fuel, is different from the asset
+underlying the futures contract, crude oil.
+   The main risks are:
+
+    Imperfect correlation: jet-fuel and crude-oil prices may not move together.
+
+    Refining-spread risk: changes in refining costs and margins can cause jet-fuel prices
+     to move differently from crude-oil prices.
+
+    Timing mismatch: the futures maturity may not coincide with the airline’s fuel-
+     purchase date.
+
+    Location and benchmark mismatch: the crude-oil contract may refer to a different
+     region or pricing benchmark.
+
+    Margin risk: daily futures losses may create cash-flow requirements even if the phys-
+     ical hedge is economically effective.
+
+   The cross-hedge is more effective when changes in jet-fuel prices are strongly and consis-
+tently related to changes in crude-oil futures prices.
+   A high and stable correlation, appropriate contract maturity, similar pricing locations,
+and good futures-market liquidity generally make the cross-hedge more effective. However,
+because the two commodities are not identical, some basis risk remains.
+
+
+
+
+                                               6
+Question 6
+Historical regression of ∆S on ∆F gives slope h∗ = 0.8. If the airline’s fuel exposure is
+1,000,000 gallons and each futures contract = 42,000 gallons, how many contracts should it
+use?
+
+   Why might h∗ be less than 1? Can over-hedging ever make sense?
+
+Solution
+The optimal number of futures contracts is
+                                                   QA
+                                        N ∗ = h∗      ,
+                                                   QF
+   where QA is the size of the exposure and QF is the quantity covered by one futures
+contract.
+   Therefore,
+                                                
+                              ∗        1,000,000
+                            N = 0.8                = 19.05.
+                                        42,000
+   Because futures contracts must be traded in whole numbers, the airline should use ap-
+proximately
+
+                             19 long crude-oil futures contracts .
+    The position is long because the airline will buy fuel in the future and is concerned that
+fuel prices may rise.
+    The minimum-variance hedge ratio is
+                                                σS
+                                         h∗ = ρ    .
+                                                σF
+    In the present case, because h∗ = 0.8, using substantially more than 19 contracts would
+move the airline away from the estimated minimum-variance hedge.
+    A hedge ratio greater than one can nevertheless be appropriate in a different case. For
+example, if the spot exposure is more volatile than the futures price and correlation is
+sufficiently high, then
+                                            σS
+                                          ρ     > 1.
+                                            σF
+    In that case, a futures position larger than the physical quantity may minimise the
+variance of the hedged position. It is therefore not necessarily speculative.
+    However, taking a position larger than the estimated minimum-variance hedge because
+of a market forecast introduces additional risk and should be regarded as speculation rather
+than pure hedging.
+
+
+
+
+                                              7
+

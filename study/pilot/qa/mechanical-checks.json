@@ -1,0 +1,108 @@
+{
+  "reviewer": "/root/g001_pilot_visual_qa",
+  "checkedAt": "2026-10-21T17:41:35.811143+00:00",
+  "originalFiles": [
+    {
+      "sourceId": "lecture-1",
+      "path": "context/lecture slides/Lecture 1 Intro to Derivatives.pdf",
+      "sha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "unchanged": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "path": "context/lecture slides/Lecture 2 Types of Traders and Hedging.pdf",
+      "sha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "unchanged": true
+    },
+    {
+      "sourceId": "lecture-3",
+      "path": "context/lecture slides/Lecture 3 Interest rates and bonds.pdf",
+      "sha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "unchanged": true
+    },
+    {
+      "sourceId": "lecture-4",
+      "path": "context/lecture slides/Lecture 4 Forward and Futures.pdf",
+      "sha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "unchanged": true
+    },
+    {
+      "sourceId": "transcript-week-1",
+      "path": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week1_Captions_English (United Kingdom).txt",
+      "sha256": "f760b4cee2b4dd52a683d78c6d0d72324a9393027feea641362c8b8cd52f6520",
+      "unchanged": true
+    },
+    {
+      "sourceId": "transcript-week-2",
+      "path": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week2_Captions_English (United Kingdom).txt",
+      "sha256": "87e5d91c1be5fbf463fe84b486c328afcfcaea4844fcfb282f342859d6e073d0",
+      "unchanged": true
+    },
+    {
+      "sourceId": "transcript-week-3",
+      "path": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week3_Captions_English (United Kingdom).txt",
+      "sha256": "c65b6b4a8d053ab12a0ddb7f46f4ec6c8566b29fa5a3387688b4482e0ae00917",
+      "unchanged": true
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "path": "context/seminars/ES32079 Seminar 1 Solutions Full.pdf",
+      "sha256": "5568f5acde927793ad95e722db81b27e4ec526647f8af88a39e54f83cf2dd530",
+      "unchanged": true
+    },
+    {
+      "sourceId": "seminar-1-problems",
+      "path": "context/seminars/ES32079 Seminar 1.pdf",
+      "sha256": "86ca691dacd5c247dba48c77c7c762ad9a03362610a44676de1e673d39a2362c",
+      "unchanged": true
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "path": "context/seminars/ES32079 Seminar 2 Solutions.pdf",
+      "sha256": "074aea7f63885981738447cd71ec9856fcc7a52cc822a053ff1de4721931d5d5",
+      "unchanged": true
+    },
+    {
+      "sourceId": "seminar-2-problems",
+      "path": "context/seminars/ES32079 Seminar 2.pdf",
+      "sha256": "8bd655a060ef54653746085d39d3fd47d9308b4f613fe9927f47d99df3d939c3",
+      "unchanged": true
+    },
+    {
+      "sourceId": "seminar-3-problems",
+      "path": "context/seminars/ES32079 Seminar 3.pdf",
+      "sha256": "908c07e0092a768b823f6d4cec3fcbb87e6e27ff563a4905bf2d279f1945caf0",
+      "unchanged": true
+    },
+    {
+      "sourceId": "textbook-hull-11",
+      "path": "context/textbooks/_OceanofPDF.com_Options_Futures_and_Other_Derivatives_11th_Edition_-_John_Hull.pdf",
+      "sha256": "36748bb660c075cad059b3f6ca2b648b185ecbc866a3291e30cca272a345ba8e",
+      "unchanged": true
+    }
+  ],
+  "all13OriginalHashesUnchanged": true,
+  "exact13SourceMembership": true,
+  "freshPdfinfoPhysicalCounts": {
+    "lecture-3": 41,
+    "seminar-2-problems": 2,
+    "lecture-1": 38
+  },
+  "freshRawExtraction": {
+    "lecture-3": {
+      "freshExtractionMatches": true,
+      "sha256": "5b9ad3aa68bd661d8082ace89731837a74d928580b7b3d2a467cd5cfa5360344",
+      "physicalPageSeparators": 41
+    },
+    "seminar-2-problems": {
+      "freshExtractionMatches": true,
+      "sha256": "ca2d3e3112615f5db18ec5dd42705ba37f3fd403843b1d46622a16ce22d1964a",
+      "physicalPageSeparators": 2
+    }
+  },
+  "reviewedPilotPages": 44,
+  "uniqueLocators": 44,
+  "allImageLinksAndAnchorsResolve": true,
+  "allLedgerMdAndImageHashesMatch": true,
+  "scope": "two complete pilot sources plus one selected graph page; no textbook extraction, no fullcourse claim"
+}

@@ -1,0 +1,305 @@
+{
+  "status": "provisional; not frozen production schema",
+  "sources": [
+    {
+      "id": "lecture-1",
+      "originalPath": "context/lecture slides/Lecture 1 Intro to Derivatives.pdf",
+      "sha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "bytes": 657400,
+      "kind": "lecture",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "pdfPageCount": 38,
+      "encrypted": false
+    },
+    {
+      "id": "lecture-2",
+      "originalPath": "context/lecture slides/Lecture 2 Types of Traders and Hedging.pdf",
+      "sha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "bytes": 331348,
+      "kind": "lecture",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "pdfPageCount": 29,
+      "encrypted": false
+    },
+    {
+      "id": "lecture-3",
+      "originalPath": "context/lecture slides/Lecture 3 Interest rates and bonds.pdf",
+      "sha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "bytes": 345689,
+      "kind": "lecture",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "pilot-extracted-not-independently-verified",
+      "pdfPageCount": 41,
+      "encrypted": false
+    },
+    {
+      "id": "lecture-4",
+      "originalPath": "context/lecture slides/Lecture 4 Forward and Futures.pdf",
+      "sha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "bytes": 291607,
+      "kind": "lecture",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "pdfPageCount": 32,
+      "encrypted": false
+    },
+    {
+      "id": "transcript-week-1",
+      "originalPath": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week1_Captions_English (United Kingdom).txt",
+      "sha256": "f760b4cee2b4dd52a683d78c6d0d72324a9393027feea641362c8b8cd52f6520",
+      "bytes": 71639,
+      "kind": "transcript",
+      "mediaType": "text/plain",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "originalLineCount": 1705,
+      "lectureMapping": "unverified: filename week number does not establish lecture mapping"
+    },
+    {
+      "id": "transcript-week-2",
+      "originalPath": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week2_Captions_English (United Kingdom).txt",
+      "sha256": "87e5d91c1be5fbf463fe84b486c328afcfcaea4844fcfb282f342859d6e073d0",
+      "bytes": 64239,
+      "kind": "transcript",
+      "mediaType": "text/plain",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "originalLineCount": 1603,
+      "lectureMapping": "unverified: filename week number does not establish lecture mapping"
+    },
+    {
+      "id": "transcript-week-3",
+      "originalPath": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week3_Captions_English (United Kingdom).txt",
+      "sha256": "c65b6b4a8d053ab12a0ddb7f46f4ec6c8566b29fa5a3387688b4482e0ae00917",
+      "bytes": 69111,
+      "kind": "transcript",
+      "mediaType": "text/plain",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "originalLineCount": 1659,
+      "lectureMapping": "unverified: filename week number does not establish lecture mapping"
+    },
+    {
+      "id": "seminar-1-solutions",
+      "originalPath": "context/seminars/ES32079 Seminar 1 Solutions Full.pdf",
+      "sha256": "5568f5acde927793ad95e722db81b27e4ec526647f8af88a39e54f83cf2dd530",
+      "bytes": 123716,
+      "kind": "seminar-solutions",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "pdfPageCount": 7,
+      "encrypted": false
+    },
+    {
+      "id": "seminar-1-problems",
+      "originalPath": "context/seminars/ES32079 Seminar 1.pdf",
+      "sha256": "86ca691dacd5c247dba48c77c7c762ad9a03362610a44676de1e673d39a2362c",
+      "bytes": 64094,
+      "kind": "seminar-problems",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "pdfPageCount": 2,
+      "encrypted": false
+    },
+    {
+      "id": "seminar-2-solutions",
+      "originalPath": "context/seminars/ES32079 Seminar 2 Solutions.pdf",
+      "sha256": "074aea7f63885981738447cd71ec9856fcc7a52cc822a053ff1de4721931d5d5",
+      "bytes": 129070,
+      "kind": "seminar-solutions",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "pdfPageCount": 7,
+      "encrypted": false
+    },
+    {
+      "id": "seminar-2-problems",
+      "originalPath": "context/seminars/ES32079 Seminar 2.pdf",
+      "sha256": "8bd655a060ef54653746085d39d3fd47d9308b4f613fe9927f47d99df3d939c3",
+      "bytes": 49388,
+      "kind": "seminar-problems",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "pilot-extracted-not-independently-verified",
+      "pdfPageCount": 2,
+      "encrypted": false
+    },
+    {
+      "id": "seminar-3-problems",
+      "originalPath": "context/seminars/ES32079 Seminar 3.pdf",
+      "sha256": "908c07e0092a768b823f6d4cec3fcbb87e6e27ff563a4905bf2d279f1945caf0",
+      "bytes": 125044,
+      "kind": "seminar-problems",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "allowed-user-provided-course-material",
+        "channels": {
+          "browser": "allow",
+          "agent": "allow",
+          "export": "deny"
+        },
+        "rationale": "User-provided course sources for local study/browser and external subscription-agent teaching. No public or default export permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "pdfPageCount": 4,
+      "encrypted": false
+    },
+    {
+      "id": "textbook-hull-11",
+      "originalPath": "context/textbooks/_OceanofPDF.com_Options_Futures_and_Other_Derivatives_11th_Edition_-_John_Hull.pdf",
+      "sha256": "36748bb660c075cad059b3f6ca2b648b185ecbc866a3291e30cca272a345ba8e",
+      "bytes": 35588564,
+      "kind": "textbook",
+      "mediaType": "application/pdf",
+      "access": {
+        "localRead": "available",
+        "localExtraction": "not-authorized-in-pilot",
+        "channels": {
+          "browser": "deny",
+          "agent": "deny",
+          "export": "deny"
+        },
+        "rationale": "Textbook restricted by default; access is not exposure permission.",
+        "publicDistribution": "deny"
+      },
+      "conversionStatus": "not-started",
+      "pdfPageCount": 881,
+      "encrypted": false
+    }
+  ],
+  "missingCompanions": [
+    {
+      "id": "gap-transcript-week-4",
+      "status": "not-supplied"
+    },
+    {
+      "id": "gap-seminar-3-solutions",
+      "status": "not-supplied"
+    },
+    {
+      "id": "gap-syllabus",
+      "status": "not-supplied"
+    }
+  ]
+}

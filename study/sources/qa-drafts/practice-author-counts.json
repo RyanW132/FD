@@ -1,0 +1,41 @@
+{
+  "sources": [
+    {
+      "sourceId": "seminar-1-problems",
+      "pages": 2,
+      "units": 8,
+      "substantive": 6,
+      "draftHash": "ed85fd0a8903861f3a3c201bc229ba16e5d4541e6d3516a98b40fefe58fae8a1"
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "pages": 7,
+      "units": 30,
+      "substantive": 23,
+      "draftHash": "e2a7a2f24b8720cbbf60a489317687aac83a5da805e6b54982dee860d5d8b412"
+    },
+    {
+      "sourceId": "seminar-2-problems",
+      "pages": 2,
+      "units": 9,
+      "substantive": 7,
+      "draftHash": "fe316d957b82c3ef08221802cc7f7a812cc91d73bc62fb204db50880f9d8edfb"
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "pages": 7,
+      "units": 31,
+      "substantive": 24,
+      "draftHash": "ecf7e6052c7d64ac0ec03f09cd3c9f2709a3b5dd875869de32a4bd8eac249c5f"
+    },
+    {
+      "sourceId": "seminar-3-problems",
+      "pages": 4,
+      "units": 12,
+      "substantive": 8,
+      "draftHash": "08734fb0ba59486aa09feb83be664e564b3e61a408ec960e5137b395960de859"
+    }
+  ],
+  "pages": 22,
+  "units": 90
+}

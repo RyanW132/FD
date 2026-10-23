@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-2-problems",
+  "sourceHash": "8bd655a060ef54653746085d39d3fd47d9308b4f613fe9927f47d99df3d939c3",
+  "author": "g005-practice-source-author",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "rawPath": "study/sources/extracted/seminar-2-problems/page-001.md",
+      "rawHash": "e6a9e202d7248fc45c3a544f393b04c6c502389248fca03157e11e64716733fe",
+      "imagePath": "study/sources/assets/seminar-2-problems/page-001.png",
+      "imageHash": "b72c418a4529ed159d6b18a93eb1b125ff82bfc421ed4d7ad20478c3077ba84a",
+      "normalizedPath": "study/sources/annotated/seminar-2-problems/page-001.md",
+      "normalizedHash": "8348e8cc3c1d5be891127cdfae3f5cb504c22494929f57f1671a7dd44b698e3c",
+      "units": [
+        {
+          "id": "seminar-2-problems-p001-page-label",
+          "sourceId": "seminar-2-problems",
+          "locator": {
+            "pdfPage": 1,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-001.md",
+            "anchor": "seminar-2-problems-p001-page-label"
+          },
+          "contentHash": "8348e8cc3c1d5be891127cdfae3f5cb504c22494929f57f1671a7dd44b698e3c",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-problems-p001-q1",
+          "sourceId": "seminar-2-problems",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Question 1"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-001.md",
+            "anchor": "seminar-2-problems-p001-q1"
+          },
+          "contentHash": "8348e8cc3c1d5be891127cdfae3f5cb504c22494929f57f1671a7dd44b698e3c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-problems-p001-q2",
+          "sourceId": "seminar-2-problems",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Question 2"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-001.md",
+            "anchor": "seminar-2-problems-p001-q2"
+          },
+          "contentHash": "8348e8cc3c1d5be891127cdfae3f5cb504c22494929f57f1671a7dd44b698e3c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-problems-p001-q3",
+          "sourceId": "seminar-2-problems",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Question 3"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-001.md",
+            "anchor": "seminar-2-problems-p001-q3"
+          },
+          "contentHash": "8348e8cc3c1d5be891127cdfae3f5cb504c22494929f57f1671a7dd44b698e3c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-problems-p001-q4",
+          "sourceId": "seminar-2-problems",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Question 4"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-001.md",
+            "anchor": "seminar-2-problems-p001-q4"
+          },
+          "contentHash": "8348e8cc3c1d5be891127cdfae3f5cb504c22494929f57f1671a7dd44b698e3c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 2,
+      "rawPath": "study/sources/extracted/seminar-2-problems/page-002.md",
+      "rawHash": "5a37744845ec344e6764c9ccdda6ebb7a9ef371603f22dfe50bdebf2a54dffb7",
+      "imagePath": "study/sources/assets/seminar-2-problems/page-002.png",
+      "imageHash": "12bf900df1b5e3d18445ab9356e636f57a96fddbd3793bd0587a45e84f2f479d",
+      "normalizedPath": "study/sources/annotated/seminar-2-problems/page-002.md",
+      "normalizedHash": "6a6cb62bb81d9552b9a4dddd7beb51cb276402f247f969803ee9955071efdebb",
+      "units": [
+        {
+          "id": "seminar-2-problems-p002-page-label",
+          "sourceId": "seminar-2-problems",
+          "locator": {
+            "pdfPage": 2,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-002.md",
+            "anchor": "seminar-2-problems-p002-page-label"
+          },
+          "contentHash": "6a6cb62bb81d9552b9a4dddd7beb51cb276402f247f969803ee9955071efdebb",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-problems-p002-q5",
+          "sourceId": "seminar-2-problems",
+          "locator": {
+            "pdfPage": 2,
+            "region": "Question 5"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-002.md",
+            "anchor": "seminar-2-problems-p002-q5"
+          },
+          "contentHash": "6a6cb62bb81d9552b9a4dddd7beb51cb276402f247f969803ee9955071efdebb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-problems-p002-q6",
+          "sourceId": "seminar-2-problems",
+          "locator": {
+            "pdfPage": 2,
+            "region": "Question 6"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-002.md",
+            "anchor": "seminar-2-problems-p002-q6"
+          },
+          "contentHash": "6a6cb62bb81d9552b9a4dddd7beb51cb276402f247f969803ee9955071efdebb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-2-problems-p002-q7",
+          "sourceId": "seminar-2-problems",
+          "locator": {
+            "pdfPage": 2,
+            "region": "Question 7: Treasury table and bootstrapping"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-002.md",
+            "anchor": "seminar-2-problems-p002-q7"
+          },
+          "contentHash": "6a6cb62bb81d9552b9a4dddd7beb51cb276402f247f969803ee9955071efdebb",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "seminar-2-problems-p002-annual-semiannual-conflict"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "seminar-2-problems-p002-annual-semiannual-conflict",
+          "scopeRef": {
+            "kind": "source",
+            "unitId": "seminar-2-problems-p002-q7"
+          },
+          "reason": "Problem Q7 explicitly says annual coupon payments, while the supplied solution uses semiannual coupons and continuously compounded zero rates. Fractional-maturity annual coupon scheduling and zero-rate quotation are unspecified in the question.",
+          "status": "open",
+          "resolutionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-2-problems/page-002.md",
+            "anchor": "seminar-2-problems-p002-q7"
+          }
+        }
+      ],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    }
+  ]
+}

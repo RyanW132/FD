@@ -1,0 +1,577 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lecture-3",
+  "sourceHash": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+  "draftPath": "study/sources/qa-drafts/lecture-3.json",
+  "draftHash": "2e393c63cb8eacb3a4dfbd319e73e97b147439c4fc6cb82ac4d588906d4a6b53",
+  "reviewer": "/root/g005_source_qa_lecture34",
+  "reviewedAt": "2026-10-22T14:15:44.108552+00:00",
+  "verdict": "approved",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "verdict": "approved",
+      "rawHash": "6b5d24fa3f9e966b64f4de269470551df71a9a803ab3d31a1a2e9ebbc667a5a1",
+      "imageHash": "acf77163c3ec5e7d886c452a9a3c01f10874a9e2269fea6c43f1c6edcefccbe3",
+      "normalizedHash": "6a8e4a5cebbd222224b6eb957831ea801c9cbef2b85f2bb3a4ce31ac0a0c4d01",
+      "unitIds": [
+        "lecture-3-p001-title"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 2,
+      "verdict": "approved",
+      "rawHash": "a30ced0823f0110c2af9de140cb0beeca770a059ac8318977a712ee0b9abd710",
+      "imageHash": "75a09bc3fb9e40c1a65d283cb4eb6a0c9fc16f261acaf22c24710f1522a20a5a",
+      "normalizedHash": "c30cf3eb9cfdfae9248ba9cb2d2d9f5eb912d7090c2f585cba696de3c8db646d",
+      "unitIds": [
+        "lecture-3-p002-outline",
+        "lecture-3-p002-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 3,
+      "verdict": "approved",
+      "rawHash": "e23938d1c8e92c5515819603778fb68f9e43e70c4cdf8b496f2833cc44c7e6b1",
+      "imageHash": "90714622c4b1a01d39b125106450e18b80ca741f9b463b01915cd6a6822f230b",
+      "normalizedHash": "a406b39686a060a292be99877348da3693c719df51dd5e7d03aa1c844e290e8f",
+      "unitIds": [
+        "lecture-3-p003-dated-cashflows",
+        "lecture-3-p003-central-question",
+        "lecture-3-p003-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 4,
+      "verdict": "approved",
+      "rawHash": "4b5c561639f53755e0677f5abaacc8f2d78c83c27efab308e5320107e3aaabd9",
+      "imageHash": "ebca8810cdf2e2f31154caab8de1d12ff3981142eeda74da3013289a51fe375d",
+      "normalizedHash": "270f81d8a464ee581f084c2ee52e12271f36252e2ce4518f764811b24ce7d5fd",
+      "unitIds": [
+        "lecture-3-p004-government-rates",
+        "lecture-3-p004-policy-rates",
+        "lecture-3-p004-repo-rates",
+        "lecture-3-p004-reference-rates",
+        "lecture-3-p004-risk-free-rate",
+        "lecture-3-p004-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 5,
+      "verdict": "approved",
+      "rawHash": "c953893ba3e86344bc4ea036bf904cb64bad7fc53c9d030260c74e6d971273cd",
+      "imageHash": "2395a9d33c64ffc12767175bb4e2f5fa5aa8a1eb1ba65fb58d374d0377c8d058",
+      "normalizedHash": "2e576bec002310d502dad2ffe42c86b3c7ef84bafea57882aed12eb34b2302cb",
+      "unitIds": [
+        "lecture-3-p005-libor-status",
+        "lecture-3-p005-sonia",
+        "lecture-3-p005-sofr",
+        "lecture-3-p005-overnight-compounding",
+        "lecture-3-p005-fra-convention",
+        "lecture-3-p005-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 6,
+      "verdict": "approved",
+      "rawHash": "eec5d86ed3404e335483f04bef2df63667110136b0c9f528b80df0d70c130cf6",
+      "imageHash": "e412a3f82001000d3ee1331001c3acafc424f81342f748f01f52caa7204e827a",
+      "normalizedHash": "bf85d88799a613c02e540b9d0b4de55bc6232c368f5ded938a48e8a936cd6b4a",
+      "unitIds": [
+        "lecture-3-p006-quotation-convention",
+        "lecture-3-p006-one-year-example",
+        "lecture-3-p006-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 7,
+      "verdict": "approved",
+      "rawHash": "495cb323d19ae9acccf2a9e1c0438bf0e4789e00246add5dee20fb1475604388",
+      "imageHash": "d9ad519955e7f7f811e5ddc4a3fdc9a9c9c1dedd2a71f284cef97783a01de16d",
+      "normalizedHash": "324e89cad3578dd46d8a2a5c329125af6f328ba2c909e91df18c282a16e2180d",
+      "unitIds": [
+        "lecture-3-p007-future-value",
+        "lecture-3-p007-present-value",
+        "lecture-3-p007-quarterly-example",
+        "lecture-3-p007-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 8,
+      "verdict": "approved",
+      "rawHash": "86362cae8a905b4894c3ac7127b925628b1ae5cae992ffefb00bcbc50886e1ab",
+      "imageHash": "61b99356fccf86dff51fe1fa1b859ef92814e6e874e1a3946473fc0e28447b14",
+      "normalizedHash": "56ea41c708ca19f0b693ea99270d9a5408d8614ba5803760d81bf76673d352db",
+      "unitIds": [
+        "lecture-3-p008-frequency-table",
+        "lecture-3-p008-effective-annual-rate",
+        "lecture-3-p008-effective-example",
+        "lecture-3-p008-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 9,
+      "verdict": "approved",
+      "rawHash": "9c9b385538333043578ef8e71a7d333e60875b4266ffc31752bc9c236835f38a",
+      "imageHash": "bc82da1cae12f1e7202202a087fd55a224f4c24fe9c25b343902a9842c85d47b",
+      "normalizedHash": "940b1a1e1d8c76b215bfc36f7ed40aba0559f4869e9934f72ca607dd3d857cc6",
+      "unitIds": [
+        "lecture-3-p009-exponential-limit",
+        "lecture-3-p009-accumulation-limit",
+        "lecture-3-p009-continuous-values",
+        "lecture-3-p009-sign-check",
+        "lecture-3-p009-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 10,
+      "verdict": "approved",
+      "rawHash": "270dec02563097c71866f7f4683c9c5e4fd06580395c0362647676160407d7c1",
+      "imageHash": "e0360c0e8bcaf1967406a6f9b9cf66b10b0ff372e5a738580830405638e67b91",
+      "normalizedHash": "3a4612c20b508e29c14e288af94dcfcd1f4de349666f837cb0fd59241ed2b966",
+      "unitIds": [
+        "lecture-3-p010-equivalent-accumulation",
+        "lecture-3-p010-conversion-formulas",
+        "lecture-3-p010-semiannual-example",
+        "lecture-3-p010-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 11,
+      "verdict": "approved",
+      "rawHash": "b1bb79a17911517bc5487a089fea431d6cbcf220bba36922b16162d5d245ce9c",
+      "imageHash": "3328311dac4325668f1acdbd600f2cd1c9da91c88272f06c65bdbedc0986e81e",
+      "normalizedHash": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+      "unitIds": [
+        "lecture-3-p011-growth-questions",
+        "lecture-3-p011-printed-continuous-solution",
+        "lecture-3-p011-printed-semiannual-solution",
+        "lecture-3-p011-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 12,
+      "verdict": "approved",
+      "rawHash": "df6ee7817074fab5f0be95ddd2085512f1b0f4d7e67fde16776fffb8b74ae8c4",
+      "imageHash": "a5e41397d252d0a10b5b88e0de880f55de7b151b85109d0266580d6a70d289cc",
+      "normalizedHash": "5aa58fed8c8dc902675a71f3c5f219bddb65891e3f3df4252c91bd50d59124a8",
+      "unitIds": [
+        "lecture-3-p012-zero-rate",
+        "lecture-3-p012-discount-factor",
+        "lecture-3-p012-cashflow-present-value",
+        "lecture-3-p012-five-year-example",
+        "lecture-3-p012-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 13,
+      "verdict": "approved",
+      "rawHash": "6bc3ed9d3633159d0ec2f82511a476c51c147f66e917da7a3bbfff4ba948336a",
+      "imageHash": "8597628f00e826970cf59fc62a51736787b38b644744eaa6305bed483e09da3b",
+      "normalizedHash": "cd1feb65c99f0c72eee9b477c9c99a159bd5c3998c99d39101847aa9a42d04ae",
+      "unitIds": [
+        "lecture-3-p013-coupon-principal",
+        "lecture-3-p013-bond-pricing-sum",
+        "lecture-3-p013-own-maturity-discounting",
+        "lecture-3-p013-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 14,
+      "verdict": "approved",
+      "rawHash": "bcfb0e70d78f6e45afbb69534d18c856ebf3debff77fa3089f51066524bab442",
+      "imageHash": "7032ac3586eb2223ff98f7cad2a08630eb0d06095ca346e0b3cefaab4e972e9d",
+      "normalizedHash": "aad1ce042f2fc30c71f25bdbea69effd774dc16a787df2c0e6f7c6465fe497f2",
+      "unitIds": [
+        "lecture-3-p014-coupon-data",
+        "lecture-3-p014-coupon-pricing-calculation",
+        "lecture-3-p014-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 15,
+      "verdict": "approved",
+      "rawHash": "8ff1c5e6f8b4817193aeefa10a2e408b9aa87a1073f9635433305c3577e1c6c7",
+      "imageHash": "9890442dc7c596c293c2bfd4d4a90f13e500383c5118f971d8c868bbb68eebca",
+      "normalizedHash": "5e5ecd96b9242dc6a148e5a0d869d01e1629ecf244757e6069dd35d115936962",
+      "unitIds": [
+        "lecture-3-p015-yield-definition",
+        "lecture-3-p015-yield-example",
+        "lecture-3-p015-yield-versus-zero",
+        "lecture-3-p015-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 16,
+      "verdict": "approved",
+      "rawHash": "084d6f451729cb2f7f20b93c0a6a72756ab8711cff4d5a1d88baff50811ebddf",
+      "imageHash": "614885cc5d33e3f890e5a256b9d490e4095c443ac358f78b75332621b7f87709",
+      "normalizedHash": "2494d61bdb2b6e81753fa4c0a6b3f728740f21ac4f63f057b0d4754f137233b2",
+      "unitIds": [
+        "lecture-3-p016-printed-coupon-yield-table",
+        "lecture-3-p016-concept-check",
+        "lecture-3-p016-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 17,
+      "verdict": "approved",
+      "rawHash": "6bdd6d5401e4cf0b8476bfde70e3fc0b8079ef607888071863283e0ec40a003a",
+      "imageHash": "a2a43031483cf27857d4a934cafb1858518b4ab6348caa1bc22b390c51708a4a",
+      "normalizedHash": "6dfbf874b92d94ba6e432f66d448ef4a64c0368df8539974809360d25dd9d132",
+      "unitIds": [
+        "lecture-3-p017-par-yield-definition",
+        "lecture-3-p017-annuity-and-principal-factors",
+        "lecture-3-p017-par-equation",
+        "lecture-3-p017-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 18,
+      "verdict": "approved",
+      "rawHash": "8ab8f49ed339a116d2299169c9ef78120879358100c17eef68389899d311323c",
+      "imageHash": "a66cee342dee07336216fba4439c09e5a28fbc3bcf10aa956a2f9a89887684d1",
+      "normalizedHash": "a59cbfa17380a99a0af535c5ce03fabc7075a7793bf04eeede2522401aef0666",
+      "unitIds": [
+        "lecture-3-p018-par-discount-factors",
+        "lecture-3-p018-par-calculation",
+        "lecture-3-p018-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 19,
+      "verdict": "approved",
+      "rawHash": "132b24ddf83f2f15e43d9db6c7d44356afa39f07ee84cab9ccef6f3bcf94c6d6",
+      "imageHash": "ddd7d4ed4fb03694d48bcbab4ed5bed44e51072870cf119d2ea7cd60d536b213",
+      "normalizedHash": "c894f6cf748ff67486a0368665c8ff8fa6325acbc9f0e7bb586698ced5f616f2",
+      "unitIds": [
+        "lecture-3-p019-bootstrap-procedure",
+        "lecture-3-p019-bootstrap-name",
+        "lecture-3-p019-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 20,
+      "verdict": "approved",
+      "rawHash": "b37cc57c1a1ffd8a82dda9cfc1abe410eb85500ec4ea80f1651b3469c62d2dd1",
+      "imageHash": "70320a81813448a0ded9f11f44a8ff030c916799d6268de12d8fa9c503a1a66e",
+      "normalizedHash": "e22c4fe8be66802fa901ebcffa03adddbab519e56bf842350ad873b3618dafcf",
+      "unitIds": [
+        "lecture-3-p020-bootstrap-instrument-table",
+        "lecture-3-p020-bootstrap-start",
+        "lecture-3-p020-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 21,
+      "verdict": "approved",
+      "rawHash": "0abf79dd98c2094f33083cb1afd42e4cecbb4371ce27e528ab06dd1f6a8a7fbb",
+      "imageHash": "87ba75df81dd0a7fe745fe097b527c7199dccd953ca5cabb689ac1b13c1adc4f",
+      "normalizedHash": "cac34bd2cda557c7b30318b1ce91600f63223a249c9336041cbe8acdc6c494ea",
+      "unitIds": [
+        "lecture-3-p021-zero-rate-inversion",
+        "lecture-3-p021-first-three-rates",
+        "lecture-3-p021-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 22,
+      "verdict": "approved",
+      "rawHash": "7b42eb92141b2e0b5dcd299ad01422ad2b9b3684abf500926bdbb27f92c6d3d0",
+      "imageHash": "fdeafcfe982370ab666fd4035e8dbbb58c45af066cd6a67cf294da056a7a63c6",
+      "normalizedHash": "8c7ba9959f15317dc120fc1b1469cb23838fc008569b4ae605fe7acd7505baff",
+      "unitIds": [
+        "lecture-3-p022-one-point-five-cashflows",
+        "lecture-3-p022-one-point-five-solution",
+        "lecture-3-p022-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 23,
+      "verdict": "approved",
+      "rawHash": "ecf4db777f89327cb542b3444d1b55d5c070881a2e981e60850b8e32f4b2da50",
+      "imageHash": "0d6a698ee81c825889a260040ea6cd4660ec007f722b6a0d7256ef0dd90384ba",
+      "normalizedHash": "6d04497a7f97695dc911a58beb1e16f3ea0cd79762c865312421c40bf491a69a",
+      "unitIds": [
+        "lecture-3-p023-two-year-equation",
+        "lecture-3-p023-two-year-solution",
+        "lecture-3-p023-bootstrap-order-question",
+        "lecture-3-p023-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 24,
+      "verdict": "approved",
+      "rawHash": "a0bef5cab4f9e37efae2a5cb698c2cab968c991dfc150dff36543d609546aaf6",
+      "imageHash": "62f9baf58f62463345b09d15cfdfe7f8cd7743100a5873bfaf0c3d8c903ec8e8",
+      "normalizedHash": "3bd87119a4c361e22506a57673969ce8be4fc3166d1fde7432460cd955fa35e7",
+      "unitIds": [
+        "lecture-3-p024-zero-curve-table",
+        "lecture-3-p024-interpolation",
+        "lecture-3-p024-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 25,
+      "verdict": "approved",
+      "rawHash": "76c28728487c20e7dc047b4511502f208864f90b2fa6c2fbd92ce528d601a20c",
+      "imageHash": "4ede116b9ced1a6e8d8cb25254763648c2ff16115b6135f4b319902a1d194b9e",
+      "normalizedHash": "c07c6ab9b821d53ecd2d6ed5b8716689ce268cf881856d6a011e04cd8f925f09",
+      "unitIds": [
+        "lecture-3-p025-forward-rate-definition",
+        "lecture-3-p025-forward-accumulation",
+        "lecture-3-p025-forward-rate-formula",
+        "lecture-3-p025-discount-factor-ratio",
+        "lecture-3-p025-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 26,
+      "verdict": "approved",
+      "rawHash": "45f581175ba06ecd52851217cf55316f9573cc243f66cdb0307bf240bb5638d4",
+      "imageHash": "cdd195ec5ad305e90f4a4e7c24bd01e1abd02efda547c1e471d2bf7978d891b4",
+      "normalizedHash": "968cf5737f7d8ef32ab908d3e32f8f9f3302c83a40c8117172ea17325d59746b",
+      "unitIds": [
+        "lecture-3-p026-one-two-forward-example",
+        "lecture-3-p026-strategy-terminal-values",
+        "lecture-3-p026-forward-not-forecast",
+        "lecture-3-p026-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 27,
+      "verdict": "approved",
+      "rawHash": "7f940cc37354d64f82781c951f7b2f1a66b540e793b7be79e77047a6c304f0e8",
+      "imageHash": "f4a0bddbcdcbbd782e417555732d740caefac93a39d7b5376937491df8af423a",
+      "normalizedHash": "c69254b1474affe77aac3ff953e247bdc4463105a0e215287a9fdb0bbd1336ee",
+      "unitIds": [
+        "lecture-3-p027-annual-forward-table",
+        "lecture-3-p027-fourth-year-calculation",
+        "lecture-3-p027-third-year-question",
+        "lecture-3-p027-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 28,
+      "verdict": "approved",
+      "rawHash": "834c8dbafe9d6f0db64fc9d427f0b8d2c99058d5b940f7bc733195e645970541",
+      "imageHash": "f5107629096a4dc1079924575645d95fcf0ee5b76afacf4d06b81f7b70cb80c1",
+      "normalizedHash": "5832207f6a7da766110ac6af1a2d4028b8725a5012cb4279060a81cb7e36af37",
+      "unitIds": [
+        "lecture-3-p028-fra-definition-mechanics",
+        "lecture-3-p028-fra-purpose",
+        "lecture-3-p028-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 29,
+      "verdict": "approved",
+      "rawHash": "ff7ba9219f2e3bd10f23dc1e4bed1a8599068e87f925d6353331be2f1a6fd917",
+      "imageHash": "3fc308125e903123bef1ba9ccff27ae632b09b0a5d8d4b13fda4168d1bb58857",
+      "normalizedHash": "88ff5cd5f839702ed5edbf3bb71530b15e6a1030cdefb3bb86988a70ca324d94",
+      "unitIds": [
+        "lecture-3-p029-fra-notation",
+        "lecture-3-p029-fra-terminal-difference",
+        "lecture-3-p029-fra-start-settlement",
+        "lecture-3-p029-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 30,
+      "verdict": "approved",
+      "rawHash": "a544ed6b553942d6e529436d2d6038aaf6d39705836947a61bf01eaedcc93d1c",
+      "imageHash": "ed78030e102513dd5b2b014e5f7ceaba55ba757fcbfa00a6451bf68c66a897c1",
+      "normalizedHash": "129ff3c8d1cf586979b9168bdcd6fc88b455864b3e01e185682d485f0a0cdb33",
+      "unitIds": [
+        "lecture-3-p030-fra-example-terminal",
+        "lecture-3-p030-fra-example-settlement",
+        "lecture-3-p030-fra-example-interpretation",
+        "lecture-3-p030-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 31,
+      "verdict": "approved",
+      "rawHash": "8df6d5e0146d0b73d0adb1756f1e080e0677093151ad3fa869bd41fdfc5d3c33",
+      "imageHash": "a23eab6c3f78c2cf0ec023d16071c2e6ec3bc6a188feebe2a3298aa22f5d20b7",
+      "normalizedHash": "d0c18d71ee6e8258803728f29b0e297a01b42dde52d26f43d66a12bf4872e41f",
+      "unitIds": [
+        "lecture-3-p031-fra-exposure-questions",
+        "lecture-3-p031-fra-exposure-answers",
+        "lecture-3-p031-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 32,
+      "verdict": "approved",
+      "rawHash": "e6184f4bdb22afa70a3543334cab56ae57ffbe0477e9547b8b3f6845c0825c03",
+      "imageHash": "b58b09ad4cd1de179c4a443dbcdac7c2589357e714b3cc90cc5d07e9987dd67b",
+      "normalizedHash": "6252547517b580713704269291a7a827aa82b43ecab79d67322ff86da1cb504e",
+      "unitIds": [
+        "lecture-3-p032-price-yield-function",
+        "lecture-3-p032-price-first-derivative",
+        "lecture-3-p032-sensitivity-prediction",
+        "lecture-3-p032-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 33,
+      "verdict": "approved",
+      "rawHash": "babcf155cb1f60b264b23f6561f86027fcbc099794f296e3f64eac3881d19fa5",
+      "imageHash": "d2c3c36f9481fc6d982d4b21b53ed925b3a08724e96312b23101ad915eb890f3",
+      "normalizedHash": "2f0d197e8701672b59441e73e119bc0c3e3a5a327c963451296f21f57a867726",
+      "unitIds": [
+        "lecture-3-p033-duration-definition",
+        "lecture-3-p033-duration-weights",
+        "lecture-3-p033-duration-maturity",
+        "lecture-3-p033-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 34,
+      "verdict": "approved",
+      "rawHash": "2fa3d2ac34933ca5c415836206cf3f45e5802b6fb170e599fde4e0a3b1d414bc",
+      "imageHash": "24c08814deb8d61dac4bd3da23264b434d2c9e1a2eaf704822f3f5b68515fd3c",
+      "normalizedHash": "5fd77e3dbe1da085ab7dc7003721af60290f7fd501b35b2b9d63f72793f3b850",
+      "unitIds": [
+        "lecture-3-p034-duration-first-order",
+        "lecture-3-p034-basis-point",
+        "lecture-3-p034-longer-duration-sensitivity",
+        "lecture-3-p034-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 35,
+      "verdict": "approved",
+      "rawHash": "e2e5f36b6b11060d3f32356373804138921169c7603229caaaf735e91c33f3ba",
+      "imageHash": "17aca8cfca4bab43195168364a0575c0a935f6f542d558aa23a6ad2135573ab8",
+      "normalizedHash": "bce27b8e7906767b03eaa634c25c8d0e7cdbfdc80c0054504aa2d1c040144d8e",
+      "unitIds": [
+        "lecture-3-p035-duration-example-table",
+        "lecture-3-p035-duration-example-results",
+        "lecture-3-p035-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 36,
+      "verdict": "approved",
+      "rawHash": "789dd0b066317031f4ab6ba268910d94f94a5b532c5cb4c85a4c06b8eb7b526e",
+      "imageHash": "2f8ee7119c9f1a4191c77c7db789a3aea252b8b14fc203ab3970f525e4eb95a3",
+      "normalizedHash": "53d9c63de557a3d2651dc73989440651798f5bf680732caaa96c91c26a7e7171",
+      "unitIds": [
+        "lecture-3-p036-duration-small-change",
+        "lecture-3-p036-duration-new-price",
+        "lecture-3-p036-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 37,
+      "verdict": "approved",
+      "rawHash": "766249776ce763a312dc981c9ce02ba026651982f2d3988d8ece02a19bab1e73",
+      "imageHash": "6f62e1b0d8d23071427c0e261660bc5f0acc1299b73c16d8addf183c753f9960",
+      "normalizedHash": "cd8d006d1398899f85d26c2670463850eae327db994c7c07d07552574f64c8e9",
+      "unitIds": [
+        "lecture-3-p037-tangent-approximation",
+        "lecture-3-p037-duration-errors-table",
+        "lecture-3-p037-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 38,
+      "verdict": "approved",
+      "rawHash": "c9cca5d2f877387193465c68ab787bc65023322b8f69f5a2bdf9a700c966131f",
+      "imageHash": "faf64b324027d1ef4232727b602fc1225f6468e8ea3dd68dc71aad5a5fdfca2e",
+      "normalizedHash": "972366b241547f7f97f5d7b1cf4ae626f9038c3df1356d8f0cc2536058ea7d63",
+      "unitIds": [
+        "lecture-3-p038-convexity-definition",
+        "lecture-3-p038-convexity-approximation",
+        "lecture-3-p038-convexity-example-value",
+        "lecture-3-p038-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 39,
+      "verdict": "approved",
+      "rawHash": "de4c02036a2fe62f4181746ba6caf93374833771015978548e19f615e72fb2b0",
+      "imageHash": "e085722bd4ad5d1397deb3bc6a1a53333dcf3614902d438a8c8a3fc8865d98eb",
+      "normalizedHash": "5c6f90a1a5eb67886cb15da5ab0a54c62dd1ffd317b982831eeed74a5449cd68",
+      "unitIds": [
+        "lecture-3-p039-duration-convexity-example",
+        "lecture-3-p039-duration-convexity-comparison",
+        "lecture-3-p039-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 40,
+      "verdict": "approved",
+      "rawHash": "6785be57ebe0d1b23fad7c3035049e62648395977f803b4c2d9864ff35ce2857",
+      "imageHash": "81e5200a015ff1db8edc6f89000eb77f958537fb2e2d69f4b0bb9bd9fbf285d2",
+      "normalizedHash": "eda79e72f366de0e755d9ba8b35e5c3287bd5872cad49eca8c135b59f0789375",
+      "unitIds": [
+        "lecture-3-p040-immunisation-benefit",
+        "lecture-3-p040-immunisation-limitations",
+        "lecture-3-p040-risk-management-caution",
+        "lecture-3-p040-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 41,
+      "verdict": "approved",
+      "rawHash": "ae4c84fcdb05298b4cf6f56f985a11429e2e03a93a7a59f114d3aa74c37138bd",
+      "imageHash": "d5871922ef4fb85011434f3e57d237db6edb35200491b1fc0e0ea9f717ad01c1",
+      "normalizedHash": "4b72d7c73ad8335411907243f052fd67a08dd606317a4ce35699a7d514a7d450",
+      "unitIds": [
+        "lecture-3-p041-summary-compounding",
+        "lecture-3-p041-summary-zero",
+        "lecture-3-p041-summary-yields",
+        "lecture-3-p041-summary-bootstrap",
+        "lecture-3-p041-summary-forward",
+        "lecture-3-p041-summary-fra",
+        "lecture-3-p041-summary-sensitivity",
+        "lecture-3-p041-summary-unifying",
+        "lecture-3-p041-page-furniture"
+      ],
+      "allRegionsAccounted": true
+    }
+  ]
+}

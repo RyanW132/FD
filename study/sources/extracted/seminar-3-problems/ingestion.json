@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-3-problems",
+  "sourceHash": "908c07e0092a768b823f6d4cec3fcbb87e6e27ff563a4905bf2d279f1945caf0",
+  "revision": "ab2b2462ba0f99f719d7ddb68ee3f21d82b61cf0cede8b7769809fca4155898b",
+  "config": {
+    "schemaVersion": 1,
+    "layout": true,
+    "encoding": "UTF-8",
+    "pageBreaks": true,
+    "dpi": 120,
+    "imageFormat": "png",
+    "crop": false,
+    "ocr": false,
+    "tools": {
+      "pdfinfo": "26.01.0",
+      "pdftotext": "26.01.0",
+      "pdftoppm": "26.01.0"
+    }
+  },
+  "rawExtractionComplete": true,
+  "semanticQA": "needs-review",
+  "pages": 4,
+  "lines": null,
+  "membership": [
+    {
+      "path": "study/sources/assets/seminar-3-problems/page-001.png",
+      "sha256": "98daa1fc119a6311d13e1b8bd809f05dd9e173fd8c9630007fb76d2d0afd9e56",
+      "byteLength": 116519
+    },
+    {
+      "path": "study/sources/assets/seminar-3-problems/page-002.png",
+      "sha256": "0cc1a46f31bfd4e075fc56abec47f1a7993a6f043a175e259f8493e4590e9985",
+      "byteLength": 133650
+    },
+    {
+      "path": "study/sources/assets/seminar-3-problems/page-003.png",
+      "sha256": "f32bf781692f96d67e4be21f7bdc444d7efc3dd4e84359f61fad0c6af356bb8c",
+      "byteLength": 147801
+    },
+    {
+      "path": "study/sources/assets/seminar-3-problems/page-004.png",
+      "sha256": "f82183c6501769e16ad8f032dd73cb65e26c939690410149197c93de6444ec4d",
+      "byteLength": 122723
+    },
+    {
+      "path": "study/sources/extracted/seminar-3-problems/page-001.md",
+      "sha256": "8b2fb958d6bb1e934435fe0c6a3cfde991f4899a13d370e1738c1f15f78f49b5",
+      "byteLength": 1554
+    },
+    {
+      "path": "study/sources/extracted/seminar-3-problems/page-002.md",
+      "sha256": "9268c730e98cbc96b48cff69d2ca9b91ae7995663bdb25955fbfa430724bea60",
+      "byteLength": 1963
+    },
+    {
+      "path": "study/sources/extracted/seminar-3-problems/page-003.md",
+      "sha256": "8ddedc6032005b57313ed366c48a5fec65c1b12777467caf4f489dbfa60b824a",
+      "byteLength": 2162
+    },
+    {
+      "path": "study/sources/extracted/seminar-3-problems/page-004.md",
+      "sha256": "3564527032b282c8a3958c009682fc651d9c96037b69978d1522e7d4ce182225",
+      "byteLength": 1641
+    },
+    {
+      "path": "study/sources/extracted/seminar-3-problems/rawfull-layout.txt",
+      "sha256": "86098fbbe3e64ac703100b60e18164ca5f50aedeb380e2b98be004a5c18b4db0",
+      "byteLength": 6132
+    }
+  ],
+  "membershipDigest": "36ef657518bcc878134fcc8af50c8b86a807a0ec564541b62431c4bb6d699760"
+}

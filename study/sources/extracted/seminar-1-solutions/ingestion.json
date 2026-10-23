@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-1-solutions",
+  "sourceHash": "5568f5acde927793ad95e722db81b27e4ec526647f8af88a39e54f83cf2dd530",
+  "revision": "78cef84368da7da586d86ef8c2740754a78c15ea2ade1de9ea620cec049cb5fd",
+  "config": {
+    "schemaVersion": 1,
+    "layout": true,
+    "encoding": "UTF-8",
+    "pageBreaks": true,
+    "dpi": 120,
+    "imageFormat": "png",
+    "crop": false,
+    "ocr": false,
+    "tools": {
+      "pdfinfo": "26.01.0",
+      "pdftotext": "26.01.0",
+      "pdftoppm": "26.01.0"
+    }
+  },
+  "rawExtractionComplete": true,
+  "semanticQA": "needs-review",
+  "pages": 7,
+  "lines": null,
+  "membership": [
+    {
+      "path": "study/sources/assets/seminar-1-solutions/page-001.png",
+      "sha256": "b2a12a0918be14cbadbfefb16a7a72b76c0ec18a5080b539c1f426f892aba432",
+      "byteLength": 162883
+    },
+    {
+      "path": "study/sources/assets/seminar-1-solutions/page-002.png",
+      "sha256": "6ef66db67ee47c248d627ddfe4778399307793aa7226f88424a8cd186a4d28d4",
+      "byteLength": 156098
+    },
+    {
+      "path": "study/sources/assets/seminar-1-solutions/page-003.png",
+      "sha256": "ee589baff59763070aeaeadc7f81caafabc042aa55d47823d4dd43db50ba622f",
+      "byteLength": 175474
+    },
+    {
+      "path": "study/sources/assets/seminar-1-solutions/page-004.png",
+      "sha256": "6491ff8210e564230c5a46637ea174d2b123b3a8cd3251f7275dc9b248fc2406",
+      "byteLength": 134992
+    },
+    {
+      "path": "study/sources/assets/seminar-1-solutions/page-005.png",
+      "sha256": "b28aaa7346cf715dab23743c506ce09691539d04029125776eb53ffb5dea8f5b",
+      "byteLength": 156006
+    },
+    {
+      "path": "study/sources/assets/seminar-1-solutions/page-006.png",
+      "sha256": "43d486acf055ecafd19462cab911e6142f8f66eeb6a51f32a53ae7ea69c1af24",
+      "byteLength": 188756
+    },
+    {
+      "path": "study/sources/assets/seminar-1-solutions/page-007.png",
+      "sha256": "7b83d33d1cec02963b01300d246a64d587ab849022610eddb281c1d9fb9bb233",
+      "byteLength": 161084
+    },
+    {
+      "path": "study/sources/extracted/seminar-1-solutions/page-001.md",
+      "sha256": "3cb349fb923acf9a863ba45541848da26510e2fc6dbd40c6b7221ac70289a50c",
+      "byteLength": 1925
+    },
+    {
+      "path": "study/sources/extracted/seminar-1-solutions/page-002.md",
+      "sha256": "cf234eb187d090d663854133dac01bd22dca4e2502f29e280d69e5a030b75ffb",
+      "byteLength": 1772
+    },
+    {
+      "path": "study/sources/extracted/seminar-1-solutions/page-003.md",
+      "sha256": "c2f35a66bbd12173f9751ce614c7bd2f2c64c41340406f8c073c796965715782",
+      "byteLength": 1984
+    },
+    {
+      "path": "study/sources/extracted/seminar-1-solutions/page-004.md",
+      "sha256": "2dc9d540df06984df7ffcdb73b36dfa452c9ed6cfeeb9bc5842cae35bb05caa4",
+      "byteLength": 1945
+    },
+    {
+      "path": "study/sources/extracted/seminar-1-solutions/page-005.md",
+      "sha256": "b5797a0e35fa62298153e4155440face62ac0ceb7dee77a46032d0ac916092aa",
+      "byteLength": 1988
+    },
+    {
+      "path": "study/sources/extracted/seminar-1-solutions/page-006.md",
+      "sha256": "f8508ddfee84c6ddf860e411c7eb2e7d46464255e9cf4c8c2cc73603a6e9fc27",
+      "byteLength": 2229
+    },
+    {
+      "path": "study/sources/extracted/seminar-1-solutions/page-007.md",
+      "sha256": "35babb868702b25078596e24bc2831c7f89e6be8968030c7e5b427ea8d197d25",
+      "byteLength": 2531
+    },
+    {
+      "path": "study/sources/extracted/seminar-1-solutions/rawfull-layout.txt",
+      "sha256": "b5442b97ab8bbeb61a296e428350db2442753040e7a802c544973358dffdd27c",
+      "byteLength": 12288
+    }
+  ],
+  "membershipDigest": "2ffb7e4efb1d39f9c51bdc006df39dd91b66d86bf19f98503e5bfe57737ce1a8"
+}

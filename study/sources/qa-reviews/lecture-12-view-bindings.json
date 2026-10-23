@@ -1,0 +1,476 @@
+{
+  "reviewer": "g005-source-qa-lecture12",
+  "viewedAt": "2026-10-22T14:14:44.232837+00:00",
+  "method": "All 67 original production PNGs opened individually with view_image; batches contain separate full-page images, not contact sheets. No image was sampled.",
+  "images": [
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 1,
+      "path": "study/sources/assets/lecture-1/page-001.png",
+      "sha256": "2e1784697caf8e4782cc74c65699196146206bcf3f8044348722871af3dbc60e",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 2,
+      "path": "study/sources/assets/lecture-1/page-002.png",
+      "sha256": "118673d6f0192c65005df9ad73a3e303d08ec840b964b8e67ed6f1335ca96b19",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 3,
+      "path": "study/sources/assets/lecture-1/page-003.png",
+      "sha256": "38b2c32707cdd4b9bc1ded80e29ad1606321ed5be1a772cfe99afacc5970f94f",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 4,
+      "path": "study/sources/assets/lecture-1/page-004.png",
+      "sha256": "8462d19f05df865a2831b84b286ab781395f4bd878d59d5558aae1ccacb91e98",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 5,
+      "path": "study/sources/assets/lecture-1/page-005.png",
+      "sha256": "561e2a349b5242b6e36985323a15d2be823686993db2819c8a452205da5bfeb3",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 6,
+      "path": "study/sources/assets/lecture-1/page-006.png",
+      "sha256": "701a4ea3322c073f5a38067babe9c65e2cfe039a102db768b015cc386e82e3b6",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 7,
+      "path": "study/sources/assets/lecture-1/page-007.png",
+      "sha256": "64c03f50916c38726380551319fa973778b350babad6f3a7559cf38e1e811527",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 8,
+      "path": "study/sources/assets/lecture-1/page-008.png",
+      "sha256": "b414a957b94f505c871bbe6ff58c0620df26c2efbd842636144a51a0dd1bade9",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 9,
+      "path": "study/sources/assets/lecture-1/page-009.png",
+      "sha256": "53c9c330e3ff34f280a62ad14582ebb5f466ce4f512a77800a2a72dddf37b325",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 10,
+      "path": "study/sources/assets/lecture-1/page-010.png",
+      "sha256": "cd04ad81a47465491f84969717f728973c9eb0e5c509361bfebac220118fd2c3",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 11,
+      "path": "study/sources/assets/lecture-1/page-011.png",
+      "sha256": "f55341d6d1f7752d7e5ea4086df4a6d3bba888b2d0b017ff825a62afbbffb9b1",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 12,
+      "path": "study/sources/assets/lecture-1/page-012.png",
+      "sha256": "230e251c0f0dbbfa649127986bff90028cf45018d3be043d7948aaf79a5e1de7",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 13,
+      "path": "study/sources/assets/lecture-1/page-013.png",
+      "sha256": "d046faceec565f99c6920f1b470cc20795eaeb57b64c55fee10850de8d9ee4af",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 14,
+      "path": "study/sources/assets/lecture-1/page-014.png",
+      "sha256": "d7b7bb809bd40c086645edac7cae0221ea2fa77e4448a3fff06e48d9092652b2",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 15,
+      "path": "study/sources/assets/lecture-1/page-015.png",
+      "sha256": "25ecd62fd7025569077bb95061bae21e346bfac6ba2ddb923f148dc731ce311c",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 16,
+      "path": "study/sources/assets/lecture-1/page-016.png",
+      "sha256": "8278b59dbdd24b255c43de22532b605d9fb507587bbe9b5105efe5aaffbc90da",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 17,
+      "path": "study/sources/assets/lecture-1/page-017.png",
+      "sha256": "9515d782862918c426cf16269aedf518358dab26d79e33bb57a10e2be889bf5d",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 18,
+      "path": "study/sources/assets/lecture-1/page-018.png",
+      "sha256": "72417cb001d97726894d88154d6e5d3493974ab638fa1c8efa83801ad27c4a5f",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 19,
+      "path": "study/sources/assets/lecture-1/page-019.png",
+      "sha256": "4454bbb39e812e1b9a922c6734b0609c6329ba15f0806aa6f87bc0033f597278",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 20,
+      "path": "study/sources/assets/lecture-1/page-020.png",
+      "sha256": "8586095103b2c29ca021e2a389607b2847431895259e9683fbd6fcf997a69eaa",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 21,
+      "path": "study/sources/assets/lecture-1/page-021.png",
+      "sha256": "6514c69c7c9102b83ea216d331fba88251abe9ff4b44029ffe93f8d58acac909",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 22,
+      "path": "study/sources/assets/lecture-1/page-022.png",
+      "sha256": "23df5aec358baab6656fffe2b88088cc26e93c47de4822298bc38758769865ce",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 23,
+      "path": "study/sources/assets/lecture-1/page-023.png",
+      "sha256": "168d3d1a42f75ce63cd4f3b38ffaf0f96edcc6884fda84757b081dc2ff359a7c",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 24,
+      "path": "study/sources/assets/lecture-1/page-024.png",
+      "sha256": "bf3199694e6643b399936afefad7025af9690f9ded14c08dccb0115136dcdc79",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 25,
+      "path": "study/sources/assets/lecture-1/page-025.png",
+      "sha256": "0eca0aa037190577ea32f4c9e362c0a0acbfe71add79dc469f49cf0c0b5af0e9",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 26,
+      "path": "study/sources/assets/lecture-1/page-026.png",
+      "sha256": "ef6bfa7701e139072d5278886a2c6980bcfa329df85640dc5c9f9ec31dfc1beb",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 27,
+      "path": "study/sources/assets/lecture-1/page-027.png",
+      "sha256": "534d5e8f7d4028357591f1ccdb4276d28cdccb217467098817ddf358de5a07f9",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 28,
+      "path": "study/sources/assets/lecture-1/page-028.png",
+      "sha256": "e3b983919470189e396644d7536f9d12d981c55bf40994807d92d2a212c23fb7",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 29,
+      "path": "study/sources/assets/lecture-1/page-029.png",
+      "sha256": "a5ae9b0ec97be519aedfa73bceb66f555e463862d147e99d983b737ed86a1052",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 30,
+      "path": "study/sources/assets/lecture-1/page-030.png",
+      "sha256": "dd908acb88ecff24cb4ea2cb319478011f48448574f2cd1de9215746b389165a",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 31,
+      "path": "study/sources/assets/lecture-1/page-031.png",
+      "sha256": "2c597d87b556009f14102ad28f1e4ba64698f1d9a3c65c10e41321d352b6becf",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 32,
+      "path": "study/sources/assets/lecture-1/page-032.png",
+      "sha256": "307b1d6db0f03fc07403f0e828d4b81c80599e33fe796e42dd70d99ce7277fea",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 33,
+      "path": "study/sources/assets/lecture-1/page-033.png",
+      "sha256": "5302081085e5560e4820e463ec62cd67b75fd0079e47bae9edef53d5aaba7260",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 34,
+      "path": "study/sources/assets/lecture-1/page-034.png",
+      "sha256": "2eb4bc3cfe90e026d0764c09de4f2685f0f5c8cbf1506ec4f2e0d2eace2d0303",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 35,
+      "path": "study/sources/assets/lecture-1/page-035.png",
+      "sha256": "653a2cbaf174529a47303a1b827996c2dd4260f8681dacd6e4a22b65db09d2f9",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 36,
+      "path": "study/sources/assets/lecture-1/page-036.png",
+      "sha256": "2f71657b2698dd9851dcd155704388c153545111e0d84b2951f46681fd3b3cad",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 37,
+      "path": "study/sources/assets/lecture-1/page-037.png",
+      "sha256": "ed4fb20f9ce86c9c4c47f96795705a04b90fc5369acab690232b9897945c9d4b",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-1",
+      "pdfPage": 38,
+      "path": "study/sources/assets/lecture-1/page-038.png",
+      "sha256": "026fd11fcf901027d53720e63e411c44279d4ba6bee41e461022651937c60114",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 1,
+      "path": "study/sources/assets/lecture-2/page-001.png",
+      "sha256": "6be5482d2cf62f59934af119936257c6e2ff071305caca07ab00ad40068906c9",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 2,
+      "path": "study/sources/assets/lecture-2/page-002.png",
+      "sha256": "092c20ee36ea7c436f3665ce369faa73e47847f1e88fdbe34f9a98750a8a246b",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 3,
+      "path": "study/sources/assets/lecture-2/page-003.png",
+      "sha256": "877390ff87dc196a975b23b7f9861de58fcc7b1ef3b85298eaf9605c418f7008",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 4,
+      "path": "study/sources/assets/lecture-2/page-004.png",
+      "sha256": "4593031e8d4c35191813316b73c0c9104a33bd8091fe76f1c656761ae77e89b3",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 5,
+      "path": "study/sources/assets/lecture-2/page-005.png",
+      "sha256": "8c76aad5c825824b1bf19067bd33250a49437f96cd00f06e13a11a9d9774b13b",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 6,
+      "path": "study/sources/assets/lecture-2/page-006.png",
+      "sha256": "11d962567ec453aa2236ef754b5948a6563bf80f643b74f4ebd11b0b515b64ff",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 7,
+      "path": "study/sources/assets/lecture-2/page-007.png",
+      "sha256": "46f5175dcbd2171ba8cc15419dac5adc72f2e0519c86bbc08bc9d5e5d8cbb191",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 8,
+      "path": "study/sources/assets/lecture-2/page-008.png",
+      "sha256": "a1a5c98e1a0d5a442784a0b69197c978c703e10ba368daeb3bccee0f0c6a8935",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 9,
+      "path": "study/sources/assets/lecture-2/page-009.png",
+      "sha256": "81e84bb2ee238d7bded1a57b16b2d215fc7ce595023f5fa5ae8de74615799c20",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 10,
+      "path": "study/sources/assets/lecture-2/page-010.png",
+      "sha256": "4a87e730f2d46265701fbbd7987c86ef97a4a8cebb49701763b9795946137933",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 11,
+      "path": "study/sources/assets/lecture-2/page-011.png",
+      "sha256": "137b4379ad94d9f2ed60539de7de889de6261e821bcc18ccc41e3b00307cf112",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 12,
+      "path": "study/sources/assets/lecture-2/page-012.png",
+      "sha256": "4168386aad292946cefbb34e75eceffb936a210b53eb37bad99aaf90d14fcbcc",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 13,
+      "path": "study/sources/assets/lecture-2/page-013.png",
+      "sha256": "fb4724f3e9abf5c1f3901c4b5c0f55be001eb7801ddd36371e1387a570d78e33",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 14,
+      "path": "study/sources/assets/lecture-2/page-014.png",
+      "sha256": "ea3f94466d48045882d33a23883fbcdddf7306a21e36d5bcc5a709e7d6ad9b61",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 15,
+      "path": "study/sources/assets/lecture-2/page-015.png",
+      "sha256": "faf789dd7fbcfae2d11885c0cbb24638f1fb3e238174ed22a42112eb3229e364",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 16,
+      "path": "study/sources/assets/lecture-2/page-016.png",
+      "sha256": "0333c270efa8b7479df3aacba6a20dd32400df5fab7a804ebf82de1913bf3453",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 17,
+      "path": "study/sources/assets/lecture-2/page-017.png",
+      "sha256": "adedaf1369cdcaeec7109a9149c730bcaa409661abb7c8362d2ab7a211d875b3",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 18,
+      "path": "study/sources/assets/lecture-2/page-018.png",
+      "sha256": "70da1ef481c4868fb7eacf3ae96e62dbb20c57ecb8a5adbf9b705cd2cde010a8",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 19,
+      "path": "study/sources/assets/lecture-2/page-019.png",
+      "sha256": "875ba138d0a71f644d61e414652b8afa13d13e7c67f311c30785adf3e4f6f024",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 20,
+      "path": "study/sources/assets/lecture-2/page-020.png",
+      "sha256": "089cd367898507fe4c199a393c38163e9eb1387d80add0c52e30d7cb4dccb5af",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 21,
+      "path": "study/sources/assets/lecture-2/page-021.png",
+      "sha256": "c87273e730c8d691ef0aaa60afbdef377bb4ab4f58c250d3ab46a0b849d478bc",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 22,
+      "path": "study/sources/assets/lecture-2/page-022.png",
+      "sha256": "c04d4edf9103ce8c81d04f2982e3f347c2729283178f8d40ac8eef691005f44d",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 23,
+      "path": "study/sources/assets/lecture-2/page-023.png",
+      "sha256": "b3341d5acaef8e5f4892da1ae42328af49cc455a83a6d6a098e7dbf9b4951321",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 24,
+      "path": "study/sources/assets/lecture-2/page-024.png",
+      "sha256": "b5ad73e42d3014e9eb3ae4add9a435b96f3b194d4ecb05af6aab259f2b7721df",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 25,
+      "path": "study/sources/assets/lecture-2/page-025.png",
+      "sha256": "7690c07e053b635d2f2e2e9be4fedc2fcf56e4d94ce045f4f46c6b1520297e2b",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 26,
+      "path": "study/sources/assets/lecture-2/page-026.png",
+      "sha256": "426f9491e94ca329798b9bd3bb2d332f34d93f3d87cf802f5be47cf3810cad84",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 27,
+      "path": "study/sources/assets/lecture-2/page-027.png",
+      "sha256": "01fbdf86e5a5791f9528191d11555f42310469b3a9b4de5a70455e93c0b949ff",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 28,
+      "path": "study/sources/assets/lecture-2/page-028.png",
+      "sha256": "5bc7fb65eb24b8086113cfb5097c210c01ab21469aeda81618980c55a7ff85b6",
+      "viewed": true
+    },
+    {
+      "sourceId": "lecture-2",
+      "pdfPage": 29,
+      "path": "study/sources/assets/lecture-2/page-029.png",
+      "sha256": "0438ae9388763c35a780c7b675181e07a966bd44fabd2fb0e80eb427646ebd24",
+      "viewed": true
+    }
+  ]
+}

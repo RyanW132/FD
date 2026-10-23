@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-3-problems",
+  "sourceHash": "908c07e0092a768b823f6d4cec3fcbb87e6e27ff563a4905bf2d279f1945caf0",
+  "draftPath": "study/sources/qa-drafts/seminar-3-problems.json",
+  "draftHash": "08734fb0ba59486aa09feb83be664e564b3e61a408ec960e5137b395960de859",
+  "reviewer": "g005-practice-source-qa",
+  "reviewedAt": "2026-10-22T14:33:50.993158+00:00",
+  "verdict": "approved",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "verdict": "approved",
+      "rawHash": "8b2fb958d6bb1e934435fe0c6a3cfde991f4899a13d370e1738c1f15f78f49b5",
+      "imageHash": "98daa1fc119a6311d13e1b8bd809f05dd9e173fd8c9630007fb76d2d0afd9e56",
+      "normalizedHash": "1e800d5a658121560c98693048e035eeb4774ad81e1d48e9d3b6573734e6414c",
+      "unitIds": [
+        "seminar-3-problems-p001-page-label",
+        "seminar-3-problems-p001-q1",
+        "seminar-3-problems-p001-q2"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 2,
+      "verdict": "approved",
+      "rawHash": "9268c730e98cbc96b48cff69d2ca9b91ae7995663bdb25955fbfa430724bea60",
+      "imageHash": "0cc1a46f31bfd4e075fc56abec47f1a7993a6f043a175e259f8493e4590e9985",
+      "normalizedHash": "1b55753dd7bc06e737a08026c16cbe834cc86aeba9170bdda42f9cef3b5a9b21",
+      "unitIds": [
+        "seminar-3-problems-p002-page-label",
+        "seminar-3-problems-p002-q3",
+        "seminar-3-problems-p002-q4"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 3,
+      "verdict": "approved",
+      "rawHash": "8ddedc6032005b57313ed366c48a5fec65c1b12777467caf4f489dbfa60b824a",
+      "imageHash": "f32bf781692f96d67e4be21f7bdc444d7efc3dd4e84359f61fad0c6af356bb8c",
+      "normalizedHash": "3220bbd27e2ef3f4a4250bab9c3a3796bcd3d02dd661a2352028b8a0496d7503",
+      "unitIds": [
+        "seminar-3-problems-p003-page-label",
+        "seminar-3-problems-p003-q5",
+        "seminar-3-problems-p003-q6"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 4,
+      "verdict": "approved",
+      "rawHash": "3564527032b282c8a3958c009682fc651d9c96037b69978d1522e7d4ce182225",
+      "imageHash": "f82183c6501769e16ad8f032dd73cb65e26c939690410149197c93de6444ec4d",
+      "normalizedHash": "1c7dc39229304ea0298b0ad3cad334bc6dc1b9743064dff550d130ac41981db8",
+      "unitIds": [
+        "seminar-3-problems-p004-page-label",
+        "seminar-3-problems-p004-q7",
+        "seminar-3-problems-p004-q8"
+      ],
+      "allRegionsAccounted": true
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-3-problems",
+  "sourceHash": "908c07e0092a768b823f6d4cec3fcbb87e6e27ff563a4905bf2d279f1945caf0",
+  "author": "g005-practice-source-author",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "rawPath": "study/sources/extracted/seminar-3-problems/page-001.md",
+      "rawHash": "8b2fb958d6bb1e934435fe0c6a3cfde991f4899a13d370e1738c1f15f78f49b5",
+      "imagePath": "study/sources/assets/seminar-3-problems/page-001.png",
+      "imageHash": "98daa1fc119a6311d13e1b8bd809f05dd9e173fd8c9630007fb76d2d0afd9e56",
+      "normalizedPath": "study/sources/annotated/seminar-3-problems/page-001.md",
+      "normalizedHash": "1e800d5a658121560c98693048e035eeb4774ad81e1d48e9d3b6573734e6414c",
+      "units": [
+        {
+          "id": "seminar-3-problems-p001-page-label",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 1,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-001.md",
+            "anchor": "seminar-3-problems-p001-page-label"
+          },
+          "contentHash": "1e800d5a658121560c98693048e035eeb4774ad81e1d48e9d3b6573734e6414c",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-3-problems-p001-q1",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Question 1: LIBOR and SONIA"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-001.md",
+            "anchor": "seminar-3-problems-p001-q1"
+          },
+          "contentHash": "1e800d5a658121560c98693048e035eeb4774ad81e1d48e9d3b6573734e6414c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-3-problems-p001-q2",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 1,
+            "region": "Question 2: compounding conventions"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-001.md",
+            "anchor": "seminar-3-problems-p001-q2"
+          },
+          "contentHash": "1e800d5a658121560c98693048e035eeb4774ad81e1d48e9d3b6573734e6414c",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 2,
+      "rawPath": "study/sources/extracted/seminar-3-problems/page-002.md",
+      "rawHash": "9268c730e98cbc96b48cff69d2ca9b91ae7995663bdb25955fbfa430724bea60",
+      "imagePath": "study/sources/assets/seminar-3-problems/page-002.png",
+      "imageHash": "0cc1a46f31bfd4e075fc56abec47f1a7993a6f043a175e259f8493e4590e9985",
+      "normalizedPath": "study/sources/annotated/seminar-3-problems/page-002.md",
+      "normalizedHash": "1b55753dd7bc06e737a08026c16cbe834cc86aeba9170bdda42f9cef3b5a9b21",
+      "units": [
+        {
+          "id": "seminar-3-problems-p002-page-label",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 2,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-002.md",
+            "anchor": "seminar-3-problems-p002-page-label"
+          },
+          "contentHash": "1b55753dd7bc06e737a08026c16cbe834cc86aeba9170bdda42f9cef3b5a9b21",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-3-problems-p002-q3",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 2,
+            "region": "Question 3: cash-flow table and bond pricing"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-002.md",
+            "anchor": "seminar-3-problems-p002-q3"
+          },
+          "contentHash": "1b55753dd7bc06e737a08026c16cbe834cc86aeba9170bdda42f9cef3b5a9b21",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-3-problems-p002-q4",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 2,
+            "region": "Question 4: forward rate and equivalent strategies"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-002.md",
+            "anchor": "seminar-3-problems-p002-q4"
+          },
+          "contentHash": "1b55753dd7bc06e737a08026c16cbe834cc86aeba9170bdda42f9cef3b5a9b21",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 3,
+      "rawPath": "study/sources/extracted/seminar-3-problems/page-003.md",
+      "rawHash": "8ddedc6032005b57313ed366c48a5fec65c1b12777467caf4f489dbfa60b824a",
+      "imagePath": "study/sources/assets/seminar-3-problems/page-003.png",
+      "imageHash": "f32bf781692f96d67e4be21f7bdc444d7efc3dd4e84359f61fad0c6af356bb8c",
+      "normalizedPath": "study/sources/annotated/seminar-3-problems/page-003.md",
+      "normalizedHash": "3220bbd27e2ef3f4a4250bab9c3a3796bcd3d02dd661a2352028b8a0496d7503",
+      "units": [
+        {
+          "id": "seminar-3-problems-p003-page-label",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 3,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-003.md",
+            "anchor": "seminar-3-problems-p003-page-label"
+          },
+          "contentHash": "3220bbd27e2ef3f4a4250bab9c3a3796bcd3d02dd661a2352028b8a0496d7503",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-3-problems-p003-q5",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 3,
+            "region": "Question 5: FRA settlement"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-003.md",
+            "anchor": "seminar-3-problems-p003-q5"
+          },
+          "contentHash": "3220bbd27e2ef3f4a4250bab9c3a3796bcd3d02dd661a2352028b8a0496d7503",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-3-problems-p003-q6",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 3,
+            "region": "Question 6: duration and convexity"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-003.md",
+            "anchor": "seminar-3-problems-p003-q6"
+          },
+          "contentHash": "3220bbd27e2ef3f4a4250bab9c3a3796bcd3d02dd661a2352028b8a0496d7503",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    },
+    {
+      "pdfPage": 4,
+      "rawPath": "study/sources/extracted/seminar-3-problems/page-004.md",
+      "rawHash": "3564527032b282c8a3958c009682fc651d9c96037b69978d1522e7d4ce182225",
+      "imagePath": "study/sources/assets/seminar-3-problems/page-004.png",
+      "imageHash": "f82183c6501769e16ad8f032dd73cb65e26c939690410149197c93de6444ec4d",
+      "normalizedPath": "study/sources/annotated/seminar-3-problems/page-004.md",
+      "normalizedHash": "1c7dc39229304ea0298b0ad3cad334bc6dc1b9743064dff550d130ac41981db8",
+      "units": [
+        {
+          "id": "seminar-3-problems-p004-page-label",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 4,
+            "region": "page title, printed page label and layout furniture"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-004.md",
+            "anchor": "seminar-3-problems-p004-page-label"
+          },
+          "contentHash": "1c7dc39229304ea0298b0ad3cad334bc6dc1b9743064dff550d130ac41981db8",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-3-problems-p004-q7",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 4,
+            "region": "Question 7: daily futures settlement"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-004.md",
+            "anchor": "seminar-3-problems-p004-q7"
+          },
+          "contentHash": "1c7dc39229304ea0298b0ad3cad334bc6dc1b9743064dff550d130ac41981db8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "seminar-3-problems-p004-q8",
+          "sourceId": "seminar-3-problems",
+          "locator": {
+            "pdfPage": 4,
+            "region": "Question 8: forward price and arbitrage"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/seminar-3-problems/page-004.md",
+            "anchor": "seminar-3-problems-p004-q8"
+          },
+          "contentHash": "1c7dc39229304ea0298b0ad3cad334bc6dc1b9743064dff550d130ac41981db8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author viewed this exact production full-page PNG through view_image, all physical pages, not sampled contact sheets. Image bytes are SHA-256 bound below.",
+        "Full raw layout extraction and original page image are retained separately. Normalized prose removes line-wrap hyphenation and typography artifacts; meaningful formulas, table cells and prompts are transcribed from images. No source answers are fabricated.",
+        "Every substantive anchored span contains its own image, physical locator and raw link. Source caveats remain inside affected spans. All units stay needs-review; author identity is audit evidence, not reviewer authentication."
+      ]
+    }
+  ]
+}

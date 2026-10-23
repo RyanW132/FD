@@ -1,0 +1,2659 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lecture-2",
+  "sourceHash": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+  "author": "g005-sources-lecture12-author",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "rawPath": "study/sources/extracted/lecture-2/page-001.md",
+      "rawHash": "c0e1d0824e04a88ebf5e0aab44338e7f157f6c8f24fac9250afdc40353be0b45",
+      "imagePath": "study/sources/assets/lecture-2/page-001.png",
+      "imageHash": "6be5482d2cf62f59934af119936257c6e2ff071305caca07ab00ad40068906c9",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-001.md",
+      "normalizedHash": "fd21e93e714c47604970fff1034283f8fff15242a92d8960506069e3aa5e0f61",
+      "units": [
+        {
+          "id": "lecture-2-p001-title",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 1,
+            "region": "full-page title block"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-001.md",
+            "anchor": "lecture-2-p001-title"
+          },
+          "contentHash": "fd21e93e714c47604970fff1034283f8fff15242a92d8960506069e3aa5e0f61",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 2,
+      "rawPath": "study/sources/extracted/lecture-2/page-002.md",
+      "rawHash": "803fefb0e87ac12063923aafb3aa3c6b3777c166788864ee7d5c7d3d8405ce9b",
+      "imagePath": "study/sources/assets/lecture-2/page-002.png",
+      "imageHash": "092c20ee36ea7c436f3665ce369faa73e47847f1e88fdbe34f9a98750a8a246b",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-002.md",
+      "normalizedHash": "9a8455f14a9ecc28ceae66bef9807f48b57ffaf78a2c5460ecd4671ed50b2958",
+      "units": [
+        {
+          "id": "lecture-2-p002-outline",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 2,
+            "region": "whole lecture-outline list and reference",
+            "printedPage": "2 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-002.md",
+            "anchor": "lecture-2-p002-outline"
+          },
+          "contentHash": "9a8455f14a9ecc28ceae66bef9807f48b57ffaf78a2c5460ecd4671ed50b2958",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p002-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 2,
+            "region": "title/header/footer frame",
+            "printedPage": "2 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-002.md",
+            "anchor": "lecture-2-p002-page-frame"
+          },
+          "contentHash": "9a8455f14a9ecc28ceae66bef9807f48b57ffaf78a2c5460ecd4671ed50b2958",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 3,
+      "rawPath": "study/sources/extracted/lecture-2/page-003.md",
+      "rawHash": "fa8d6b61a1d3ca0156d16364919828158582b636ac8604f89c99c2e855f4cc3c",
+      "imagePath": "study/sources/assets/lecture-2/page-003.png",
+      "imageHash": "877390ff87dc196a975b23b7f9861de58fcc7b1ef3b85298eaf9605c418f7008",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-003.md",
+      "normalizedHash": "92ae9e8a10e69cfb75e1df1ad9e931d4e76f72d3f4672c3571822c958777b7dd",
+      "units": [
+        {
+          "id": "lecture-2-p003-hedging-definition",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 3,
+            "region": "upper motives box, hedging bullet",
+            "printedPage": "3 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-003.md",
+            "anchor": "lecture-2-p003-hedging-definition"
+          },
+          "contentHash": "92ae9e8a10e69cfb75e1df1ad9e931d4e76f72d3f4672c3571822c958777b7dd",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p003-speculation-definition",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 3,
+            "region": "upper motives box, speculation bullet",
+            "printedPage": "3 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-003.md",
+            "anchor": "lecture-2-p003-speculation-definition"
+          },
+          "contentHash": "92ae9e8a10e69cfb75e1df1ad9e931d4e76f72d3f4672c3571822c958777b7dd",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p003-arbitrage-definition",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 3,
+            "region": "upper motives box, arbitrage bullet",
+            "printedPage": "3 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-003.md",
+            "anchor": "lecture-2-p003-arbitrage-definition"
+          },
+          "contentHash": "92ae9e8a10e69cfb75e1df1ad9e931d4e76f72d3f4672c3571822c958777b7dd",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p003-objective-versus-instrument",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 3,
+            "region": "lower important-distinction box",
+            "printedPage": "3 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-003.md",
+            "anchor": "lecture-2-p003-objective-versus-instrument"
+          },
+          "contentHash": "92ae9e8a10e69cfb75e1df1ad9e931d4e76f72d3f4672c3571822c958777b7dd",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p003-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 3,
+            "region": "title/header/footer frame",
+            "printedPage": "3 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-003.md",
+            "anchor": "lecture-2-p003-page-frame"
+          },
+          "contentHash": "92ae9e8a10e69cfb75e1df1ad9e931d4e76f72d3f4672c3571822c958777b7dd",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 4,
+      "rawPath": "study/sources/extracted/lecture-2/page-004.md",
+      "rawHash": "847c0beb269d15906555b8240d02e06c5ea370a49845bbc6db5729566a7e7b9a",
+      "imagePath": "study/sources/assets/lecture-2/page-004.png",
+      "imageHash": "4593031e8d4c35191813316b73c0c9104a33bd8091fe76f1c656761ae77e89b3",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-004.md",
+      "normalizedHash": "a2431ed90e5dbc0baba46464a32e419b1904c59dcc349bd857802bf438196173",
+      "units": [
+        {
+          "id": "lecture-2-p004-speculation-inputs",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 4,
+            "region": "upper scenario and input table",
+            "printedPage": "4 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-004.md",
+            "anchor": "lecture-2-p004-speculation-inputs"
+          },
+          "contentHash": "a2431ed90e5dbc0baba46464a32e419b1904c59dcc349bd857802bf438196173",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p004-share-strategy",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 4,
+            "region": "lower strategies box, item 1",
+            "printedPage": "4 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-004.md",
+            "anchor": "lecture-2-p004-share-strategy"
+          },
+          "contentHash": "a2431ed90e5dbc0baba46464a32e419b1904c59dcc349bd857802bf438196173",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p004-call-strategy",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 4,
+            "region": "lower strategies box, item 2",
+            "printedPage": "4 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-004.md",
+            "anchor": "lecture-2-p004-call-strategy"
+          },
+          "contentHash": "a2431ed90e5dbc0baba46464a32e419b1904c59dcc349bd857802bf438196173",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p004-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 4,
+            "region": "title/header/footer frame",
+            "printedPage": "4 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-004.md",
+            "anchor": "lecture-2-p004-page-frame"
+          },
+          "contentHash": "a2431ed90e5dbc0baba46464a32e419b1904c59dcc349bd857802bf438196173",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 5,
+      "rawPath": "study/sources/extracted/lecture-2/page-005.md",
+      "rawHash": "93bea616c392f3e0255e5497414bb93a720ca15ef810d8f51720de78b6d4b89a",
+      "imagePath": "study/sources/assets/lecture-2/page-005.png",
+      "imageHash": "8c76aad5c825824b1bf19067bd33250a49437f96cd00f06e13a11a9d9774b13b",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-005.md",
+      "normalizedHash": "933e8653ad66a3fed79aac8835cf1a6fcfbc299c46715bb7689b884f45da1dd7",
+      "units": [
+        {
+          "id": "lecture-2-p005-share-profit",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 5,
+            "region": "middle profit-from-shares box",
+            "printedPage": "5 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-005.md",
+            "anchor": "lecture-2-p005-share-profit"
+          },
+          "contentHash": "933e8653ad66a3fed79aac8835cf1a6fcfbc299c46715bb7689b884f45da1dd7",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p005-call-profit",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 5,
+            "region": "middle profit-from-calls box",
+            "printedPage": "5 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-005.md",
+            "anchor": "lecture-2-p005-call-profit"
+          },
+          "contentHash": "933e8653ad66a3fed79aac8835cf1a6fcfbc299c46715bb7689b884f45da1dd7",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p005-strategy-profit-question",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 5,
+            "region": "lower calculate box",
+            "printedPage": "5 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-005.md",
+            "anchor": "lecture-2-p005-strategy-profit-question"
+          },
+          "contentHash": "933e8653ad66a3fed79aac8835cf1a6fcfbc299c46715bb7689b884f45da1dd7",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p005-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 5,
+            "region": "title/header/footer frame",
+            "printedPage": "5 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-005.md",
+            "anchor": "lecture-2-p005-page-frame"
+          },
+          "contentHash": "933e8653ad66a3fed79aac8835cf1a6fcfbc299c46715bb7689b884f45da1dd7",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 6,
+      "rawPath": "study/sources/extracted/lecture-2/page-006.md",
+      "rawHash": "a1cc654bbd0b44d7981d158a67d4297a0a29af8a025ed04739d062a9a41d6c08",
+      "imagePath": "study/sources/assets/lecture-2/page-006.png",
+      "imageHash": "11d962567ec453aa2236ef754b5948a6563bf80f643b74f4ebd11b0b515b64ff",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-006.md",
+      "normalizedHash": "0e160b99da0cd1fe8f971a4288b963f084461fb9b1063bdd775a89bf67e13271",
+      "units": [
+        {
+          "id": "lecture-2-p006-strategy-results-table",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 6,
+            "region": "upper share-versus-call profit table",
+            "printedPage": "6 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-006.md",
+            "anchor": "lecture-2-p006-strategy-results-table"
+          },
+          "contentHash": "0e160b99da0cd1fe8f971a4288b963f084461fb9b1063bdd775a89bf67e13271",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p006-option-leverage",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 6,
+            "region": "lower interpretation text",
+            "printedPage": "6 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-006.md",
+            "anchor": "lecture-2-p006-option-leverage"
+          },
+          "contentHash": "0e160b99da0cd1fe8f971a4288b963f084461fb9b1063bdd775a89bf67e13271",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p006-call-break-even",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 6,
+            "region": "lower break-even equation",
+            "printedPage": "6 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-006.md",
+            "anchor": "lecture-2-p006-call-break-even"
+          },
+          "contentHash": "0e160b99da0cd1fe8f971a4288b963f084461fb9b1063bdd775a89bf67e13271",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p006-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 6,
+            "region": "title/header/footer frame",
+            "printedPage": "6 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-006.md",
+            "anchor": "lecture-2-p006-page-frame"
+          },
+          "contentHash": "0e160b99da0cd1fe8f971a4288b963f084461fb9b1063bdd775a89bf67e13271",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 7,
+      "rawPath": "study/sources/extracted/lecture-2/page-007.md",
+      "rawHash": "7aebed71239a9c29417e8561371ded8cdac90cb2cc3551b57508b3addb7e1a0b",
+      "imagePath": "study/sources/assets/lecture-2/page-007.png",
+      "imageHash": "46f5175dcbd2171ba8cc15419dac5adc72f2e0519c86bbc08bc9d5e5d8cbb191",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-007.md",
+      "normalizedHash": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+      "units": [
+        {
+          "id": "lecture-2-p007-cross-market-quotes",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 7,
+            "region": "upper simultaneous-price list",
+            "printedPage": "7 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-007.md",
+            "anchor": "lecture-2-p007-cross-market-quotes"
+          },
+          "contentHash": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": [
+            "lecture-2-p007-london-currency"
+          ]
+        },
+        {
+          "id": "lecture-2-p007-currency-conversion",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 7,
+            "region": "middle compare-prices box",
+            "printedPage": "7 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-007.md",
+            "anchor": "lecture-2-p007-currency-conversion"
+          },
+          "contentHash": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p007-arbitrage-trade",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 7,
+            "region": "lower arbitrage-strategy box",
+            "printedPage": "7 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-007.md",
+            "anchor": "lecture-2-p007-arbitrage-trade"
+          },
+          "contentHash": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p007-arbitrage-assumptions",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 7,
+            "region": "small line immediately above footer",
+            "printedPage": "7 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-007.md",
+            "anchor": "lecture-2-p007-arbitrage-assumptions"
+          },
+          "contentHash": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p007-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 7,
+            "region": "title/header/footer frame",
+            "printedPage": "7 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-007.md",
+            "anchor": "lecture-2-p007-page-frame"
+          },
+          "contentHash": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [
+        {
+          "id": "lecture-2-p007-london-currency",
+          "scopeRef": {
+            "kind": "source",
+            "unitId": "lecture-2-p007-cross-market-quotes"
+          },
+          "reason": "The original image itself prints London price $100 and $100 times1.5300, while quoting USD per GBP. The arithmetic and intended arbitrage require a conditional £100 London interpretation; the inconsistent original dollar labels are preserved. This is not merely extraction corruption.",
+          "status": "open",
+          "resolutionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-007.md",
+            "anchor": "lecture-2-p007-cross-market-quotes"
+          }
+        }
+      ],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 8,
+      "rawPath": "study/sources/extracted/lecture-2/page-008.md",
+      "rawHash": "7a791e65a074a2d76a247790f60eafd47312fad51fb11aef23020b305ac488fd",
+      "imagePath": "study/sources/assets/lecture-2/page-008.png",
+      "imageHash": "a1a5c98e1a0d5a442784a0b69197c978c703e10ba368daeb3bccee0f0c6a8935",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-008.md",
+      "normalizedHash": "f9ff8334f399eec0af532eec404e9a18eb0a5abcc1f9bb1cb66ddfe6943fd9f8",
+      "units": [
+        {
+          "id": "lecture-2-p008-protective-put-inputs",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 8,
+            "region": "upper scenario",
+            "printedPage": "8 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-008.md",
+            "anchor": "lecture-2-p008-protective-put-inputs"
+          },
+          "contentHash": "f9ff8334f399eec0af532eec404e9a18eb0a5abcc1f9bb1cb66ddfe6943fd9f8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p008-protective-put-contracts",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 8,
+            "region": "middle hedge box, contract count and premium",
+            "printedPage": "8 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-008.md",
+            "anchor": "lecture-2-p008-protective-put-contracts"
+          },
+          "contentHash": "f9ff8334f399eec0af532eec404e9a18eb0a5abcc1f9bb1cb66ddfe6943fd9f8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p008-protective-put-question",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 8,
+            "region": "lower question box",
+            "printedPage": "8 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-008.md",
+            "anchor": "lecture-2-p008-protective-put-question"
+          },
+          "contentHash": "f9ff8334f399eec0af532eec404e9a18eb0a5abcc1f9bb1cb66ddfe6943fd9f8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p008-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 8,
+            "region": "title/header/footer frame",
+            "printedPage": "8 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-008.md",
+            "anchor": "lecture-2-p008-page-frame"
+          },
+          "contentHash": "f9ff8334f399eec0af532eec404e9a18eb0a5abcc1f9bb1cb66ddfe6943fd9f8",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 9,
+      "rawPath": "study/sources/extracted/lecture-2/page-009.md",
+      "rawHash": "f3c4f45598188c8fb6d77742c26fab5736800e37f4871865d04dbfdc27702b5f",
+      "imagePath": "study/sources/assets/lecture-2/page-009.png",
+      "imageHash": "81e84bb2ee238d7bded1a57b16b2d215fc7ce595023f5fa5ae8de74615799c20",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-009.md",
+      "normalizedHash": "5a6056de43e88832441b3f827337768bc9b5e82b4afdc42652b18fc9119818c9",
+      "units": [
+        {
+          "id": "lecture-2-p009-protective-put-value",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 9,
+            "region": "upper maturity-value formula",
+            "printedPage": "9 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-009.md",
+            "anchor": "lecture-2-p009-protective-put-value"
+          },
+          "contentHash": "5a6056de43e88832441b3f827337768bc9b5e82b4afdc42652b18fc9119818c9",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p009-protective-put-table",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 9,
+            "region": "central share-put-combined-value table",
+            "printedPage": "9 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-009.md",
+            "anchor": "lecture-2-p009-protective-put-table"
+          },
+          "contentHash": "5a6056de43e88832441b3f827337768bc9b5e82b4afdc42652b18fc9119818c9",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p009-protective-put-floor",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 9,
+            "region": "lower interpretation box",
+            "printedPage": "9 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-009.md",
+            "anchor": "lecture-2-p009-protective-put-floor"
+          },
+          "contentHash": "5a6056de43e88832441b3f827337768bc9b5e82b4afdc42652b18fc9119818c9",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p009-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 9,
+            "region": "title/header/footer frame",
+            "printedPage": "9 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-009.md",
+            "anchor": "lecture-2-p009-page-frame"
+          },
+          "contentHash": "5a6056de43e88832441b3f827337768bc9b5e82b4afdc42652b18fc9119818c9",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 10,
+      "rawPath": "study/sources/extracted/lecture-2/page-010.md",
+      "rawHash": "39e7a7482e1384d3ec4079e80542dea0d7082f05b7b879d3c8dcbdbf09151aa0",
+      "imagePath": "study/sources/assets/lecture-2/page-010.png",
+      "imageHash": "4a87e730f2d46265701fbbd7987c86ef97a4a8cebb49701763b9795946137933",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-010.md",
+      "normalizedHash": "26819addf4388932e73117a2411760c0e36723a39a6f91c8123cbb1f39d4dece",
+      "units": [
+        {
+          "id": "lecture-2-p010-long-hedge",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 10,
+            "region": "upper long-hedge box",
+            "printedPage": "10 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-010.md",
+            "anchor": "lecture-2-p010-long-hedge"
+          },
+          "contentHash": "26819addf4388932e73117a2411760c0e36723a39a6f91c8123cbb1f39d4dece",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p010-short-hedge",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 10,
+            "region": "middle short-hedge box",
+            "printedPage": "10 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-010.md",
+            "anchor": "lecture-2-p010-short-hedge"
+          },
+          "contentHash": "26819addf4388932e73117a2411760c0e36723a39a6f91c8123cbb1f39d4dece",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p010-hedge-direction-exposures",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 10,
+            "region": "lower classify-each-exposure box",
+            "printedPage": "10 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-010.md",
+            "anchor": "lecture-2-p010-hedge-direction-exposures"
+          },
+          "contentHash": "26819addf4388932e73117a2411760c0e36723a39a6f91c8123cbb1f39d4dece",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p010-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 10,
+            "region": "title/header/footer frame",
+            "printedPage": "10 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-010.md",
+            "anchor": "lecture-2-p010-page-frame"
+          },
+          "contentHash": "26819addf4388932e73117a2411760c0e36723a39a6f91c8123cbb1f39d4dece",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "rawPath": "study/sources/extracted/lecture-2/page-011.md",
+      "rawHash": "9c15a29d02c0708995fcf088187d7c33d6ed4868873a718c6afd6116ade2fb6d",
+      "imagePath": "study/sources/assets/lecture-2/page-011.png",
+      "imageHash": "137b4379ad94d9f2ed60539de7de889de6261e821bcc18ccc41e3b00307cf112",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-011.md",
+      "normalizedHash": "db4cd7fdc1f1fc0eb1419fb08d219e4d0e021689808550a06dab3aa4b0e69513",
+      "units": [
+        {
+          "id": "lecture-2-p011-short-hedge-setup",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 11,
+            "region": "upper notation and hedge timing",
+            "printedPage": "11 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-011.md",
+            "anchor": "lecture-2-p011-short-hedge-setup"
+          },
+          "contentHash": "db4cd7fdc1f1fc0eb1419fb08d219e4d0e021689808550a06dab3aa4b0e69513",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p011-short-hedge-derivation",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 11,
+            "region": "middle effective-selling-price box",
+            "printedPage": "11 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-011.md",
+            "anchor": "lecture-2-p011-short-hedge-derivation"
+          },
+          "contentHash": "db4cd7fdc1f1fc0eb1419fb08d219e4d0e021689808550a06dab3aa4b0e69513",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p011-basis-uncertainty",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 11,
+            "region": "lower interpretation box",
+            "printedPage": "11 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-011.md",
+            "anchor": "lecture-2-p011-basis-uncertainty"
+          },
+          "contentHash": "db4cd7fdc1f1fc0eb1419fb08d219e4d0e021689808550a06dab3aa4b0e69513",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p011-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 11,
+            "region": "title/header/footer frame",
+            "printedPage": "11 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-011.md",
+            "anchor": "lecture-2-p011-page-frame"
+          },
+          "contentHash": "db4cd7fdc1f1fc0eb1419fb08d219e4d0e021689808550a06dab3aa4b0e69513",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 12,
+      "rawPath": "study/sources/extracted/lecture-2/page-012.md",
+      "rawHash": "30970a6b16c34396a755be53fbf7a2af653d6201ca9f6e13c162c11012c8c220",
+      "imagePath": "study/sources/assets/lecture-2/page-012.png",
+      "imageHash": "4168386aad292946cefbb34e75eceffb936a210b53eb37bad99aaf90d14fcbcc",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-012.md",
+      "normalizedHash": "a29014cd8eb798268fea74b2c0f294467393954e5ebb8439fe4589ece8d558c8",
+      "units": [
+        {
+          "id": "lecture-2-p012-long-hedge-setup",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 12,
+            "region": "upper hedge timing statement",
+            "printedPage": "12 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-012.md",
+            "anchor": "lecture-2-p012-long-hedge-setup"
+          },
+          "contentHash": "a29014cd8eb798268fea74b2c0f294467393954e5ebb8439fe4589ece8d558c8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p012-long-hedge-derivation",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 12,
+            "region": "middle effective-purchase-price box",
+            "printedPage": "12 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-012.md",
+            "anchor": "lecture-2-p012-long-hedge-derivation"
+          },
+          "contentHash": "a29014cd8eb798268fea74b2c0f294467393954e5ebb8439fe4589ece8d558c8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p012-same-effective-price",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 12,
+            "region": "lower key-point box",
+            "printedPage": "12 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-012.md",
+            "anchor": "lecture-2-p012-same-effective-price"
+          },
+          "contentHash": "a29014cd8eb798268fea74b2c0f294467393954e5ebb8439fe4589ece8d558c8",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p012-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 12,
+            "region": "title/header/footer frame",
+            "printedPage": "12 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-012.md",
+            "anchor": "lecture-2-p012-page-frame"
+          },
+          "contentHash": "a29014cd8eb798268fea74b2c0f294467393954e5ebb8439fe4589ece8d558c8",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "rawPath": "study/sources/extracted/lecture-2/page-013.md",
+      "rawHash": "0afdcb9a06b26c03702f96f01fe420d41adcb4e82d9e2dafb7c0832a02e9068d",
+      "imagePath": "study/sources/assets/lecture-2/page-013.png",
+      "imageHash": "fb4724f3e9abf5c1f3901c4b5c0f55be001eb7801ddd36371e1387a570d78e33",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-013.md",
+      "normalizedHash": "a96a4f510507c6855f04b87549c336afbc96143d4484143d5d34f31b22d7ca8d",
+      "units": [
+        {
+          "id": "lecture-2-p013-basis-example-inputs",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 13,
+            "region": "upper producer scenario",
+            "printedPage": "13 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-013.md",
+            "anchor": "lecture-2-p013-basis-example-inputs"
+          },
+          "contentHash": "a96a4f510507c6855f04b87549c336afbc96143d4484143d5d34f31b22d7ca8d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p013-basis-example-cashflows",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 13,
+            "region": "middle effective-selling-price calculation",
+            "printedPage": "13 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-013.md",
+            "anchor": "lecture-2-p013-basis-example-cashflows"
+          },
+          "contentHash": "a96a4f510507c6855f04b87549c336afbc96143d4484143d5d34f31b22d7ca8d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p013-basis-example-check",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 13,
+            "region": "lower equivalent basis calculation",
+            "printedPage": "13 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-013.md",
+            "anchor": "lecture-2-p013-basis-example-check"
+          },
+          "contentHash": "a96a4f510507c6855f04b87549c336afbc96143d4484143d5d34f31b22d7ca8d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p013-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 13,
+            "region": "title/header/footer frame",
+            "printedPage": "13 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-013.md",
+            "anchor": "lecture-2-p013-page-frame"
+          },
+          "contentHash": "a96a4f510507c6855f04b87549c336afbc96143d4484143d5d34f31b22d7ca8d",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 14,
+      "rawPath": "study/sources/extracted/lecture-2/page-014.md",
+      "rawHash": "26c4f70355f636ae9cbba92a1550f1feaa91cf817793f2c9fa3b20c0b272b25b",
+      "imagePath": "study/sources/assets/lecture-2/page-014.png",
+      "imageHash": "ea3f94466d48045882d33a23883fbcdddf7306a21e36d5bcc5a709e7d6ad9b61",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-014.md",
+      "normalizedHash": "c87d776a5cc5b4b411c740678a24ed53b6c468338bda0764369aae29e5c42fd3",
+      "units": [
+        {
+          "id": "lecture-2-p014-basis-definition",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 14,
+            "region": "upper basis equation",
+            "printedPage": "14 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-014.md",
+            "anchor": "lecture-2-p014-basis-definition"
+          },
+          "contentHash": "c87d776a5cc5b4b411c740678a24ed53b6c468338bda0764369aae29e5c42fd3",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p014-closing-basis",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 14,
+            "region": "central first two bullets",
+            "printedPage": "14 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-014.md",
+            "anchor": "lecture-2-p014-closing-basis"
+          },
+          "contentHash": "c87d776a5cc5b4b411c740678a24ed53b6c468338bda0764369aae29e5c42fd3",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p014-delivery-convergence",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 14,
+            "region": "central convergence bullet",
+            "printedPage": "14 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-014.md",
+            "anchor": "lecture-2-p014-delivery-convergence"
+          },
+          "contentHash": "c87d776a5cc5b4b411c740678a24ed53b6c468338bda0764369aae29e5c42fd3",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p014-cross-hedge-basis",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 14,
+            "region": "lower cross-hedge bullet",
+            "printedPage": "14 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-014.md",
+            "anchor": "lecture-2-p014-cross-hedge-basis"
+          },
+          "contentHash": "c87d776a5cc5b4b411c740678a24ed53b6c468338bda0764369aae29e5c42fd3",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p014-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 14,
+            "region": "title/header/footer frame",
+            "printedPage": "14 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-014.md",
+            "anchor": "lecture-2-p014-page-frame"
+          },
+          "contentHash": "c87d776a5cc5b4b411c740678a24ed53b6c468338bda0764369aae29e5c42fd3",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 15,
+      "rawPath": "study/sources/extracted/lecture-2/page-015.md",
+      "rawHash": "e206edee59f0ec4c97235ef2cebfffc92b8dfae41bcdb48ca4af2df5c7cba55c",
+      "imagePath": "study/sources/assets/lecture-2/page-015.png",
+      "imageHash": "faf789dd7fbcfae2d11885c0cbb24638f1fb3e238174ed22a42112eb3229e364",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-015.md",
+      "normalizedHash": "a900aa4019730849076b6cc0c6300c83982735fbbe2963c770718d2a2bd30cee",
+      "units": [
+        {
+          "id": "lecture-2-p015-contract-choice",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 15,
+            "region": "upper four-step list",
+            "printedPage": "15 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-015.md",
+            "anchor": "lecture-2-p015-contract-choice"
+          },
+          "contentHash": "a900aa4019730849076b6cc0c6300c83982735fbbe2963c770718d2a2bd30cee",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p015-cross-hedge-definition",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 15,
+            "region": "lower cross-hedge box",
+            "printedPage": "15 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-015.md",
+            "anchor": "lecture-2-p015-cross-hedge-definition"
+          },
+          "contentHash": "a900aa4019730849076b6cc0c6300c83982735fbbe2963c770718d2a2bd30cee",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p015-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 15,
+            "region": "title/header/footer frame",
+            "printedPage": "15 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-015.md",
+            "anchor": "lecture-2-p015-page-frame"
+          },
+          "contentHash": "a900aa4019730849076b6cc0c6300c83982735fbbe2963c770718d2a2bd30cee",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 16,
+      "rawPath": "study/sources/extracted/lecture-2/page-016.md",
+      "rawHash": "24bf79726ae7a101fe32557be2e41dfcf408a52cffe91e440184b4cbcfacac2b",
+      "imagePath": "study/sources/assets/lecture-2/page-016.png",
+      "imageHash": "0333c270efa8b7479df3aacba6a20dd32400df5fab7a804ebf82de1913bf3453",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-016.md",
+      "normalizedHash": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+      "units": [
+        {
+          "id": "lecture-2-p016-hedged-change",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 16,
+            "region": "upper value-change equation",
+            "printedPage": "16 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-016.md",
+            "anchor": "lecture-2-p016-hedged-change"
+          },
+          "contentHash": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p016-hedged-variance",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 16,
+            "region": "middle variance equation",
+            "printedPage": "16 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-016.md",
+            "anchor": "lecture-2-p016-hedged-variance"
+          },
+          "contentHash": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p016-variance-first-order-condition",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 16,
+            "region": "middle-lower partial-derivative equation",
+            "printedPage": "16 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-016.md",
+            "anchor": "lecture-2-p016-variance-first-order-condition"
+          },
+          "contentHash": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p016-minimum-variance-ratio",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 16,
+            "region": "bottom boxed hedge-ratio result",
+            "printedPage": "16 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-016.md",
+            "anchor": "lecture-2-p016-minimum-variance-ratio"
+          },
+          "contentHash": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p016-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 16,
+            "region": "title/header/footer frame",
+            "printedPage": "16 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-016.md",
+            "anchor": "lecture-2-p016-page-frame"
+          },
+          "contentHash": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 17,
+      "rawPath": "study/sources/extracted/lecture-2/page-017.md",
+      "rawHash": "67f38b95110a76e37e9409d8a64bce262e231567e379efb2ccbcc907525054e1",
+      "imagePath": "study/sources/assets/lecture-2/page-017.png",
+      "imageHash": "adedaf1369cdcaeec7109a9149c730bcaa409661abb7c8362d2ab7a211d875b3",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-017.md",
+      "normalizedHash": "98b12615ff0051743c6f3734dee85156d5b0ed11ccf4507f23299c42350346bc",
+      "units": [
+        {
+          "id": "lecture-2-p017-hedge-ratio-symbols",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 17,
+            "region": "upper formula and symbol definitions",
+            "printedPage": "17 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-017.md",
+            "anchor": "lecture-2-p017-hedge-ratio-symbols"
+          },
+          "contentHash": "98b12615ff0051743c6f3734dee85156d5b0ed11ccf4507f23299c42350346bc",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p017-hedge-ratio-interpretation",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 17,
+            "region": "central three interpretation bullets",
+            "printedPage": "17 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-017.md",
+            "anchor": "lecture-2-p017-hedge-ratio-interpretation"
+          },
+          "contentHash": "98b12615ff0051743c6f3734dee85156d5b0ed11ccf4507f23299c42350346bc",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p017-regression-hedge",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 17,
+            "region": "lower regression-interpretation box",
+            "printedPage": "17 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-017.md",
+            "anchor": "lecture-2-p017-regression-hedge"
+          },
+          "contentHash": "98b12615ff0051743c6f3734dee85156d5b0ed11ccf4507f23299c42350346bc",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p017-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 17,
+            "region": "title/header/footer frame",
+            "printedPage": "17 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-017.md",
+            "anchor": "lecture-2-p017-page-frame"
+          },
+          "contentHash": "98b12615ff0051743c6f3734dee85156d5b0ed11ccf4507f23299c42350346bc",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 18,
+      "rawPath": "study/sources/extracted/lecture-2/page-018.md",
+      "rawHash": "4d56b2e75e41342ee790e199fa81288c2419f38e297414ce46e042456b30e6db",
+      "imagePath": "study/sources/assets/lecture-2/page-018.png",
+      "imageHash": "70da1ef481c4868fb7eacf3ae96e62dbb20c57ecb8a5adbf9b705cd2cde010a8",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-018.md",
+      "normalizedHash": "6f0ac242d78900d8a8f9840573f1c97c367517ded16163a508bb0be92ecaee7d",
+      "units": [
+        {
+          "id": "lecture-2-p018-optimal-contract-number",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 18,
+            "region": "upper quantity definitions and boxed ratio",
+            "printedPage": "18 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-018.md",
+            "anchor": "lecture-2-p018-optimal-contract-number"
+          },
+          "contentHash": "6f0ac242d78900d8a8f9840573f1c97c367517ded16163a508bb0be92ecaee7d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p018-hedged-quantity",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 18,
+            "region": "middle equivalent-quantity equation",
+            "printedPage": "18 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-018.md",
+            "anchor": "lecture-2-p018-hedged-quantity"
+          },
+          "contentHash": "6f0ac242d78900d8a8f9840573f1c97c367517ded16163a508bb0be92ecaee7d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p018-minimum-variance-limits",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 18,
+            "region": "lower important box",
+            "printedPage": "18 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-018.md",
+            "anchor": "lecture-2-p018-minimum-variance-limits"
+          },
+          "contentHash": "6f0ac242d78900d8a8f9840573f1c97c367517ded16163a508bb0be92ecaee7d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p018-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 18,
+            "region": "title/header/footer frame",
+            "printedPage": "18 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-018.md",
+            "anchor": "lecture-2-p018-page-frame"
+          },
+          "contentHash": "6f0ac242d78900d8a8f9840573f1c97c367517ded16163a508bb0be92ecaee7d",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 19,
+      "rawPath": "study/sources/extracted/lecture-2/page-019.md",
+      "rawHash": "b64e392a45f62fe09dc4e791ce964e6d93d40ca052be636fc932c1e16eb9e7dd",
+      "imagePath": "study/sources/assets/lecture-2/page-019.png",
+      "imageHash": "875ba138d0a71f644d61e414652b8afa13d13e7c67f311c30785adf3e4f6f024",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-019.md",
+      "normalizedHash": "e4fec9c898121aae2e0187278eb5a845a972e6ed91c6ace278fbf9b370a18ec9",
+      "units": [
+        {
+          "id": "lecture-2-p019-airline-cross-hedge-inputs",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 19,
+            "region": "upper scenario and numerical inputs",
+            "printedPage": "19 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-019.md",
+            "anchor": "lecture-2-p019-airline-cross-hedge-inputs"
+          },
+          "contentHash": "e4fec9c898121aae2e0187278eb5a845a972e6ed91c6ace278fbf9b370a18ec9",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p019-airline-direction-question",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 19,
+            "region": "lower before-calculating box",
+            "printedPage": "19 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-019.md",
+            "anchor": "lecture-2-p019-airline-direction-question"
+          },
+          "contentHash": "e4fec9c898121aae2e0187278eb5a845a972e6ed91c6ace278fbf9b370a18ec9",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p019-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 19,
+            "region": "title/header/footer frame",
+            "printedPage": "19 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-019.md",
+            "anchor": "lecture-2-p019-page-frame"
+          },
+          "contentHash": "e4fec9c898121aae2e0187278eb5a845a972e6ed91c6ace278fbf9b370a18ec9",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 20,
+      "rawPath": "study/sources/extracted/lecture-2/page-020.md",
+      "rawHash": "2c63c9b23d5eec9dd85692a35884effee7cd6c561f866ab9611c3ab1aeedb7be",
+      "imagePath": "study/sources/assets/lecture-2/page-020.png",
+      "imageHash": "089cd367898507fe4c199a393c38163e9eb1387d80add0c52e30d7cb4dccb5af",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-020.md",
+      "normalizedHash": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+      "units": [
+        {
+          "id": "lecture-2-p020-airline-ratio-calculation",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 20,
+            "region": "upper minimum-variance ratio calculation",
+            "printedPage": "20 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-020.md",
+            "anchor": "lecture-2-p020-airline-ratio-calculation"
+          },
+          "contentHash": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p020-airline-contract-calculation",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 20,
+            "region": "middle optimal contract calculation",
+            "printedPage": "20 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-020.md",
+            "anchor": "lecture-2-p020-airline-contract-calculation"
+          },
+          "contentHash": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p020-airline-decision",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 20,
+            "region": "lower decision box",
+            "printedPage": "20 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-020.md",
+            "anchor": "lecture-2-p020-airline-decision"
+          },
+          "contentHash": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p020-airline-residual-question",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 20,
+            "region": "bottom residual-risk box",
+            "printedPage": "20 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-020.md",
+            "anchor": "lecture-2-p020-airline-residual-question"
+          },
+          "contentHash": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p020-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 20,
+            "region": "title/header/footer frame",
+            "printedPage": "20 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-020.md",
+            "anchor": "lecture-2-p020-page-frame"
+          },
+          "contentHash": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 21,
+      "rawPath": "study/sources/extracted/lecture-2/page-021.md",
+      "rawHash": "7fd5a2075d13c0e7cae25081bc9a49079fb8bfb65d4847bdda5de2e6895f849b",
+      "imagePath": "study/sources/assets/lecture-2/page-021.png",
+      "imageHash": "c87273e730c8d691ef0aaa60afbdef377bb4ab4f58c250d3ab46a0b849d478bc",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-021.md",
+      "normalizedHash": "9337339166a9ec7f36a9b1d534221a88d1ec0dab47996808efa681c0ae29b1e7",
+      "units": [
+        {
+          "id": "lecture-2-p021-stock-index-definition",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 21,
+            "region": "upper definition and weighting-rule list",
+            "printedPage": "21 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-021.md",
+            "anchor": "lecture-2-p021-stock-index-definition"
+          },
+          "contentHash": "9337339166a9ec7f36a9b1d534221a88d1ec0dab47996808efa681c0ae29b1e7",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p021-index-contract-multipliers",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 21,
+            "region": "middle CME futures examples box",
+            "printedPage": "21 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-021.md",
+            "anchor": "lecture-2-p021-index-contract-multipliers"
+          },
+          "contentHash": "9337339166a9ec7f36a9b1d534221a88d1ec0dab47996808efa681c0ae29b1e7",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p021-index-notionals",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 21,
+            "region": "lower numerical notional sentence",
+            "printedPage": "21 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-021.md",
+            "anchor": "lecture-2-p021-index-notionals"
+          },
+          "contentHash": "9337339166a9ec7f36a9b1d534221a88d1ec0dab47996808efa681c0ae29b1e7",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p021-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 21,
+            "region": "title/header/footer frame",
+            "printedPage": "21 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-021.md",
+            "anchor": "lecture-2-p021-page-frame"
+          },
+          "contentHash": "9337339166a9ec7f36a9b1d534221a88d1ec0dab47996808efa681c0ae29b1e7",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 22,
+      "rawPath": "study/sources/extracted/lecture-2/page-022.md",
+      "rawHash": "063537ec45d655765bfa9b755b45cae6499b9c3d38cbb1e5d458af3d68b3b24e",
+      "imagePath": "study/sources/assets/lecture-2/page-022.png",
+      "imageHash": "c04d4edf9103ce8c81d04f2982e3f347c2729283178f8d40ac8eef691005f44d",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-022.md",
+      "normalizedHash": "b0d9885570a4e44efeeb6a4c03d75b3aff698875be2f00d1dfe723e16d38cd8e",
+      "units": [
+        {
+          "id": "lecture-2-p022-index-mirror-ratio",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 22,
+            "region": "upper full-hedge formula and symbol definitions",
+            "printedPage": "22 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-022.md",
+            "anchor": "lecture-2-p022-index-mirror-ratio"
+          },
+          "contentHash": "b0d9885570a4e44efeeb6a4c03d75b3aff698875be2f00d1dfe723e16d38cd8e",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p022-index-mirror-example",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 22,
+            "region": "lower example box",
+            "printedPage": "22 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-022.md",
+            "anchor": "lecture-2-p022-index-mirror-example"
+          },
+          "contentHash": "b0d9885570a4e44efeeb6a4c03d75b3aff698875be2f00d1dfe723e16d38cd8e",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p022-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 22,
+            "region": "title/header/footer frame",
+            "printedPage": "22 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-022.md",
+            "anchor": "lecture-2-p022-page-frame"
+          },
+          "contentHash": "b0d9885570a4e44efeeb6a4c03d75b3aff698875be2f00d1dfe723e16d38cd8e",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 23,
+      "rawPath": "study/sources/extracted/lecture-2/page-023.md",
+      "rawHash": "7b7af9370d017bc6d7c0deee7b77e57093435a501a67acf642a635e1d885ec37",
+      "imagePath": "study/sources/assets/lecture-2/page-023.png",
+      "imageHash": "b3341d5acaef8e5f4892da1ae42328af49cc455a83a6d6a098e7dbf9b4951321",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-023.md",
+      "normalizedHash": "ccc7b602a45dbbcef55354e5332dc8ca9e62fc88267427f11f4964f724611cb2",
+      "units": [
+        {
+          "id": "lecture-2-p023-market-regression",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 23,
+            "region": "upper explanatory sentence and excess-return regression",
+            "printedPage": "23 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-023.md",
+            "anchor": "lecture-2-p023-market-regression"
+          },
+          "contentHash": "ccc7b602a45dbbcef55354e5332dc8ca9e62fc88267427f11f4964f724611cb2",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p023-beta-and-residual",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 23,
+            "region": "central beta and residual definitions",
+            "printedPage": "23 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-023.md",
+            "anchor": "lecture-2-p023-beta-and-residual"
+          },
+          "contentHash": "ccc7b602a45dbbcef55354e5332dc8ca9e62fc88267427f11f4964f724611cb2",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p023-beta-limits",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 23,
+            "region": "lower limitation box",
+            "printedPage": "23 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-023.md",
+            "anchor": "lecture-2-p023-beta-limits"
+          },
+          "contentHash": "ccc7b602a45dbbcef55354e5332dc8ca9e62fc88267427f11f4964f724611cb2",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p023-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 23,
+            "region": "title/header/footer frame",
+            "printedPage": "23 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-023.md",
+            "anchor": "lecture-2-p023-page-frame"
+          },
+          "contentHash": "ccc7b602a45dbbcef55354e5332dc8ca9e62fc88267427f11f4964f724611cb2",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 24,
+      "rawPath": "study/sources/extracted/lecture-2/page-024.md",
+      "rawHash": "92e26a04b2f683fe5ef032266e9c1839d64114871daafed2ddc225321031b3da",
+      "imagePath": "study/sources/assets/lecture-2/page-024.png",
+      "imageHash": "b5ad73e42d3014e9eb3ae4add9a435b96f3b194d4ecb05af6aab259f2b7721df",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-024.md",
+      "normalizedHash": "4fd32fbb6c6eb16c130ac748534558e3db58641bb6285d39c7eb77cf2047f970",
+      "units": [
+        {
+          "id": "lecture-2-p024-target-beta-formula",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 24,
+            "region": "upper target-beta statement and boxed formula",
+            "printedPage": "24 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-024.md",
+            "anchor": "lecture-2-p024-target-beta-formula"
+          },
+          "contentHash": "4fd32fbb6c6eb16c130ac748534558e3db58641bb6285d39c7eb77cf2047f970",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p024-target-beta-direction",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 24,
+            "region": "central direction and zero-target bullets",
+            "printedPage": "24 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-024.md",
+            "anchor": "lecture-2-p024-target-beta-direction"
+          },
+          "contentHash": "4fd32fbb6c6eb16c130ac748534558e3db58641bb6285d39c7eb77cf2047f970",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p024-beta-neutral-special-case",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 24,
+            "region": "lower special-case box",
+            "printedPage": "24 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-024.md",
+            "anchor": "lecture-2-p024-beta-neutral-special-case"
+          },
+          "contentHash": "4fd32fbb6c6eb16c130ac748534558e3db58641bb6285d39c7eb77cf2047f970",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p024-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 24,
+            "region": "title/header/footer frame",
+            "printedPage": "24 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-024.md",
+            "anchor": "lecture-2-p024-page-frame"
+          },
+          "contentHash": "4fd32fbb6c6eb16c130ac748534558e3db58641bb6285d39c7eb77cf2047f970",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 25,
+      "rawPath": "study/sources/extracted/lecture-2/page-025.md",
+      "rawHash": "f1eff1b64e6261d3500049ae5b36b809eec9c6b3e6397328aa859a4ee7488107",
+      "imagePath": "study/sources/assets/lecture-2/page-025.png",
+      "imageHash": "7690c07e053b635d2f2e2e9be4fedc2fcf56e4d94ce045f4f46c6b1520297e2b",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-025.md",
+      "normalizedHash": "6eb2a93966ebff4b11e03540007e8a6c763568d91c317b2f2c90bdaf988c1e29",
+      "units": [
+        {
+          "id": "lecture-2-p025-beta-example-inputs",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 25,
+            "region": "upper portfolio and contract notional calculation",
+            "printedPage": "25 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-025.md",
+            "anchor": "lecture-2-p025-beta-example-inputs"
+          },
+          "contentHash": "6eb2a93966ebff4b11e03540007e8a6c763568d91c317b2f2c90bdaf988c1e29",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p025-beta-example-calculation",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 25,
+            "region": "middle zero-beta hedge calculation",
+            "printedPage": "25 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-025.md",
+            "anchor": "lecture-2-p025-beta-example-calculation"
+          },
+          "contentHash": "6eb2a93966ebff4b11e03540007e8a6c763568d91c317b2f2c90bdaf988c1e29",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p025-beta-example-decision",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 25,
+            "region": "lower decision box",
+            "printedPage": "25 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-025.md",
+            "anchor": "lecture-2-p025-beta-example-decision"
+          },
+          "contentHash": "6eb2a93966ebff4b11e03540007e8a6c763568d91c317b2f2c90bdaf988c1e29",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p025-beta-extension-question",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 25,
+            "region": "bottom extension box",
+            "printedPage": "25 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-025.md",
+            "anchor": "lecture-2-p025-beta-extension-question"
+          },
+          "contentHash": "6eb2a93966ebff4b11e03540007e8a6c763568d91c317b2f2c90bdaf988c1e29",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p025-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 25,
+            "region": "title/header/footer frame",
+            "printedPage": "25 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-025.md",
+            "anchor": "lecture-2-p025-page-frame"
+          },
+          "contentHash": "6eb2a93966ebff4b11e03540007e8a6c763568d91c317b2f2c90bdaf988c1e29",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 26,
+      "rawPath": "study/sources/extracted/lecture-2/page-026.md",
+      "rawHash": "c218451c2e23a7fb297421a13890f9ac3dc4c61b05f7af639c9dbfc491d86f4a",
+      "imagePath": "study/sources/assets/lecture-2/page-026.png",
+      "imageHash": "426f9491e94ca329798b9bd3bb2d332f34d93f3d87cf802f5be47cf3810cad84",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-026.md",
+      "normalizedHash": "39b1b65185e20c6e19d86c9cece303373605552f70b1aee072546c939192cc46",
+      "units": [
+        {
+          "id": "lecture-2-p026-relative-view",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 26,
+            "region": "upper motivation statement",
+            "printedPage": "26 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-026.md",
+            "anchor": "lecture-2-p026-relative-view"
+          },
+          "contentHash": "39b1b65185e20c6e19d86c9cece303373605552f70b1aee072546c939192cc46",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p026-biopharma-example",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 26,
+            "region": "middle example box",
+            "printedPage": "26 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-026.md",
+            "anchor": "lecture-2-p026-biopharma-example"
+          },
+          "contentHash": "39b1b65185e20c6e19d86c9cece303373605552f70b1aee072546c939192cc46",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p026-beta-residual-risks",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 26,
+            "region": "lower what-remains box",
+            "printedPage": "26 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-026.md",
+            "anchor": "lecture-2-p026-beta-residual-risks"
+          },
+          "contentHash": "39b1b65185e20c6e19d86c9cece303373605552f70b1aee072546c939192cc46",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p026-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 26,
+            "region": "title/header/footer frame",
+            "printedPage": "26 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-026.md",
+            "anchor": "lecture-2-p026-page-frame"
+          },
+          "contentHash": "39b1b65185e20c6e19d86c9cece303373605552f70b1aee072546c939192cc46",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 27,
+      "rawPath": "study/sources/extracted/lecture-2/page-027.md",
+      "rawHash": "92e8b852f2420b74f6264ce462dae86ea5104c44076d522c144740594338a723",
+      "imagePath": "study/sources/assets/lecture-2/page-027.png",
+      "imageHash": "01fbdf86e5a5791f9528191d11555f42310469b3a9b4de5a70455e93c0b949ff",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-027.md",
+      "normalizedHash": "bfc2e77349607a297bbfc9770b480d70aaa4db19f74fda6615bfbfffaccb2f4b",
+      "units": [
+        {
+          "id": "lecture-2-p027-hedging-benefits",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 27,
+            "region": "left potential-benefits box",
+            "printedPage": "27 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-027.md",
+            "anchor": "lecture-2-p027-hedging-benefits"
+          },
+          "contentHash": "bfc2e77349607a297bbfc9770b480d70aaa4db19f74fda6615bfbfffaccb2f4b",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p027-hedging-costs",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 27,
+            "region": "right potential-costs box",
+            "printedPage": "27 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-027.md",
+            "anchor": "lecture-2-p027-hedging-costs"
+          },
+          "contentHash": "bfc2e77349607a297bbfc9770b480d70aaa4db19f74fda6615bfbfffaccb2f4b",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p027-combined-exposure-principle",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 27,
+            "region": "lower bold evaluation sentence",
+            "printedPage": "27 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-027.md",
+            "anchor": "lecture-2-p027-combined-exposure-principle"
+          },
+          "contentHash": "bfc2e77349607a297bbfc9770b480d70aaa4db19f74fda6615bfbfffaccb2f4b",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p027-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 27,
+            "region": "title/header/footer frame",
+            "printedPage": "27 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-027.md",
+            "anchor": "lecture-2-p027-page-frame"
+          },
+          "contentHash": "bfc2e77349607a297bbfc9770b480d70aaa4db19f74fda6615bfbfffaccb2f4b",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 28,
+      "rawPath": "study/sources/extracted/lecture-2/page-028.md",
+      "rawHash": "4cf87ef9911ee9d08ec03ff023253e3c2009ec1eb8e33a92875f21b4b173a83d",
+      "imagePath": "study/sources/assets/lecture-2/page-028.png",
+      "imageHash": "5bc7fb65eb24b8086113cfb5097c210c01ab21469aeda81618980c55a7ff85b6",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-028.md",
+      "normalizedHash": "5bc720903f981f3a5106f399c740429939b88ad32c2893e36f8ca4f89ee27c21",
+      "units": [
+        {
+          "id": "lecture-2-p028-hedge-becomes-speculation",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 28,
+            "region": "upper first bullet",
+            "printedPage": "28 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-028.md",
+            "anchor": "lecture-2-p028-hedge-becomes-speculation"
+          },
+          "contentHash": "5bc720903f981f3a5106f399c740429939b88ad32c2893e36f8ca4f89ee27c21",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p028-trading-mandates",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 28,
+            "region": "upper-middle second bullet",
+            "printedPage": "28 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-028.md",
+            "anchor": "lecture-2-p028-trading-mandates"
+          },
+          "contentHash": "5bc720903f981f3a5106f399c740429939b88ad32c2893e36f8ca4f89ee27c21",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p028-independent-controls",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 28,
+            "region": "middle third bullet",
+            "printedPage": "28 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-028.md",
+            "anchor": "lecture-2-p028-independent-controls"
+          },
+          "contentHash": "5bc720903f981f3a5106f399c740429939b88ad32c2893e36f8ca4f89ee27c21",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p028-exposure-comparison",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 28,
+            "region": "middle-lower fourth bullet",
+            "printedPage": "28 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-028.md",
+            "anchor": "lecture-2-p028-exposure-comparison"
+          },
+          "contentHash": "5bc720903f981f3a5106f399c740429939b88ad32c2893e36f8ca4f89ee27c21",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p028-control-question",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 28,
+            "region": "lower final-control-question box",
+            "printedPage": "28 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-028.md",
+            "anchor": "lecture-2-p028-control-question"
+          },
+          "contentHash": "5bc720903f981f3a5106f399c740429939b88ad32c2893e36f8ca4f89ee27c21",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p028-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 28,
+            "region": "title/header/footer frame",
+            "printedPage": "28 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-028.md",
+            "anchor": "lecture-2-p028-page-frame"
+          },
+          "contentHash": "5bc720903f981f3a5106f399c740429939b88ad32c2893e36f8ca4f89ee27c21",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    },
+    {
+      "pdfPage": 29,
+      "rawPath": "study/sources/extracted/lecture-2/page-029.md",
+      "rawHash": "6cbbfb5d7fd02bda97d37be8815d3c707f86d09f19c9a408649df05d7e4a526c",
+      "imagePath": "study/sources/assets/lecture-2/page-029.png",
+      "imageHash": "0438ae9388763c35a780c7b675181e07a966bd44fabd2fb0e80eb427646ebd24",
+      "normalizedPath": "study/sources/annotated/lecture-2/page-029.md",
+      "normalizedHash": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+      "units": [
+        {
+          "id": "lecture-2-p029-trader-motives-summary",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 29,
+            "region": "upper summary, first bullet",
+            "printedPage": "29 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-029.md",
+            "anchor": "lecture-2-p029-trader-motives-summary"
+          },
+          "contentHash": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p029-hedge-direction-summary",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 29,
+            "region": "upper summary, second bullet",
+            "printedPage": "29 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-029.md",
+            "anchor": "lecture-2-p029-hedge-direction-summary"
+          },
+          "contentHash": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p029-basis-risk-summary",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 29,
+            "region": "central summary, third bullet",
+            "printedPage": "29 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-029.md",
+            "anchor": "lecture-2-p029-basis-risk-summary"
+          },
+          "contentHash": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p029-hedge-ratio-summary",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 29,
+            "region": "central summary, fourth bullet",
+            "printedPage": "29 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-029.md",
+            "anchor": "lecture-2-p029-hedge-ratio-summary"
+          },
+          "contentHash": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p029-index-hedge-summary",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 29,
+            "region": "lower summary, fifth bullet",
+            "printedPage": "29 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-029.md",
+            "anchor": "lecture-2-p029-index-hedge-summary"
+          },
+          "contentHash": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p029-whole-position-principle",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 29,
+            "region": "bottom core-principle box",
+            "printedPage": "29 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-029.md",
+            "anchor": "lecture-2-p029-whole-position-principle"
+          },
+          "contentHash": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+          "status": "needs-review",
+          "classification": "substantive",
+          "issueIds": []
+        },
+        {
+          "id": "lecture-2-p029-page-frame",
+          "sourceId": "lecture-2",
+          "locator": {
+            "pdfPage": 29,
+            "region": "title/header/footer frame",
+            "printedPage": "29 / 29"
+          },
+          "extractionRef": {
+            "kind": "markdown",
+            "path": "study/sources/annotated/lecture-2/page-029.md",
+            "anchor": "lecture-2-p029-page-frame"
+          },
+          "contentHash": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+          "status": "needs-review",
+          "classification": "administrative",
+          "issueIds": []
+        }
+      ],
+      "issues": [],
+      "observations": [
+        "Author inspected this entire original physical page via a temporary full-page 1200-pixel-width Poppler render of the hash-bound original PDF. Production 120dpi PNG bytes are bound here for later independent visual review; this does not claim the temporary render has identical pixels or bytes.",
+        "All units remain needs-review. Administrative title/footer is explicit; no blank page or substantive-region exclusion is assumed. Each substantive anchored span contains its original full-page inline image; affected source cautions are inside their relevant spans, not dependent on a later anchor.",
+        "Normalized transcription retains source questions and supplied answers separately; no missing official answer is invented."
+      ]
+    }
+  ]
+}

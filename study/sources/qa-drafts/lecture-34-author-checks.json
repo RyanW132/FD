@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "authorOnly": true,
+  "independentReview": "pending",
+  "pages": 73,
+  "units": 276,
+  "normalizedWordsApproximate": 20581,
+  "checks": [
+    "lecture-3: complete 41-page set, source/raw/image/normalized SHA-256, unique anchors, safe existing links, exact unit keys, needs-review states, explicit printed-page locators, open issue resolution anchors PASS",
+    "lecture-4: complete 32-page set, source/raw/image/normalized SHA-256, unique anchors, safe existing links, exact unit keys, needs-review states, explicit printed-page locators, open issue resolution anchors PASS",
+    "All 201 substantive anchored spans individually retain original-page inline image, raw-extraction link and physical evidence locator; affected L3 p11/p16 spans individually retain essential labelled corrections/qualifications PASS",
+    "L3 p11 labelled correction directly recomputed locally with Python math; continuous, nominal semiannual and effective annual conventions distinguished PASS (author check, not independent approval)"
+  ],
+  "sha256Drafts": {
+    "lecture-3": "2e393c63cb8eacb3a4dfbd319e73e97b147439c4fc6cb82ac4d588906d4a6b53",
+    "lecture-4": "c5b547349494960d075a436733a8fcec404f7895b7cdd24985d518fd06071df1"
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lecture-1",
+  "sourceHash": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+  "revision": "7b82c6dcd90de88034572523d420b4f6c8da9991f76c7a5d11736d356376c465",
+  "config": {
+    "schemaVersion": 1,
+    "layout": true,
+    "encoding": "UTF-8",
+    "pageBreaks": true,
+    "dpi": 120,
+    "imageFormat": "png",
+    "crop": false,
+    "ocr": false,
+    "tools": {
+      "pdfinfo": "26.01.0",
+      "pdftotext": "26.01.0",
+      "pdftoppm": "26.01.0"
+    }
+  },
+  "rawExtractionComplete": true,
+  "semanticQA": "needs-review",
+  "pages": 38,
+  "lines": null,
+  "membership": [
+    {
+      "path": "study/sources/assets/lecture-1/page-001.png",
+      "sha256": "2e1784697caf8e4782cc74c65699196146206bcf3f8044348722871af3dbc60e",
+      "byteLength": 14744
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-002.png",
+      "sha256": "118673d6f0192c65005df9ad73a3e303d08ec840b964b8e67ed6f1335ca96b19",
+      "byteLength": 57697
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-003.png",
+      "sha256": "38b2c32707cdd4b9bc1ded80e29ad1606321ed5be1a772cfe99afacc5970f94f",
+      "byteLength": 32575
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-004.png",
+      "sha256": "8462d19f05df865a2831b84b286ab781395f4bd878d59d5558aae1ccacb91e98",
+      "byteLength": 43873
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-005.png",
+      "sha256": "561e2a349b5242b6e36985323a15d2be823686993db2819c8a452205da5bfeb3",
+      "byteLength": 46075
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-006.png",
+      "sha256": "701a4ea3322c073f5a38067babe9c65e2cfe039a102db768b015cc386e82e3b6",
+      "byteLength": 49990
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-007.png",
+      "sha256": "64c03f50916c38726380551319fa973778b350babad6f3a7559cf38e1e811527",
+      "byteLength": 49237
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-008.png",
+      "sha256": "b414a957b94f505c871bbe6ff58c0620df26c2efbd842636144a51a0dd1bade9",
+      "byteLength": 59852
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-009.png",
+      "sha256": "53c9c330e3ff34f280a62ad14582ebb5f466ce4f512a77800a2a72dddf37b325",
+      "byteLength": 61607
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-010.png",
+      "sha256": "cd04ad81a47465491f84969717f728973c9eb0e5c509361bfebac220118fd2c3",
+      "byteLength": 21750
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-011.png",
+      "sha256": "f55341d6d1f7752d7e5ea4086df4a6d3bba888b2d0b017ff825a62afbbffb9b1",
+      "byteLength": 59371
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-012.png",
+      "sha256": "230e251c0f0dbbfa649127986bff90028cf45018d3be043d7948aaf79a5e1de7",
+      "byteLength": 58192
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-013.png",
+      "sha256": "d046faceec565f99c6920f1b470cc20795eaeb57b64c55fee10850de8d9ee4af",
+      "byteLength": 55052
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-014.png",
+      "sha256": "d7b7bb809bd40c086645edac7cae0221ea2fa77e4448a3fff06e48d9092652b2",
+      "byteLength": 71062
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-015.png",
+      "sha256": "25ecd62fd7025569077bb95061bae21e346bfac6ba2ddb923f148dc731ce311c",
+      "byteLength": 74060
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-016.png",
+      "sha256": "8278b59dbdd24b255c43de22532b605d9fb507587bbe9b5105efe5aaffbc90da",
+      "byteLength": 59160
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-017.png",
+      "sha256": "9515d782862918c426cf16269aedf518358dab26d79e33bb57a10e2be889bf5d",
+      "byteLength": 89794
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-018.png",
+      "sha256": "72417cb001d97726894d88154d6e5d3493974ab638fa1c8efa83801ad27c4a5f",
+      "byteLength": 35731
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-019.png",
+      "sha256": "4454bbb39e812e1b9a922c6734b0609c6329ba15f0806aa6f87bc0033f597278",
+      "byteLength": 62468
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-020.png",
+      "sha256": "8586095103b2c29ca021e2a389607b2847431895259e9683fbd6fcf997a69eaa",
+      "byteLength": 51979
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-021.png",
+      "sha256": "6514c69c7c9102b83ea216d331fba88251abe9ff4b44029ffe93f8d58acac909",
+      "byteLength": 44920
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-022.png",
+      "sha256": "23df5aec358baab6656fffe2b88088cc26e93c47de4822298bc38758769865ce",
+      "byteLength": 37590
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-023.png",
+      "sha256": "168d3d1a42f75ce63cd4f3b38ffaf0f96edcc6884fda84757b081dc2ff359a7c",
+      "byteLength": 47793
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-024.png",
+      "sha256": "bf3199694e6643b399936afefad7025af9690f9ded14c08dccb0115136dcdc79",
+      "byteLength": 54860
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-025.png",
+      "sha256": "0eca0aa037190577ea32f4c9e362c0a0acbfe71add79dc469f49cf0c0b5af0e9",
+      "byteLength": 43875
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-026.png",
+      "sha256": "ef6bfa7701e139072d5278886a2c6980bcfa329df85640dc5c9f9ec31dfc1beb",
+      "byteLength": 44817
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-027.png",
+      "sha256": "534d5e8f7d4028357591f1ccdb4276d28cdccb217467098817ddf358de5a07f9",
+      "byteLength": 42192
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-028.png",
+      "sha256": "e3b983919470189e396644d7536f9d12d981c55bf40994807d92d2a212c23fb7",
+      "byteLength": 67149
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-029.png",
+      "sha256": "a5ae9b0ec97be519aedfa73bceb66f555e463862d147e99d983b737ed86a1052",
+      "byteLength": 50980
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-030.png",
+      "sha256": "dd908acb88ecff24cb4ea2cb319478011f48448574f2cd1de9215746b389165a",
+      "byteLength": 63866
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-031.png",
+      "sha256": "2c597d87b556009f14102ad28f1e4ba64698f1d9a3c65c10e41321d352b6becf",
+      "byteLength": 54274
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-032.png",
+      "sha256": "307b1d6db0f03fc07403f0e828d4b81c80599e33fe796e42dd70d99ce7277fea",
+      "byteLength": 58584
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-033.png",
+      "sha256": "5302081085e5560e4820e463ec62cd67b75fd0079e47bae9edef53d5aaba7260",
+      "byteLength": 51075
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-034.png",
+      "sha256": "2eb4bc3cfe90e026d0764c09de4f2685f0f5c8cbf1506ec4f2e0d2eace2d0303",
+      "byteLength": 51039
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-035.png",
+      "sha256": "653a2cbaf174529a47303a1b827996c2dd4260f8681dacd6e4a22b65db09d2f9",
+      "byteLength": 51066
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-036.png",
+      "sha256": "2f71657b2698dd9851dcd155704388c153545111e0d84b2951f46681fd3b3cad",
+      "byteLength": 45948
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-037.png",
+      "sha256": "ed4fb20f9ce86c9c4c47f96795705a04b90fc5369acab690232b9897945c9d4b",
+      "byteLength": 44375
+    },
+    {
+      "path": "study/sources/assets/lecture-1/page-038.png",
+      "sha256": "026fd11fcf901027d53720e63e411c44279d4ba6bee41e461022651937c60114",
+      "byteLength": 48861
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-001.md",
+      "sha256": "8cf73ef46cff72e31dbfb5bd1c25070d5ee2118adc86575cb9001eb5baa1edb1",
+      "byteLength": 436
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-002.md",
+      "sha256": "156ab25e3f21580e519ad4aa858a195660f61ddd4e06f55f9b353e631feae317",
+      "byteLength": 921
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-003.md",
+      "sha256": "4d59091333db0de9f41e1a77a4538cd9b648f29f2114202868afc571d0421be9",
+      "byteLength": 916
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-004.md",
+      "sha256": "b2581ca5f2ba26ffa00a544b0bc55517938dfccb31b3589bd0c7e82b64de753c",
+      "byteLength": 772
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-005.md",
+      "sha256": "55e8d334162e406f912991d742bc9b31cb6dc2c13f4c4784cf8d4715702a491f",
+      "byteLength": 780
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-006.md",
+      "sha256": "2ea871d5cb28305084015b198260db80a685bdf4f9f61a6ed4a4a04b8ae08c53",
+      "byteLength": 880
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-007.md",
+      "sha256": "c1b9bf6b1254d3ed7b1d38bbb25f877fd0034e9313886234c043782a91be0cbb",
+      "byteLength": 845
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-008.md",
+      "sha256": "0d766c5f449fc69a33c0f0b2b15df0162cf3431e23bb883f1bd5ce3ed87e22c2",
+      "byteLength": 957
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-009.md",
+      "sha256": "348f3f25a219e188ff1b00a850ac24795bd13c6f942bebb87e8fa4ede2834bd9",
+      "byteLength": 1061
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-010.md",
+      "sha256": "a273012628c95101127432e4ade2e4eb6e1ef3f6e9015dd33e1ec737e66a8b94",
+      "byteLength": 556
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-011.md",
+      "sha256": "8fb5e2aa85abbf61a5c883169a94e20741d3af467c297cd16004a4768d996990",
+      "byteLength": 1020
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-012.md",
+      "sha256": "8c52d15b66ff8d07b479564c23de0d4d73f164c4ffdaf499a902b66c9eae4999",
+      "byteLength": 1032
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-013.md",
+      "sha256": "5d7524494ca79e98fe838b23f673128259795c17b8182c4ca23188710d2cb469",
+      "byteLength": 1147
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-014.md",
+      "sha256": "0e2593ae9d4840fb9da5ebffe189632fe16867d066db75c6df8829f294300cf3",
+      "byteLength": 1131
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-015.md",
+      "sha256": "7fa1f8ba87013323085e84cee63a778a8876d2bc49c3bf430d69d9a5a71f48b9",
+      "byteLength": 1176
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-016.md",
+      "sha256": "fe5aa3d803d4e84b05f9fd8120c74428aa9377cdfa9513c4821260e2e089e91a",
+      "byteLength": 971
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-017.md",
+      "sha256": "8e372e704c268abab9bc5e4dcfa8dbc8c444cf3cd0285e493342899a6273084c",
+      "byteLength": 665
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-018.md",
+      "sha256": "ef23941cc3e3deb3020388a677e51db34b2a9f7086289b0f3b500f9eb83d63fc",
+      "byteLength": 704
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-019.md",
+      "sha256": "6f272806fb3eb4b7793667e8e2a5fed7ed6a96bc15b5307919f437e893a857f0",
+      "byteLength": 1023
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-020.md",
+      "sha256": "bc4b4b2239277f876e38ba4c4e262af16df89feaa61eeb3b0e4bc23b90801676",
+      "byteLength": 954
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-021.md",
+      "sha256": "4e20715ffe79f3f5683ff0905df935a1a8c39619540dd805ca9e1f5983826b84",
+      "byteLength": 1061
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-022.md",
+      "sha256": "69ec4f7971de00827189fbdff6a27d2e630026677884d74c319a5151cd9a9aad",
+      "byteLength": 1187
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-023.md",
+      "sha256": "e5fab80dc13ed3b7ab1e0391fca1e7963dc69bdc040806a47ac671077c915c4b",
+      "byteLength": 720
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-024.md",
+      "sha256": "b6b080ac3a596e17825663cefea9496450d8264f1f2318eb6644f21ec71fb26b",
+      "byteLength": 1023
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-025.md",
+      "sha256": "a9d0cb781aceb14c64b16bc33d6312581ec5cc59ba06e4e371a3ad89dab15359",
+      "byteLength": 1114
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-026.md",
+      "sha256": "b2417b052eaa3fb1ade893e940e089538337fbecc359ce23ec17a11c7f4f5b5a",
+      "byteLength": 1278
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-027.md",
+      "sha256": "4e1e71d9d738345f17f1e370d7ace55dcddeb068a40952a6a53c0b5e297a61b8",
+      "byteLength": 988
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-028.md",
+      "sha256": "305e9735ec0e77c546b356312047211534425cde9cd8e3b88eea1a847a838164",
+      "byteLength": 1388
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-029.md",
+      "sha256": "0d749155377c8595c23a057573e3094a1263dc579b2b9634713ba10cd4a39332",
+      "byteLength": 1035
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-030.md",
+      "sha256": "2e8a176aa1b90bf1f53e1e9925c530290cf40c7cf3a68ceda2405c0debe9c0cd",
+      "byteLength": 1152
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-031.md",
+      "sha256": "87f749d1fab586f760d6479bf3f1bcd3333ae71d911b3d530c16874a8bd7a6ba",
+      "byteLength": 959
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-032.md",
+      "sha256": "8eedf6428cad02874fd8313c0db2b759292d10b9d61182d0b6ceb2aad8dbc75d",
+      "byteLength": 955
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-033.md",
+      "sha256": "e5fc40bd815de24afd5139f8588282a3b71ea80c9f9cf4d51e21e53811ce1ad9",
+      "byteLength": 1240
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-034.md",
+      "sha256": "6df4eb639de5913df0011ea363f852861eb8361756598ae1d0396d4e8af0f1ca",
+      "byteLength": 1240
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-035.md",
+      "sha256": "f54ebab0632fb335e60704d300cf95d8a9fafeee86de16adec52c4ba484f4002",
+      "byteLength": 1240
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-036.md",
+      "sha256": "a155d838e940bb17e7cd713996627f3f15e417419d9074503affbd570f54c064",
+      "byteLength": 1201
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-037.md",
+      "sha256": "770c29038f86614b5001c84bbc40fec20cc71fa99ad8b50f4e18439d3223b7c4",
+      "byteLength": 957
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/page-038.md",
+      "sha256": "9049d97253d1d6c2b6ebaaecacf7ac26549c3320ed8fd7d49ea6749d0bf14b13",
+      "byteLength": 876
+    },
+    {
+      "path": "study/sources/extracted/lecture-1/rawfull-layout.txt",
+      "sha256": "5a38615694448c6aced20fa15df3a81600974fe04017ff9ced75c09d26ac21fa",
+      "byteLength": 26530
+    }
+  ],
+  "membershipDigest": "1680915c66a59730f3e38680c700a65cc1119a807d94632059a7c20e4652cd83"
+}

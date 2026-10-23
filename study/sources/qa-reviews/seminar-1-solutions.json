@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-1-solutions",
+  "sourceHash": "5568f5acde927793ad95e722db81b27e4ec526647f8af88a39e54f83cf2dd530",
+  "draftPath": "study/sources/qa-drafts/seminar-1-solutions.json",
+  "draftHash": "e2a7a2f24b8720cbbf60a489317687aac83a5da805e6b54982dee860d5d8b412",
+  "reviewer": "g005-practice-source-qa",
+  "reviewedAt": "2026-10-22T14:33:45.615180+00:00",
+  "verdict": "approved",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "verdict": "approved",
+      "rawHash": "3cb349fb923acf9a863ba45541848da26510e2fc6dbd40c6b7221ac70289a50c",
+      "imageHash": "b2a12a0918be14cbadbfefb16a7a72b76c0ec18a5080b539c1f426f892aba432",
+      "normalizedHash": "8504d5e9971306bb3cb7faa73dc03bd8909fe38e5c676dc13642a97749581658",
+      "unitIds": [
+        "seminar-1-solutions-p001-page-label",
+        "seminar-1-solutions-p001-q1",
+        "seminar-1-solutions-p001-q1-hedger",
+        "seminar-1-solutions-p001-q1-speculator",
+        "seminar-1-solutions-p001-q1-arbitrageur",
+        "seminar-1-solutions-p001-q1-mismatch-start"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 2,
+      "verdict": "approved",
+      "rawHash": "cf234eb187d090d663854133dac01bd22dca4e2502f29e280d69e5a030b75ffb",
+      "imageHash": "6ef66db67ee47c248d627ddfe4778399307793aa7226f88424a8cd186a4d28d4",
+      "normalizedHash": "f8dd80eedad3802a7ea210e9aa74b1b25759b1d17c1b64a95086dfc5bb7be521",
+      "unitIds": [
+        "seminar-1-solutions-p002-page-label",
+        "seminar-1-solutions-p002-q1-controls",
+        "seminar-1-solutions-p002-q2",
+        "seminar-1-solutions-p002-q2-market-table",
+        "seminar-1-solutions-p002-q2-exchange-start"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 3,
+      "verdict": "approved",
+      "rawHash": "c2f35a66bbd12173f9751ce614c7bd2f2c64c41340406f8c073c796965715782",
+      "imageHash": "ee589baff59763070aeaeadc7f81caafabc042aa55d47823d4dd43db50ba622f",
+      "normalizedHash": "db4e4e485c211edf375f90bf5a349ef8674fc545b17e893292ec92d506ca8726",
+      "unitIds": [
+        "seminar-1-solutions-p003-page-label",
+        "seminar-1-solutions-p003-q2-market-tradeoffs",
+        "seminar-1-solutions-p003-q3"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 4,
+      "verdict": "approved",
+      "rawHash": "2dc9d540df06984df7ffcdb73b36dfa452c9ed6cfeeb9bc5842cae35bb05caa4",
+      "imageHash": "6491ff8210e564230c5a46637ea174d2b123b3a8cd3251f7275dc9b248fc2406",
+      "normalizedHash": "ded85e662481e29cc7fad53b02eff9823aa651dbe424b5923df66efefd9857f8",
+      "unitIds": [
+        "seminar-1-solutions-p004-page-label",
+        "seminar-1-solutions-p004-q3-direction-size",
+        "seminar-1-solutions-p004-q3-proceeds",
+        "seminar-1-solutions-p004-q3-basis-risk"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 5,
+      "verdict": "approved",
+      "rawHash": "b5797a0e35fa62298153e4155440face62ac0ceb7dee77a46032d0ac916092aa",
+      "imageHash": "b28aaa7346cf715dab23743c506ce09691539d04029125776eb53ffb5dea8f5b",
+      "normalizedHash": "1a3c3674b67f4056abe95cc3aaf7eb8031d27320f21be4e4ef19480348ddf830",
+      "unitIds": [
+        "seminar-1-solutions-p005-page-label",
+        "seminar-1-solutions-p005-q4",
+        "seminar-1-solutions-p005-q4-basis",
+        "seminar-1-solutions-p005-q4-hedge-outcome"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 6,
+      "verdict": "approved",
+      "rawHash": "f8508ddfee84c6ddf860e411c7eb2e7d46464255e9cf4c8c2cc73603a6e9fc27",
+      "imageHash": "43d486acf055ecafd19462cab911e6142f8f66eeb6a51f32a53ae7ea69c1af24",
+      "normalizedHash": "da9dcb32d7cbd1244bb287ba5c32f44214f843599b573710d57ef05ba97b2a77",
+      "unitIds": [
+        "seminar-1-solutions-p006-page-label",
+        "seminar-1-solutions-p006-q4-convergence",
+        "seminar-1-solutions-p006-q5",
+        "seminar-1-solutions-p006-q5-cross-hedge"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 7,
+      "verdict": "approved",
+      "rawHash": "35babb868702b25078596e24bc2831c7f89e6be8968030c7e5b427ea8d197d25",
+      "imageHash": "7b83d33d1cec02963b01300d246a64d587ab849022610eddb281c1d9fb9bb233",
+      "normalizedHash": "aac32dd410ba350cd05306237616b0bf34866634318c2adbeef48162c219924b",
+      "unitIds": [
+        "seminar-1-solutions-p007-page-label",
+        "seminar-1-solutions-p007-q6",
+        "seminar-1-solutions-p007-q6-contract-count",
+        "seminar-1-solutions-p007-q6-ratio-overhedging"
+      ],
+      "allRegionsAccounted": true
+    }
+  ]
+}

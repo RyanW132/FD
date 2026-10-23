@@ -1,0 +1,742 @@
+        Financial Derivatives
+             ES32079
+
+               Lecture 1
+
+Introduction to Financial Derivatives
+            Aliya Kenjegalieva
+ About me
+
+  Dr Aliya Kenjegalieva Lecturer in Economics
+  Director of Internationalisation & Study Abroad Program
+  My role in this unit
+          Expect clear guidance, worked examples, and constructive feedback
+          Use support early (Q&A forums, emails, office hours)
+  Contact & support
+          Email: ak3085@bath.ac.uk
+          Office: 3 East 3.10
+          Office hours: Thursdays 15:15-16:00
+          Reply policy: I typically respond within 2-3 working days; please avoid
+          duplicate emails.
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   2 / 38
+ Timetable
+
+
+
+     Type                Day & Time                      Room                       Week Pattern
+     Lecture             Wednesdays,                     2E 3.1                     Weeks 1-5, 7-11
+                         08:15-10:05
+     Seminar 1           Thursdays, 14:15-               CB 3.1                     Weeks 2-5, 7-11
+                         15:05
+     Seminar 2           Thursdays, 16:15-               1W 2.101                   Weeks 2-5, 7-11
+                         17:05
+
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives    Aliya Kenjegalieva   3 / 38
+ Key People
+
+
+
+
+          Unit Convenor / Lecturer: Dr Aliya Kenjegalieva
+          Email: ak3085@bath.ac.uk
+          Economics UG Admins: economics-ug-admin@bath.ac.uk –
+          Enrolment, Moodle access, exam queries
+          Director of Teaching: Dr Atisha Ghosh – ag880@bath.ac.uk
+          Director of Studies: Dr Maria Sarigiannidou – ms962@bath.ac.uk
+
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   4 / 38
+ A £10 Million Problem
+
+
+  The situation
+  A UK airline must buy $10 million of fuel in three months.
+  Today: $1 = £0.78
+  What happens if the dollar becomes more expensive?
+
+  What should the airline do?
+      1   Buy the dollars today
+      2   Agree today on a future exchange rate
+      3   Buy the right, but not the obligation, to exchange later
+      4   Do nothing
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   5 / 38
+ What Will This Unit Help You Do?
+
+
+  By the end of this unit, you should be able to:
+          design derivatives to transfer or manage financial risk;
+          represent their cash flows mathematically;
+          identify arbitrage opportunities;
+          price derivatives using replication and no-arbitrage;
+          evaluate the limitations of pricing models.
+
+  Our central question
+  How can we place a price today on a payoff that depends on an uncertain
+  future?
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   6 / 38
+ Our Learning Journey
+
+
+      1   Contracts and risk
+          What derivatives are and how firms use them
+      2   No-arbitrage pricing
+          Interest rates, bonds, forwards, and futures
+      3   Options and non-linear payoffs
+          Option properties and trading mechanisms
+      4   Pricing under uncertainty
+          Replication and binomial models
+      5   Extensions and limitations
+          Credit risk and exotic options
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   7 / 38
+ Recommended Reading and Resources
+
+  Main Textbook
+          Hull, J.C. Options, Futures and Other Derivatives - any edition
+  Additional References
+          Bailey, R.E. The Economics of Financial Markets
+          Bodie, Z., Kane, A., and Marcus, A.J. Investments
+          Brealey, R.A., Myers, S.C., and Allen, F. Principles of Corporate
+          Finance
+  Other Resources
+          Lecture slides and weekly materials on Moodle
+          Relevant journal articles, case studies, and financial market data
+          (provided during the semester)
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   8 / 38
+ Assessment Overview
+
+
+          The unit is assessed by a 100% final examination.
+          The examination will take place during the January exam period.
+          Detailed information on exam length, structure, and permitted
+          materials will be provided as soon as it is confirmed by the
+          Department.
+          Mock exam questions will be provided and discussed during the
+          semester to help you prepare.
+          All of the seminar questions are similar to the exam questions, so
+          make sure you understand them. From Week 6 onwards, the structure
+          of the seminar problem sets will replicate the exam format.
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   9 / 38
+ Structure of this lecture
+
+
+
+
+  Today we cover the following topics:
+          Introduction to financial derivatives
+  Reference: Hull chapter 1.
+
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   10 / 38
+                             Derivatives: what, why, and how?
+
+
+
+ What Do These Contracts Have in Common?
+
+
+  Consider three contracts
+      A contract fixing the price of oil delivered in three months
+          A contract paying £100 if the FTSE 100 exceeds a specified level
+          A contract paying a farmer if rainfall falls below a threshold
+
+  Question: What determines the value of each contract?
+  Key idea
+  A derivative is a financial contract whose value depends on the value or
+  outcome of an underlying asset, rate, index, or event.
+
+  Examples include forwards, futures, swaps, and options.
+
+
+
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives   Aliya Kenjegalieva   11 / 38
+                             Derivatives: what, why, and how?
+
+
+
+ Why Use Derivatives?
+
+  Three decisions
+   1 An airline fixes the future price of fuel.
+
+      2   A trader uses an option to profit from an expected rise in volatility.
+      3   A dealer exploits inconsistent prices in two markets.
+
+  Match each decision to:
+
+                                Hedging              Speculation                  Arbitrage
+
+  The three principal uses
+      Hedging: reducing or transferring an existing risk
+          Speculation: taking risk in anticipation of a return
+          Arbitrage: exploiting inconsistent prices
+
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives       Aliya Kenjegalieva   12 / 38
+                             Derivatives: what, why, and how?
+
+
+
+ Where Are Derivatives Traded?
+
+
+
+  Exchange-traded                                                   Over-the-counter
+      Standardised contracts                                            Privately negotiated
+          Transparent market prices                                          Can be customised
+          Clearinghouse involvement                                          Often used by institutions
+          Usually high liquidity                                             May be centrally cleared
+
+
+  Quick decision
+  A company needs a contract tailored to an unusual exposure. Which
+  market is more likely to meet its needs and what might it give up?
+
+
+
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives      Aliya Kenjegalieva   13 / 38
+                             Derivatives: what, why, and how?
+
+
+
+ Before 2008: Risk Was Difficult to See
+
+  A network of bilateral promises
+  Many OTC derivatives were negotiated privately between banks and other
+  institutions.
+
+          Contracts could be tailored to the parties’ needs
+          Banks commonly acted as dealers and market makers
+          Counterparty exposures accumulated across institutions
+          Reporting and price transparency were limited
+          Many contracts were not centrally cleared
+
+  The systemic-risk problem
+  If one major counterparty failed, losses could spread through a network of
+  contracts whose total exposure was difficult for participants and regulators
+  to observe.
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives   Aliya Kenjegalieva   14 / 38
+                             Derivatives: what, why, and how?
+
+
+
+ After the Crisis: Making OTC Markets Safer
+
+  The post-crisis reforms
+  Depending on the contract, counterparty, and jurisdiction:
+          eligible standardised OTC derivatives may have to be cleared through
+          a central counterparty;
+          derivative transactions are reported to trade repositories;
+          uncleared contracts may face margin and risk-management rules;
+          some standardised contracts trade on organised platforms.
+
+  Quick check
+  Which reform primarily addresses each problem?
+      1   Regulators cannot observe accumulated exposures.
+      2   One counterparty may fail before paying what it owes.
+      3   A customised contract cannot be centrally cleared.
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives   Aliya Kenjegalieva   15 / 38
+                             Derivatives: what, why, and how?
+
+
+
+ What Does a Central Counterparty Do?
+
+  Without central clearing
+  Bank A and Bank B are directly exposed to each other’s default.
+
+  With central clearing
+  The CCP becomes:
+          the buyer to Bank A’s sale; and
+          the seller to Bank B’s purchase.
+
+  Key implication
+  The original trade remains economically matched, but counterparty
+  exposure is managed through the CCP’s margin and default procedures.
+
+  Question: Does clearing eliminate risk or reorganise and manage it?
+
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives   Aliya Kenjegalieva   16 / 38
+                             Derivatives: what, why, and how?
+
+
+
+ Most FX Derivative Trading Occurs OTC
+
+
+
+
+  Source: BIS, Triennial Central Bank Survey, 2019. OTC observations occur at survey dates; dotted lines interpolate between
+
+  them.
+
+ES32079 Financial Derivatives (Lecture 1)      Introduction to financial derivatives             Aliya Kenjegalieva       17 / 38
+                             Derivatives: what, why, and how?
+
+
+
+ Most FX Derivative Trading Occurs OTC
+
+
+
+
+  Read the evidence
+    1 What exactly is being measured?
+
+      2   Which market dominates FX derivative trading?
+      3   Can turnover be interpreted as the amount of money at risk?
+
+
+
+
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives   Aliya Kenjegalieva   18 / 38
+                             Derivatives: what, why, and how?
+
+
+
+ The Same Derivative Can Serve Different Purposes
+
+
+  Classify each position
+      1   An airline buys oil futures because it must purchase fuel in six months.
+      2   A trader buys oil futures because she expects oil prices to rise.
+      3   A dealer simultaneously buys and sells equivalent contracts quoted at
+          inconsistent prices.
+
+  Purpose depends on the existing exposure
+      1   Hedging: offsets an existing business risk
+      2   Speculation: deliberately takes market risk
+      3   Arbitrage: exploits inconsistent prices
+
+
+
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives   Aliya Kenjegalieva   19 / 38
+                                                   Forwards
+
+
+
+ Can We Fix Today the Price Paid in Three Months?
+
+
+  The situation
+  A UK firm will need to buy one unit of an asset in three months.
+  The asset costs £100 today, but its future price is uncertain.
+
+  A forward contract
+  The firm agrees today to buy the asset in three months for a price of £105.
+
+          The transaction occurs at a specified future date, T
+          The delivery price, K = 105, is fixed today
+          Both parties are obliged to complete the transaction
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   20 / 38
+                                                   Forwards
+
+
+
+ Every Forward Has Two Sides
+
+
+
+  Long forward                                                    Short forward
+  The long party agrees to:                                       The short party agrees to:
+          buy the underlying asset;                                        sell the underlying asset;
+          at time T ;                                                      at time T ;
+          for the delivery price K .                                       for the delivery price K .
+
+
+  Quick check
+  If the market price at maturity rises above K , which party benefits?
+
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives        Aliya Kenjegalieva   21 / 38
+                                                   Forwards
+
+
+
+ The Long Forward Payoff Is ST − K
+
+
+  Suppose the delivery price is K = 105.
+                      ST          Asset received               Payment              Long payoff
+                     £80               +80                      −105                   −25
+                     £105             +105                      −105                     0
+                     £130             +130                      −105                   +25
+
+  General result
+  At maturity, the payoffs are
+
+                               Πlong
+                                T    = ST − K ,                   Πshort
+                                                                   T     = K − ST .
+
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives        Aliya Kenjegalieva   22 / 38
+                                                   Forwards
+
+
+
+ The Forward Rate Depends on Maturity
+
+
+
+
+  Read the quotation
+      1   What is the spot rate?
+      2   What six-month rate can be fixed today?
+      3   Why might a firm prefer the forward rate to waiting?
+
+  Exchange-rate convention: USD per GBP.
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   23 / 38
+                                                     Forwards
+
+
+
+ A Treasurer Must Pay £1 Million in Six Months
+
+  The exposure
+  A US firm must pay a UK supplier £1 million in six months.
+  If sterling appreciates, the dollar cost of the payment will rise.
+
+  The hedge
+  The treasurer enters a long forward to buy £1 million at
+
+                                            K = 1.5532 USD per GBP.
+
+  The dollar payment fixed today is
+
+                                   $1,000,000 × 1.5532 = $1,553,200.
+
+  Question: Has the treasurer guaranteed a profit or guaranteed the dollar
+  cost of the future payment?
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives   Aliya Kenjegalieva   24 / 38
+                                                   Forwards
+
+
+
+ What Is the Forward Worth at Maturity?
+
+
+
+                          Πlong
+                           T    = 1,000,000(ST − K ),                               K = 1.5532.
+
+                  Spot rate ST              Forward payoff                    Interpretation
+                     1.4500                   −$103,200                     Sterling depreciated
+                     1.5532                       $0                             Break-even
+                     1.6500                    +$96,800                     Sterling appreciated
+
+  General result
+  The long forward gains when ST > K and loses when ST < K .
+
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives          Aliya Kenjegalieva   25 / 38
+                                                   Forwards
+
+
+
+ The Long Forward Gains When ST > K
+
+
+                                                                             Reading the graph
+                                                                             The payoff is
+
+                                                                                    Πlong
+                                                                                     T    = ST − K .
+
+                                                                             The line has slope +1: a £1
+                                                                             increase in ST increases the
+                                                                             payoff by £1 per unit.
+
+  Prediction
+  What should the short-forward payoff graph look like?
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives       Aliya Kenjegalieva   26 / 38
+                                                   Forwards
+
+
+
+ Long and Short Forward Payoffs
+
+                   Long forward                                                     Short forward
+
+
+
+
+                  Πlong
+                   T    = ST − K                                                    Πshort
+                                                                                     T     = K − ST
+
+  What do you notice?
+              Πlong
+               T    + Πshort
+                       T     = 0: one party’s gain is the other party’s loss.
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives          Aliya Kenjegalieva   27 / 38
+                                                    Futures
+
+
+
+ A Futures Contract Resembles a Forward - But Trades
+ Differently
+  What remains the same?
+  A futures contract creates an obligation to buy or sell an underlying asset
+  at a specified price and future date.
+
+                                             Forward                                Futures
+          Trading venue                    Usually OTC                         Exchange-traded
+          Contract terms                   Customised                            Standardised
+          Counterparty                     Other party                           Clearinghouse
+          Settlement                    Mainly at maturity                   Daily gains and losses
+          Margin                        Contract-dependent                  Margin account required
+
+  Key question
+  If long and short futures payoffs offset each other, why does the exchange
+  require both parties to post margin?
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives     Aliya Kenjegalieva   28 / 38
+                                                     Futures
+
+
+
+ Futures Gains and Losses Are Settled Daily
+  Example
+  A trader takes a long position in one futures contract.
+  Each contract covers 100 units, and the futures price rises from £50 to
+  £53 during the day.
+
+  Daily gain
+
+                              Daily gain = contract size × price change
+                                            = 100(53 − 50) = 300.
+
+  General result
+  For a long position in N contracts, each covering q units,
+
+                                            ∆Vt = Nq(Ft − Ft−1 ).
+
+  For a short position, the sign is reversed.
+ES32079 Financial Derivatives (Lecture 1)    Introduction to financial derivatives   Aliya Kenjegalieva   29 / 38
+                                                      Futures
+
+
+
+ Margin Reduces the Risk of Non-Payment
+          Initial margin: funds deposited when the position is opened
+          Variation margin: daily gains or losses added to the account
+          Maintenance margin: minimum permitted account balance
+          Margin call: request to restore the account balance
+
+  Calculate the margin balance
+  A trader deposits initial margin of £2,000.
+  The futures position loses £600 on Day 1 and £500 on Day 2.
+
+                                     Margin balance after Day 2 = ?
+
+  Answer
+                                            2,000 − 600 − 500 = 900.
+  If the maintenance margin exceeds £900, the trader receives a margin call.
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives   Aliya Kenjegalieva   30 / 38
+                                                    Futures
+
+
+
+ Can You Read a Futures Position?
+
+
+  Three positions
+      1   Long 100 oz. of gold for December delivery at US$1,400 per oz.
+      2   Short £62,500 for March delivery at 1.5500 USD per GBP.
+      3   Short 1,000 barrels of oil for April delivery at US$90 per barrel.
+
+  For each position, identify:
+      1   the underlying;
+      2   the contract size;
+      3   the delivery month;
+      4   the agreed futures price;
+      5   whether the trader benefits from a price rise or fall.
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   31 / 38
+                                                    Options
+
+
+
+ Would You Pay to Keep a Choice Open?
+
+
+  Two contracts
+  You may acquire an asset in three months for £100.
+      1   You are obliged to buy it for £100.
+      2   You have the right, but not the obligation, to buy it for £100.
+
+  The key distinction
+      A forward or futures contract creates an obligation.
+          An option gives its buyer a right.
+          The option buyer pays a premium for that right.
+
+  Question: Which contract is more valuable to its holder and why?
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   32 / 38
+                                                      Options
+
+
+
+ A Call Option Gives the Right to Buy
+  Call option
+  A call gives its holder the right, but not the obligation, to buy an
+  underlying asset for the strike price K .
+
+  Exercise decision
+  Suppose K = 100.
+  Would you exercise the call if the market price at maturity is:
+
+                              ST = 70,               ST = 100,                   ST = 130?
+                                             ST      Exercise?              Payoff
+                                            £70          No                  £0
+                                            £100     Indifferent             £0
+                                            £130        Yes                  £30
+
+                                             CT = max(ST − K , 0).
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives      Aliya Kenjegalieva   33 / 38
+                                                      Options
+
+
+
+ A Call Option Gives the Right to Buy
+  Call option
+  A call gives its holder the right, but not the obligation, to buy an
+  underlying asset for the strike price K .
+
+  Exercise decision
+  Suppose K = 100.
+  Would you exercise the call if the market price at maturity is:
+
+                              ST = 70,               ST = 100,                   ST = 130?
+                                             ST      Exercise?              Payoff
+                                            £70          No                  £0
+                                            £100     Indifferent             £0
+                                            £130        Yes                  £30
+
+                                             CT = max(ST − K , 0).
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives      Aliya Kenjegalieva   34 / 38
+                                                      Options
+
+
+
+ A Call Option Gives the Right to Buy
+  Call option
+  A call gives its holder the right, but not the obligation, to buy an
+  underlying asset for the strike price K .
+
+  Exercise decision
+  Suppose K = 100.
+  Would you exercise the call if the market price at maturity is:
+
+                              ST = 70,               ST = 100,                   ST = 130?
+                                             ST      Exercise?              Payoff
+                                            £70          No                  £0
+                                            £100     Indifferent             £0
+                                            £130        Yes                  £30
+
+                                             CT = max(ST − K , 0).
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives      Aliya Kenjegalieva   35 / 38
+                                                      Options
+
+
+
+ A Put Option Gives the Right to Sell
+  Put option
+  A put gives its holder the right, but not the obligation, to sell an
+  underlying asset for the strike price K .
+
+  Your turn
+  For a put with K = 100, determine the payoff when
+
+                              ST = 70,                ST = 100,                   ST = 130.
+
+                                             ST      Exercise?              Payoff
+                                            £70         Yes                  £30
+                                            £100     Indifferent             £0
+                                            £130         No                  £0
+
+                                             PT = max(K − ST , 0).
+ES32079 Financial Derivatives (Lecture 1)     Introduction to financial derivatives       Aliya Kenjegalieva   36 / 38
+                                                       Options
+
+
+
+ Payoff Is Not the Same as Profit
+  Long-call payoff
+
+                                            PayoffT = max(ST − K , 0).
+
+  Long-call profit
+  Ignoring interest on the initial premium,
+
+                                     ProfitT = max(ST − K , 0) − c0 ,
+
+  where c0 is the option premium.
+
+  Break-even
+  For a call with K = 100 and premium c0 = 8, at what underlying price
+  does the buyer break even?
+
+
+                                               ST = K + c0 = 108.
+ES32079 Financial Derivatives (Lecture 1)      Introduction to financial derivatives   Aliya Kenjegalieva   37 / 38
+                                                    Options
+
+
+
+ When May the Option Be Exercised?
+
+
+  European option
+  May be exercised only on its expiration date.
+
+  American option
+  May be exercised at any time up to and including its expiration date.
+
+  Concept check
+  An American option is otherwise identical to a European option.
+  Should the American option ever be worth less?
+
+  No. It provides at least the same exercise opportunities and possibly more.
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives   Aliya Kenjegalieva   38 / 38
+

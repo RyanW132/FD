@@ -1,0 +1,47 @@
+# lecture-3: physical PDF page 21
+
+<a id="lecture-3-pdfPage-021"></a>
+
+- Source ID: `lecture-3`
+- Original: `context/lecture slides/Lecture 3 Interest rates and bonds.pdf`
+- Original SHA-256: `df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e`
+- Locator: `pdfPage:21` (physical page; not printed slide numbering)
+- Fidelity status: raw layout extraction; independent visual QA pending. Equations, glyphs and diagrams are not certified by extraction success.
+
+![Original physical PDF page 21; visual evidence, not an accessible textual transcription](../assets/page-21.png)
+
+## Uncorrected layout extraction
+
+```text
+                                 Bootstrapping the Zero Curve
+
+
+
+ Bootstrap Step 1: Zero-Coupon Instruments
+
+
+  For a zero-coupon bond with price B, face value 100, and maturity T ,
+                                                           
+                        −R(T )T                   1     100
+               B = 100e          =⇒ R(T ) = ln                .
+                                                 T       B
+
+  Therefore,                                            
+                                           1        100
+                               R(0.25) =       ln          = 10.127%,
+                                         0.25       97.5
+                                                        
+                                           1        100
+                               R(0.50) =       ln          = 10.469%,
+                                         0.50       94.9
+                                                  
+                                              100
+                               R(1.00) = ln          = 10.536%.
+                                              90.0
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   21 / 41
+```
+
+> Math retrieval warning: the layout text flattens fractions, superscripts, subscripts and sums. Inspect the linked original page image before teaching or transcribing mathematics. Image preservation is not verified mathematical text.

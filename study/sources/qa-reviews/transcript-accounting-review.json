@@ -1,0 +1,715 @@
+{
+  "schemaVersion": 1,
+  "reviewer": "independent-verifier /root/g005_transcript_accounting_audit",
+  "reviewedAt": "2026-10-22T14:34:33.706213+00:00",
+  "verdict": "PARTIAL",
+  "accounting": {
+    "schemaVersion": 1,
+    "verdict": "PASS",
+    "scope": "Raw transcript byte/physical-line/anchor accounting only; not audio accuracy, independent semantic conversion, mapping or teaching approval",
+    "fixtureChecks": 7,
+    "totalOriginalBytes": 204989,
+    "totalPhysicalLines": 4967,
+    "checks": [
+      {
+        "sourceId": "transcript-week-1",
+        "verdict": "PASS",
+        "originalBytes": 71639,
+        "originalSHA256": "f760b4cee2b4dd52a683d78c6d0d72324a9393027feea641362c8b8cd52f6520",
+        "rawByteIdentity": true,
+        "fullAnchoredTextIdentity": true,
+        "physicalLines": 1705,
+        "blankLines": 852,
+        "separators": {
+          "CRLF": 1704,
+          "LF": 1,
+          "CR": 0,
+          "unterminated": 0
+        },
+        "utf8BOM": false,
+        "unitCount": 1705,
+        "pendingCoverageCount": 1705,
+        "associationCount": 0,
+        "sourceMetadataDigest": "c52c7e412d56a64e460131fafb6cc7b0e2d8122a5ff2c7ac3bb50a9f88bdfce5",
+        "sourceSpecificCanonicalDigest": "4cad576edd1ee63223d569440d0b74dc823576c4dd6c77bcc77512b890ef70a4"
+      },
+      {
+        "sourceId": "transcript-week-2",
+        "verdict": "PASS",
+        "originalBytes": 64239,
+        "originalSHA256": "87e5d91c1be5fbf463fe84b486c328afcfcaea4844fcfb282f342859d6e073d0",
+        "rawByteIdentity": true,
+        "fullAnchoredTextIdentity": true,
+        "physicalLines": 1603,
+        "blankLines": 801,
+        "separators": {
+          "CRLF": 1602,
+          "LF": 1,
+          "CR": 0,
+          "unterminated": 0
+        },
+        "utf8BOM": false,
+        "unitCount": 1603,
+        "pendingCoverageCount": 1603,
+        "associationCount": 0,
+        "sourceMetadataDigest": "e3a5235f80b6b4556a4af30e008f1e6a4bdad88f2e99ea5152ee4e72f718243c",
+        "sourceSpecificCanonicalDigest": "a6a8d791c0a1a11e91035a7f5abdd1f8b1d367c55d9a31b1e2fe757a36fe214a"
+      },
+      {
+        "sourceId": "transcript-week-3",
+        "verdict": "PASS",
+        "originalBytes": 69111,
+        "originalSHA256": "c65b6b4a8d053ab12a0ddb7f46f4ec6c8566b29fa5a3387688b4482e0ae00917",
+        "rawByteIdentity": true,
+        "fullAnchoredTextIdentity": true,
+        "physicalLines": 1659,
+        "blankLines": 829,
+        "separators": {
+          "CRLF": 1658,
+          "LF": 1,
+          "CR": 0,
+          "unterminated": 0
+        },
+        "utf8BOM": false,
+        "unitCount": 1659,
+        "pendingCoverageCount": 1659,
+        "associationCount": 0,
+        "sourceMetadataDigest": "edd435e56db49c6c0c555c36493274b727eafdef8c775532279cd6ab997fd442",
+        "sourceSpecificCanonicalDigest": "1ec5b012f3a8f402944189425ef34877bcf46ff0e139fbc375148c5658f45aa7"
+      }
+    ],
+    "inputs": [
+      {
+        "path": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week1_Captions_English (United Kingdom).txt",
+        "sha256": "f760b4cee2b4dd52a683d78c6d0d72324a9393027feea641362c8b8cd52f6520",
+        "byteLength": 71639
+      },
+      {
+        "path": "study/sources/extracted/transcript-week-1/original.txt",
+        "sha256": "f760b4cee2b4dd52a683d78c6d0d72324a9393027feea641362c8b8cd52f6520",
+        "byteLength": 71639
+      },
+      {
+        "path": "study/sources/extracted/transcript-week-1/transcript.md",
+        "sha256": "1368d5d8a1156f3e54b280bb562531c3753f61afe875fc8bf362c1d9f729c81d",
+        "byteLength": 131955
+      },
+      {
+        "path": "study/sources/extracted/transcript-week-1/ingestion.json",
+        "sha256": "b8951e6ff20fee27ac77f764523a64b0c99ef3cdbf42e2fdaf929665be799110",
+        "byteLength": 1124
+      },
+      {
+        "path": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week2_Captions_English (United Kingdom).txt",
+        "sha256": "87e5d91c1be5fbf463fe84b486c328afcfcaea4844fcfb282f342859d6e073d0",
+        "byteLength": 64239
+      },
+      {
+        "path": "study/sources/extracted/transcript-week-2/original.txt",
+        "sha256": "87e5d91c1be5fbf463fe84b486c328afcfcaea4844fcfb282f342859d6e073d0",
+        "byteLength": 64239
+      },
+      {
+        "path": "study/sources/extracted/transcript-week-2/transcript.md",
+        "sha256": "5605c6b1ba820e23997514ad38d05cad9d70968cc0dc009ecbca5968b5a25778",
+        "byteLength": 120883
+      },
+      {
+        "path": "study/sources/extracted/transcript-week-2/ingestion.json",
+        "sha256": "988b4491760b6f70a2142ae757e57c032d6609556217c18f39e477c20324be87",
+        "byteLength": 1124
+      },
+      {
+        "path": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week3_Captions_English (United Kingdom).txt",
+        "sha256": "c65b6b4a8d053ab12a0ddb7f46f4ec6c8566b29fa5a3387688b4482e0ae00917",
+        "byteLength": 69111
+      },
+      {
+        "path": "study/sources/extracted/transcript-week-3/original.txt",
+        "sha256": "c65b6b4a8d053ab12a0ddb7f46f4ec6c8566b29fa5a3387688b4482e0ae00917",
+        "byteLength": 69111
+      },
+      {
+        "path": "study/sources/extracted/transcript-week-3/transcript.md",
+        "sha256": "54ce0e148d9427c2a5b64a4b365d22409391a5956802599ec7fd303a6a058d44",
+        "byteLength": 127771
+      },
+      {
+        "path": "study/sources/extracted/transcript-week-3/ingestion.json",
+        "sha256": "4b3d63f0fc6871aada4e99eb0972b033715e2c4a4f029e2e02c5a3c40ade7519",
+        "byteLength": 1124
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-020.md",
+        "sha256": "19718f2f8a327ef694f0d2bc2abf5613c32790e11d65e37d26e0edc5740daded",
+        "byteLength": 2447
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-022.md",
+        "sha256": "d977cc8c0fba9a875f64f23ef9d2eb88c9079ddedbf77b8f390e000e901a9516",
+        "byteLength": 2787
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-024.md",
+        "sha256": "0d129ff888a2eebcd3ea3dbb63958a5c7fc35656d9b9e9123291a657393fe423",
+        "byteLength": 3462
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-025.md",
+        "sha256": "173c9cac8429bf9af52458eeea999bf7d7fada769c072b548880760e4c5344f0",
+        "byteLength": 2541
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-026.md",
+        "sha256": "17c75f9a22fe433f8004d0d834bc631fbb399ef692a9476ce196726be1dd3811",
+        "byteLength": 3781
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-027.md",
+        "sha256": "c54481eaa774c1267b0f8fcf34ad663549d47253001df155a4a3d52d2344fffb",
+        "byteLength": 3792
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-028.md",
+        "sha256": "5f62186d262de6162ec8b7a4b63c67166107ae9accb5b5c6440be22a13b2d574",
+        "byteLength": 2625
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-030.md",
+        "sha256": "fe464d096272fb28ba67fd0798005aa350e743f9cbeab431326aa4906cf5db5b",
+        "byteLength": 3421
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-037.md",
+        "sha256": "55a7e5de9d125e2f3825c35cda2e106079d21208ae11899da37509104b5433b1",
+        "byteLength": 2862
+      },
+      {
+        "path": "study/sources/annotated/lecture-1/page-038.md",
+        "sha256": "b33c4e455c4ec26e329990f3949fcad9975a81b2d2f35bc153cc45bbeecd774c",
+        "byteLength": 2637
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-004.md",
+        "sha256": "a2431ed90e5dbc0baba46464a32e419b1904c59dcc349bd857802bf438196173",
+        "byteLength": 2327
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-006.md",
+        "sha256": "0e160b99da0cd1fe8f971a4288b963f084461fb9b1063bdd775a89bf67e13271",
+        "byteLength": 2431
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-007.md",
+        "sha256": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+        "byteLength": 4631
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-009.md",
+        "sha256": "5a6056de43e88832441b3f827337768bc9b5e82b4afdc42652b18fc9119818c9",
+        "byteLength": 2625
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-013.md",
+        "sha256": "a96a4f510507c6855f04b87549c336afbc96143d4484143d5d34f31b22d7ca8d",
+        "byteLength": 2349
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-014.md",
+        "sha256": "c87d776a5cc5b4b411c740678a24ed53b6c468338bda0764369aae29e5c42fd3",
+        "byteLength": 2697
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-016.md",
+        "sha256": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+        "byteLength": 3563
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-017.md",
+        "sha256": "98b12615ff0051743c6f3734dee85156d5b0ed11ccf4507f23299c42350346bc",
+        "byteLength": 2933
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-020.md",
+        "sha256": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+        "byteLength": 2830
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-025.md",
+        "sha256": "6eb2a93966ebff4b11e03540007e8a6c763568d91c317b2f2c90bdaf988c1e29",
+        "byteLength": 2757
+      },
+      {
+        "path": "study/sources/annotated/lecture-2/page-029.md",
+        "sha256": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+        "byteLength": 3486
+      },
+      {
+        "path": "study/sources/annotated/lecture-3/page-001.md",
+        "sha256": "6a8e4a5cebbd222224b6eb957831ea801c9cbef2b85f2bb3a4ce31ac0a0c4d01",
+        "byteLength": 682
+      },
+      {
+        "path": "study/sources/annotated/lecture-3/page-006.md",
+        "sha256": "bf85d88799a613c02e540b9d0b4de55bc6232c368f5ded938a48e8a936cd6b4a",
+        "byteLength": 2026
+      },
+      {
+        "path": "study/sources/annotated/lecture-3/page-008.md",
+        "sha256": "56ea41c708ca19f0b693ea99270d9a5408d8614ba5803760d81bf76673d352db",
+        "byteLength": 2538
+      },
+      {
+        "path": "study/sources/annotated/lecture-3/page-011.md",
+        "sha256": "64f922bbd39c382e19f0adb15750537ea15c0469ef5a19968005021254626b56",
+        "byteLength": 4511
+      },
+      {
+        "path": "study/sources/annotated/lecture-3/page-012.md",
+        "sha256": "5aa58fed8c8dc902675a71f3c5f219bddb65891e3f3df4252c91bd50d59124a8",
+        "byteLength": 2925
+      },
+      {
+        "path": "study/sources/annotated/lecture-3/page-014.md",
+        "sha256": "aad1ce042f2fc30c71f25bdbea69effd774dc16a787df2c0e6f7c6465fe497f2",
+        "byteLength": 2074
+      },
+      {
+        "path": "study/sources/annotated/lecture-3/page-015.md",
+        "sha256": "5e5ecd96b9242dc6a148e5a0d869d01e1629ecf244757e6069dd35d115936962",
+        "byteLength": 2512
+      },
+      {
+        "path": "study/sources/annotated/lecture-3/page-016.md",
+        "sha256": "2494d61bdb2b6e81753fa4c0a6b3f728740f21ac4f63f057b0d4754f137233b2",
+        "byteLength": 3386
+      },
+      {
+        "path": "study/lib/policy.mjs",
+        "sha256": "a9bdfc98ccf297173c5267ee9e2e2a65b865f70e115035871247bd12b191972b",
+        "byteLength": 14033
+      }
+    ]
+  },
+  "semanticConversionVerdict": "NOT_APPROVED",
+  "exhaustiveMappingVerdict": "NOT_ESTABLISHED",
+  "teachingVerdict": "NOT_EVALUATED",
+  "bootstrapTrial": {
+    "verdict": "FAIL",
+    "entryFileBytes": 11122,
+    "requiredContractBytes": 23472,
+    "cumulativeFileBytes": 34594,
+    "limit": 32768,
+    "reason": "Required contractgroup read before declaring continuation despite sizeprecheck. Wrapper/resultbytes additional, so34594is lowerbound. Never retroactively relabelled."
+  },
+  "manualReadEvidence": {
+    "transcripts": [
+      {
+        "sourceId": "transcript-week-1",
+        "chunks": [
+          [
+            1,
+            600
+          ],
+          [
+            601,
+            1200
+          ],
+          [
+            1201,
+            1705
+          ]
+        ],
+        "completeUnclipped": true
+      },
+      {
+        "sourceId": "transcript-week-2",
+        "chunks": [
+          [
+            1,
+            600
+          ],
+          [
+            601,
+            1200
+          ],
+          [
+            1201,
+            1603
+          ]
+        ],
+        "completeUnclipped": true
+      },
+      {
+        "sourceId": "transcript-week-3",
+        "chunks": [
+          [
+            1,
+            600
+          ],
+          [
+            601,
+            1200
+          ],
+          [
+            1201,
+            1659
+          ]
+        ],
+        "completeUnclipped": true
+      }
+    ],
+    "lectureNormalizedPages": "All29 complete filebytes listed in accounting.inputs; no imagevisualapproval in this audit."
+  },
+  "tentativeAssociations": [
+    {
+      "sourceId": "transcript-week-1",
+      "lines": [
+        1316,
+        1438
+      ],
+      "lecturePages": {
+        "lecture-1": [
+          20,
+          22
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "Same three-month asset purchase, spot100, delivery105 and80/105/130 payoff scenarios; substantive numerical overlap, not filename inference."
+    },
+    {
+      "sourceId": "transcript-week-1",
+      "lines": [
+        1544,
+        1698
+      ],
+      "lecturePages": {
+        "lecture-1": [
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "GBP1million six-month forward and long/short diagram/slope discussion; line1618 says slide25. Final passage can overlap26/27; exact boundary unresolved."
+    },
+    {
+      "sourceId": "transcript-week-2",
+      "lines": [
+        106,
+        242
+      ],
+      "lecturePages": {
+        "lecture-1": [
+          26,
+          27,
+          28
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "Explicit prior-session long/short payoff continuation, then forward/futures comparison."
+    },
+    {
+      "sourceId": "transcript-week-2",
+      "lines": [
+        302,
+        342
+      ],
+      "lecturePages": {
+        "lecture-1": [
+          30
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "Initial2000 less600 less500 gives900; transcript disagrees with itself on threshold."
+    },
+    {
+      "sourceId": "transcript-week-2",
+      "lines": [
+        638,
+        704
+      ],
+      "lecturePages": {
+        "lecture-1": [
+          37,
+          38
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "Call strike100 premium8 break-even108 then European/American exercise. Line704 explicitly announces move tolecture2 after break."
+    },
+    {
+      "sourceId": "transcript-week-2",
+      "lines": [
+        862,
+        1068
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          4,
+          6,
+          7
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "Line862 explicitly startslecture2;2000budget/20spot/22.5strike/1premium plus London/NewYork150/153 example."
+    },
+    {
+      "sourceId": "transcript-week-2",
+      "lines": [
+        1076,
+        1178
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          9
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "1000shares,27.5strike,20spot,7500put and27500combinedvalue."
+    },
+    {
+      "sourceId": "transcript-week-2",
+      "lines": [
+        1320,
+        1588
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          13,
+          14,
+          16
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "52/47/48 effective51 basis example then minimum-variance hedge ratio derivation; no full lecture 2 completion."
+    },
+    {
+      "sourceId": "transcript-week-3",
+      "lines": [
+        214,
+        408
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          17,
+          20
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "Regression slope interpretation and distinctive2million/42000/0.928/0.0263/0.0313 airlineexample. Caption ratio differs from slide."
+    },
+    {
+      "sourceId": "transcript-week-3",
+      "lines": [
+        710,
+        738
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          25
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "5million portfolio/250000notional/1.2beta gives24shortcontracts and target0.5 gives14."
+    },
+    {
+      "sourceId": "transcript-week-3",
+      "lines": [
+        1008,
+        1016
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          29
+        ],
+        "lecture-3": [
+          1
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "Explicit end-summary and start-third-lecture/interest-rates announcement; crosslecture boundary, not week 3=lecture 3."
+    },
+    {
+      "sourceId": "transcript-week-3",
+      "lines": [
+        1160,
+        1650
+      ],
+      "lecturePages": {
+        "lecture-3": [
+          6,
+          8,
+          11,
+          12,
+          14,
+          15,
+          16
+        ]
+      },
+      "confidence": "tentative",
+      "evidence": "100at10%,5000 to 5800,5year5%zero,2year6%coupon/98.39price/6.76yield and coupon-yield parrule. Ends aroundphysical16; no evidence of remainder orlecture4."
+    }
+  ],
+  "unresolvedFindings": [
+    {
+      "id": "TR-01",
+      "sourceId": "transcript-week-2",
+      "lines": [
+        332,
+        340
+      ],
+      "lecturePages": {
+        "lecture-1": [
+          30
+        ]
+      },
+      "finding": "Same900threshold first yields no margin call, then yields call. Normalized slide says call if maintenance exceeds900. Do not resolve source/audio ambiguity by silent correction."
+    },
+    {
+      "id": "TR-02",
+      "sourceId": "transcript-week-2",
+      "lines": [
+        902,
+        1008
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          4,
+          6
+        ]
+      },
+      "finding": "Multiple damaged numbers/quantity/strike references:2.5vs22.5,200vs2000shares,300vs3000callprofit. Compare full table, not captions as checked numerical authority."
+    },
+    {
+      "id": "TR-03",
+      "sourceId": "transcript-week-2",
+      "lines": [
+        1154,
+        1198
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          9
+        ]
+      },
+      "finding": "Caption discussion suggests losses above floor/no money lost below 26500. Slide totalvalue preserves35000 atspot 35; floor net premium is not profit netinitial 28000share cost. No unconditional no-loss claim."
+    },
+    {
+      "id": "TR-04",
+      "sourceId": "transcript-week-2",
+      "lines": [
+        1294,
+        1380
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          13,
+          14
+        ]
+      },
+      "finding": "Caption says basis normally/alwayspositive; same example47minus48 givesminus1. Slide convergence explicitly conditional on same underlying/delivery terms. Preserve contradiction, not universalpositivebasis."
+    },
+    {
+      "id": "TR-05",
+      "sourceId": "transcript-week-3",
+      "lines": [
+        84,
+        180
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          16,
+          17
+        ]
+      },
+      "finding": "Spot-change standard deviation appears0.033(line84),0.003(line168),0.03(line178); stated0.60 requires0.03 with rho 0.8 and futures 0.04. No recording supplied to resolve speech/caption origin."
+    },
+    {
+      "id": "TR-06",
+      "sourceId": "transcript-week-3",
+      "lines": [
+        374,
+        408
+      ],
+      "lecturePages": {
+        "lecture-2": [
+          20
+        ]
+      },
+      "finding": "Caption ratio0.728and7to8% conflicts with displayed0.928*(0.0263/0.0313)approximately0.780.37contracts alone does not validate every caption number; hedge ratio is not general percent risk eliminated."
+    },
+    {
+      "id": "TR-07",
+      "sourceId": "transcript-week-3",
+      "lines": [
+        1298,
+        1318
+      ],
+      "lecturePages": {
+        "lecture-3": [
+          8
+        ]
+      },
+      "finding": "Caption EAR5% for10%nominalsemiannual conflicts with1.05^2minus1=10.25%."
+    },
+    {
+      "id": "TR-08",
+      "sourceId": "transcript-week-3",
+      "lines": [
+        1422,
+        1438
+      ],
+      "lecturePages": {
+        "lecture-3": [
+          11
+        ]
+      },
+      "finding": "Caption10.5%/10.41% and printed10.15%/10.41% are not valid answers for5000 to 5800over 1.5 years. Distinct continuous9.894667%,nominalsemiannual10.143515%,effectiveannual10.400742%. Already-labelled source error must remain visible."
+    },
+    {
+      "id": "TR-09",
+      "sourceId": "transcript-week-3",
+      "lines": [
+        1444,
+        1488
+      ],
+      "lecturePages": {
+        "lecture-3": [
+          12
+        ]
+      },
+      "finding": "Caption describes deferred coupon payments and positive present-value exponent. Slide defines no intermediate payments and negative discount exponent. Raw retention cannot certify semanticaccuracy."
+    },
+    {
+      "id": "TR-10",
+      "sourceId": "transcript-week-3",
+      "lines": [
+        1608,
+        1648
+      ],
+      "lecturePages": {
+        "lecture-3": [
+          14,
+          15,
+          16
+        ]
+      },
+      "finding": "Caption price19.38/90.38 differs from98.39slide; coupon-vs-yieldparcomparison needs matched rate conventions. Preserve normalized authorqualification and source conflict."
+    }
+  ],
+  "publicationImplication": "All4967 current transcriptunits areunknown/needs-review and coveragepending. policy.mjs lineage addUnit marksunknown when status not verified OR classification unknown; permitted rejectsunknown. Therefore theseunits are omitted from verified defaultKB projections bycurrentcode. This is sourcecode+status evidence, not a new end-to-end full repository query run. Explicit draft does not override that lineagegate. No canonical association/status changes made.",
+  "gaps": [
+    "No source audio/video supplied or inspected; cannot distinguish lecturererror from automaticcaptionerror.",
+    "No exhaustive one-to-many transcriptunit-to-lectureunitmapping or blank/admin/substantiveclassification; all associations here tentative.",
+    "Not an independent full lecture visualconversion review; normalizedpages are comparative evidence only.",
+    "No canonicalsourceissues added by this audit; source-level open issues should track findings before normalized transcriptpromotion.",
+    "Initialbootstrap32KiBtrial failed as recorded."
+  ],
+  "recommendation": "Preserve exactoriginal.txt and anchoredraw transcript; retainunknownstatus. Future separate author may produce labellednormalized transcriptspans with preciseoriginal lines and slide evidence, unresolvedconflicts explicit; a different reviewer must verify every promoted span and actualassociation. Record source-level open issues. Do not require transcriptmapping tofakelecturecoverage or inferlecture4companion.",
+  "helper": {
+    "path": "study/sources/qa-reviews/verify-transcript-accounting.mjs",
+    "sha256": "78dd83b5a9ab2b44b9af7d404695b64e80d1d5578d3e2f1babfcb4db5d336812"
+  }
+}

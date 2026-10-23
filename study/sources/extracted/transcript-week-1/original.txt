@@ -1,0 +1,1705 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Good morning everyone. So early in the morning we have our lectures.
+
+Uh, so this is financial derivatives.
+
+And from the beginning, I would like to tell everyone that this unit will be quite quantitative, so I hope you're all okay with that.
+
+Okay. My name is Ali and I'm lecturer in economics.
+
+Some of you might know me from a study abroad program, but I normally do not teach undergraduate students.
+
+I teach, um, postgraduate students only. Okay.
+
+Uh, so for this unit, uh, as I mentioned, my name is Aliya.
+
+I am director of internationalisation and study abroad program for economics students.
+
+Uh, I will try to provide all the necessary material to you.
+
+You will see everything in advance. Mock exam papers, preparation for exam.
+
+You will all see. So please do not panic about it. Okay. Um, my email address is given.
+
+Here I am in three is 3.10. The office hours will be on Thursdays at so between the seminar classes.
+
+Uh, but I will also Provide online session as well.
+
+So, um, let me actually, uh, if I open it here just a second, I would like to show you the Moodle page.
+
+So on Moodle page you will see that I have also put um.
+
+A booking page for myself. So you can book any, um, any time or date as long as it is available to you.
+
+Okay. So if you go to, to the Moodle page of this unit,
+
+you will see some basic information about the unit and the times of lectures and seminars we would have.
+
+Okay. And within this you will see that I have this bouquet.
+
+Okay, so, um, if you click on it.
+
+It will direct. So I will just choose as a guest.
+
+Okay. So you will have a bit of message from me here. So in this message it says that, uh, unless it's Wednesday or Thursday,
+
+other days will probably be on teams because I work on campus only on Wednesdays and Thursdays.
+
+If you see, for example, some of the days are not available, it means that I have meetings all day that day.
+
+Okay. And the same for the for searches, you see, for searches for today, I only have these two, um, spaces because we have meetings.
+
+Wednesdays are normally meetings for teaching staff members.
+
+And as you can see for seven they can go up till 6:00 in the evening.
+
+Okay. So all other days you see they are available so you can book meeting with me at any time.
+
+Okay, just check the slot if it is available. Just book with me.
+
+Okay. Name for your emails.
+
+I normally reply to emails quite fast. If I see it on the same day I would reply.
+
+I will try to reply on the same day as soon as I sign it.
+
+But sometimes if I'm having meetings all day, like on Wednesdays, I might not see your email.
+
+So please allow me to three working days at least to reply to your emails.
+
+Okay, and if you have any questions in between my classes, please do ask me.
+
+Okay. So as you see, hopefully you've seen from your time table that we have our lectures on Wednesdays in the morning 815.
+
+I never had lectures this early in the morning, so this is the first time.
+
+And then we will have seminars on Thursdays for the first group And at 215, and seminars on Thursdays for the second group at 4:00.
+
+Some of the key people that you would need to keep in mind.
+
+So obviously it's me as a lecturer for this unit.
+
+We also have economics UG admins. I hope you know the emails and names.
+
+So it's Lucy and Sarah who are working for economics director of teaching a teacher.
+
+If you have, um, questions about the whole program rather than specific unit, but before going to a teacher, please address those questions to Maria.
+
+If you have any specific questions to my unit, please let me know.
+
+Okay, this is not actually the first time me running this unit.
+
+Um, but this is the second time me running this unit to undergraduate students.
+
+So please do let me know any feedback. I would really appreciate it.
+
+Okay, so what we will do in this unit here is a 10 million question to you.
+
+So imagine that we have this UK airline okay.
+
+And a UK airline must buy 10 million of fuel in three months.
+
+And today the exchange rate between a pound and a dollar is £0.70 for $1.
+
+What happens if the dollar becomes more expensive? Okay, so the question here specifically is that UK airline needs to buy this 10 million.
+
+Okay. But it doesn't need the 10 million.
+
+Right now it needs is 10 million. Only in three months to buy fuel.
+
+Okay. And it should be in dollar.
+
+So obviously because it's a UK airline, it operates in pounds, but it needs $10 million, but only in three months time.
+
+What can we do? Do you think we need to buy it now, while we see the exactly the exact value of the exchange rate?
+
+What do you think? Yes, yes.
+
+So we can use derivatives. Right. So there are actually two options for options here.
+
+Sorry. So one is buying the dollars today for that a given exchange rate.
+
+Okay. Because we do not know how exchange rate will change in the future.
+
+It might change to our advantage or we might not actually benefit from the future change.
+
+So it might be more expensive for us. It depends how a pound sterling will depreciate or appreciate compared to US dollars.
+
+We can agree today on a futures exchange rate.
+
+So then we sign up or we purchase a futures contract okay.
+
+Or we can buy the right but not the obligation to exchange that amount at a later time.
+
+And for us later time a three month time period. Okay.
+
+So for us it is three months time period that we are talking about, okay.
+
+Because, uh, one of the reasons why you wouldn't buy today is simple.
+
+What if the exchange rate will change in the future but to your advantage?
+
+So you are losing money and you're you're paying extra dollars to buy that amount.
+
+Okay. Sorry. No dollars. You're paying extra pounds to buy those dollars or another one.
+
+You just do nothing, and you just check what will happen in the future,
+
+and then you will adjust your expectations or whatever you need to do in financial markets at that time.
+
+In three months time. Okay. Is this clear? So this is what we will do in this unit.
+
+We will try to learn when we have problems like this, how we can solve that problem using derivatives.
+
+Okay. Okay. So what we will do in this unit.
+
+Okay. So by the end of this unit hopefully you will be able to design your derivatives.
+
+You will understand how derivatives work and how you can use derivatives for different type of transactions.
+
+Okay. Uh, represent the cash flows mathematically because we need to understand what is the
+
+underlying asset and what happens to the cash flows of that underlying asset.
+
+Because that will affect directly our derivative and the price of the derivative.
+
+Okay. Identify arbitrage opportunities. What is arbitrage opportunity.
+
+How we can exploit that opportunity to our advantage.
+
+Okay. Price derivatives using different replication methods.
+
+I will show you how we use derivatives when we have equities or when we have both.
+
+And uh under equity and bonds, what kind of prices of derivatives we should expect.
+
+Okay.
+
+And of course no arbitrage because normally we would assume that in an economy, in financial markets we shouldn't have any arbitrage opportunities.
+
+And we will discuss why. Okay. And then evaluate the limitations of pricing models.
+
+Uh so to understand how we can price derivatives based on the prices of bonds and equities.
+
+We will then need to look at different pricing models that would help us to find those prices.
+
+Okay. But we will then discuss, for example, with equities, why the model for pricing derivatives using equities might have some limitation.
+
+And why would we use another type of model for that.
+
+Okay. Do you have any questions so far. Okay.
+
+Okay. So our central question in this unit will be how can we place a price today on a payoff that depends on an uncertain future.
+
+Okay. So in this particular question we need to understand what kind of derivative
+
+we need to use in the future for that specific underlying asset that we have.
+
+And would it be possible for us to try to minimise, if not eliminate,
+
+at least to try and minimise the losses that we may face in the future using derivatives and financial markets.
+
+Okay, so what we will study. First of all go through contracts and risk.
+
+Today I will explain what type of derivatives will have very briefly.
+
+And then we will have for each that topic for example forward contracts or futures contract.
+
+We will go through those uh, during uh following lectures or options for example.
+
+Okay. But today I will quickly explain what kind of derivatives we have, how we use them and how firms can use them.
+
+Okay. To uh, and also underlying assets, what kind of underlying assets we might have there, uh, to, um, to use those derivatives with.
+
+Okay. Then we will also look at no arbitrage Pricing.
+
+We will go through the arbitrage model and why we have arbitrage opportunities in financial markets.
+
+But we will also look at no arbitrage, because we would assume that there should be no arbitrage in competitive markets.
+
+Okay. For that we need to understand how interest rates work.
+
+This is one of the first steps that we need to do.
+
+And we will do it hopefully next week. Um, it will cover all the material for today.
+
+We will do it next week. If not, it will be the following week.
+
+So week three. Okay. Uh, different type of bonds because we need to understand what kind of bonds that we are dealing with.
+
+Some of the bonds will have cash flows, but not all of the bonds will have cash flows.
+
+Some of the bonds will provide dividend payments. Some of them will not.
+
+So we need to understand those types of bonds because, uh, the pricing of those bonds will directly affect the pricing of our derivatives.
+
+Okay. And of course. Futures and forward contracts that will have.
+
+We will then go into options and non-linear payoffs.
+
+And here we will go at option properties to understand what kind of.
+
+Well we will actually start with the type of options that we have.
+
+Okay. And we will look at American and European options.
+
+And what are the biggest differences. We will also look at trading options and uh trying to see if we can deliver that option at specific time or not.
+
+For that we need to look at trading mechanisms and we need to look at binomial trees.
+
+Okay. So this is where we will see binomial models where we will try to see at what point of that tree we can actually exercise the option.
+
+Okay. And of course we will then be looking at the payoff that we will be receiving from that option.
+
+Because if we are not getting any payoff, there is no reason to exercise it, because you will be just losing by holding that option.
+
+Okay. And the last one will be extensions and limitations.
+
+We will look at credit risk because understanding credit rating and the risks that it might hold are and that is credit rating of various agencies.
+
+Okay. And I don't know financial institutions or any firms entrepreneurs corporations.
+
+Okay. So we need to understand credit rating of those agents that we have in financial markets and what kind of risk each agent might hold.
+
+Okay. Because that will directly affect the possibility of default.
+
+And we need to calculate the possibility of default. Okay.
+
+And if time permits we will go through exotic options.
+
+Okay, but that is only if time permits. Any questions to this?
+
+Will have you so far. Okay, so today we will go through some of them.
+
+But that will be only at introductory level. Okay.
+
+But later on in this unit we will go deeper into each derivatives that we have.
+
+Okay. So the main textbook the Bible for derivatives is holds options futures and other derivatives.
+
+You can use any additions uh on um Moodle page.
+
+You should be able to see the library list as well. It's given as a link.
+
+Okay. So if you click on that link it will direct you to the library and to the, uh, all of the books that I'm having here.
+
+Additional references, some of the topics, for example, market efficiency I might take from other books, not from house.
+
+For example. It might be Bailey, The Economics of financial markets, body cane and Marcos investments.
+
+Very good book if you want to learn about investments more.
+
+Okay. We will not really do as much. Bless you as much as are given in investments because that is a construction of portfolios.
+
+And we will not really do that in here. But if we have time and if you want to, I can show you a couple of topics from it.
+
+Okay. Another very good book is Brealey Myers and Principles of Corporate Finance.
+
+Again, it mostly on, uh, investment management and portfolio creation and managing those portfolios.
+
+Other resources lecture slides, weekly materials that you might see on Moodle if I upload relevant journal articles,
+
+case studies and financial market data. Now, for your exam, I would recommend you to focus on house book and lecture slides.
+
+Because lectures are limited in terms of the time, we have time constraint.
+
+I might not be able to provide all of the information for you.
+
+So some of the information will be within the book and all that information will also be examined.
+
+Okay. And plus your um tutorial question.
+
+So problem sets. Okay. So to the assessment.
+
+Now as you might know your assessment for this unit is 100% exam based.
+
+Okay. Uh examination will be sometime in January.
+
+Uh, we will know in November.
+
+Probably what it will be exactly. Okay. Uh, and you will get, uh, mock exam paper for this unit.
+
+Okay. I will probably put it around week six.
+
+Um, I can provide the mock exam paper from previous CM, but I might change it slightly.
+
+Okay. Um, all seminar questions that you will see.
+
+Okay. All seminar questions will be similar to questions that you might see in your exam.
+
+Okay.
+
+So if you are completely fine with the seminar questions with the problem set that I will provide for seminars, you should be fine with the exam.
+
+Okay. Of course, if you want to gain higher grade, you also need to work on chapters and relevant chapters and lecture slides.
+
+Okay. Uh, from week six or week five, maybe even your seminar questions, the structure of it will replicate the structure of the exam.
+
+Okay. So in your exam you will have two sections. Section A, section B in section A you would need to answer all of the questions in section B.
+
+You will have two questions and you will need to answer only one,
+
+which means that section B will probably have more sub questions and it will carry 40%.
+
+Okay, so sub subsection not subsection section A will then carry 60%.
+
+And if you have three questions that you need to answer, that means that each question will be 20% in section A okay.
+
+So from week not week six I think week five your seminar questions this not questions.
+
+The structure of seminars will replicate the structure of your exam.
+
+So I hope with all that it will be enough preparation for the exam for you to understand what kind of work at least the structure of them will be.
+
+Okay. Any questions? Okay.
+
+One thing please remember again if you are fine with seminar questions.
+
+If you can do seminar questions then you should at least get pass on it.
+
+Okay. I will then later on explain what I'm expecting on a mock exam paper.
+
+I'll explain what I'm expecting from an answer.
+
+Okay, because this is a quantitative unit, it's not only about just providing the steps of the calculation, it's also about um, why is not going.
+
+It's also about providing explanation of what you are doing in each of the step and explaining or interpreting the final answer that you have.
+
+Okay. Because then it will show me the full understanding and not just the memorisation of the steps you will have formally on on your exam.
+
+Okay, so you wouldn't need to remember all of the formulas. Any questions?
+
+To the structure of this unit or assessment or anything.
+
+Any questions? Okay. Okay.
+
+Um, so what we will cover today. We will go through integration introduction to financial derivatives.
+
+And this particular topic is based on chapter one of Hal's book.
+
+Okay. So with contracts what do these contracts have in common.
+
+Okay. So we have three contracts. You see that. The first one is a contract, uh, fixing the price of oil delivered in three months.
+
+Another one is contract paying, uh, £100.
+
+If the FTSE 100 exceeds a specified level, a contract paying a farmer if rainfall falls below a threshold.
+
+Okay. So in each of these, uh, lines that you have, what I want you to recognise whenever you see it, okay.
+
+What I want you to recognise is first that we need a contract.
+
+Okay. So that should be a derivative contract that we need to purchase for this transaction.
+
+Okay. Another one is that we need to have the price of oil.
+
+So we do care about oil and its price, which means that we are concerned that the price of oil might go up.
+
+Normally. If it goes down, it's better for us, right.
+
+Because we can buy oil at a cheaper price. But what we care is that we have to pay more for the same amount of oil.
+
+Okay. So we want to have a contract that will make sure that, uh, we do not overpay for the oil for the same amount of oil.
+
+Okay. Another thing that I want to notice is that three months.
+
+Okay. Which means that the contract should should specify the delivery of this oil should be in three months time.
+
+So the price that we are specifying in the contract should be in three months time.
+
+So in the future not today. Okay.
+
+But that price should be specified in the contract today.
+
+Okay. So for example say oil cost I don't know, $40 per barrel.
+
+But we say I will pay $45 per barrel in three months time.
+
+And this should be a seller who is willing to accept that amount of money.
+
+Okay. So in financial markets always remember there should be seller and buyer for that product,
+
+commodity, whatever it is that you are selling or you are buying.
+
+Okay, now look at another one. So we have a contract paying £100 okay.
+
+So that means it's something to do with the exchange rate okay.
+
+But then it leads us to FTSE 100 which means that we are trying to buy an index in the future.
+
+Okay. And it says exceeds a specified level.
+
+But it doesn't say when exactly we need it. Okay.
+
+But it just says that specified levels that we would need some amount of um Footsie 100 and currently we are paying £100.
+
+Okay. Now another one says Contract paying a farmer.
+
+So we have a farmer and again. Farmer needs a contract.
+
+So again we need to determine what kind of contract farmer would need.
+
+Okay. Which means that farmer probably works with commodities.
+
+Okay. But then it says if rainfall falls, which means that in our contract, our commodity is basically the rainfall.
+
+Okay. And then it says below a threshold.
+
+So again we need to specify a fit rains too much or if it doesn't rain enough.
+
+So there should be some kind of level of that rainfall that we need to determine and specify it in our contract.
+
+Now one thing that you would notice is that for each of this line we have a contract.
+
+Okay. And from this point, especially from the last one.
+
+From this rainfall part, you also need to understand that you can use derivatives for anything.
+
+It doesn't need to be a specific commodity. It doesn't need to be oil, it doesn't need to be indexed or anything else.
+
+It can be anything at all. Even rainfall, even weather, even snow.
+
+Okay, as long as you have the seller and buyer because on if we have a contract, okay.
+
+If we have a contract, there should be someone who is willing to sell it and someone who is willing to buy it.
+
+As long as you have that chain and the agents who are willing to to be on the opposite side of your contract,
+
+you will be able to have the derivative contract. Okay, just keep that in mind that it doesn't matter what is the underlying asset.
+
+It can be anything. As long as you have seller and buyer for the contract.
+
+Okay. So that what is a derivative?
+
+Derivative is a financial instrument that we use. Okay.
+
+And the price of the derivative. And this is from where the name itself comes in derivative.
+
+The price of the derivative is derived based on the price of the underlying asset.
+
+Okay. An underlying asset here is not a financial asset.
+
+It can be anything else. It can be commodity. It can be snow.
+
+It can be anything. Okay. So we do not really specify what exactly is the underlying asset because of it.
+
+It can be you see rate index event disaster anything at all.
+
+Okay. So examples of derivative contracts we will have forward contracts futures contracts.
+
+We will look at similarities between these two today and the differences between the two swaps and options.
+
+We will not really talk much about swaps, but we will talk a lot about options and how we can price them.
+
+Okay. Any questions?
+
+Oops. That's not the one. Okay.
+
+Why we need to use derivatives. Okay. Why we need derivatives.
+
+Why can't we just go buy, say shares or buy this rainfall or buy whatever it is they are available in financial markets.
+
+Okay. But you need to think about the decisions.
+
+Remember that when I was talking about the oil for a UK airline.
+
+We don't need that oil right now. We need it in three months time in the future.
+
+Okay. Because if you buy it right now, you need to store it.
+
+You need to think what you will be doing with it next and so on and so forth.
+
+Okay. Or maybe you are. You cannot afford. Really?
+
+Or maybe you are not willing to buy it right now,
+
+because you need to take those financial funds and devote those financial funds to buying it right now.
+
+Whereas you could invest it into something, get some interest payments, and in three months time then buy the oil.
+
+Okay. So whereas with buying oil, it will be just the cost of it because you need to have a storage facility for it.
+
+So you need to pay for for storing it. Okay. So what you need to remember when we have a airline.
+
+Okay. An airline fixes the futures price of fuel.
+
+That is one of the reasons that I have mentioned.
+
+Right now, we do not want to buy it exactly at this moment because we only need it in three months time.
+
+It's better to invest that monies into something else, into interest bearing assets, for example,
+
+and then get that interest payment and then in three months time, only buy what amount of oil that we need, okay.
+
+Or we have a trader who uses an option to profit from an expected rise in volatility.
+
+So there will be some traders who would need to look at the prices.
+
+And if the prices are volatile, we will talk about this later on because there are some strategies like butterfly,
+
+for example, where some traders care about the volatility of those assets and they invest in those assets.
+
+They buy those options, for example, because they can gain from the volatility of those assets.
+
+Okay. Or we have. So here it will be the volatility.
+
+All we have the dealers who exploit inconsistent prices in two markets.
+
+It might happen. So that for example imagine that we have a Microsoft stock okay.
+
+And Microsoft stock. Imagine that trades both in the London stock market but also in the New York one.
+
+Okay. Now if you look at two prices and if you take the common because we need to uh, change is the um,
+
+either the UK one, the London one because it will be traded in pounds or US one.
+
+So New York Stock Exchange because it will be traded in dollars.
+
+So we need to use the exchange rates to bring it to a common denominator.
+
+So is in both of the markets. We calculate it in dollars or we calculate in pounds okay.
+
+Because that will give us the comparison. Now imagine that we have this Microsoft stock in both of these markets.
+
+And in one market it trades say in London it trades at $100.
+
+But in a US in New York it actually trades at 120 the same stock but at different prices.
+
+So what this dealer would do in the third example, they will buy those stocks in London market and then at $100,
+
+and then they will sell them in New York Stock Exchange at 120.
+
+So they can make $20. So if we have say 120 in New York Stock Exchange, but 100 in London.
+
+We get $20 per each share and that is risk free profit.
+
+Okay. Because you're not. Actually, you don't even need to have your own money to make this transaction work.
+
+Okay, so who is doing what?
+
+In this case we normally have three agents in financial markets.
+
+Okay. And those agents will be either hedges speculators or arbitrage guys.
+
+Okay. And each example that you see here are under one of these.
+
+So first one is hedging. Okay.
+
+What hedges do hedge is care about the change in prices or change in exchange rate okay.
+
+For the commodities. Normally for commodities that might change the prices in the future.
+
+Okay, so they do care about those prices in the future and they will try to lock in specific price today.
+
+So they do not need to overpay tomorrow. Which one do you think from the three given examples would show us the hedging?
+
+Yes, the first one. Okay. So the first one is a typical example of hedges and what they would do.
+
+Okay. And that is called hedging because they will try to look in price today for a commodity they need to buy in the future.
+
+Okay. One thing for you to remember though with hedging it doesn't mean that they would actually deliver that commodity.
+
+For example, if the hedge is trying to sell commodity at some specific price, they lock in that price today and will decide to.
+
+Enter in a futures contract, for example. Okay. It doesn't mean that they need to deliver that commodity in three months time.
+
+It just means that they're locking in the price.
+
+Okay, so some things that you need to remember because in your seminar questions you might have a question like that.
+
+Okay. Now speculation. Speculators are agents that actually look at the change in prices and how the change in prices occur.
+
+So they look at the variance of prices okay.
+
+And they care about that because through the variance they can gain some extra, extra money, extra financial funds or extra profit.
+
+Okay. Now speculation. Most of the agents in financial markets will speculate.
+
+Okay. Uh, but it just, uh, it is important for us to understand to what level they would go with their speculation,
+
+because that might lead to another financial crisis.
+
+Okay. Just because they are doing those speculations within financial markets and it doesn't affect anyone, doesn't mean that we need to ignore it.
+
+And we need to encourage that kind of behaviour.
+
+It's almost like a, uh, you know, if, if you're driving a car and once in a while you are not following the rules and you're breaking them,
+
+or like going on a red light instead of just staying and waiting, but nothing happens.
+
+There was no accident. It doesn't mean that we need to encourage that type of driving.
+
+So he is the same with speculation. Okay. So which example do you think represents speculation.
+
+Second one. Okay. See I didn't use the word volatility I used another word I used variants.
+
+Okay. Because variants will still show how volatile are our stocks or derivatives are the whole market.
+
+Okay. So that is for speculation. Now for arbitrage arbitrage us uh, normally use this strategy and it's no investment strategy.
+
+They do not put any endowment initial endowment into their strategy okay.
+
+And they look at differences in prices in various markets,
+
+and they try to exploit those opportunities because those opportunities create an arbitrage opportunity for arbitrage just to use.
+
+Okay. Now whenever we exploit that opportunity, we can create a risk free profit, okay.
+
+Because the only risk is that the prices might change.
+
+But if prices for two assets are different in different markets, you can use that opportunity.
+
+Okay. One thing though to remember is that with competitive markets, we would normally not have arbitrage opportunities.
+
+Why? Because supply and demand forces within financial markets will force prices to be at the market level everywhere.
+
+Okay. So even if there is an opportunity for arbitrage to use, that opportunity will fade away very quickly.
+
+Imagine. Uh, well, first let's go to, uh, the one that we have.
+
+Which one do you think is arbitrage? Which one represents an arbitrage?
+
+This one is simple. Yes.
+
+So the third one is arbitrage. An example of an arbitrage.
+
+Okay. Uh, what I want you to say, um, so let's go back to that example with Microsoft.
+
+Okay. And Microsoft stock. Imagine that. You see that in two markets Microsoft stocks uh trades at different price.
+
+What would you do. So you recognise that there is an arbitrage Opportunity in London Stock Exchange.
+
+Imagine that you are a broker or any type of trader. Imagine that you see that in London.
+
+Stock Exchange trades at $100. In New York one it trades at 120.
+
+What would you do? You long short immediately.
+
+And then either you can settle. If you're a broker you can settle.
+
+Or you can hold it until it converges again to close the positions. Okay, now another question.
+
+If you go to that strategy to make this risk free profit.
+
+What do you think your course mate will do? What role?
+
+Do the same thing. Yes, exactly. If everyone does exactly the same strategy, it means that this 100, uh, dollars that we had.
+
+Will start increasing until it reaches 120. And then it will look at that new equilibrium price.
+
+Market price. And that's it. There is no arbitrage opportunity anymore and this will happen very, very quickly.
+
+Okay. Because financial markets do not allow any free lunches,
+
+there are no free lunches because there are always risk and return trade-offs that we need to consider.
+
+Okay. So that is this is okay.
+
+So we have hedging, reducing or transferring an existing risk of the change of prices or in um exchange rate.
+
+So we are looking at a specific price or specific exchange rate today by signing that contract.
+
+Okay. Speculation taking risk in anticipation that there will be extra return because
+
+the prices change and that is affected by the volatility of those prices.
+
+Okay. And arbitrage exploiting inconsistent Prices in different markets to make risk free profit.
+
+Okay. Is this clear. Any questions.
+
+Okay. So where derivatives traded.
+
+Derivatives are traded mainly at two markets. One is exchange traded market and another one is OTC over-the-counter market.
+
+But there are differences how we trade derivatives and what type of derivatives we trade in each of the market.
+
+So C in exchange traded market we have standardised contracts.
+
+So all of the contracts will look exactly the same.
+
+And the amount for example if you want to buy gold the amount of gold you can buy will be standardised in those contracts.
+
+Okay. And of course all other conditions TNX will be similar if not exactly the same in those standardised contracts.
+
+Okay. The market is very transparent because you can obtain the information of who is trading.
+
+Well, maybe not who is exactly trading, but what is a trade?
+
+What is the volume of trades? What is trading and at what price?
+
+What kind of contracts? How many contracts were traded within that market so that information is available?
+
+Okay. Uh, in exchange traded markets, there is another agent between those traders.
+
+And the agent is called clearinghouse. What clearinghouse does it makes sure that two agents do owners of contracts.
+
+They do not run away. They do not default. And there are various mechanisms how clearinghouse can do that.
+
+Okay. So it's basically an intermediary in this market who makes sure that contracts are honoured.
+
+Okay. Uh, because of this and because, um, contracts are standardised in this, uh, financial market.
+
+Uh, this market's very liquid because if you have a standardised contract, you can easily sell or buy that contract.
+
+Okay. Now if we look at over-the-counter market, you will see that they are privately negotiated.
+
+Okay. Which means that the contracts that assigned within those, uh, markets are privately managed by those brokers.
+
+There is no intermediary there. And because of that, we cannot really see what kind of contracts are there.
+
+What is the volume? What exactly signed or uh, uh, written in those contracts?
+
+Okay. Because those are privately negotiated ones, which also means that they can be customised.
+
+So they're not a standard standard as contracts like we see in exchange markets.
+
+Instead, you can customise it the way you want it.
+
+For example, you do not want to have 100 holes of gold like in exchange trade market.
+
+Instead, you only need 103 or 105.
+
+Okay. So then you can use it over in the over-the-counter market.
+
+Okay. Are often used by institutions, often used by larger financial institutions.
+
+Okay. We will talk about this later on.
+
+Why we would have financial institutions as brokers.
+
+But they do participate in financial markets.
+
+Or they will have specific specific brokers who will participate in those financial markets and trade on behalf of those institutions.
+
+Okay. And also there was a case, um, in France.
+
+Oh, my God, I forgot his name. So it was even a movie about this trader.
+
+Anyway, this trader was participating. Ah, there was the largest, um, bank in France.
+
+Samsung generale? Yes, yes, exactly.
+
+So this trader was participating on the behalf of that bank in financial markets and the traders.
+
+And that trader was supposed to do hedging operations,
+
+but they started speculating more and more and more and more to the point that they I think it was like a 10 billion that they, uh, traded and lost.
+
+And that affected the bank as well. Um, okay.
+
+So often used by various institutions And may be centrally cleared.
+
+Okay. Now, the issue with over-the-counter markets compared to exchange traded in exchange traded market.
+
+We see that we have this clearinghouse. Okay. And it ensures that there are no default opportunities there for both of the sites.
+
+Uh, when they sign the contract, where is the with the over-the-counter?
+
+There is no such, uh, entity that could ensure that contracts are honoured.
+
+So the risk is much higher in those markets.
+
+Okay. Uh, now, quick decision for you to think about it.
+
+Now, a company needs a contract tailored to an unusual exposure.
+
+Okay. So the word that you need to look at is the unusual exposure, but also tailored.
+
+Okay, which market is more likely to meet it needs and what might it give up?
+
+What do you think? If you are this company or the broker for this company, what would you do?
+
+Yes, would be over-the-counter. Okay, correct.
+
+Because it is a tailored contract with unusual exposure.
+
+We would go to the over-the-counter market to have a customised contract for this company.
+
+Okay. Because it's a it says tailored. We cannot go to exchange traded because exchange traded only has a standardised contract.
+
+Okay. Now what might it give up.
+
+Efficient pricing. Because exchange traded market makers make sure that they're tiding as they're quoting as tight as possible.
+
+Whereas over-the-counter, the broker knows, hey, you know, we're providing you a service.
+
+We might charge you a hierarchy and that maybe there's not that many brokers around.
+
+And you're calling me for a reason so I can charge you whatever I want. Okay? We'll give you whatever spread.
+
+Okay, good. What else?
+
+Increased rest. But the other cost possibly. Could be. Yes.
+
+Um, yes. So there is a risk. Is there another party?
+
+So counterparty risk I would say. Yeah. Counterparty risk, which means that another party might default on their obligations.
+
+What else? Another one that you need to remember here as well.
+
+See, uh, Before. I pointed out that because these contracts are standardised,
+
+it means that there is higher liquidity for those contracts because you can easily sell and buy them with standardised contracts.
+
+You need to find the seller and buyer who would be well.
+
+You would need to find a buyer who would be willing to buy that contract off you.
+
+If you have like not 100 rows of gold, but instead 103.
+
+You need to find a buyer who is willing to buy the contract, who actually needs 103.
+
+Okay. So because of that, the contracts and over-the-counter market,
+
+they are not as liquid as in the exchange traded market apart from all other associated cost with it.
+
+Like your course mate mentioned, there will also be other course, but for now we do not take them into account.
+
+But when we will go into deeper, into topics forwards and futures, you will see that we will take into account those costs,
+
+for example, transaction cost and cost of purchasing those contracts.
+
+Okay. And this is this would lead to profit okay.
+
+Because we will look at two terms which is payoff and profit which are not the same.
+
+Okay. And many students do get confused with this too because they think that it is exactly the same.
+
+Okay. Or should we have ten minutes break? Yeah, it's oh six.
+
+Let's have ten minutes break. Okay. Yeah.
+
+Yeah, yeah. Yeah.
+
+Yeah. Yeah.
+
+Yeah. Yeah.
+
+Um. And.
+
+So. That's what.
+
+I. Was trying to get out.
+
+All right. All.
+
+Right. So.
+
+I have my. Wife.
+
+And I. That's nothing.
+
+So. I'll.
+
+Tell you. What is going.
+
+So. We just.
+
+Got. Out.
+
+Mm. Okay, everyone, shall we continue?
+
+Okay. Let's continue. Oh, it's so hot in here. God!
+
+Oops. Okay.
+
+Let's continue. So. One of the lessons that you need to learn looking at financial markets.
+
+Well, looking at financial system as a whole, not only financial markets as a separate part of financial system is, of course,
+
+2008 financial crisis that we had so global financial crisis that we had,
+
+because that one was one of the devastating one after the obviously Great Depression.
+
+Uh, so, uh, what we need to look here.
+
+Uh, before the financial crisis, uh, obviously we had this exchange traded markets, but also OTC markets.
+
+Okay. And one of the concern and that part of the market that created, uh,
+
+this extra bubble was actually an amplified it was the OTC market with derivatives that was, uh, that were traded in that market.
+
+Okay. So you see that here. I have put, uh, some of the points so contours could be tailored to the parties need.
+
+We all know this. Uh, hopefully we will learned from the previous slides about this market.
+
+Banks commonly acted as dealers and market makers. Do you think?
+
+Why do you think banks would act as dealers? Why couldn't say just a.
+
+Individual traders do that. Or like shareholders do the trading on their own.
+
+Without having banks as an intermediary. Because if you have an intermediary, obviously you need to pay to that intermediary.
+
+Why can't we do it ourselves? Do you know why?
+
+Yes. Entire groups?
+
+Yes. Your service providers are bankers? Yes.
+
+So in investment banks, for example, there are whole departments who deal with risk management, risk analysis and also derivatives trading.
+
+Okay. Now if we go as individuals, first of all our money is that we can trade.
+
+Well, most of us at least I'm not talking about 1%.
+
+Top 1%. We would not have that amount of financial funds to be able to trade at larger.
+
+Now we do probably most of us and general public as well, wouldn't have enough knowledge, enough skills to analyse the data.
+
+Even if they have the data access to the data, we still wouldn't be able to analyse it like this specific departments do.
+
+Plus accessing the data, it is easier for those bigger financial institutions to get the data compared to individual investors and traders.
+
+Another thing is timing how much time you need for that, how much information You need to have about financial markets.
+
+Okay. So there are certain things that it is better to rely on financial intermediaries
+
+who are specialist experts in that area compared to if we do it on our own,
+
+okay. That's why we have these banks and other financial institutions who would act as dealers and are market makers and traders in financial markets.
+
+Counterparty exposure as it accumulated through our institutions.
+
+Now, if we have all of those financial institutions who are trading tailored contracts in OTC markets,
+
+and they would have the exposure now because that market is not transparent as the exchange market, you wouldn't know who has what type of exposure.
+
+You wouldn't know what kind of trading operations are or transactions.
+
+Uh, the drawings throughout that say, one year period of time because that information is not really available.
+
+Those are privately negotiated contracts. Okay. So we would know about exposure as well because exposure would lead to additional risk.
+
+But you are not seeing that risk. And because of that you cannot account for that risk.
+
+Okay. Or you cannot take, say, hedging to make sure that you are trying to minimise that risk.
+
+But we do not know. We know that there is a risk, probably exposure, but we do not know.
+
+And so the same for counterparties for two parties on different sides of contracts.
+
+They do not know what is happening to the other side. It's almost like a Akerlof lemon problem here because we have asymmetric information problem.
+
+Okay. Reporting and price transparency were limited. As I mentioned, it's not the same as with exchange traded markets,
+
+because there is a clearinghouse that makes sure that all these operations are transparent and visible to everyone.
+
+Whereas with this market, we do not have that kind of intermediary between these traders.
+
+Okay. Many contracts were not centrally cleared. Again with the clearing house.
+
+The clearing house clears all the contracts. Those contracts go into register and they are registered.
+
+Whereas with this market, because there is no such entity, there is no registration of those contracts.
+
+And what is happening with those contracts? And what is the volume of those contracts?
+
+How many contracts? So we do not know all that information, and there is no entity to make sure that everything is registered.
+
+Okay. So OTC markets created this extra layer, uh, extra exposure to financial uh, financial systems.
+
+And that creates another thing which is called systemic risk.
+
+In different literature you will see that it's called systematic risk or market risk or macroeconomic risk.
+
+Okay.
+
+So from the name itself you should guess that it is at a macro level, at aggregate level, which means that it would affect everyone in the market.
+
+Okay. So that's why this this risk is such a problem for everyone.
+
+Because that is the reason that you cannot really eliminate. You can try with various strategies, try and minimise it, but you cannot eliminate it.
+
+And in financial markets there are various types of risk.
+
+But the main ones that we look at is the systemic risk and firm specific risk or specific risk or it's also called diversified risk.
+
+Now from the name, you can guess at that risk that we can diversify and that risk affects specific companies in specific industries.
+
+For example, I don't know, electric car manufacturing.
+
+Okay. That industry would affect by, I don't know, some motoring system within cars and the supplier or the there are a couple of suppliers.
+
+So monopoly for the supplying of those motoring systems.
+
+And if there is a break in the chain or something happens uh, then these cars and not cars, these companies, manufacturers can not get that system.
+
+So the price for electric cars might start increasing okay.
+
+So everyone will be affected, but everyone within that industry might be affected.
+
+It doesn't mean that that shock will propagate to other industries okay.
+
+Who are not closely related to this electric car manufacturing.
+
+And that is called firm specific risk because it affects only films in specific industry, okay?
+
+Whereas with systemic risk it affects everyone, no matter what kind of industry you're operating in or what sector you're operating.
+
+It doesn't matter. It affects everyone. And of course, if we have a counterparty default or fail for whatever reason, then because of this,
+
+counterparty exposure that we have will then affect all other banks and all other traders that operate in that market.
+
+Okay, because they're all connected and they all trade with each other without knowing how much exposure each of them
+
+have and how much risk each of them accepting and bearing while doing those trading operations in markets.
+
+Okay, now after the crisis. Obviously there are various regulations.
+
+I will not talk about the regulations in here, but there were various regulations that try to minimise that exposure, that risk.
+
+Okay. And the first one, of course, is creating another entity like clearinghouse.
+
+But for OTC markets. So transactions are more transparent now compared to what was before.
+
+Okay. So um, eligible standardised OTC derivatives.
+
+Uh remember we, we had uh customised derivatives before.
+
+Now after the financial crisis those derivatives become standardised as well.
+
+Some of them, not all of them because you cannot have completely, uh, standardised derivatives for all of the, um, transactions.
+
+It's just not possible. And they have to be cleared through the central counterparty,
+
+and the central counterparty played a role of the clearinghouse like an exchange traded market.
+
+Derivative transactions are reported to trade repositories, where they register all of the transactions that are happening within the market.
+
+Uncleared contracts may face margin and risk management rules.
+
+I will talk about this margin in a bit, uh, because, uh, there are a few things that I need to tell about the margin,
+
+but basically that margin ensures that if you have any losses, those losses are, um, you occur those losses daily.
+
+So then there is a lower chance that you will default by the end of the contract.
+
+So by the time of the maturity of the contract okay. And of course risk management rules.
+
+I already told about this counterparty exposure. So we are trying to minimise IT Minimised exposure, so there is less risk.
+
+And to do that we need to have risk management.
+
+We need to have specific department specific traders who would follow specific rules,
+
+and they would make sure that they not are exposed to unnecessary risk.
+
+And they will not take any risky activities that would affect other traders in financial markets.
+
+Okay. And some standardised contract trade on organised platforms.
+
+Okay. So they are not privately negotiated. Now. We will have specific platforms in OTC markets where the standardised contracts will be traded.
+
+Okay. Now quick check for you which reform primarily addresses each problem do you think.
+
+I'm not asking for a specific A regulation. But which one?
+
+Do you think, uh, is a major one out of the one that I have mentioned here?
+
+Any guesses? So the first one.
+
+Oops. Wait, what? So the first one is regulators.
+
+Okay. Regulators cannot observe the exposure because again those transactions are not transparent to us.
+
+Right. We cannot observe the risk that another party is taking in various transactions.
+
+Okay. We can only observe from our side what we can see.
+
+But it doesn't mean that what we can see is everything, everything okay as it is happening on the other side,
+
+so regulators cannot observe those accumulated exposures again.
+
+That leads to the risk management rules.
+
+Okay. If we create risk management rules then.
+
+Sorry, not this one. If we create risk management rules then we can minimise that accumulated exposure that we cannot see.
+
+Because after even creating this regulation it doesn't mean that we can completely see.
+
+It doesn't mean that transactions become completely transparent.
+
+They become more transparent, but it doesn't mean that they are completely transparent.
+
+Okay. So we still have some of the exposures that we cannot observe.
+
+One counterparty might fail before paying what it owes.
+
+Okay. And for that we would create this standardised contracts.
+
+We will create this margin to try to minimise this.
+
+Okay. And customised contract cannot be centrally cleared.
+
+Okay. For that we need to have this, uh um, trade repositories.
+
+Who will help us with this. Okay.
+
+So who will help us register those, uh, transactions and those derivative operations that are happening in the market?
+
+Okay, clear. Any questions? Okay.
+
+Okay. Now, what does the central counterparty do in that case.
+
+So we would have the central counterparty.
+
+Imagine that we have bank A and Bank B and the directly exposed to each other's default if they are trading directly with each other,
+
+without having any intermediary, without having this central counterparty.
+
+But if we introduce a central counterparty in OTC market, okay, then, uh, everything will happen between, uh, through the central counterparty.
+
+Okay. Imagine that we have the central counterparty. Okay.
+
+Then we have Bank A who is buying some derivatives or some commodities, whatever it is.
+
+And then we have Bank B who is sorry.
+
+Yes, it goes through this. And then we have Bank B who is selling.
+
+So central counterparty will then ensure that the sale uh of the commodity or the derivative, whatever it is.
+
+Uh, so they will accumulate um They will take the financial forms from A and then present those funds to be.
+
+Okay. And then, uh, I should have put it actually in circles.
+
+Let me do it. So if we have central counterparty and we have A and B, right.
+
+So A would provide financial funds to central counterparty.
+
+And then central counterparty will provide those to B. But B will provide that derivative to central counterparty and then to a.
+
+Okay. So then we would have this intermediary between these two banks.
+
+And uh central counterparty will ensure that each of the side will own as a contract.
+
+Each of the side will not default. And there will also be margin.
+
+So daily um adjustment of the prices.
+
+So the prices will not fall below specific level and they will specify that level in the contract.
+
+Okay. I will explain it in a bit about the margin.
+
+Okay. So key implication here is that if we have a regional trade and that our regional trade
+
+will be economically viable because there will be no defaults from both of the sides,
+
+because the CCP will ensure that, okay, and there will be lesser exposure, counterparty exposure, counterparty risk, because again,
+
+that will be, uh, managed by the CCP, uh, by using, uh, by using margin and various default procedures.
+
+Okay. Now, the question to you. Does clearing eliminate risk of reorganise and manage it?
+
+What do you think? Using central counterparty.
+
+Do we actually eliminate the risk? Even using margin and default procedures?
+
+Yes. This accounts also I think on that margin because.
+
+Yes. Yes they might. Okay. So even with that, the only thing that we are trying to do with CCP is to reduce, as it says here.
+
+See it says we. So counterparty exposure is managed okay.
+
+But it doesn't mean that that exposure or that risk completely eliminated.
+
+We cannot eliminate it because of various various things that might happen in
+
+financial markets and why another party might default on their Obligations.
+
+Okay. Uh, we cannot really, uh, eliminate that completely.
+
+But we can manage it, and we can reduce it. We can minimise it.
+
+Okay. Uh, so that would mean that we can reorganise and manage it, but not eliminate it completely.
+
+Okay. So here is a graph for you. Uh, can you all clearly see the graph?
+
+Is it big enough? Yeah. Okay, so on this graph you see that we have interest rates derivatives.
+
+Okay. And we also have foreign exchange derivatives.
+
+We also have exchange traded market. And we also have OTC markets as dashed lines.
+
+Dashed blue line is OTC market. And the red line is the exchange traded market.
+
+And this graph shows us a trading volume. Uh sorry transaction volume.
+
+Uh, of interest rate derivatives and foreign exchange uh, derivatives.
+
+So from this graph, what can you see here? What does it tell you about two markets that we have on this graph exchange traded and OTC.
+
+Which one has the largest transaction volume. Do you want to go.
+
+Interest rate for this is a lot more volume. But it's also the fact that um it's mostly exchange traded.
+
+So it's more standardised about FX. Yes, more over-the-counter since it's um, maybe nonfinancial institutions that are trying to increase.
+
+Yes. Okay. So from here you can see that in this specific graph where we see the interest rate derivatives.
+
+You see that exchange traded markets are larger.
+
+So the transaction volumes are not the exchange market.
+
+The transaction volumes in exchange market are larger compared to OTC market.
+
+But in here with foreign exchange derivatives, you see that the transaction volumes for OTC market are larger compared to exchange.
+
+But overall OTC markets are normally larger than exchange traded markets.
+
+Okay. So read the evidence from the graph.
+
+What exactly is being measured. Transaction volumes.
+
+Right. Because we see transaction volumes in two Are derivatives that are traded into markets.
+
+Okay. Which market dominates? Foreign exchange derivatives.
+
+Foreign exchange. Its OTC market.
+
+Okay. And can turnover be interpreted as the amount of money at risk.
+
+Because we are looking at the transaction volume.
+
+So it tells us about the funds that we have and the turnover of those funds in financial funds in those markets.
+
+Okay. But that doesn't mean that it actually tells us about the risk.
+
+We're just seeing the volume of transactions we're not seeing.
+
+What kind of risk Uh, is there within this, uh, within these two markets.
+
+And also we are not seeing who is exposed to how much of that risk.
+
+Okay. We cannot really determine or say, oh, this market is more, uh, uh, more riskier compared to another one from the graph that we are looking at.
+
+Okay. From the graph that we are looking at, we cannot tell it because there is no information about it.
+
+Okay. Now the same derivatives, uh, can serve different purposes.
+
+Okay. Uh, so looking at this, three, uh, statements.
+
+Okay. And this is where we're going to back to hedging, uh, speculation and arbitrage.
+
+Okay. So we have an airline buys oil futures because it must purchase fuel in six months.
+
+Okay. Which one is that? Which trade is that? Hedging.
+
+Okay. So this is hedging. A trader buys oil futures because she expects oil prices to rise.
+
+Which one is that? It can also be hedging.
+
+Okay. Ideally simultaneously buys and sells equivalent contracts quoted and at inconsistent prices.
+
+Arbitrage. Okay. So what? You need to remember that we are not looking at the contract specifically and we're not looking the purpose of the contract.
+
+What we are looking is the trader and why they need that contract.
+
+Okay. So we are looking at the hedging at the hedged speculators and arbitrage us to understand why they need that specific contract.
+
+Because the same derivative can serve different purposes for different types of agents that we have.
+
+Okay. So hedger can use exactly the same contract as speculator or arbitrage.
+
+But we need to understand why they are using that contract.
+
+What is the purpose. Okay. Now can we fix today.
+
+The price paid in three months. What this thing would be answer for this question after you've learned so far.
+
+Can we do that? Yes, we can do that.
+
+Right. Because we can use derivatives and we can lock in a price.
+
+So here is an example for you. This is the situation a UK firm will need to buy one unit of an asset in three months.
+
+The asset costs £100 today but its future price is uncertain.
+
+Okay, so then it means that we need to lock in a price specific price for the future, even though we do not know that.
+
+But we also need to have another counterparty on another side who is willing to agree on that specific contract and sign that contract with us.
+
+Okay, so here we will go with the forward contract. Okay.
+
+So here you see the film agrees today to buy the asset in three months for a price of 105 instead of 100.
+
+Okay. So the price that will lock in in this specific example is 105.
+
+And this is our delivery price. Why? It's called deliver a price.
+
+Because this is the price. We will deliver the commodity in the future.
+
+Or we will buy the commodity in the future at that specific price.
+
+That's why it's called delivery price. Okay. So then we have a transaction which will occur at time period T okay.
+
+So that is the. Future date.
+
+And in our specific case it's three months. Okay.
+
+Because here it says three months. So the maturity day for us should be three months.
+
+Okay. So if there is a delivery under the forward contract then that delivery of that commodity should happen.
+
+Uh, should happen in. Well, we not we do not have commodity.
+
+We have asset. So the delivery of that asset should happen in three months time.
+
+Okay. And that is our maturity date. Delivery price, as mentioned here is 105.
+
+It is fixed today. It is fixed in the contract that in the future, in three months time, the delivery price will be 105.
+
+No matter what is the price for that asset in the market at that time?
+
+Okay. Because we are locking in the price of £105. Now both parties are obliged to complete this transaction, uh, under the forward contract.
+
+If you sign the forward contract, you have to honour the contract.
+
+Unless you default or something else happens. Okay. Um, okay.
+
+So one thing that you need to remember about the forward contract, okay, that it should have two sides obviously because we have seller and buyer.
+
+Right. And so if we look at the buyer side so long forward or long position in forward contract.
+
+Okay, that means that the buyer would agree to buy this underlying asset in three months time.
+
+Okay. At time to maturity, which is T in our example, is three months time okay for delivery price of K which is 105 in our example.
+
+And of course we need to have a counterparty who will take a short position in this forward contract.
+
+Okay. Which means that they will sell that underlying asset at time of maturity for that agreed delivery price.
+
+Okay. Now in this transaction, obviously one party will benefit in three months time or one party will lose.
+
+Okay. There will always be someone who will lose and someone who will gain from this transaction.
+
+Okay. If the market price at maturity rises above K.
+
+Which party do you think would benefit from this transaction?
+
+So our price is 100%. Sorry 100% £105.
+
+Right. So imagine a time of maturity. The price of this asset I will call it's T.
+
+The price of this asset will be actually higher than 105.
+
+Who would gain the seller or buyer. The one who takes short position or the one who takes the long position?
+
+The long position? Yes. Okay. Because the seller has to sell that asset at delivery price of K,
+
+which is 105 K if the actual price of the asset at time of maturity is larger than this c, s t is actually, I don't know, 110.
+
+Okay. The seller could have gained an extra £5 if they sold it at that time for 110,
+
+but according to the contract that they sign, they have to sell it at 105.
+
+Okay. So they will lose five. Now who will gain five?
+
+The one who takes the long position. Right. So you see this five.
+
+Will be again for the long position but will be loss for the short position.
+
+So the loss and gain should be exactly the same. In this contract it should be five.
+
+For someone it is plus five. For someone it is minus five.
+
+Okay. But it should be exactly the same for both of the sides.
+
+It's clear. So remember that with forward and with futures, contract will always have a loser and a gainer because of it.
+
+Okay. Now going to our example let's calculate payoff.
+
+Okay. So the payoff as you can see from the slide will be based on s t minus k.
+
+Okay. So here we have street to be 80 okay.
+
+So this is what you would receive are set eight and the payment is 105.
+
+It means that you will actually let me show it.
+
+You will actually lose 25 because you're buying the asset at 105, whereas the current price is much lower for that asset.
+
+Okay. And this is what this eight shows as the current price, its current price at time of maturity.
+
+Okay. If we have 105 there will be no gain for anyone.
+
+One one saying so you see this 25 it is loss for the one who takes long position,
+
+but it is gain for the one who takes a short position for the seller.
+
+They will. They would gain £25. Okay.
+
+For the buyer, they would lose £25. You will have 130 current price for the asset.
+
+You see that they would take long positions.
+
+They would gain £25. But the ones who are selling They would lose £25.
+
+Is this clear? Okay, so what you need to remember is for the person who takes long position, this is a payoff for the one who takes short position.
+
+This is their payoff. It's the opposite. Okay.
+
+Now, I mentioned this before.
+
+Payoff and profit is different because here we are not accounting for any cost that might occur for both of the sides of the transaction.
+
+Okay. We are only calculating the payoffs they would receive.
+
+Okay. So if you take that cost out of say 25 and imagine the cost was uh, so we got payoff of 25 and imagine the cost was ten.
+
+Okay. Transaction costs and any other cost. So then they would receive 15.
+
+which means that 15 is the actual profit for them, not the 25.
+
+Okay, but right now we are not counting for any cost.
+
+We are not discussing that. Okay. So. Pay off for the long positions and will be s t minus k.
+
+Payoff for the short position will be the opposite. Okay.
+
+Clear. Any questions. Okay.
+
+So forward rate. Forward rate is the same as a forward price.
+
+But it is the price that it is the rate when it comes to exchange rate.
+
+It is the rate that we specify in our contract in our forward contract.
+
+And the same with the spot for the asset. We normally say it's a spot price so the price of the asset.
+
+But we will say here is the spot rate because we are talking about exchange rate.
+
+Okay. Then you will see that we have bead and offer. So be it.
+
+Do you know what is bid? Anyone? What is bead?
+
+What does it tell me? Yes.
+
+So the price people want to buy. So this is a price at what?
+
+People are willing to buy that specific asset. Okay.
+
+Or for what? They are willing. That is the highest price that they are willing to pay to buy the asset.
+
+Okay. And what is the offer? The offer is the opposite.
+
+That is the minimum price the seller is willing to sell that asset for.
+
+Okay. Okay. Read the quotation.
+
+What is the spot rate? The spot rate here would be, as you can see on, uh, uh, in this table,
+
+the spot rate is the rate that, uh, exchange rate would have at a time of maturity.
+
+Okay, so it's our street. What? Six month rate can be fixed today?
+
+Okay, we can look at the table and we can see.
+
+Okay, we can compare this, uh, or the bid prices and offer prices.
+
+Okay. And we can then decide to look at one of it, depending which one you need,
+
+because we have one month forward, three months forward and six months forward.
+
+So we need to decide on the maturity first, which one we would go.
+
+And then we need to look at the bid and offer price. And if you are happy with those exchange rates Okay.
+
+Uh, so for us, it's a six months. One.
+
+Okay. Uh, six months rate can be fixed today. So we have beat offer, uh, that buyers are willing to pay and, uh, uh, sorry beat,
+
+uh, that buyers are willing to pay and offers that sellers are willing to sell at.
+
+Okay. So in this particular case, we can then negotiate with the seller if they are happy to reduce the price or if they,
+
+uh, just keep the price at that time. So there will be negotiation.
+
+If they are not, that will be, uh, the price that you would sign the contract with unless they're willing to, uh, lower it to the bidding one.
+
+Okay. Why might a firm prefer the forward rate to waiting.
+
+Why might we go with, say, six months forward rate?
+
+Okay, instead of buying it today, why can't we buy it today at a spot rate that we have currently at this rate that we have currently?
+
+Why do we need to wait? Cheaper as it's discounted by the the interesting difference.
+
+Like gilts versus the US bond. Yes. So as you can see those see it's 1.55 41.
+
+Whereas here 1.55 26 which means that it will be cheaper.
+
+You might think that it's not as cheap, but in a foreign exchange market.
+
+This tree is a trade at millions and millions. So if you calculate it for 1 million, you will see that it will actually be a huge amount.
+
+Okay. So every decimal point that we have is important for us okay.
+
+Because it would lead either to our gain in 1000 or it will lead to for us losing those thousands.
+
+Okay. Now our example with a treasurer.
+
+So a treasurer must pay 1,000,000 in 6 months. Okay. A US firm must pay a UK supplier 1 million.
+
+By the way, I change the slides because I don't know.
+
+For some reason, my latke decided to change this pounds notation to dollars instead for some reason,
+
+a US firm must pay a UK supplier 1,000,000 in 6 months.
+
+If sterling appreciates the dollar, cost of the payment will rise.
+
+Okay, so what we do in that case. Okay.
+
+And we are taking a hedging position here.
+
+Okay. So a hedging would look like a treasurer would enter a loan forward to buy this $1 million.
+
+Okay. At the given exchange rate. So that was the one that we've seen in in the table.
+
+This was the bit not the bit of a price that we've seen in the table.
+
+Okay. And so the dollar payment will multiply this 1 million, £1 million by the exchange rate to see that our money in dollars will be 1,000,553 20.
+
+Okay. so you see that we exchange it at a current spot price.
+
+It would have been at least 10,000, if not more, that we need to.
+
+Not 10,000. Actually, it was 15. Let me check.
+
+I will check from here. It was one point so it was 1.55 45.
+
+Okay. Well, yes. Uh, I want 1000 1500 extra that we would need to pay if we exchange it at a spot price.
+
+Okay. Okay, okay.
+
+Clear with this example and how we would use it. Yes.
+
+Okay, so the question for you, has the treasurer guaranteed a profit or guaranteed the dollar cost of the future payment.
+
+Now, this is a tricky question. We wouldn't know it because we only have the spot price for today.
+
+We do not have the spot price at maturity. We do not have the spot price in six months time for us to compare.
+
+If we're gaining or we are losing in this game. Okay.
+
+We only know that the exchange rate for six months is given, but we do not know the exchange rate at that time.
+
+The exact value at that time. Okay. Because of that,
+
+we cannot really answer this question because we do not have enough data to analyse it
+
+and to to understand and say exactly if you are gaining or if you are losing from it.
+
+Okay. Any questions? Okay.
+
+What? Sorry.
+
+I'm not sure why. Where are my slides?
+
+Okay, let me check what I have after this.
+
+Mhm. Okay.
+
+Sorry, guys. One second. I still have another. Another five minutes with you.
+
+I don't want to let you go just to see it. Ah.
+
+I don't know why this light just disappeared on me. Okay.
+
+Yes. Okay.
+
+So the next what we will do is we will actually look at the, uh, payoff.
+
+So we will try to calculate the payoff. Okay.
+
+So this is slide. 25.
+
+Okay. So all here.
+
+So we will try to calculate uh the payoff.
+
+And now imagine that what we calculated previously we now know what will be the spot rate at time of maturity.
+
+Okay. So then we can calculate what is a payoff.
+
+And we can then understand if we are losing or we are gaining in that particular transaction?
+
+Okay, so we the ones that we had, we know that when we were signing up for this contract.
+
+Okay, uh, the delivery exchange rate, was this okay.
+
+Now, we also have we didn't know what was street. We only knew that a spot price of today that was given to us.
+
+But we didn't know the spot price, uh, spot rate, uh, at the time of maturity.
+
+But now imagine that if we have those values. So, for example, imagine that this portrait is actually below the delivery rate.
+
+Okay. So then we are losing money because sterling is depreciating okay.
+
+If the spot rate is exactly the same then we do not gain anything but the person on the other side of the transaction who takes the short position,
+
+they will not gain a threesome. Okay, but if Sterling appreciates, then we would gain and our gain will be 96,000 from this transaction.
+
+Okay. So now we can answer if we are losing or gaining from having a long position.
+
+Uh, in this, um, in this game. Okay.
+
+So remember that the long forward gains whenever the spot price at time of maturity is larger than the delivery price.
+
+But we would lose, uh, um, if it is the opposite.
+
+Okay. For the one who has a short position, it will be the opposite of this two.
+
+They will gain in this situation. Sorry. They will lose in this situation, but they would gain in this.
+
+Okay. So how would, uh, uh, graphically shows us, uh, gains and losses?
+
+Okay. So you see that here we have the profit.
+
+Okay. And here we have, um, s t.
+
+So the price of underlying asset at time of maturity.
+
+Okay. So whenever we have this part. On the graph in this part on the graph k will be, um, smaller than s t.
+
+Sorry, not the smaller k will be larger than s t.
+
+Okay. So that means that when we are in this positions we are actually.
+
+Okay. Will be Wait. Sorry.
+
+I think. It will not be the gain here.
+
+It will be the loss. Okay, so here we need to have.
+
+We need to have K to be larger.
+
+S t okay. So in this part of the graph we will see that the delivery delivery price will be larger than street.
+
+Which means that if we end up being here at time of maturity, we will be actually losing.
+
+If we end up being here. This is where K will be smaller than street, okay?
+
+And this is where we will gain, uh, indefinitely from this position.
+
+From a long position. Okay. And so the payoff will be OBS and this formula here whenever s t is larger than k.
+
+Now another thing that you would need to notice about this line is that this line has a slope of plus one.
+
+It means that for every increase in street you will gain extra 1R1 £1 per unit.
+
+Okay. Now for the, uh, at the time.
+
+Uh, for the short position, it will be exactly the opposite.
+
+And for the short position, the graph will look like this instead.
+
+Okay. Because it shows the opposite. Any questions? All good.
+
+Okay. I will see you next week then. And we will continue with the topic.
+
+Thank you everyone. Have a nice day.
+

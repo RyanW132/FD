@@ -1,0 +1,862 @@
+{
+  "reviewer": "/root/g001_pilot_visual_qa",
+  "role": "independent verifier; did not author source extraction/images/lesson",
+  "reviewedAt": "2026-10-21T17:41:35.811209+00:00",
+  "claim": "Exploratory G001 extraction pilot visually preserves all44specified pages with precise locators and explicit source issues",
+  "verdict": "PASS",
+  "notClaimed": [
+    "verified mathematical rawtext",
+    "complete lecture3teaching",
+    "allfourlectureconversion",
+    "production frozen-contract acceptance",
+    "textbookconversion",
+    "unique source answer to ambiguous seminarQ7"
+  ],
+  "visualReviewMethod": "Every one of44page images actually displayed using view_image and compared with its full rawlayout Markdown; later annotations read and exactbytes bound. Script checks links/hashes/counts only; it does not perform visual review.",
+  "unresolvedTeachingCriticalExtractionRegions": 0,
+  "sourceIssueRegistrySha256": "8227461d11f76978e75c72f7497d4a86323ac5a30dae45ee05b5ff30ef29d13a",
+  "issues": [
+    {
+      "id": "PILOT-SOURCE-L3-P11",
+      "sourceIssueId": "pilot-source-conflict-l3-p11",
+      "pageId": "lecture-3-pdfPage-011",
+      "severity": "teaching-critical-if-unlabelled",
+      "kind": "SOURCE_ERROR_NOT_EXTRACTION_ERROR",
+      "disposition": "CLOSED_FOR_EXTRACTION: preserved original, separately labelled arithmetic correction independently recomputed; printed answers prohibited as unqualified teaching",
+      "r": 0.09894667007884882,
+      "R2": 0.10143514899716051,
+      "effectiveAnnualDistinct": 0.10400742136017956
+    },
+    {
+      "id": "PILOT-FIGURE-L1-P26",
+      "sourceIssueId": "pilot-source-conflict-l1-p26",
+      "pageId": "lecture-1-pdfPage-026",
+      "severity": "teaching-critical-if-omitted",
+      "kind": "RAW_TEXT_OMITS_GRAPH_AND_SOURCE_PAYOFF_PROFIT_LABEL_TENSION",
+      "disposition": "CLOSED_FOR_EXTRACTION: full readable original plus verified axis/geometry description; original Profit label preserved; payoff equivalence assumption explicit"
+    },
+    {
+      "id": "PILOT-CONVENTION-L3-P16",
+      "sourceIssueId": "pilot-source-convention-l3-p16",
+      "pageId": "lecture-3-pdfPage-016",
+      "severity": "teaching-caveat",
+      "kind": "SOURCE_RATE_CONVENTION_ASSUMPTION",
+      "disposition": "CLOSED_FOR_EXTRACTION: explicit matched convention annotation; future teaching must honor it"
+    },
+    {
+      "id": "PILOT-CONVENTION-S2-Q7",
+      "sourceIssueId": "pilot-source-convention-seminar2-q7",
+      "pageId": "seminar-2-problems-pdfPage-002",
+      "severity": "blocks-definitive-Q7-solution-not-extraction",
+      "kind": "SOURCE_SCHEDULE_AND_QUOTE_AMBIGUITY",
+      "disposition": "CLOSED_FOR_EXTRACTION: prompt preserved, ambiguity labelled; not permission to invent a unique source answer"
+    },
+    {
+      "id": "PILOT-MATH-TEXT",
+      "severity": "not-ready-for-text-only-mathematics",
+      "kind": "FLATTENED_EXPONENT_SUBSCRIPT_FRACTION_SUM",
+      "disposition": "CLOSED_FOR_VISUAL_PRESERVATION: linked readable original images inspected perpage; raw extraction remains explicitly uncorrected and math retrieval warnings require originalimage before teaching; not text-fidelity certification"
+    },
+    {
+      "id": "PILOT-ACCESSIBILITY",
+      "severity": "future-reader-gate",
+      "kind": "SEMANTIC_TABLE_AND_BULLET_ENCODING",
+      "disposition": "G001 images/table values preserved; semantic accessible tables and U+0088bullet normalization not claimed; require frozen tooling/browser validation later"
+    }
+  ],
+  "pages": [
+    {
+      "pageId": "lecture-1-pdfPage-026",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/figure-sample/lecture-1-pdfPage-026.md",
+      "markdownSha256": "50cb0b56333bab5c28ff53ed84fb689292a3c7e952b7d95fe31610f99e8fa3b3",
+      "imagePath": "study/pilot/figure-sample/lecture-1-pdfPage-026.png",
+      "imageSha256": "ef6bfa7701e139072d5278886a2c6980bcfa329df85640dc5c9f9ec31dfc1beb",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-and-added-diagram-description-verified;raw-text-omits-axes",
+      "observation": "Viewed graph: verticalaxisProfit; horizontalPriceofUnderlyingatMaturity,S_T; upwardstraightline+slope1crosseszeroatK; negativeleftK,positiverightK. No numeric ticks or legend to recover. Formula longforwardpayoff S_T-K and predictionprompt preserved; separate annotation accurately describes axes/geometry and explicit payoff/profit terminology condition.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-001",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-001.md",
+      "markdownSha256": "29884af4fd5e03b427d681a3eb619bf752089bdc81406b5db4b8a193312f531d",
+      "imagePath": "study/pilot/lecture-3/assets/page-01.png",
+      "imageSha256": "acf77163c3ec5e7d886c452a9a3c01f10874a9e2269fea6c43f1c6edcefccbe3",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared",
+      "observation": "Title, course ES32079, lecture3, lecturer and interest-rates/bonds title all present; no equation.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-002",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-002.md",
+      "markdownSha256": "4bee8594ff0182ce3eeddf220bdea34436868771d3017752d9ff80a4874e1fd5",
+      "imagePath": "study/pilot/lecture-3/assets/page-02.png",
+      "imageSha256": "75a09bc3fb9e40c1a65d283cb4eb6a0c9fc16f261acaf22c24710f1522a20a5a",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared",
+      "observation": "All eight outline entries and Hull chapter4 reference preserved; numbered topic list matches image.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-003",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-003.md",
+      "markdownSha256": "cb1e9c749c98783551f13b3dc2ea04e325199ca6b52e01a3d815ad844d252e1e",
+      "imagePath": "study/pilot/lecture-3/assets/page-03.png",
+      "imageSha256": "90714622c4b1a01d39b125106450e18b80ca741f9b463b01915cd6a6822f230b",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared",
+      "observation": "Four rate-relevance bullets, dated-cashflow premise and central question present; no substantive omission.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-004",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-004.md",
+      "markdownSha256": "a29f65ea997e7b495e9ef74a13ea4cd17eec0a5f2eeee05cda705de8e1e7a519",
+      "imagePath": "study/pilot/lecture-3/assets/page-04.png",
+      "imageSha256": "ebca8810cdf2e2f31154caab8de1d12ff3981142eeda74da3013289a51fe375d",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared",
+      "observation": "Government/policy/repo/reference definitions and risk-free/collateral caveat present; description labels aligned to prose.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-005",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-005.md",
+      "markdownSha256": "ba86e4fb61eb84012b2bdda5e977496104b18c78c8cb87ba1bbbb7c318e32b00",
+      "imagePath": "study/pilot/lecture-3/assets/page-05.png",
+      "imageSha256": "2395a9d33c64ffc12767175bb4e2f5fa5aa8a1eb1ba65fb58d374d0377c8d058",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "SONIA/SOFR definitions, ceased-LIBOR statement, overnight-compounding sentence and generic R_M convention preserved. R_M subscript is visually available, not faithfully encoded in raw text.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-006",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-006.md",
+      "markdownSha256": "3ad15fb0382c4c5c238d511fd1e72506fc249bfa3a320839e1a19e87a3efb262",
+      "imagePath": "study/pilot/lecture-3/assets/page-06.png",
+      "imageSha256": "e412a3f82001000d3ee1331001c3acafc424f81342f748f01f52caa7204e827a",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Annual110.00, semiannual110.25 and continuous110.52 example present. Semiannual square and exponential0.10 visually intact but raw text flattens exponent placement.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-007",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-007.md",
+      "markdownSha256": "4c510607316f04f1ece559fd36ee023889c7e7b7b688765edce71319742d97f6",
+      "imagePath": "study/pilot/lecture-3/assets/page-07.png",
+      "imageSha256": "d9ad519955e7f7f811e5ddc4a3fdc9a9c9c1dedd2a71f284cef97783a01de16d",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "FV exponent mT and PV exponent minus mT apply to entire parenthesis; R_m/m fraction and quarterly example exponent8 are legible in image. Text control-glyph/fraction layout not authoritative math.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-008",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-008.md",
+      "markdownSha256": "235379d0e363595146602ccacaa1663ff13fbd83f59c43350105bcccc9e2bb75",
+      "imagePath": "study/pilot/lecture-3/assets/page-08.png",
+      "imageSha256": "61b99356fccf86dff51fe1fa1b859ef92814e6e874e1a3946473fc0e28447b14",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text;table-image-and-spaced-values-verified-not-semantic-table",
+      "observation": "Five-row annual-to-daily table values and frequencies match. Effective-rate formula parenthesis power m and minus1; 1.05 squared example legible only as mathematical image, not raw 1.052.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-009",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-009.md",
+      "markdownSha256": "8871c7fc2e26664eabba3c900df0b5ffb760784f1becbcd2b1d57f89636116ba",
+      "imagePath": "study/pilot/lecture-3/assets/page-09.png",
+      "imageSha256": "bc82da1cae12f1e7202202a087fd55a224f4c24fe9c25b343902a9842c85d47b",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Both limit expressions, powers m and mT, FV=Ae^(rT), PV=FV e^(-rT), and opposite sign-check exponents preserved in image; raw fraction/power scope flattened.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-010",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-010.md",
+      "markdownSha256": "cb156987b82cd360a2b909562cb802e5c9cfa5755b194d31bcdf065b8ac5e9b4",
+      "imagePath": "study/pilot/lecture-3/assets/page-10.png",
+      "imageSha256": "e0360c0e8bcaf1967406a6f9b9cf66b10b0ff372e5a738580830405638e67b91",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Equivalent-rate exponential identity and both conversion formulas visible; example2ln(1.05)=.09758 preserved. Fractions R_m/m and r/m need original image.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-011",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-011.md",
+      "markdownSha256": "659b7e6b5a39537a8542f3ca4d72a26a87369e84a301fe20e769a6601c8b0dc6",
+      "imagePath": "study/pilot/lecture-3/assets/page-11.png",
+      "imageSha256": "3328311dac4325668f1acdbd600f2cd1c9da91c88272f06c65bdbedc0986e81e",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Stated5000-to5800 growth in18months and both printed answers preserved. Source itself contains numerical error:10.15% and10.41% are not the correct continuous/nominal-semiannual values. Separate labelled correction now present.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-012",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-012.md",
+      "markdownSha256": "0ceea1aff9a5803e302305e5881a988107102e75869b6ea08764a94b1f35a826",
+      "imagePath": "study/pilot/lecture-3/assets/page-12.png",
+      "imageSha256": "a5e41397d252d0a10b5b88e0de880f55de7b151b85109d0266580d6a70d289cc",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Zero-rate definition, discount factor e^(-R(T)T), cashflow subscript T and +/- .05*5 exponential examples preserved; exact superscript scope requires image.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-013",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-013.md",
+      "markdownSha256": "132ac2c51394d5098d224f14e3e87d5588a889991e482ebbf9e695f86c4e3c1b",
+      "imagePath": "study/pilot/lecture-3/assets/page-13.png",
+      "imageSha256": "8597628f00e826970cf59fc62a51736787b38b644744eaa6305bed483e09da3b",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Coupon/principal prose and complete cashflow summations i=1..n preserved visually; extraction renders summation sign as X and flattens C_i,t_i and exponential.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-014",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-014.md",
+      "markdownSha256": "47634264040a9f4afc553e58914abf62df62faf16cf92cd863c9ff80fb62b133",
+      "imagePath": "study/pilot/lecture-3/assets/page-14.png",
+      "imageSha256": "7032ac3586eb2223ff98f7cad2a08630eb0d06095ca346e0b3cefaab4e972e9d",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text;table-image-and-spaced-values-verified-not-semantic-table",
+      "observation": "Table times.5,1,1.5,2; cashflows3,3,3,103; rates5,5.8,6.4,6.8 percent match. Four negative exponential terms and printed98.39 present; raw powers not trusted.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-015",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-015.md",
+      "markdownSha256": "b05015c7d843a1c513a0f5af65bef59284fd3bb6b931cfa4d17bd05fc63059c9",
+      "imagePath": "study/pilot/lecture-3/assets/page-15.png",
+      "imageSha256": "9890442dc7c596c293c2bfd4d4a90f13e500383c5118f971d8c868bbb68eebca",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Yield-definition sum, preceding-bond equation,6.76% approximation and single-IRR warning visible. Summation/powers flattened in text.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-016",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-016.md",
+      "markdownSha256": "03085929f8c281e0611247a1e2e3faed91dba996f2ed12d837d0607ce59b0afa",
+      "imagePath": "study/pilot/lecture-3/assets/page-16.png",
+      "imageSha256": "614885cc5d33e3f890e5a256b9d490e4095c443ac358f78b75332621b7f87709",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared;table-image-and-spaced-values-verified-not-semantic-table",
+      "observation": "All three above/at/below-par table rows and example check preserved; source assumption about matched rate conventions now separately labelled; do not compare nominal coupon to continuous yield unconverted.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-017",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-017.md",
+      "markdownSha256": "8a6d316541c91066674e9f9e805fada744a5320e4c1c40e6ddff72654be22305",
+      "imagePath": "study/pilot/lecture-3/assets/page-17.png",
+      "imageSha256": "a2a43031483cf27857d4a934cafb1858518b4ab6348caa1bc22b390c51708a4a",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Par-yield definition, sum discountfactor A, d=P(0,T), Ac/m+100d=100 and c=100m(1-d)/A visually intact. Dollars-on100-face versus numerical percent definition preserved.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-018",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-018.md",
+      "markdownSha256": "21849e1ffb15c62cff408d38f737693f06c77eaba27cdb2ef39b9ca21393ec86",
+      "imagePath": "study/pilot/lecture-3/assets/page-18.png",
+      "imageSha256": "a66cee342dee07336216fba4439c09e5a28fbc3bcf10aa956a2f9a89887684d1",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Negative-exponent d and A sum, denominator3.70027, numerator100*2*(1-.87284),6.87 result/convention preserved; image verifies fraction scope.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-019",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-019.md",
+      "markdownSha256": "4aef4ce91f5d68f59fae8fbbc6be267941c402ede224d1c20849da8daeba871b",
+      "imagePath": "study/pilot/lecture-3/assets/page-19.png",
+      "imageSha256": "ddd7d4ed4fb03694d48bcbab4ed5bed44e51072870cf119d2ea7cd60d536b213",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared",
+      "observation": "All four bootstrap steps plus why-the-name explanation preserved; no formula omission.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-020",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-020.md",
+      "markdownSha256": "0785a09339c4a5590a21c8ef563b637f1976b82470b2e3b16e0b69f36cc4e22a",
+      "imagePath": "study/pilot/lecture-3/assets/page-20.png",
+      "imageSha256": "70320a81813448a0ded9f11f44a8ff030c916799d6268de12d8fa9c503a1a66e",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared;table-image-and-spaced-values-verified-not-semantic-table",
+      "observation": "Five data rows and all maturity/year, annualcoupon/dollar and price/dollar headers preserved; zeros8/12coupon distinction and half-annual-coupon instruction visible.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-021",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-021.md",
+      "markdownSha256": "05c1698cc151bf1a8133e8f3091f12f8b3a70a0524fb23aed3efd4070b8a0250",
+      "imagePath": "study/pilot/lecture-3/assets/page-21.png",
+      "imageSha256": "87ba75df81dd0a7fe745fe097b527c7199dccd953ca5cabb689ac1b13c1adc4f",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Zero-price exponential and log inverse, three maturities/prices and displayed10.127,10.469,10.536% preserved visually; fractions/log brackets flattened in text.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-022",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-022.md",
+      "markdownSha256": "a72f06ae3bd88773ac27ee61dbd9618f0c6f9383cccf36f1e53413ac4aca03c2",
+      "imagePath": "study/pilot/lecture-3/assets/page-22.png",
+      "imageSha256": "fdeafcfe982370ab666fd4035e8dbbb58c45af066cd6a67cf294da056a7a63c6",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Cashflows4,4,104 and times.5,1,1.5 match; full three-term equation, discountfactor.85196 and minuslog divided1.5 preserved visually.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-023",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-023.md",
+      "markdownSha256": "e7d342426237983c2a5f44baed407719f4c04a42d0043e56ea684dcaae9ff586",
+      "imagePath": "study/pilot/lecture-3/assets/page-23.png",
+      "imageSha256": "0d6a698ee81c825889a260040ea6cd4660ec007f722b6a0d7256ef0dd90384ba",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "All four cashflows6,6,6,106 and exponential times preserved;10.808% answer and dependency question present. Raw superscripts not accepted as verified text.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-024",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-024.md",
+      "markdownSha256": "06f46b526473053ebcc3010c316115eada2a2bc4977a5a95759a1cd60c140af1",
+      "imagePath": "study/pilot/lecture-3/assets/page-24.png",
+      "imageSha256": "62f9baf58f62463345b09d15cfdfe7f8cd7743100a5873bfaf0c3d8c903ec8e8",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared;table-image-and-spaced-values-verified-not-semantic-table",
+      "observation": "Five-row maturity/continuous-zero-rate table matches all values; interpolation choices/caveat retained.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-025",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-025.md",
+      "markdownSha256": "c06ce2ec5604b57b9b012c0fa8b00d0855a2bd9299300ece8e9aace81d410370",
+      "imagePath": "study/pilot/lecture-3/assets/page-25.png",
+      "imageSha256": "4ede116b9ced1a6e8d8cb25254763648c2ff16115b6135f4b319902a1d194b9e",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "R1/R2 maturity order, accumulation identity, forward numerator R2T2-R1T1, denominator T2-T1 and discountfactor ratio P(0,T2)/P(0,T1) visibly intact; raw fractions not authoritative.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-026",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-026.md",
+      "markdownSha256": "1de62c230390bd2d8c696337d5ab531251673dbf1c18cdc6d0774041144efec2",
+      "imagePath": "study/pilot/lecture-3/assets/page-26.png",
+      "imageSha256": "cdd195ec5ad305e90f4a4e7c24bd01e1abd02efda547c1e471d2bf7978d891b4",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "3%one-year/4%two-year example,5%forward, both terminal accumulation routes and108.33 preserved; forecast-versus-implied-rate caveat retained.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-027",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-027.md",
+      "markdownSha256": "abf1ec8e9e84ddd671403b0f30ce462de236c65f6f05d3f4a399c98573524c27",
+      "imagePath": "study/pilot/lecture-3/assets/page-27.png",
+      "imageSha256": "f4a0bddbcdcbbd782e417555732d740caefac93a39d7b5376937491df8af423a",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text;table-image-and-spaced-values-verified-not-semantic-table",
+      "observation": "All five rows, year1 dash and5.0/5.8/6.2/6.5 forward rates present; year4 fraction and year3 task intact. Table columns legible.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-028",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-028.md",
+      "markdownSha256": "1e7e06c2594a019bc121daedfed58bfaab0c8d22b55c2d6389e9868c147f3b3f",
+      "imagePath": "study/pilot/lecture-3/assets/page-28.png",
+      "imageSha256": "f5107629096a4dc1079924575645d95fcf0ee5b76afacf4d06b81f7b70cb80c1",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Notional contract definition and all five bullets, timeT1/T2settlement and borrower/lender purpose retained; subscripts require image.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-029",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-029.md",
+      "markdownSha256": "53e8f1dcbfc285dd929afe1f38932431afec676e6a509fce705bf8daf3ecc962",
+      "imagePath": "study/pilot/lecture-3/assets/page-29.png",
+      "imageSha256": "3fc308125e903123bef1ba9ccff27ae632b09b0a5d8d4b13fda4168d1bb58857",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "L,R_K,R_M,delta definitions and fixed-minus-floating sign preserved. Full settlement denominator1+R_M*delta is visually unambiguous; raw layout alone not trusted.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-030",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-030.md",
+      "markdownSha256": "4ad22cc7e7c6ec2c17d7a9fa8a430d71a49b694d8a7a087dc39e70ff1f9556e6",
+      "imagePath": "study/pilot/lecture-3/assets/page-30.png",
+      "imageSha256": "ed78030e102513dd5b2b014e5f7ceaba55ba757fcbfa00a6451bf68c66a897c1",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "100million,4%,4.5%,.25 and negative125000 cashflow match; negative123609 settlement and denominator1+.045*.25 visible; lender-interpretation prose retained.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-031",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-031.md",
+      "markdownSha256": "11cfeda7ba2dd757737ccc950b282cb09d5a6642ceb378063f1d79dfeb735573",
+      "imagePath": "study/pilot/lecture-3/assets/page-31.png",
+      "imageSha256": "a23eab6c3f78c2cf0ec023d16071c2e6ec3bc6a188feebe2a3298aa22f5d20b7",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared",
+      "observation": "Both10millionGBP exposure questions and correct source payfixed/receivefloating versus receivefixed/payfloating answers preserved; no material omitted.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-032",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-032.md",
+      "markdownSha256": "a69aaccfe1b3b5cd3f23c3d97a7f73a299488862dc8fc39e9754a7d83a75ad9d",
+      "imagePath": "study/pilot/lecture-3/assets/page-32.png",
+      "imageSha256": "b58b09ad4cd1de179c4a443dbcdac7c2589357e714b3cc90cc5d07e9987dd67b",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Price-yield sum and derivative leading minus, t_i factor and strictnegative sign visible; prediction prompt retained. Raw summation rendered X.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-033",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-033.md",
+      "markdownSha256": "b24279a694da80f70bd02ba21733096d946a82916d20b90c150435a2a41b059e",
+      "imagePath": "study/pilot/lecture-3/assets/page-33.png",
+      "imageSha256": "d2c3c36f9481fc6d982d4b21b53ed925b3a08724e96312b23101ad915eb890f3",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Duration1/B weighted sum, cashflow weight C_i e^(-yt_i)/B, sumweights=1 and D=sum t_i*w_i legible; both maturity comparison bullets preserved.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-034",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-034.md",
+      "markdownSha256": "1e0cade4cf92b0d3a64529576631b6498d25cd72bd2401bfcf704ec7d6e40a72",
+      "imagePath": "study/pilot/lecture-3/assets/page-34.png",
+      "imageSha256": "24c08814deb8d61dac4bd3da23264b434d2c9e1a2eaf704822f3f5b68515fd3c",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "dB/dy=-BD, relative approximation minusD*deltay, basispoint conversion.01%=.0001 and10bp=+.001not.1 preserved; raw fractions flattened.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-035",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-035.md",
+      "markdownSha256": "5a633536640fd934cbb3bef834632a6fe61cfc3e39e9e31fc178ed1e67b9098d",
+      "imagePath": "study/pilot/lecture-3/assets/page-35.png",
+      "imageSha256": "17aca8cfca4bab43195168364a0575c0a935f6f542d558aa23a6ad2135573ab8",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text;table-image-and-spaced-values-verified-not-semantic-table",
+      "observation": "Six cashflow rows and totalrow match, including105principalpluscoupon, presentvalue73.256 and finalweight2.333; totalprice94.213/duration2.653years present.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-036",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-036.md",
+      "markdownSha256": "a1da23158347ef4f0c276bf56d5a89df622fccec6c240ab3000fac1c8cf3815b",
+      "imagePath": "study/pilot/lecture-3/assets/page-36.png",
+      "imageSha256": "2f8ee7119c9f1a4191c77c7db789a3aea252b8b14fc203ab3970f525e4eb95a3",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Yieldchange+.001 and negative relative/absolute estimates retained; newprice93.963 and direct-repricing statement present. Fraction denominator B requires image.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-037",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-037.md",
+      "markdownSha256": "9e710fb9d195efdd96bbbc0ac3b9571841fb878007608851886e9f6fa0bf2e62",
+      "imagePath": "study/pilot/lecture-3/assets/page-37.png",
+      "imageSha256": "6f62e1b0d8d23071427c0e261660bc5f0acc1299b73c16d8addf183c753f9960",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared;table-image-and-spaced-values-verified-not-semantic-table",
+      "observation": "Three approximation-error rows and bp headers match image; ordinary-option-free convexity and small-change limitations retained.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-038",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-038.md",
+      "markdownSha256": "d0c3dba020011ecfd9601311ca28ef4a4fc0c71f9e152a7b2445fa3b773312c8",
+      "imagePath": "study/pilot/lecture-3/assets/page-38.png",
+      "imageSha256": "faf64b324027d1ef4232727b602fc1225f6468e8ea3dd68dc71aad5a5fdfca2e",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "Convexity1/B second derivative and t_i squared sum preserved visually; secondorder correction has plus onehalf C(deltay)^2, not minus. Displayed7.570 present.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-039",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-039.md",
+      "markdownSha256": "3433f1912e4df78ce8d2b825767d55d7b235c7daaa19d1bd64a341e7dbd5d70c",
+      "imagePath": "study/pilot/lecture-3/assets/page-39.png",
+      "imageSha256": "e085722bd4ad5d1397deb3bc6a1a53333dcf3614902d438a8c8a3fc8865d98eb",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "original-image-verified-not-math-text",
+      "observation": "100bp=.01 convention, negative duration term plus positive convexity term, priceestimate91.749 and duration-only91.714 present; squaredyieldchange requires image.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-040",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-040.md",
+      "markdownSha256": "58da89235f187385710a87928ee23e02678fbce3572d111db799c516a2523be6",
+      "imagePath": "study/pilot/lecture-3/assets/page-40.png",
+      "imageSha256": "81e5200a015ff1db8edc6f89000eb77f958537fb2e2d69f4b0bb9bd9fbf285d2",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared",
+      "observation": "Parallel-shift limitation, changingduration/convexity, nonparallelcurve exposure and remainingcredit/liquidity/optionality/modelrisks all preserved.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "lecture-3-pdfPage-041",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-041.md",
+      "markdownSha256": "8236d509c8283b63bbaef03c13d98f17a797272c7f5909a1024e01dced84944c",
+      "imagePath": "study/pilot/lecture-3/assets/page-41.png",
+      "imageSha256": "d5871922ef4fb85011434f3e57d237db6edb35200491b1fc0e0ea9f717ad01c1",
+      "imageDimensions": [
+        605,
+        454
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-and-table-values-compared",
+      "observation": "Seven summary bullets and dated-cashflow unifying principle retained; no fullcoursecoverage conclusion inferred.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "seminar-2-problems-pdfPage-001",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/seminar-2-problems/pages/seminar-2-problems-pdfPage-001.md",
+      "markdownSha256": "cd0325e4a9e237d34669b4c68a6544e1ee86783b20966abe3d099a41bb50b4f3",
+      "imagePath": "study/pilot/seminar-2-problems/assets/page-1.png",
+      "imageSha256": "b72c418a4529ed159d6b18a93eb1b125ff82bfc421ed4d7ad20478c3077ba84a",
+      "imageDimensions": [
+        1020,
+        1320
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-compared;original-image-preserved",
+      "observation": "Q1fourcomparisoncategories,Q2allthreehedgingprompts,Q3$50/6%continuous/6monthsand1year,Q4forwardversusexpectedspotquestionallpresent. Bullet glyph U+0088 is an extraction defect, not missing prose.",
+      "omittedTeachingCriticalVisualRegion": false
+    },
+    {
+      "pageId": "seminar-2-problems-pdfPage-002",
+      "visualReview": "ACTUALLY_VIEWED",
+      "visualTool": "tools.view_image",
+      "visualDisplayBatches": "L3:1-6,7-12,13-18,19-24,25-30,31-36,37-41; seminar1-2 and L1p26 individually displayed in final batch",
+      "markdownPath": "study/pilot/seminar-2-problems/pages/seminar-2-problems-pdfPage-002.md",
+      "markdownSha256": "cb855f2888b3e69818032ff076c52922aad3e9daeb9315cd0903ee7d8c091521",
+      "imagePath": "study/pilot/seminar-2-problems/assets/page-2.png",
+      "imageSha256": "12bf900df1b5e3d18445ab9356e636f57a96fddbd3793bd0587a45e84f2f479d",
+      "imageDimensions": [
+        1020,
+        1320
+      ],
+      "anchorAndLinkCheck": "PASS",
+      "fidelityMode": "prose-compared;original-image-preserved",
+      "observation": "Q5threequalitativeprompts with101.50price,3monthsdelivery,4monthsnextcoupon,6%coupon/5%continuousrate;Q6allfourdefinitions;Q7three-rowtable0.5/0%/97,1/6%/101.50,1.5/8%/104andannualcouponinstructionallmatch. Cashflow/zero-conventionambiguity explicitly annotated, no definitive solution accepted.",
+      "omittedTeachingCriticalVisualRegion": false
+    }
+  ],
+  "nextGate": "Pilot artifacts remain provisional; frozen schema/validation revalidation required before bulk; lesson independent rubric is separate."
+}

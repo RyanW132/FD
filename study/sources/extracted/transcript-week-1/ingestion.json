@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "transcript-week-1",
+  "sourceHash": "f760b4cee2b4dd52a683d78c6d0d72324a9393027feea641362c8b8cd52f6520",
+  "revision": "5aeb6331fa299e4cddd2718b8bc77486aef8d5bab783747fc0a277356b0a5f66",
+  "config": {
+    "schemaVersion": 1,
+    "layout": true,
+    "encoding": "UTF-8",
+    "pageBreaks": true,
+    "dpi": 120,
+    "imageFormat": "png",
+    "crop": false,
+    "ocr": false,
+    "tools": {
+      "pdfinfo": "26.01.0",
+      "pdftotext": "26.01.0",
+      "pdftoppm": "26.01.0"
+    }
+  },
+  "rawExtractionComplete": true,
+  "semanticQA": "needs-review",
+  "pages": 0,
+  "lines": 1705,
+  "membership": [
+    {
+      "path": "study/sources/extracted/transcript-week-1/original.txt",
+      "sha256": "f760b4cee2b4dd52a683d78c6d0d72324a9393027feea641362c8b8cd52f6520",
+      "byteLength": 71639
+    },
+    {
+      "path": "study/sources/extracted/transcript-week-1/transcript.md",
+      "sha256": "1368d5d8a1156f3e54b280bb562531c3753f61afe875fc8bf362c1d9f729c81d",
+      "byteLength": 131955
+    }
+  ],
+  "membershipDigest": "710b970603d5efacd7197fe728bfe3dd822c9e35c8c4ee0afb4df9c9eca9c28f"
+}

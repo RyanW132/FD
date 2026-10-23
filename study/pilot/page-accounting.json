@@ -1,0 +1,765 @@
+{
+  "status": "provisional; page count is not teaching completeness",
+  "pages": [
+    {
+      "id": "lecture-3-pdfPage-001",
+      "sourceId": "lecture-3",
+      "pdfPage": 1,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-001.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-01.png",
+      "extractedCharacterCount": 108,
+      "extractedTextSha256": "6afc352283a2af0535a9a8c9b322745a6c0527d27059448e04806ab1e0fb777b",
+      "markdownSha256": "29884af4fd5e03b427d681a3eb619bf752089bdc81406b5db4b8a193312f531d",
+      "imageSha256": "acf77163c3ec5e7d886c452a9a3c01f10874a9e2269fea6c43f1c6edcefccbe3",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-002",
+      "sourceId": "lecture-3",
+      "pdfPage": 2,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-002.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-02.png",
+      "extractedCharacterCount": 403,
+      "extractedTextSha256": "4def9c8de410346574fc5ebdbf55404103b060ae39fbaf283af61d1860ac7077",
+      "markdownSha256": "4bee8594ff0182ce3eeddf220bdea34436868771d3017752d9ff80a4874e1fd5",
+      "imageSha256": "75a09bc3fb9e40c1a65d283cb4eb6a0c9fc16f261acaf22c24710f1522a20a5a",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-003",
+      "sourceId": "lecture-3",
+      "pdfPage": 3,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-003.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-03.png",
+      "extractedCharacterCount": 808,
+      "extractedTextSha256": "4ce55687b8e966cd0c8a9680060538ea970a8271b38d94f20c956297b5eaaaa3",
+      "markdownSha256": "cb1e9c749c98783551f13b3dc2ea04e325199ca6b52e01a3d815ad844d252e1e",
+      "imageSha256": "90714622c4b1a01d39b125106450e18b80ca741f9b463b01915cd6a6822f230b",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-004",
+      "sourceId": "lecture-3",
+      "pdfPage": 4,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-004.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-04.png",
+      "extractedCharacterCount": 980,
+      "extractedTextSha256": "8edfeac0be48d790c9522348295e186362fcaaa483c0c848a593a03c6a47fd26",
+      "markdownSha256": "a29f65ea997e7b495e9ef74a13ea4cd17eec0a5f2eeee05cda705de8e1e7a519",
+      "imageSha256": "ebca8810cdf2e2f31154caab8de1d12ff3981142eeda74da3013289a51fe375d",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-005",
+      "sourceId": "lecture-3",
+      "pdfPage": 5,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-005.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-05.png",
+      "extractedCharacterCount": 950,
+      "extractedTextSha256": "e164be48c96df10d4bd9b379e29bf92355d002af17f5a2e1d82c3bd75f296cf3",
+      "markdownSha256": "ba86e4fb61eb84012b2bdda5e977496104b18c78c8cb87ba1bbbb7c318e32b00",
+      "imageSha256": "2395a9d33c64ffc12767175bb4e2f5fa5aa8a1eb1ba65fb58d374d0377c8d058",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-006",
+      "sourceId": "lecture-3",
+      "pdfPage": 6,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-006.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-06.png",
+      "extractedCharacterCount": 601,
+      "extractedTextSha256": "73b6a0ad254436c6393fe1d67305e98327a16f6d291d14d04c1eb516e63f67ea",
+      "markdownSha256": "3ad15fb0382c4c5c238d511fd1e72506fc249bfa3a320839e1a19e87a3efb262",
+      "imageSha256": "e412a3f82001000d3ee1331001c3acafc424f81342f748f01f52caa7204e827a",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-007",
+      "sourceId": "lecture-3",
+      "pdfPage": 7,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-007.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-07.png",
+      "extractedCharacterCount": 976,
+      "extractedTextSha256": "9a08c6a054538a07d2278f5cc23638a22c069d8f09508e0bcddf5b3d7536b493",
+      "markdownSha256": "4c510607316f04f1ece559fd36ee023889c7e7b7b688765edce71319742d97f6",
+      "imageSha256": "d9ad519955e7f7f811e5ddc4a3fdc9a9c9c1dedd2a71f284cef97783a01de16d",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-008",
+      "sourceId": "lecture-3",
+      "pdfPage": 8,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-008.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-08.png",
+      "extractedCharacterCount": 1077,
+      "extractedTextSha256": "dd3c6f099230c108090b104b06aad2f7e980861856589ac58308d29a3bc469db",
+      "markdownSha256": "235379d0e363595146602ccacaa1663ff13fbd83f59c43350105bcccc9e2bb75",
+      "imageSha256": "61b99356fccf86dff51fe1fa1b859ef92814e6e874e1a3946473fc0e28447b14",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-009",
+      "sourceId": "lecture-3",
+      "pdfPage": 9,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-009.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-09.png",
+      "extractedCharacterCount": 790,
+      "extractedTextSha256": "12c3e3b8b8356222fa67a62ed6516936ba2e1c3dfecabf8dd843989f5f09468c",
+      "markdownSha256": "8871c7fc2e26664eabba3c900df0b5ffb760784f1becbcd2b1d57f89636116ba",
+      "imageSha256": "bc82da1cae12f1e7202202a087fd55a224f4c24fe9c25b343902a9842c85d47b",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-010",
+      "sourceId": "lecture-3",
+      "pdfPage": 10,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-010.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-10.png",
+      "extractedCharacterCount": 1144,
+      "extractedTextSha256": "bfbc4b76cd911b5b46a17963082d06f6e0142f7493e394c02a24020c5eda5bf3",
+      "markdownSha256": "cb156987b82cd360a2b909562cb802e5c9cfa5755b194d31bcdf065b8ac5e9b4",
+      "imageSha256": "e0360c0e8bcaf1967406a6f9b9cf66b10b0ff372e5a738580830405638e67b91",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-011",
+      "sourceId": "lecture-3",
+      "pdfPage": 11,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-011.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-11.png",
+      "extractedCharacterCount": 821,
+      "extractedTextSha256": "3c161a18f902c151f98e2666d47cc5342e27b8732887054fcac0576c40280a39",
+      "markdownSha256": "659b7e6b5a39537a8542f3ca4d72a26a87369e84a301fe20e769a6601c8b0dc6",
+      "imageSha256": "3328311dac4325668f1acdbd600f2cd1c9da91c88272f06c65bdbedc0986e81e",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ],
+      "sourceIssueIds": [
+        "pilot-source-conflict-l3-p11"
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-012",
+      "sourceId": "lecture-3",
+      "pdfPage": 12,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-012.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-12.png",
+      "extractedCharacterCount": 718,
+      "extractedTextSha256": "20a7c53d7df6da5ada670f315d50ba027d10f941437152cc2e48faa26472d972",
+      "markdownSha256": "0ceea1aff9a5803e302305e5881a988107102e75869b6ea08764a94b1f35a826",
+      "imageSha256": "a5e41397d252d0a10b5b88e0de880f55de7b151b85109d0266580d6a70d289cc",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-013",
+      "sourceId": "lecture-3",
+      "pdfPage": 13,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-013.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-13.png",
+      "extractedCharacterCount": 993,
+      "extractedTextSha256": "2c6ef50c7469c96c9991ede7ad3265ec5b5c5325cda32f86b105a9069b7391f1",
+      "markdownSha256": "132ac2c51394d5098d224f14e3e87d5588a889991e482ebbf9e695f86c4e3c1b",
+      "imageSha256": "8597628f00e826970cf59fc62a51736787b38b644744eaa6305bed483e09da3b",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-014",
+      "sourceId": "lecture-3",
+      "pdfPage": 14,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-014.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-14.png",
+      "extractedCharacterCount": 822,
+      "extractedTextSha256": "93d2e2ff15e768da4560ca4e76121afb018fac6ce765aacca6a848f3b24f6ec4",
+      "markdownSha256": "47634264040a9f4afc553e58914abf62df62faf16cf92cd863c9ff80fb62b133",
+      "imageSha256": "7032ac3586eb2223ff98f7cad2a08630eb0d06095ca346e0b3cefaab4e972e9d",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-015",
+      "sourceId": "lecture-3",
+      "pdfPage": 15,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-015.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-15.png",
+      "extractedCharacterCount": 802,
+      "extractedTextSha256": "04a1d6016f01774508f58d3e0835b7ad9d10a8d830cbdf97e7549526969cd78c",
+      "markdownSha256": "b05015c7d843a1c513a0f5af65bef59284fd3bb6b931cfa4d17bd05fc63059c9",
+      "imageSha256": "9890442dc7c596c293c2bfd4d4a90f13e500383c5118f971d8c868bbb68eebca",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-016",
+      "sourceId": "lecture-3",
+      "pdfPage": 16,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-016.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-16.png",
+      "extractedCharacterCount": 772,
+      "extractedTextSha256": "9fdad6c62e7f56bdd999b27bcc09d8cc33fc8b34dafcd37c304bdbb8ff1a2b32",
+      "markdownSha256": "03085929f8c281e0611247a1e2e3faed91dba996f2ed12d837d0607ce59b0afa",
+      "imageSha256": "614885cc5d33e3f890e5a256b9d490e4095c443ac358f78b75332621b7f87709",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ],
+      "sourceIssueIds": [
+        "pilot-source-convention-l3-p16"
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-017",
+      "sourceId": "lecture-3",
+      "pdfPage": 17,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-017.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-17.png",
+      "extractedCharacterCount": 1061,
+      "extractedTextSha256": "9bd651f6118ce42fab19f58cbfc4ddcff526bc3b3e03b16f3d1c6b2bcddd5d68",
+      "markdownSha256": "8a6d316541c91066674e9f9e805fada744a5320e4c1c40e6ddff72654be22305",
+      "imageSha256": "a2a43031483cf27857d4a934cafb1858518b4ab6348caa1bc22b390c51708a4a",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-018",
+      "sourceId": "lecture-3",
+      "pdfPage": 18,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-018.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-18.png",
+      "extractedCharacterCount": 715,
+      "extractedTextSha256": "2235b218f232933b245dd9ec98e2bfb6c46dbfdc8237128fd45ff92565ac3daf",
+      "markdownSha256": "21849e1ffb15c62cff408d38f737693f06c77eaba27cdb2ef39b9ca21393ec86",
+      "imageSha256": "a66cee342dee07336216fba4439c09e5a28fbc3bcf10aa956a2f9a89887684d1",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-019",
+      "sourceId": "lecture-3",
+      "pdfPage": 19,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-019.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-19.png",
+      "extractedCharacterCount": 707,
+      "extractedTextSha256": "34a42db1f182c3969b2d903d3840b6493083ff676a124ac080f4a61fccb89685",
+      "markdownSha256": "4aef4ce91f5d68f59fae8fbbc6be267941c402ede224d1c20849da8daeba871b",
+      "imageSha256": "ddd7d4ed4fb03694d48bcbab4ed5bed44e51072870cf119d2ea7cd60d536b213",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-020",
+      "sourceId": "lecture-3",
+      "pdfPage": 20,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-020.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-20.png",
+      "extractedCharacterCount": 938,
+      "extractedTextSha256": "ff72651fccd09f64cf56bd0f17d8878e9f7c48ea35d5c208e6d4ca7eb2edda1b",
+      "markdownSha256": "0785a09339c4a5590a21c8ef563b637f1976b82470b2e3b16e0b69f36cc4e22a",
+      "imageSha256": "70320a81813448a0ded9f11f44a8ff030c916799d6268de12d8fa9c503a1a66e",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-021",
+      "sourceId": "lecture-3",
+      "pdfPage": 21,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-021.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-21.png",
+      "extractedCharacterCount": 1240,
+      "extractedTextSha256": "c4d39d2568788f219924a97e94460503ef24e808dd48b072203feb69c51c80e7",
+      "markdownSha256": "05c1698cc151bf1a8133e8f3091f12f8b3a70a0524fb23aed3efd4070b8a0250",
+      "imageSha256": "87ba75df81dd0a7fe745fe097b527c7199dccd953ca5cabb689ac1b13c1adc4f",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-022",
+      "sourceId": "lecture-3",
+      "pdfPage": 22,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-022.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-22.png",
+      "extractedCharacterCount": 769,
+      "extractedTextSha256": "6c964efc7598bd2e447c43dd06b6cf31b52d0d49e72b16d21224bedd68a33b20",
+      "markdownSha256": "a72f06ae3bd88773ac27ee61dbd9618f0c6f9383cccf36f1e53413ac4aca03c2",
+      "imageSha256": "fdeafcfe982370ab666fd4035e8dbbb58c45af066cd6a67cf294da056a7a63c6",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-023",
+      "sourceId": "lecture-3",
+      "pdfPage": 23,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-023.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-23.png",
+      "extractedCharacterCount": 638,
+      "extractedTextSha256": "85526c57419b479deba39ffa6a639dc3ce5d92b13ead08212325a5addffb626f",
+      "markdownSha256": "e7d342426237983c2a5f44baed407719f4c04a42d0043e56ea684dcaae9ff586",
+      "imageSha256": "0d6a698ee81c825889a260040ea6cd4660ec007f722b6a0d7256ef0dd90384ba",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-024",
+      "sourceId": "lecture-3",
+      "pdfPage": 24,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-024.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-24.png",
+      "extractedCharacterCount": 996,
+      "extractedTextSha256": "a4f2e6ae324f4a7d8b6e25110f9293ee8da23ec4cfff9f4146f49ee76f010bd4",
+      "markdownSha256": "06f46b526473053ebcc3010c316115eada2a2bc4977a5a95759a1cd60c140af1",
+      "imageSha256": "62f9baf58f62463345b09d15cfdfe7f8cd7743100a5873bfaf0c3d8c903ec8e8",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-025",
+      "sourceId": "lecture-3",
+      "pdfPage": 25,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-025.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-25.png",
+      "extractedCharacterCount": 1000,
+      "extractedTextSha256": "d787b4d6796c124163dc4bd36919602db0532608967053199fb0182b43a4bbf6",
+      "markdownSha256": "c06ce2ec5604b57b9b012c0fa8b00d0855a2bd9299300ece8e9aace81d410370",
+      "imageSha256": "4ede116b9ced1a6e8d8cb25254763648c2ff16115b6135f4b319902a1d194b9e",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-026",
+      "sourceId": "lecture-3",
+      "pdfPage": 26,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-026.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-26.png",
+      "extractedCharacterCount": 841,
+      "extractedTextSha256": "f495d9753e73430bf840679e1a9156efd33e2ab20935779908549e4ceca30eed",
+      "markdownSha256": "1de62c230390bd2d8c696337d5ab531251673dbf1c18cdc6d0774041144efec2",
+      "imageSha256": "cdd195ec5ad305e90f4a4e7c24bd01e1abd02efda547c1e471d2bf7978d891b4",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-027",
+      "sourceId": "lecture-3",
+      "pdfPage": 27,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-027.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-27.png",
+      "extractedCharacterCount": 1018,
+      "extractedTextSha256": "f03b37e6816c8e8626ecf850b1fced07601b8c43aba1cc483953561e04f15595",
+      "markdownSha256": "abf1ec8e9e84ddd671403b0f30ce462de236c65f6f05d3f4a399c98573524c27",
+      "imageSha256": "f4a0bddbcdcbbd782e417555732d740caefac93a39d7b5376937491df8af423a",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-028",
+      "sourceId": "lecture-3",
+      "pdfPage": 28,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-028.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-28.png",
+      "extractedCharacterCount": 875,
+      "extractedTextSha256": "a014d7b697882f321112ae50fa1735f21cd7f813a4dd6aa98cf419e87f623a6e",
+      "markdownSha256": "1e7e06c2594a019bc121daedfed58bfaab0c8d22b55c2d6389e9868c147f3b3f",
+      "imageSha256": "f5107629096a4dc1079924575645d95fcf0ee5b76afacf4d06b81f7b70cb80c1",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-029",
+      "sourceId": "lecture-3",
+      "pdfPage": 29,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-029.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-29.png",
+      "extractedCharacterCount": 840,
+      "extractedTextSha256": "6ba965027040cbe82d78711607975adaa84d1a1f5a5f43e95a507601ee20c2da",
+      "markdownSha256": "53e8f1dcbfc285dd929afe1f38932431afec676e6a509fce705bf8daf3ecc962",
+      "imageSha256": "3fc308125e903123bef1ba9ccff27ae632b09b0a5d8d4b13fda4168d1bb58857",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-030",
+      "sourceId": "lecture-3",
+      "pdfPage": 30,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-030.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-30.png",
+      "extractedCharacterCount": 879,
+      "extractedTextSha256": "46fb9a4d17c4f6929ad154a9e91b7f144ebf6d1ed604819d6a14b77ea452943e",
+      "markdownSha256": "4ad22cc7e7c6ec2c17d7a9fa8a430d71a49b694d8a7a087dc39e70ff1f9556e6",
+      "imageSha256": "ed78030e102513dd5b2b014e5f7ceaba55ba757fcbfa00a6451bf68c66a897c1",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-031",
+      "sourceId": "lecture-3",
+      "pdfPage": 31,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-031.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-31.png",
+      "extractedCharacterCount": 763,
+      "extractedTextSha256": "f063fd1bc95bb79c673d5daefbefc952a931d2a0bc913427540657ef9cd9cbe2",
+      "markdownSha256": "11cfeda7ba2dd757737ccc950b282cb09d5a6642ceb378063f1d79dfeb735573",
+      "imageSha256": "a23eab6c3f78c2cf0ec023d16071c2e6ec3bc6a188feebe2a3298aa22f5d20b7",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-032",
+      "sourceId": "lecture-3",
+      "pdfPage": 32,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-032.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-32.png",
+      "extractedCharacterCount": 1031,
+      "extractedTextSha256": "99c906572c1157cdf7e961ea981e2436d5b157b5e408e863df5179ac4aefb62d",
+      "markdownSha256": "a69aaccfe1b3b5cd3f23c3d97a7f73a299488862dc8fc39e9754a7d83a75ad9d",
+      "imageSha256": "b58b09ad4cd1de179c4a443dbcdac7c2589357e714b3cc90cc5d07e9987dd67b",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-033",
+      "sourceId": "lecture-3",
+      "pdfPage": 33,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-033.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-33.png",
+      "extractedCharacterCount": 1198,
+      "extractedTextSha256": "9f9b1b3fe25d4fcfeb2f734f13a14d0084abbe421f29610b46c5be83550b99c8",
+      "markdownSha256": "b24279a694da80f70bd02ba21733096d946a82916d20b90c150435a2a41b059e",
+      "imageSha256": "d2c3c36f9481fc6d982d4b21b53ed925b3a08724e96312b23101ad915eb890f3",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-034",
+      "sourceId": "lecture-3",
+      "pdfPage": 34,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-034.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-34.png",
+      "extractedCharacterCount": 855,
+      "extractedTextSha256": "f7899a8eb44547b269b17a8505b2d4a36474c094f64b930ec18d5c0122a686f9",
+      "markdownSha256": "1e0cade4cf92b0d3a64529576631b6498d25cd72bd2401bfcf704ec7d6e40a72",
+      "imageSha256": "24c08814deb8d61dac4bd3da23264b434d2c9e1a2eaf704822f3f5b68515fd3c",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-035",
+      "sourceId": "lecture-3",
+      "pdfPage": 35,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-035.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-35.png",
+      "extractedCharacterCount": 1052,
+      "extractedTextSha256": "1e7647afe5386aafbf9bc804ebc79950993abbb8673b91ab887ebe71dc561ece",
+      "markdownSha256": "5a633536640fd934cbb3bef834632a6fe61cfc3e39e9e31fc178ed1e67b9098d",
+      "imageSha256": "17aca8cfca4bab43195168364a0575c0a935f6f542d558aa23a6ad2135573ab8",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-036",
+      "sourceId": "lecture-3",
+      "pdfPage": 36,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-036.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-36.png",
+      "extractedCharacterCount": 770,
+      "extractedTextSha256": "e9a95b0d3303b4329a32a075f853d20218920e7503e4cb2262fc7178e2beee79",
+      "markdownSha256": "a1da23158347ef4f0c276bf56d5a89df622fccec6c240ab3000fac1c8cf3815b",
+      "imageSha256": "2f8ee7119c9f1a4191c77c7db789a3aea252b8b14fc203ab3970f525e4eb95a3",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-037",
+      "sourceId": "lecture-3",
+      "pdfPage": 37,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-037.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-37.png",
+      "extractedCharacterCount": 882,
+      "extractedTextSha256": "a7c118db6187f700865d386df5cabf382a9796fd86b31eaec08442f01ee3f498",
+      "markdownSha256": "9e710fb9d195efdd96bbbc0ac3b9571841fb878007608851886e9f6fa0bf2e62",
+      "imageSha256": "6f62e1b0d8d23071427c0e261660bc5f0acc1299b73c16d8addf183c753f9960",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-038",
+      "sourceId": "lecture-3",
+      "pdfPage": 38,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-038.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-38.png",
+      "extractedCharacterCount": 899,
+      "extractedTextSha256": "6d2a61ff5bac00c50f6a144b068a1ff367a384db78b5b848b984b36c0400be07",
+      "markdownSha256": "d0c3dba020011ecfd9601311ca28ef4a4fc0c71f9e152a7b2445fa3b773312c8",
+      "imageSha256": "faf64b324027d1ef4232727b602fc1225f6468e8ea3dd68dc71aad5a5fdfca2e",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-039",
+      "sourceId": "lecture-3",
+      "pdfPage": 39,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-039.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-39.png",
+      "extractedCharacterCount": 753,
+      "extractedTextSha256": "f907df58fe977dc9b01ea332723b0662129e67e09563c071845ff5e66f6eed52",
+      "markdownSha256": "3433f1912e4df78ce8d2b825767d55d7b235c7daaa19d1bd64a341e7dbd5d70c",
+      "imageSha256": "e085722bd4ad5d1397deb3bc6a1a53333dcf3614902d438a8c8a3fc8865d98eb",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-040",
+      "sourceId": "lecture-3",
+      "pdfPage": 40,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-040.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-40.png",
+      "extractedCharacterCount": 791,
+      "extractedTextSha256": "46ccfa3c99028b07ee4ded028cda2a28e7c7d2c8b52623e527bb8ba9577dffd8",
+      "markdownSha256": "58da89235f187385710a87928ee23e02678fbce3572d111db799c516a2523be6",
+      "imageSha256": "81e5200a015ff1db8edc6f89000eb77f958537fb2e2d69f4b0bb9bd9fbf285d2",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "lecture-3-pdfPage-041",
+      "sourceId": "lecture-3",
+      "pdfPage": 41,
+      "markdownPath": "study/pilot/lecture-3/pages/lecture-3-pdfPage-041.md",
+      "imagePath": "study/pilot/lecture-3/assets/page-41.png",
+      "extractedCharacterCount": 943,
+      "extractedTextSha256": "7b1ac82d41717e53e6ffe5c185cc1400ffcabc9d63f5812cb473d1aab2be1816",
+      "markdownSha256": "8236d509c8283b63bbaef03c13d98f17a797272c7f5909a1024e01dced84944c",
+      "imageSha256": "d5871922ef4fb85011434f3e57d237db6edb35200491b1fc0e0ea9f717ad01c1",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "seminar-2-problems-pdfPage-001",
+      "sourceId": "seminar-2-problems",
+      "pdfPage": 1,
+      "markdownPath": "study/pilot/seminar-2-problems/pages/seminar-2-problems-pdfPage-001.md",
+      "imagePath": "study/pilot/seminar-2-problems/assets/page-1.png",
+      "extractedCharacterCount": 1119,
+      "extractedTextSha256": "a41779e2b12a5fcbbd9f1ade960d21eb08e1ad787ab499d6ab94c106a9b666a2",
+      "markdownSha256": "cd0325e4a9e237d34669b4c68a6544e1ee86783b20966abe3d099a41bb50b4f3",
+      "imageSha256": "b72c418a4529ed159d6b18a93eb1b125ff82bfc421ed4d7ad20478c3077ba84a",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ]
+    },
+    {
+      "id": "seminar-2-problems-pdfPage-002",
+      "sourceId": "seminar-2-problems",
+      "pdfPage": 2,
+      "markdownPath": "study/pilot/seminar-2-problems/pages/seminar-2-problems-pdfPage-002.md",
+      "imagePath": "study/pilot/seminar-2-problems/assets/page-2.png",
+      "extractedCharacterCount": 1522,
+      "extractedTextSha256": "ec4d4945de732f94c5c908b942efb66051f95caf27252f4d513134234d8a1db6",
+      "markdownSha256": "cb855f2888b3e69818032ff076c52922aad3e9daeb9315cd0903ee7d8c091521",
+      "imageSha256": "12bf900df1b5e3d18445ab9356e636f57a96fddbd3793bd0587a45e84f2f479d",
+      "disposition": "extracted-with-visual-evidence",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "pending-content-inspection",
+      "issues": [
+        "Layout text may flatten mathematical notation or omit graphical information; use original page image."
+      ],
+      "sourceIssueIds": [
+        "pilot-source-convention-seminar2-q7"
+      ]
+    },
+    {
+      "id": "lecture-1-pdfPage-026",
+      "sourceId": "lecture-1",
+      "pdfPage": 26,
+      "markdownPath": "study/pilot/figure-sample/lecture-1-pdfPage-026.md",
+      "imagePath": "study/pilot/figure-sample/lecture-1-pdfPage-026.png",
+      "extractedCharacterCount": 981,
+      "extractedTextSha256": "f4e97ec89a391e592d5694e1f6960f692a8332bb4e97e3a4130d4c3ad5a3d868",
+      "markdownSha256": "50cb0b56333bab5c28ff53ed84fb689292a3c7e952b7d95fe31610f99e8fa3b3",
+      "imageSha256": "ef6bfa7701e139072d5278886a2c6980bcfa329df85640dc5c9f9ec31dfc1beb",
+      "disposition": "single-page-figure-pilot-only",
+      "visualQa": "pending-independent-review",
+      "substantiveUnitAccounting": "provisional graph region pending independent review",
+      "issues": [
+        "Plotted lines/axes/labels require image reconciliation; layout text alone is not a graph."
+      ],
+      "sourceIssueIds": [
+        "pilot-source-conflict-l1-p26"
+      ]
+    }
+  ]
+}

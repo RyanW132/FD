@@ -1,0 +1,214 @@
+{
+  "schemaStatus": "exploratory-pilot-not-production-contract",
+  "lessonId": "pilot-compounding-discounting",
+  "readiness": "provisional-awaiting-independent-review",
+  "lessonRef": {
+    "kind": "markdown",
+    "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+    "anchor": "pilot-compounding-discounting"
+  },
+  "prerequisiteBridgeRef": {
+    "kind": "markdown",
+    "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+    "anchor": "prerequisite-bridge"
+  },
+  "sourceId": "lecture-3",
+  "sourcePhysicalPages": [
+    3,
+    6,
+    7,
+    8,
+    9
+  ],
+  "sourceRefs": [
+    {
+      "kind": "markdown",
+      "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-003.md",
+      "anchor": "lecture-3-pdfPage-003"
+    },
+    {
+      "kind": "markdown",
+      "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-006.md",
+      "anchor": "lecture-3-pdfPage-006"
+    },
+    {
+      "kind": "markdown",
+      "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-007.md",
+      "anchor": "lecture-3-pdfPage-007"
+    },
+    {
+      "kind": "markdown",
+      "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-008.md",
+      "anchor": "lecture-3-pdfPage-008"
+    },
+    {
+      "kind": "markdown",
+      "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-009.md",
+      "anchor": "lecture-3-pdfPage-009"
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "pilot-rate-units",
+      "description": "Translate decimal rates and time units",
+      "successCriterion": "All four inputs correct with conventions and units.",
+      "exerciseIds": [
+        "pilot-exercise-rate-units"
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "markdown",
+          "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-006.md",
+          "anchor": "lecture-3-pdfPage-006"
+        },
+        {
+          "kind": "markdown",
+          "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-007.md",
+          "anchor": "lecture-3-pdfPage-007"
+        }
+      ]
+    },
+    {
+      "id": "pilot-discrete-roundtrip",
+      "description": "Compound and reverse a single amount",
+      "successCriterion": "Identify factor 1.03 and four periods; $225.10 forward and $200.00 back; explain reciprocal.",
+      "exerciseIds": [
+        "pilot-exercise-discrete-roundtrip"
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "markdown",
+          "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-007.md",
+          "anchor": "lecture-3-pdfPage-007"
+        }
+      ]
+    },
+    {
+      "id": "pilot-effective-rate",
+      "description": "Distinguish nominal and effective annual rates",
+      "successCriterion": "6.09% effective with interest-on-interest explanation; distinguish $110 from $110.25.",
+      "exerciseIds": [
+        "pilot-exercise-effective-rate"
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "markdown",
+          "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-006.md",
+          "anchor": "lecture-3-pdfPage-006"
+        },
+        {
+          "kind": "markdown",
+          "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-008.md",
+          "anchor": "lecture-3-pdfPage-008"
+        }
+      ]
+    },
+    {
+      "id": "pilot-continuous-discount",
+      "description": "Discount continuously using consistent units and direction",
+      "successCriterion": "$490.10 present, $500.00 reverse and at zero rate; explain sign and direction.",
+      "exerciseIds": [
+        "pilot-exercise-continuous-discount"
+      ],
+      "evidenceRefs": [
+        {
+          "kind": "markdown",
+          "path": "study/pilot/lecture-3/pages/lecture-3-pdfPage-009.md",
+          "anchor": "lecture-3-pdfPage-009"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "pilot-exercise-rate-units",
+      "origin": "supplemental-agent-authored",
+      "outcomeIds": [
+        "pilot-rate-units"
+      ],
+      "promptRef": {
+        "kind": "markdown",
+        "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+        "anchor": "exercise-rate-units"
+      },
+      "answerRef": {
+        "kind": "markdown",
+        "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+        "anchor": "answer-rate-units"
+      }
+    },
+    {
+      "id": "pilot-exercise-discrete-roundtrip",
+      "origin": "supplemental-agent-authored",
+      "outcomeIds": [
+        "pilot-discrete-roundtrip"
+      ],
+      "promptRef": {
+        "kind": "markdown",
+        "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+        "anchor": "exercise-discrete-roundtrip"
+      },
+      "answerRef": {
+        "kind": "markdown",
+        "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+        "anchor": "answer-discrete-roundtrip"
+      }
+    },
+    {
+      "id": "pilot-exercise-effective-rate",
+      "origin": "supplemental-agent-authored",
+      "outcomeIds": [
+        "pilot-effective-rate"
+      ],
+      "promptRef": {
+        "kind": "markdown",
+        "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+        "anchor": "exercise-effective-rate"
+      },
+      "answerRef": {
+        "kind": "markdown",
+        "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+        "anchor": "answer-effective-rate"
+      }
+    },
+    {
+      "id": "pilot-exercise-continuous-discount",
+      "origin": "supplemental-agent-authored",
+      "outcomeIds": [
+        "pilot-continuous-discount"
+      ],
+      "promptRef": {
+        "kind": "markdown",
+        "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+        "anchor": "exercise-continuous-discount"
+      },
+      "answerRef": {
+        "kind": "markdown",
+        "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+        "anchor": "answer-continuous-discount"
+      }
+    }
+  ],
+  "teachBack": {
+    "origin": "supplemental-agent-authored",
+    "promptRef": {
+      "kind": "markdown",
+      "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+      "anchor": "exercise-teachback"
+    },
+    "answerRef": {
+      "kind": "markdown",
+      "path": "study/pilot/lessons/pilot-compounding-discounting.md",
+      "anchor": "answer-teachback"
+    },
+    "outcomeIds": [
+      "pilot-effective-rate",
+      "pilot-continuous-discount"
+    ]
+  },
+  "review": {
+    "independentReviewStatus": "pending",
+    "scores": null
+  },
+  "coverageClaim": "Only this pilot topic; not full-page/substantive-unit or whole-lecture teaching certification."
+}

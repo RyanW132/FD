@@ -1,0 +1,672 @@
+   Financial Derivatives
+        ES32079
+
+          Lecture 4
+
+Forward and Futures Prices
+       Aliya Kenjegalieva
+ Structure of this lecture
+
+  Today we cover the following topics:
+
+  1    Introduction
+
+  2    No-Arbitrage Forward Pricing
+
+  3    Valuing Existing Forward Contracts
+
+  4    Applications
+
+  5    Review
+
+  Reference: Hull chapter 5.
+
+
+ES32079 Financial Derivatives (Lecture 4)   Forward and Futures Prices   Aliya Kenjegalieva   2 / 32
+                                            Introduction
+
+
+
+ Investment and Consumption Assets
+
+  Investment assets
+  Assets held by significant numbers of investors primarily for investment,
+  such as shares, bonds, gold, and silver.
+
+  Consumption assets
+  Assets held mainly for use or consumption, such as oil, copper, wheat, and
+  cocoa.
+
+  Why the distinction matters
+  For an investment asset, cash-and-carry arbitrage often enforces a precise
+  relationship between spot and forward prices. For a consumption asset,
+  inventory may provide operational benefits, so the relationship may involve
+  a convenience yield and need not be enforced by the same arbitrage
+  strategy.
+
+ES32079 Financial Derivatives (Lecture 4)   Forward and Futures Prices   Aliya Kenjegalieva   3 / 32
+                                            Introduction
+
+
+
+ Why Trade Forward or Futures Contracts?
+
+
+  Forward and futures contracts allow market participants to transfer price
+  risk across time.
+          A hedger can lock in a future purchase or sale price.
+          A speculator can take a view on a future price without initially
+          purchasing the underlying asset.
+          An arbitrageur can exploit inconsistent spot and derivative prices.
+          Observable futures prices can contribute to price discovery.
+
+  Important distinction
+  A futures price reflects today’s market-clearing price for future delivery. It
+  is not necessarily an unbiased forecast of the future spot price.
+
+
+
+ES32079 Financial Derivatives (Lecture 4)   Forward and Futures Prices   Aliya Kenjegalieva   4 / 32
+                                            Introduction
+
+
+
+ Why Is Short Selling Important?
+  Short selling allows investors to benefit from, or hedge against, falling
+  prices.
+          Shares are borrowed and sold in the market.
+          The short seller later repurchases the shares and returns them.
+          The short seller must compensate the lender for dividends and other
+          distributions.
+          Borrowing fees, collateral requirements, and recall risk may apply.
+          A short position can suffer an unlimited loss if the asset price rises
+          without bound.
+  Pricing relevance
+  Some no-arbitrage arguments require the ability to short the underlying
+  asset. If short selling is restricted, only one side of the pricing relationship
+  may be enforceable.
+
+ES32079 Financial Derivatives (Lecture 4)   Forward and Futures Prices   Aliya Kenjegalieva   5 / 32
+                                            Introduction
+
+
+
+ Short-Selling Example
+
+  An investor trades 500 shares initially priced at $120. The share pays a $1
+  dividend and is worth $100 when the position is closed.
+
+                    Cash flow                              Buy shares    Short shares
+                    Initial share transaction               −$60,000       +$60,000
+                    Dividend                                  +$500          −$500
+                    Closing share transaction               +$50,000       −$50,000
+                    Net profit                                −$9,500       +$9,500
+
+
+  Interpretation
+  Ignoring financing and stock-borrowing costs, the long and short profits
+  are equal in magnitude and opposite in sign.
+
+
+ES32079 Financial Derivatives (Lecture 4)   Forward and Futures Prices       Aliya Kenjegalieva   6 / 32
+                                               Introduction
+
+
+
+ Forwards and Futures: Similar Obligation, Different
+ Trading
+  Both contracts create an obligation to transact at a specified future date.
+
+       Feature                       Forward                                Futures
+       Venue                         Usually OTC                            Exchange traded
+       Terms                         Customised                             Standardised
+       Counterparty risk             Managed bilaterally                    Managed through a clear-
+                                                                            inghouse
+       Settlement                    Usually at maturity                    Marked to market daily
+       Margin                        Contract dependent                     Required by clearing rules
+
+
+  Terminology
+  The delivery price K is fixed in an existing contract. The forward price
+  is the delivery price that would make a new contract worth zero today.
+
+ES32079 Financial Derivatives (Lecture 4)      Forward and Futures Prices             Aliya Kenjegalieva   7 / 32
+                                               Introduction
+
+
+
+ Daily Settlement of Futures
+  For N long contracts, each covering Q units, the daily gain is
+
+                                            ∆Vt = NQ(Ft − Ft−1 ).
+
+          Initial margin is deposited when the position is opened.
+          Daily gains and losses enter the margin account through variation
+          margin.
+          If the balance falls below the maintenance margin, a margin call may
+          require the account to be replenished.
+
+  Example
+  Two long contracts cover 100 units each. If the futures price falls from
+  $52 to $50.50,
+
+                              ∆V = 2 × 100 × (50.50 − 52) = −$300.
+
+ES32079 Financial Derivatives (Lecture 4)      Forward and Futures Prices   Aliya Kenjegalieva   8 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ Pricing Assumptions
+
+  The basic model assumes that:
+          there are no transaction costs or taxes;
+          assets can be traded in divisible quantities;
+          market participants can borrow and lend at the relevant risk-free rate;
+          short selling is possible when required;
+          contractual cash flows and carrying costs are known; and
+          arbitrage opportunities are exploited.
+
+  Role of assumptions
+  The formulas describe theoretical no-arbitrage benchmarks. Funding
+  spreads, bid-ask spreads, collateral, taxes, and short-sale constraints can
+  create a range around the benchmark in real markets.
+
+
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   9 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ Notation
+
+          St : spot price of the underlying at time t
+          Ft,T : forward price at time t for delivery at T
+          K : delivery price written into an existing contract
+          T − t: time remaining to delivery
+          r : continuously compounded risk-free rate for the remaining term
+          I : present value of known cash income before delivery
+          q: continuously compounded income yield
+          u: proportional storage-cost rate
+          y : convenience yield
+
+  At inception
+  For a fairly priced new forward contract, K = F0,T and its value is zero.
+  After inception, K is fixed but the market forward price changes.
+
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   10 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ Forward Price with No Income
+
+  Consider an investment asset that pays no income before delivery.
+  Cash-and-carry strategy
+  At time 0:
+      1   borrow S0 ;
+      2   buy one unit of the asset; and
+      3   short a forward contract for delivery at T .
+  At T , deliver the asset for F0,T and repay S0 e rT .
+
+  No arbitrage requires
+                                                   F0,T = S0 e rT .
+  This is a cost-of-carry result, not a forecast of ST .
+
+
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   11 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ If the Market Forward Price Is Too High
+  Suppose S0 = $40, r = 5%, T = 0.25, and the quoted forward price is $43.
+  The no-arbitrage price is
+                                        ∗
+                                       F0,T = 40e 0.05×0.25 = $40.50.
+
+
+  Cash-and-carry arbitrage
+      1   Borrow $40 and buy the share.
+      2   Short the forward at $43.
+      3   At maturity, deliver the share and receive $43.
+      4   Repay $40.50.
+
+  The locked-in profit at T is
+
+                                            $43.00 − $40.50 = $2.50 .
+
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   12 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ If the Market Forward Price Is Too Low
+
+  Suppose instead that the quoted forward price is $39.
+  Reverse cash-and-carry arbitrage
+      1   Short one share and receive $40.
+      2   Invest $40 for three months.
+      3   Enter a long forward contract at $39.
+      4   At maturity, the investment is worth $40.50.
+      5   Pay $39 for the share and return it to the lender.
+
+  The locked-in profit at T is
+
+                                            $40.50 − $39.00 = $1.50 ,
+
+  before stock-borrowing costs.
+
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   13 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ What If Short Selling Is Restricted?
+  Cash-and-carry can still rule out a forward price that is too high:
+                                                   F0,T ≤ S0 e rT
+  under the basic no-income assumptions.
+  Ruling out a forward price that is too low requires the reverse
+  cash-and-carry strategy, which normally involves shorting the asset.
+  Consequences
+  If investors cannot short the asset and do not already own it, the
+  lower-bound arbitrage may be unavailable. The equality
+
+                                                   F0,T = S0 e rT
+
+  is therefore not guaranteed by that argument alone.
+
+  For an investment asset held by many investors, existing owners may still
+  sell the asset and buy it forward, helping enforce the relationship.
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   14 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ Forward Price with Known Cash Income
+  Suppose the asset pays known cash income before delivery with present
+  value I . Owning the asset provides both the terminal asset and the interim
+  income.
+  The prepaid cost of the terminal asset is therefore S0 − I , giving
+
+                                              F0,T = (S0 − I )e rT .
+
+  Interpretation
+  Known income reduces the forward price because the forward holder does
+  not receive income paid before delivery.
+
+  If the income occurs at several dates,
+                                    X
+                                I =      Ij e −rj tj ,
+                                                           j
+
+  using the appropriate zero rate for each payment date.
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   15 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ Known-Income Example
+
+  A bond is priced at $900. It will pay a $40 coupon after four months. A
+  nine-month forward is considered. The four-month zero rate is 3%, and
+  the nine-month zero rate is 4%, both continuously compounded.
+  The coupon’s present value is
+
+                                        I = 40e −0.03·(4/12) = $39.60.
+
+  Therefore,
+                                     F0,T = (900 − 39.60)e 0.04·(9/12)
+                                             = $886.60 .
+
+  Check
+  Why is the forward price below the spot price even though interest rates
+  are positive?
+
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   16 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ Arbitrage Around the Known-Income Price
+
+  The fair forward price is $886.60.
+
+    If quoted at $910                                           If quoted at $870
+    Borrow to buy the bond and short                            Short the bond and invest the pro-
+    the forward. Use the coupon to                              ceeds after setting aside the present
+    service the corresponding borrow-                           value of the coupon compensation.
+    ing. At maturity, deliver the bond                          Go long the forward at $870. At
+    for $910 and repay $886.60. Profit:                         maturity, the investment provides
+    $23.40.                                                     $886.60. Profit: $16.60.
+
+
+  Practical qualification
+  The reverse strategy requires the bond to be available for borrowing and
+  the short seller to compensate the lender for the coupon.
+
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices         Aliya Kenjegalieva   17 / 32
+                                 No-Arbitrage Forward Pricing
+
+
+
+ Forward Price with a Known Yield
+
+  If the asset provides a continuously compounded income yield q, the
+  no-arbitrage forward price is
+
+                                                F0,T = S0 e (r −q)T .
+
+
+  Example
+  Let S0 = 25, r = 10%, q = 3.96%, and T = 0.5. Then
+
+                                F0,T = 25e (0.10−0.0396)×0.5 = $25.77 .
+
+  Cash income versus yield
+  Use (S0 − I )e rT for known cash amounts and S0 e (r −q)T for income
+  proportional to the asset’s value.
+
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   18 / 32
+                            Valuing Existing Forward Contracts
+
+
+
+ Forward Price Is Not Forward Value
+
+
+  At inception, a fairly priced forward has
+
+                                       K = F0,T                  and           f0 = 0.
+
+  At a later time t:
+          the contractual delivery price K remains fixed;
+          the market forward price becomes Ft,T ; and
+          the contract value ft is generally no longer zero.
+  For a long forward,
+                                            ft = (Ft,T − K )e −r (T −t) .
+  For a short forward, the value is −ft .
+
+
+ES32079 Financial Derivatives (Lecture 4)         Forward and Futures Prices             Aliya Kenjegalieva   19 / 32
+                            Valuing Existing Forward Contracts
+
+
+
+ Deriving the Value of a Long Forward
+  Construct a portfolio at time t:
+      1   Keep the existing long forward with delivery price K .
+      2   Enter a new short forward with delivery price Ft,T . A new fairly
+          priced forward has zero value.
+  At delivery, the combined payoff is certain:
+
+                                 (ST − K ) + (Ft,T − ST ) = Ft,T − K .
+
+  Discounting this certain payment gives
+
+                                            ft = (Ft,T − K )e −r (T −t) .
+
+  For a no-income asset, substituting Ft,T = St e r (T −t) gives the equivalent
+  expression
+                                              ft = St − Ke −r (T −t) .
+
+ES32079 Financial Derivatives (Lecture 4)         Forward and Futures Prices   Aliya Kenjegalieva   20 / 32
+                            Valuing Existing Forward Contracts
+
+
+
+ Valuing an Existing Forward: Example
+
+  A long forward on a non-dividend-paying share has delivery price K = $24.
+  Six months remain. The current share price is $25 and the continuously
+  compounded risk-free rate is 10%.
+  The current forward price is
+
+                                        Ft,T = 25e 0.10×0.5 = $26.28.
+
+  The value of the existing long forward is
+
+                                            ft = (26.28 − 24)e −0.10×0.5
+                                              = $2.17 .
+
+  Equivalently,
+                                     ft = 25 − 24e −0.10×0.5 = $2.17.
+
+
+ES32079 Financial Derivatives (Lecture 4)         Forward and Futures Prices   Aliya Kenjegalieva   21 / 32
+                            Valuing Existing Forward Contracts
+
+
+
+ Forward and Futures Prices
+
+  Forward and futures prices are equal when interest rates are deterministic
+  and the contracts otherwise have the same underlying and delivery date.
+  When rates are uncertain, daily settlement can create a difference:
+          If futures gains tend to occur when interest rates are high, those gains
+          can be reinvested at favourable rates, tending to make the futures
+          price exceed the forward price.
+          If futures gains tend to occur when rates are low, the opposite
+          tendency arises.
+
+  Key mechanism
+  The difference comes from the timing and reinvestment of daily
+  variation-margin cash flows, not from a different terminal payoff formula.
+
+
+
+ES32079 Financial Derivatives (Lecture 4)         Forward and Futures Prices   Aliya Kenjegalieva   22 / 32
+                                            Applications
+
+
+
+ Stock-Index Futures
+  A stock index can be treated as an investment asset paying a dividend
+  yield q. Under the standard assumptions,
+
+                                            F0,T = S0 e (r −q)T .
+
+
+  Example
+  For a three-month contract, let
+
+                         S0 = 1,300,        r = 5%,          q = 1%,      T = 0.25.
+
+  Then
+                             F0,T = 1,300e (0.05−0.01)×0.25 = 1,313.07 .
+
+  The dividend yield used should correspond to dividends expected during
+  the life of the contract.
+ES32079 Financial Derivatives (Lecture 4)    Forward and Futures Prices        Aliya Kenjegalieva   23 / 32
+                                             Applications
+
+
+
+ Currency Forwards: Covered Interest Parity
+
+  Let S0 be the domestic-currency price of one unit of foreign currency.
+  Holding foreign currency allows the investor to earn the foreign interest
+  rate rf , while domestic funds earn rd .
+  No arbitrage therefore requires
+
+                                            F0,T = S0 e (rd −rf )T .
+
+
+  Quotation matters
+  The signs depend on how the exchange rate is quoted. Here both S0 and
+  F0,T are domestic currency per unit of foreign currency.
+
+  If rd < rf , the foreign currency trades at a forward discount under this
+  quotation convention.
+
+ES32079 Financial Derivatives (Lecture 4)     Forward and Futures Prices   Aliya Kenjegalieva   24 / 32
+                                              Applications
+
+
+
+ Currency-Forward Example
+
+  Suppose
+
+         S0 = 0.9800 USD per AUD,                      rUSD = 1%,          rAUD = 3%,        T = 2.
+
+  The no-arbitrage forward rate is
+
+                                      F0,T = 0.9800e (0.01−0.03)×2
+                                            = 0.9416 USD per AUD .
+
+
+  Prediction
+  If the market forward rate is only 0.9300 USD per AUD, which currency
+  should the arbitrageur borrow?
+
+
+ES32079 Financial Derivatives (Lecture 4)     Forward and Futures Prices         Aliya Kenjegalieva   25 / 32
+                                            Applications
+
+
+
+ Currency Arbitrage When the Forward Is Too Low
+
+
+  If the two-year forward rate is 0.9300 USD per AUD:
+      1   Borrow 1,000 AUD and convert it to 980 USD.
+      2   Invest 980 USD at 1% for two years, producing 980e 0.01×2 = $999.80.
+      3   The AUD loan grows to 1,000e 0.03×2 = 1,061.84 AUD.
+      4   Buy 1,061.84 AUD forward for 1,061.84 × 0.9300 = $987.51.
+      5   Use the AUD to repay the loan.
+  The riskless profit at maturity is
+
+                                      $999.80 − $987.51 = $12.29 .
+
+
+
+
+ES32079 Financial Derivatives (Lecture 4)   Forward and Futures Prices   Aliya Kenjegalieva   26 / 32
+                                              Applications
+
+
+
+ Commodities: Storage Costs and Convenience Yield
+  Physical commodities may involve:
+        financing cost r ;
+        storage and insurance costs u; and
+        convenience yield y , the non-cash benefit of holding inventory.
+  If proportional carry components are used,
+
+                                            F0,T = S0 e (r +u−y )T .
+  If storage costs are known cash amounts with present value U, and there is
+  no convenience yield,
+                                            F0,T = (S0 + U)e rT .
+
+  Consumption assets
+  Convenience yield can make holding physical inventory more valuable than
+  holding only a forward contract. Reverse cash-and-carry arbitrage may
+  therefore be unavailable.
+ES32079 Financial Derivatives (Lecture 4)     Forward and Futures Prices   Aliya Kenjegalieva   27 / 32
+                                             Applications
+
+
+
+ The Cost of Carry
+  The net proportional cost of carrying an asset to delivery is
+                                            c = r + u − q − y,
+  where terms that do not apply are set to zero. Then
+                                              F0,T = S0 e cT .
+
+                 Underlying                                               Net cost of carry
+                 Non-dividend-paying investment asset                             r
+                 Stock index                                                    r −q
+                 Foreign currency                                              rd − rf
+                 Commodity                                                   r +u−y
+
+  Interpret carefully
+  Cost of carry explains the spot-forward relationship; it does not imply that
+  the future spot price must equal today’s forward price.
+ES32079 Financial Derivatives (Lecture 4)    Forward and Futures Prices          Aliya Kenjegalieva   28 / 32
+                                                Applications
+
+
+
+ Commodity Forward: Known Storage Cost
+
+  Consider a one-year contract on an investment asset with:
+
+                                            S0 = $450,              r = 7%,
+
+  and a $2 storage payment due at the end of the year.
+  The present value of the storage cost is
+
+                                             U = 2e −0.07 = $1.865.
+
+  Therefore,
+                                            F0,T = (450 + 1.865)e 0.07
+                                                 = $484.63 .
+  If the quoted forward price is above $484.63, cash-and-carry arbitrage is
+  possible under the model assumptions.
+
+ES32079 Financial Derivatives (Lecture 4)        Forward and Futures Prices   Aliya Kenjegalieva   29 / 32
+                                               Applications
+
+
+
+ Contango and Backwardation
+
+
+       Contango The forward price exceeds the spot price.
+  Backwardation The forward price is below the spot price.
+  From
+                                            F0,T = S0 e (r +u−q−y )T ,
+  contango is associated with positive net carry, while a sufficiently large
+  income or convenience yield can produce backwardation.
+  Do not infer too much
+  Contango does not by itself mean that the market expects the spot price
+  to rise, and backwardation does not by itself mean that the market expects
+  it to fall. Carry and risk premia also matter.
+
+
+
+ES32079 Financial Derivatives (Lecture 4)       Forward and Futures Prices   Aliya Kenjegalieva   30 / 32
+                                                Review
+
+
+
+ Choose the Correct Pricing Formula
+
+  Match each situation to its pricing formula.
+      1   A non-dividend-paying share
+      2   A bond paying a known coupon before delivery
+      3   A stock index with dividend yield q
+      4   A foreign currency
+      5   A commodity with storage cost and convenience yield
+
+                                            1    S0 e rT
+                                            2    (S0 − I )e rT
+                                            3    S0 e (r −q)T
+                                            4    S0 e (rd −rf )T
+                                            5    S0 e (r +u−y )T
+
+
+ES32079 Financial Derivatives (Lecture 4)   Forward and Futures Prices   Aliya Kenjegalieva   31 / 32
+                                                Review
+
+
+
+ Lecture Summary
+          Forward prices follow from spot prices and the net cost of carry.
+          Cash-and-carry addresses an overpriced forward; reverse
+          cash-and-carry addresses an underpriced forward when short selling is
+          possible.
+          Known cash income and proportional yields require different formulas.
+          The value of an existing forward is not the same as its current forward
+          price.
+          Daily settlement can create a difference between futures and forward
+          prices when interest rates are uncertain.
+          Currency pricing follows covered interest parity.
+          Commodity pricing may include storage costs and convenience yield.
+  Unifying principle
+  Replicate future delivery using spot-market borrowing, lending, ownership,
+  and income. If the derivative price differs from the replication cost,
+  investigate the arbitrage and the assumptions it requires.
+ES32079 Financial Derivatives (Lecture 4)   Forward and Futures Prices   Aliya Kenjegalieva   32 / 32
+

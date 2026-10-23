@@ -1,0 +1,498 @@
+{
+  "schemaVersion": 1,
+  "sources": {
+    "lecture-1": {
+      "id": "lecture-1",
+      "kind": "lecture",
+      "originalPath": "context/lecture slides/Lecture 1 Intro to Derivatives.pdf",
+      "sha256": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+      "byteLength": 657400,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "complete",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 38,
+      "derivedRevision": "c45f0ee34041117c97b5ec77ccc01826998b489616870e65f1c483bba635f89f",
+      "issueIds": [
+        "lecture-1-p005-currency-title",
+        "lecture-1-p024-currency-multiplier",
+        "lecture-1-p026-profit-axis",
+        "lecture-1-p027-profit-axes"
+      ]
+    },
+    "lecture-2": {
+      "id": "lecture-2",
+      "kind": "lecture",
+      "originalPath": "context/lecture slides/Lecture 2 Types of Traders and Hedging.pdf",
+      "sha256": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+      "byteLength": 331348,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "complete",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 29,
+      "derivedRevision": "3a3644710cacb7b37551cc943eb22864c301dc60d48b65028b4de884833aa6ed",
+      "issueIds": [
+        "lecture-2-p007-london-currency"
+      ]
+    },
+    "lecture-3": {
+      "id": "lecture-3",
+      "kind": "lecture",
+      "originalPath": "context/lecture slides/Lecture 3 Interest rates and bonds.pdf",
+      "sha256": "df4aabe19a4bf757759406b1a8b4c95f4ab1656361d68456c6c2fdacf5ab047e",
+      "byteLength": 345689,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "complete",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 41,
+      "derivedRevision": "5cfd859be11c15f8f5d73181bd6fbba0f8f2d2eaaf49df2190b5df3ce374fffe",
+      "issueIds": [
+        "source-l3-p011-printed-rate-error",
+        "source-l3-p016-rate-conventions"
+      ]
+    },
+    "lecture-4": {
+      "id": "lecture-4",
+      "kind": "lecture",
+      "originalPath": "context/lecture slides/Lecture 4 Forward and Futures.pdf",
+      "sha256": "f71e7435395a3ed959a45fb5ac77e2991ad8aca0996cfd647960af1549544403",
+      "byteLength": 291607,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "complete",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 32,
+      "derivedRevision": "f187af2dc20dd0bc1671c6c4d40187a6fc9d23d361875cd865e7b5bd39819ec1",
+      "issueIds": []
+    },
+    "transcript-week-1": {
+      "id": "transcript-week-1",
+      "kind": "transcript",
+      "originalPath": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week1_Captions_English (United Kingdom).txt",
+      "sha256": "f760b4cee2b4dd52a683d78c6d0d72324a9393027feea641362c8b8cd52f6520",
+      "byteLength": 71639,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "partial",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": null,
+      "derivedRevision": "5aeb6331fa299e4cddd2718b8bc77486aef8d5bab783747fc0a277356b0a5f66",
+      "issueIds": []
+    },
+    "transcript-week-2": {
+      "id": "transcript-week-2",
+      "kind": "transcript",
+      "originalPath": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week2_Captions_English (United Kingdom).txt",
+      "sha256": "87e5d91c1be5fbf463fe84b486c328afcfcaea4844fcfb282f342859d6e073d0",
+      "byteLength": 64239,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "partial",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": null,
+      "derivedRevision": "a79a7041bf538b764c57510bbbc3333fe0937df45ff2796396318ee7f6722218",
+      "issueIds": []
+    },
+    "transcript-week-3": {
+      "id": "transcript-week-3",
+      "kind": "transcript",
+      "originalPath": "context/lecture_transcripts/Y2627-ES32079-Financialderivatives-Lecture-week3_Captions_English (United Kingdom).txt",
+      "sha256": "c65b6b4a8d053ab12a0ddb7f46f4ec6c8566b29fa5a3387688b4482e0ae00917",
+      "byteLength": 69111,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "partial",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": null,
+      "derivedRevision": "e3b19126f010d180362b950cf189bc1b63889630d8b14e6b58fea2da6cd1a08d",
+      "issueIds": []
+    },
+    "seminar-1-solutions": {
+      "id": "seminar-1-solutions",
+      "kind": "solution",
+      "originalPath": "context/seminars/ES32079 Seminar 1 Solutions Full.pdf",
+      "sha256": "5568f5acde927793ad95e722db81b27e4ec526647f8af88a39e54f83cf2dd530",
+      "byteLength": 123716,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "complete",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 7,
+      "derivedRevision": "570c45ba978c901dd727e08a8df4a92297200b3c82b75ebe17004af0677d5137",
+      "issueIds": []
+    },
+    "seminar-1-problems": {
+      "id": "seminar-1-problems",
+      "kind": "seminar",
+      "originalPath": "context/seminars/ES32079 Seminar 1.pdf",
+      "sha256": "86ca691dacd5c247dba48c77c7c762ad9a03362610a44676de1e673d39a2362c",
+      "byteLength": 64094,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "complete",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 2,
+      "derivedRevision": "bfd46ada4799d8711116b9c0566398371c5372e8f2551c791ad681ada187c2b2",
+      "issueIds": []
+    },
+    "seminar-2-solutions": {
+      "id": "seminar-2-solutions",
+      "kind": "solution",
+      "originalPath": "context/seminars/ES32079 Seminar 2 Solutions.pdf",
+      "sha256": "074aea7f63885981738447cd71ec9856fcc7a52cc822a053ff1de4721931d5d5",
+      "byteLength": 129070,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "complete",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 7,
+      "derivedRevision": "a35f10f5c86654e937148fd01426f8a089b70fbf6947fefc994af8efb150d138",
+      "issueIds": [
+        "seminar-2-solutions-p001-option-default-contradiction",
+        "seminar-2-solutions-p005-par-yield-average-qualification",
+        "seminar-2-solutions-p005-coupon-conflict",
+        "seminar-2-solutions-p006-rounding-equalities"
+      ]
+    },
+    "seminar-2-problems": {
+      "id": "seminar-2-problems",
+      "kind": "seminar",
+      "originalPath": "context/seminars/ES32079 Seminar 2.pdf",
+      "sha256": "8bd655a060ef54653746085d39d3fd47d9308b4f613fe9927f47d99df3d939c3",
+      "byteLength": 49388,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "complete",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 2,
+      "derivedRevision": "8a20f11d0b5fa7316d6dbedb3a0908e38638060e718c6c5cc817cb0eacfa6506",
+      "issueIds": [
+        "seminar-2-problems-p002-annual-semiannual-conflict"
+      ]
+    },
+    "seminar-3-problems": {
+      "id": "seminar-3-problems",
+      "kind": "seminar",
+      "originalPath": "context/seminars/ES32079 Seminar 3.pdf",
+      "sha256": "908c07e0092a768b823f6d4cec3fcbb87e6e27ff563a4905bf2d279f1945caf0",
+      "byteLength": 125044,
+      "access": "permitted",
+      "exposure": {
+        "browser": "allow",
+        "agent": "allow",
+        "export": "deny"
+      },
+      "extractionStatus": "complete",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 4,
+      "derivedRevision": "b8ae2bd2b306ecb7d544942b00b5901953648d0821df37929c6eeb1daf8537e4",
+      "issueIds": []
+    },
+    "textbook-hull-11": {
+      "id": "textbook-hull-11",
+      "kind": "textbook",
+      "originalPath": "context/textbooks/_OceanofPDF.com_Options_Futures_and_Other_Derivatives_11th_Edition_-_John_Hull.pdf",
+      "sha256": "36748bb660c075cad059b3f6ca2b648b185ecbc866a3291e30cca272a345ba8e",
+      "byteLength": 35588564,
+      "access": "permitted",
+      "exposure": {
+        "browser": "deny",
+        "agent": "deny",
+        "export": "deny"
+      },
+      "extractionStatus": "partial",
+      "tool": {
+        "name": "poppler/local-utf8-ingestion",
+        "version": "26.01.0",
+        "configHash": "bb18a36e8b6c049ba38239f64f45006e2912022ce15ba183ff7fe007f583829c"
+      },
+      "pageCount": 881,
+      "derivedRevision": "a8ba7a00ca141d611eff7ab92cea3ca573ee009022880362ac15acbffe173604",
+      "issueIds": []
+    }
+  },
+  "issues": {
+    "lecture-1-p005-currency-title": {
+      "id": "lecture-1-p005-currency-title",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "lecture-1-p005-airline-exposure"
+      },
+      "reason": "The title says £10 Million while the scenario explicitly specifies $10 million. The annotation preserves both labels and does not replace the scenario exposure.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-005.md",
+        "anchor": "lecture-1-p005-airline-exposure"
+      }
+    },
+    "lecture-1-p024-currency-multiplier": {
+      "id": "lecture-1-p024-currency-multiplier",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "lecture-1-p024-sterling-forward-hedge"
+      },
+      "reason": "The printed multiplication prefixes $1,000,000 although the exposure is £1 million and the rate is USD per GBP. The annotation preserves the print and labels the dimensionally consistent GBP interpretation separately.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-024.md",
+        "anchor": "lecture-1-p024-sterling-forward-hedge"
+      }
+    },
+    "lecture-1-p026-profit-axis": {
+      "id": "lecture-1-p026-profit-axis",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "lecture-1-p026-long-forward-diagram"
+      },
+      "reason": "The graph vertical axis is labelled Profit but surrounding text identifies S_T-K as payoff. The annotation preserves the axis and distinguishes equality to profit only under explicit initial-value/financing/cost assumptions.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-026.md",
+        "anchor": "lecture-1-p026-long-forward-diagram"
+      }
+    },
+    "lecture-1-p027-profit-axes": {
+      "id": "lecture-1-p027-profit-axes",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "lecture-1-p027-paired-long-diagram"
+      },
+      "reason": "Both diagrams label their vertical axes Profit while the slide identifies forward payoffs. The annotation preserves both axes and separately explains the assumptions required to identify payoff with profit.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-1/page-027.md",
+        "anchor": "lecture-1-p027-paired-long-diagram"
+      }
+    },
+    "lecture-2-p007-london-currency": {
+      "id": "lecture-2-p007-london-currency",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "lecture-2-p007-cross-market-quotes"
+      },
+      "reason": "The original image itself prints London price $100 and $100 times1.5300, while quoting USD per GBP. The arithmetic and intended arbitrage require a conditional £100 London interpretation; the inconsistent original dollar labels are preserved. This is not merely extraction corruption.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-2/page-007.md",
+        "anchor": "lecture-2-p007-cross-market-quotes"
+      }
+    },
+    "source-l3-p011-printed-rate-error": {
+      "id": "source-l3-p011-printed-rate-error",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "lecture-3-p011-printed-continuous-solution"
+      },
+      "reason": "Original slide prints incorrect continuous and semiannual rates for growth 5800/5000 over 1.5 years. Printed equations/rates preserved; separately labelled correction awaits independent mathematical review.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-011.md",
+        "anchor": "lecture-3-p011-labelled-correction"
+      }
+    },
+    "source-l3-p016-rate-conventions": {
+      "id": "source-l3-p016-rate-conventions",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "lecture-3-p016-printed-coupon-yield-table"
+      },
+      "reason": "Coupon versus yield par comparison requires matching compounding/payment conventions; source follows a continuously compounded yield example with a nominal semiannual coupon. Original table preserved; separate qualification awaits independent review.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/lecture-3/page-016.md",
+        "anchor": "lecture-3-p016-rate-convention-caution"
+      }
+    },
+    "seminar-2-problems-p002-annual-semiannual-conflict": {
+      "id": "seminar-2-problems-p002-annual-semiannual-conflict",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "seminar-2-problems-p002-q7"
+      },
+      "reason": "Problem Q7 explicitly says annual coupon payments, while the supplied solution uses semiannual coupons and continuously compounded zero rates. Fractional-maturity annual coupon scheduling and zero-rate quotation are unspecified in the question.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/seminar-2-problems/page-002.md",
+        "anchor": "seminar-2-problems-p002-q7"
+      }
+    },
+    "seminar-2-solutions-p001-option-default-contradiction": {
+      "id": "seminar-2-solutions-p001-option-default-contradiction",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "seminar-2-solutions-p001-q1-credit-risk"
+      },
+      "reason": "The same page acknowledges OTC option-writer default in Settlement but says option buyers face no default risk beyond premium in Credit risk. Preserve both and distinguish underlying-market loss from counterparty default.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/seminar-2-solutions/page-001.md",
+        "anchor": "seminar-2-solutions-p001-q1-credit-risk"
+      }
+    },
+    "seminar-2-solutions-p005-par-yield-average-qualification": {
+      "id": "seminar-2-solutions-p005-par-yield-average-qualification",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "seminar-2-solutions-p005-q6-par"
+      },
+      "reason": "The printed description of par yield as an average of spot rates weighted by cash flows is not a generally exact simple arithmetic-average rule; par yield is defined by the full discount-factor pricing equation.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+        "anchor": "seminar-2-solutions-p005-q6-par"
+      }
+    },
+    "seminar-2-solutions-p005-coupon-conflict": {
+      "id": "seminar-2-solutions-p005-coupon-conflict",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "seminar-2-solutions-p005-q7"
+      },
+      "reason": "The solution changes the question annual-coupon assumption to semiannual and explicitly chooses continuous zero rates. Treat its numerical answers as conditional, not uniquely implied by the question.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/seminar-2-solutions/page-005.md",
+        "anchor": "seminar-2-solutions-p005-q7"
+      }
+    },
+    "seminar-2-solutions-p006-rounding-equalities": {
+      "id": "seminar-2-solutions-p006-rounding-equalities",
+      "scopeRef": {
+        "kind": "source",
+        "unitId": "seminar-2-solutions-p006-q7-one-year"
+      },
+      "reason": "The source displays equalities involving rounded 0.0609 and 0.95718. They are approximations; use exact half-year discount factor 0.97 for verification.",
+      "status": "open",
+      "resolutionRef": {
+        "kind": "markdown",
+        "path": "study/sources/annotated/seminar-2-solutions/page-006.md",
+        "anchor": "seminar-2-solutions-p006-q7-one-year"
+      }
+    }
+  },
+  "missingSources": {
+    "missing-transcript-4": {
+      "id": "missing-transcript-4",
+      "label": "Week 4 transcript",
+      "expectedKind": "transcript",
+      "reason": "Not among the 13 supplied originals; no content inferred."
+    },
+    "missing-seminar-3-solutions": {
+      "id": "missing-seminar-3-solutions",
+      "label": "Seminar 3 solutions",
+      "expectedKind": "solution",
+      "reason": "Not among the 13 supplied originals; no content inferred."
+    },
+    "missing-syllabus": {
+      "id": "missing-syllabus",
+      "label": "Course syllabus",
+      "expectedKind": "syllabus",
+      "reason": "Not among the 13 supplied originals; no content inferred."
+    }
+  }
+}

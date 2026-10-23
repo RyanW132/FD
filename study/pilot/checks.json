@@ -1,0 +1,16 @@
+{
+  "originalsUnchanged": true,
+  "sourceCount": 13,
+  "extractedPages": 44,
+  "fullSourceExtraction": {
+    "lecture-3": 41,
+    "seminar-2-problems": 2
+  },
+  "singlePageFigureSample": {
+    "sourceId": "lecture-1",
+    "pdfPage": 26
+  },
+  "allAssetsExist": true,
+  "uniquePageIds": true,
+  "independentVisualQa": "pending"
+}

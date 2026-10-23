@@ -1,0 +1,1603 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Okay. Okay. Okay.
+
+Okay. Good morning everyone.
+
+I hope you're all well and the morning is going well for you so far.
+
+Uh, let's start the class with a quick quiz from the last lecture that we had last time.
+
+Okay. If you just scan the QR code. Oops, sorry.
+
+Not sure. Oh. Keep closing these teams.
+
+Keeps opening. Okay. Have you all scanned it?
+
+There are just four questions there. And those are multiple choice questions.
+
+Okay. All have it. Yes, everyone.
+
+Okay. So the first question is what makes a contract derivative?
+
+Okay. We already have some responses here. Let me see.
+
+For latecomers we are doing the quiz. Okay.
+
+Do you all have the answer? Yes. Great.
+
+So the correct answer is this one. If you've done it.
+
+Let me see. Okay. The next one, an airline enters a forward contract to fix the price of fuel that it will purchase in three months.
+
+What is the airline's primary? Oh. Anyways, primary strategy in that case, which one they will be using?
+
+Okay. Everyone agrees that this is hedging.
+
+Yes. Okay. Is it the next one, a trader?
+
+Um, a trader is long.
+
+Uh, Is long forward contract with delivery price of 120.
+
+If the asset price at maturity is 145, what is the trader's pay off?
+
+Do you know how you need to calculate it? Remember I was telling you I will write it really down here.
+
+Hopefully everyone can see. See? It says a long forward contract.
+
+Okay. It means that we are hoping that the stock price will increase in the future compared to the delivery price.
+
+Okay. Because the delivery price is what you agreed in the contract.
+
+So for here for this one you will look at s t minus k.
+
+Okay. So you have a forward delivery price of 120.
+
+That is your K here okay. And if the asset price at maturity is 145 that is your s t.
+
+So basically you have 145 -120.
+
+How much it will give you. That is the correct answer. Okay.
+
+So it will be 25. Your correct answer will be 25 here.
+
+Okay. And the last one a forward payoff graph crosses the horizontal axis at s t equals £80 and has a slope of minus one.
+
+which position does it represent? Last time when I showed you the graph, the last graph which slope it had.
+
+Do you remember I told you it had plus one.
+
+Remember? So the slopes that we had last time.
+
+And that was for the. So here we have K delivery price.
+
+And last time that we had. Remember how it went the graph.
+
+Do I this way or this way. Remember.
+
+And that had a slope of plus one.
+
+Okay. But here in your case it says that your slope was minus one okay.
+
+The graph that we had last time, actually. Okay.
+
+When I showed you for the long forward, the graph was like this and it had the slope of plus one.
+
+This one will have the slope of minus one okay.
+
+Which means that the one that I have shown you was following forward, and this one was a short one.
+
+Okay. And remember, for the short one you do the opposite calculation to the other one because that is the other side of the contract.
+
+And they will lose if the underlying asset price increases compared to the delivery price.
+
+So it's the opposite. It's k minus s t.
+
+So the question is say the forward payoff graph crosses the horizontal axis at state and has a slope of minus one.
+
+Which position does it represent? And you have majority of saying it's a short forward that has a strike price.
+
+No strike price deliver a price of 80. That's a correct answer.
+
+Okay. Clear.
+
+Okay. So every time, uh, before the lectures, I will do this smaller quiz just to see how your understanding the material.
+
+Okay. Okay. It is a material now. Last time we finished at this spot.
+
+Was everything clear before the spot? During last times lecture?
+
+Okay. Okay. So remember that last time when we were looking at this graph?
+
+Okay. We were looking at the long forward. And just remember that the long forward gains when we have this condition satisfied.
+
+Okay.
+
+And remember I was telling you that at this part of the graph, the delivery price will be higher than the, uh, the the price of the outlying asset.
+
+Okay. At this part of the graph, we would have that's t will be larger than the delivery price.
+
+And at this part, if the asset price appears to be somewhere here, it means that you will gain indefinitely.
+
+Your gain will start increasing at that point indefinitely.
+
+Okay. As long as this condition satisfies.
+
+Okay. Now, if we see this point here.
+
+So where it intersects okay at this point you will have that's t equals to to the delivery price itself.
+
+Okay. So it's just a threshold you do not gain but you do not lose either.
+
+Okay. And for this graph because it upward sloping you see that it has a slope of plus one.
+
+And as it says in here, any £1 increase in uh underlying asset price that will increase your payoff, uh, per each unit of that by one £1.
+
+Okay. Now with the short forward, this is for the long forward.
+
+This is when you are buying. Now when you are selling, it will be the opposite of this graph.
+
+Everything will be exactly the opposite that you see in here.
+
+Okay. So see we have as a comparison log forward from the previous slide.
+
+And then we have short forward. Okay. Now with the short forward, whenever you are in this part where K is larger than the underlying assets price,
+
+obviously you will be winning uh, from taking this position and from the forward contract.
+
+But if the price of the underlying asset in this side, you will be losing.
+
+If you are taking the short position. Okay.
+
+Compared to the long position. So you see, it's exactly the opposite what we have.
+
+So for the payoff for the long position is s t minus k.
+
+For the short position it is the opposite k minus s t okay.
+
+And remember I mentioned this last time when there are two parties signing the forward contract there will always be a loser.
+
+And there will be always. There will always be a winner of that contract.
+
+Okay. And it all depends on the underlying assets price at today okay.
+
+When the maturity day arrives. Okay.
+
+And how much one party loses will be exactly how much another party, uh, wins in uh, in this contract.
+
+Okay. That's why we have these two payoffs.
+
+If you take these two payoffs. It will give you zero. Like in the example.
+
+In the previous example. Oops, sorry. We had, uh, one party, uh, who had 25?
+
+Who would gain £25. Right. Which means that the other party who will take a short position will lose 25.
+
+Okay. So together, these two payoffs will give you zero.
+
+Okay. Clear with the graph. Now that is to the forward contracts.
+
+Okay. We also have futures contracts. Futures contracts are very similar to forward contracts.
+
+Okay. Some of the principal ideas of two contracts are exactly the same.
+
+okay. But the main difference is where they're treated and that creates the differences between those two contracts.
+
+Okay. Now what remains the same is that we use few futures contracts as an obligation.
+
+Okay. And when you sign that contract you have to honour that contract.
+
+You have the obligation. Okay. You cannot not honour the contract.
+
+So it is the obligation. Exactly the same as with forward contract.
+
+Okay. Now to the differences. Uh, as you remember, we had two markets OTC market and exchange traded market.
+
+Okay. So forwards are traded in OTC markets normally and futures in in the exchange traded market.
+
+Okay. Contract terms for words. Because they are traded in an OTC market, they can be customised in terms of time of maturity,
+
+whereas with futures they are standardised contracts because they are traded in exchange traded market.
+
+Okay. Now in terms of the counterparty, obviously there are other parties.
+
+But in exchange traded market remember we have a clearinghouse.
+
+So clearinghouse will be an intermediary between the two parties to make sure that both of the parties will not default on their obligation.
+
+Okay. With the settlement uh, in Odyssey markets, most of the, uh, settlement on, uh, contracts happen at maturity time itself.
+
+Okay. Whereas with futures, it's a daily gains and losses.
+
+And that is called margin. Okay. So margin uh, in forward contracts in OTC markets.
+
+It depends because some might have the margin, but most of the contracts do not.
+
+With futures they always have margin.
+
+And for margins they create a margin account where you set up a specific amount and the account balance should not be below of that specific amount.
+
+Okay. And that ensures because it goes daily you deal in notified.
+
+What is the balance of that account. Which means that there is a lesser chance that that party will default on their
+
+obligations because they face the losses in daily basis compared to forward contracts.
+
+Because with forward contracts, whatever losses they might face will be at maturity today.
+
+So there is a higher chance that they will actually default at that time. Whereas with futures, because it happens daily.
+
+Uh, it's not as feasible. The loss is not as feasible because the loss comes in, uh, smaller amounts, not as a large one at maturity time.
+
+Okay. So because of that, there is a lower chance that, uh, counterparties will default on that contract.
+
+Okay. Uh, we will have an example of, uh, margin. Okay.
+
+Um, so the question here is if long and short, uh, futures, um, payoffs offset each other, why does the exchange require both parties to post margin?
+
+This is what I just explained. Because losses are realised daily, right?
+
+Instead of realising them at the end of maturity time, and that ensures there is no default possibility or default possibility is very, very low.
+
+Okay, so we are not again eliminating completely the default possibility, but we are trying to minimise it as much as we can.
+
+Okay. Now to future gains and losses that are settled daily.
+
+Okay. So imagine that we have a trader and trader takes a long position in one futures contract okay.
+
+Each contract covers 100 units.
+
+Uh, just so you remember, whenever we buy options on forward contracts, normally you would have 100 units or whatever underlying asset you have.
+
+Okay. Normally, uh, and the futures price rises from 50 to 53 during the day.
+
+Okay. So what happens in this case with this specific trader?
+
+Okay. We then calculate what will be daily gain.
+
+Okay. And we multiply it. So contract size and the change in the price 5 to 3 -50.
+
+That will give you £3. And you multiply it by 100.
+
+So that is 300. Which means that you deal again with a change of the price will be 300.
+
+But imagine your daily gain will be the opposite. If, say, the price has changed from uh, 50 to 48 instead.
+
+Okay. So then we have 48 -50. And that gives you -200.
+
+Okay. And so if you have -200 you then need to check the balance the overall balance of your account.
+
+Sorry. Let me write it again. So if the price has changed from 48 to 50.
+
+Sorry, from 50 to 48, then your overall balance becomes -200.
+
+Okay. Okay.
+
+So then in both of the cases, you check the balance. So imagine that the balance should be, I don't know, £1,000.
+
+Okay. You check the balance and you see if it is below that 1000 or it's above 1000.
+
+Now, apart from that threshold, uh, apart from the balance of the account, there is also a threshold.
+
+And according to it, your balance should not go below it.
+
+Okay. Because then you will have a margin call. Uh, and margin call is when you ask to top up the balance up to the threshold or above it.
+
+Okay, so for low position what we have we have n contracts and number of contracts okay.
+
+And each covering queue units normally 100.
+
+Okay. And then we have this which is the value of the balance in here in our case is the daily gain that we are looking.
+
+Okay. And f t minus f t minus one. So that is the change of the prices that we had in here.
+
+Okay. So the generalisation of what I have shown you above is this formula here.
+
+And again for the short position it's just the reverse of what you have.
+
+It's the opposite of, uh, of this formula that we have.
+
+Okay. It's clear. So what do we have with margin?
+
+So we imagine we have initial margin. Okay.
+
+So that is what you initially deposit into that margin account when you open this forward contract.
+
+Sorry futures contract then you have variation margin.
+
+Variation margin shows you the daily gains or losses that you would have in that account by the end of each day.
+
+Okay. Then we have maintenance margin. There is a threshold I was telling you earlier.
+
+Okay. So that is the minimum permitted account balance that you need to have.
+
+And you cannot go below it okay. If you go below that amount you will face a margin call okay.
+
+So the margin call is to ask you to top up the balance up until the maintenance margin.
+
+So for example in here we have calculated we need to calculate the margin balance.
+
+So a trader deposits initial margin of 2000 okay.
+
+And the future position loses 600. On day one and 500 on day two.
+
+Okay. So then you need to calculate in your first day.
+
+Let me see in your first day. Uh, if the initial margin is 2000, in your first day, you will lose 2000 -600.
+
+Okay. So that will give you 1400. Now, in the second day,
+
+if you do not need to top up your balance by the time and you do not have any margin call your balance then becomes the 1400 -500.
+
+That gives you 900. Okay. Now if your maintenance margin is 900 itself then you do not have margin call.
+
+But if it is above 900 then you have a margin call to top up.
+
+Say it is 1000. Then you would need to top up at least 100 to make it up for 1000 in total in your balance.
+
+Ready? So the margin after the margin balance after the first day will be 900.
+
+Okay. And if the maintenance margin is 900, then you would have a you would have a call a margin call.
+
+Oh, sorry to top up. Uh, uh, the balance.
+
+Okay. Because it cannot go below 900. Okay.
+
+Is this clear with margins? Any questions?
+
+Okay. Okay. Now let's look at three positions.
+
+Okay. And uh, in these three positions in each of it we have a futures, uh, four futures contract.
+
+Okay. So in the first one, we have long hundred O's of gold for December delivery at 1400 per oz.
+
+And the second one, we have short 62,500 for March delivery at 1.55 USD per GBP short,
+
+1000 barrels of oil for April delivery at US dollars of 90 USD per barrel.
+
+Okay, now for each position, let's identify first the underlying asset that we are dealing with in that position.
+
+Second, the contract size delivery month.
+
+The grid futures price, whether the trader benefits from a price, from a rise in price or from a fall in a price.
+
+Okay. And that of course depends on what kind of position they are taking in that futures contract.
+
+Okay. Let's start with the first one. So in this first uh, position, what do you think is the underlying asset here?
+
+Gold. Right. The underlying asset is gold. Again remember that underlying asset can be anything at all.
+
+It's not supposed to be a financial asset or it's not supposed to be a commodity.
+
+It can be anything at all.
+
+As long as you have two counterparties, as long as you have the buyer and the seller for that underlying asset that you have.
+
+Okay. Okay. Contract size.
+
+What is the contract size? It's hundred oz of gold.
+
+That is a contract size. So this is first. This is second.
+
+Okay. And the delivery months. Yes, it is December.
+
+And the agreed futures price? Yes.
+
+So this is the agreed price that we have.
+
+Okay. Now whether the trader benefits from a price rise or fall in this case.
+
+What do you think? Price?
+
+Yes. Okay. So in this particular case, the trader will benefit if the gold price goes up because they are taking a long position.
+
+Okay. Remember that formula S t minus k.
+
+Although we looked at it for forward contracts.
+
+It is still the case for futures as well. Okay. Which means that for the short position is k minus ST1.
+
+They benefit as long as it is positive of course. Okay.
+
+Clear. Okay. Next one. So, uh, the second statement.
+
+What is the underlying asset here? Yes.
+
+And specifically, is this amount. Okay.
+
+Um, what is the contract size? What is the contract size again this is this amount that we are looking at okay.
+
+It is also the contract size. Okay.
+
+What is the delivery man in here. Okay.
+
+March. And the agreed futures price.
+
+The futures price. $1.50 5 USD.
+
+Okay. So this one is, um.
+
+First one. Okay. And this is a traded benefit from a price rise or fall.
+
+Well, in this case, it's the exchange rate. So should the pound sterling appreciate or depreciate for this trade to win?
+
+What do you think? Yes.
+
+So pound should fall in this case for the trader to benefit because it's a short position that they're taking.
+
+Okay. Okay. Now the third one uh underlying asset.
+
+Contract size. 1000 barrels of oil.
+
+Okay. The delivery man's. Correct.
+
+And agreed. Futures price. The agreed futures price.
+
+It's $19 per barrel. Right. And whether the trader benefits from a price rise or fall in this case.
+
+It is similar as statement two. I see some of you say that its fall so price is supposed to fall in here.
+
+Okay, for the trader to benefit to get a positive payoff.
+
+Okay. Clear with this. Okay.
+
+Let's move next. Now we are moving from, uh, futures and forwards contracts to options.
+
+Okay. And the main idea of options is would you pay to keep a choice open because there's forwards and futures contract.
+
+Remember, if you sign those contracts, if you're on the other side of the contract, whatever part you contract,
+
+party you are in that contract taking short position or long position doesn't matter.
+
+You have to. You are obligated to deliver the goods, and if you're buying it, you have to buy it at maturity time.
+
+Okay. So it's obligation. Now with options. It's not.
+
+And that's why it's called option because you have an option to ese deliver that good or not at the time of maturity.
+
+Or you can do it even before you can exercise an option even before the maturity day.
+
+Okay. So that is the main difference between options and futures and forward contracts okay.
+
+In futures and forwards you are obliged. But in options you have the right to choose.
+
+But it's not the obligation okay.
+
+Now the key distinction as I have mentioned forward and futures contracts create an obligation an option.
+
+It gives you an option to decide if you want to buy a ride or if you want to sell.
+
+Okay, now with options though, you have to pay a premium, okay?
+
+And that premium will then decide what kind of profit you will get.
+
+Remember with this one we were looking at payoffs,
+
+but I told you that you need to distinguish payoff and profit because the profit is whatever you received after all of the cost.
+
+You need to pay for that contract or associated with that underlying asset.
+
+So whatever cost is there, uh, you deduct that cost from your payoff and that will give you the profit.
+
+Now with options you deduct this premium from the payoff and that will give you the profit.
+
+Okay. It's clear.
+
+Okay, so the question. Which contract is more valuable to its holder and why would you choose forward contract or futures contract or option?
+
+In most of the cases. Um, traders will prefer options, but not in all of the cases.
+
+It just depends on the aim of why they're getting that contract.
+
+Okay.
+
+Specifically, but in most of the cases, of course, the option is more valuable because you can exercise it at any time if you want to exercise it.
+
+Okay. Now, uh, with options we have two types.
+
+It's either call option or put option. Okay. Uh, it's similar to taking, uh.
+
+Um, so as in here, it says a call gives its hold as a right, but not the obligation to buy the underlying asset.
+
+Okay. So basically again, you are taking the position is a long or short position.
+
+Okay. So in the call option as you can see you buy an underlying asset with the put option it's the opposite.
+
+You sell the underlying asset. Okay. Also we have another uh distinguishing part in options is that we have American options and European options.
+
+Now European options it's not the names are not coming from the geo locations.
+
+Okay. Um, with European options, you can not, uh, not deliver the asset.
+
+You have to still, uh, Delivers the asset and with up to maturity time.
+
+Okay, sorry. Not that you still have an option, but you have to wait until the maturity time if you want to exercise that option or not.
+
+Okay. Whereas with American, you can exercise it at any time you want before the maturity time.
+
+Okay. Um, okay.
+
+Now with the call option, let's have this exercise. Imagine that you have a delivery price.
+
+Okay. So notations are exactly the same as we had before. Uh, would you exercise the call if the market price at maturity is, uh, 70 or 100 or 130?
+
+Okay. Now, one thing with options, uh, one thing with options that you need to look at is, what is the value of the option for you?
+
+Okay. For that, you need to try to maximise the difference between the delivery between the underlying assets price and the delivery price.
+
+Okay. Or you will just get zero. If you are not gaining anything, if you are losing in this case you will just get zero.
+
+Okay. So your payoff will be zero because we cannot have negative payoffs in here.
+
+Okay. Or you can get s t minus k.
+
+So looking at these cases which one do you think you will prefer.
+
+Would you prefer 17. Because you are delivery is 100.
+
+It means that it will be 70 -100. which means that you're actually losing.
+
+Okay, so you will not exercise an option at the time and you will just receive zero.
+
+Uh, if you take st. Um. Come on.
+
+If you take st 100, it means you are at this point again.
+
+It's just zero. Okay. You are not gaining anything.
+
+But if you end up having an underlying asset price of 130, it means that you are gaining £3,030 from here.
+
+Because it's 130 -100. Okay.
+
+So in terms of the table and the payoff that you would receive is this one.
+
+Okay. So see with 100 you will be indifferent because you are not really losing anything, but you are not gaining anything either.
+
+So you become indifferent with this one, you would definitely not exercise an option because you're definitely losing in that case.
+
+Was this an you will exercise an option as long as street is above the key?
+
+Okay, so this is how you would in principle decide when you will exercise an option.
+
+Right now we will also of course go through binomial trees where we will draw
+
+each period and in each period what is the possibility of losing and gaining.
+
+And so with the American options will then look at each node of that tree to understand if you can exercise it at that specific node or not.
+
+Okay. Any questions. Oh just let me show the formula here.
+
+Okay. So this is to call option.
+
+Now to put Adoption. Put option similar to a call option gives you an A right for you to either exercise or note the um that option.
+
+Okay. At time of maturity or before the time of maturity. Okay.
+
+And it gives you the right to sell an underlying asset for that specific strike price.
+
+Okay. Now one of the things that you need to remember from now on already is that, uh, series American Options.
+
+We can exercise it anytime before maturity,
+
+but we will then show that it is not actually beneficial for us to exercise it before the maturity with American calls.
+
+Okay, now, with the American, put it the opposite. It is better for us to exercise it before maturity day.
+
+Okay. Because normally stock prices tend to increase with each period, which means that closer to each period are,
+
+the stock price will be increasing and we will be losing more and more because for the put option we have the opposite.
+
+Okay. So for the put we will.
+
+We will have the um maximisation of k minus s t or otherwise it is just zero.
+
+Okay. And because asset prices tend to increase every period not always so.
+
+But there is a trend for underlying assets.
+
+It means that it is beneficial for us to exercise it earlier.
+
+So we gain from it okay. Rather than waiting up till maturity and losing.
+
+Okay, so here is an example. It's your turn to do it.
+
+You have a put option with a strike price or delivery price of 100.
+
+Okay. What will be the payoff in each of the case. So if you have 70.
+
+What will be the payoff. And would you exercise it at that price.
+
+What do you think. Yes it will be 30 plus 30 right.
+
+So it will pose a positive. Uh would you exercise it then?
+
+Yes. You would exercise it. Right. Because it's a positive value. What about 100?
+
+Would you exercise it? Yeah.
+
+You are indifferent because you are not gaining anything. And what about 130?
+
+130? You will not write because it's 100. -130. It becomes -100 and -30.
+
+So negative value, which means that we will be losing from it.
+
+Okay. So how it will look if we put it in table.
+
+If we have 70 we will definitely exercise it because we will gain 30.
+
+If it is 100. We are indifferent and we are just receiving zero.
+
+If it's 130 again, we will not exercise it because we are getting zero.
+
+So in this formula here are the last two cases.
+
+Is this part here? Okay. So either you are gaining or you are just receiving zero.
+
+You're receiving nothing. Okay.
+
+Clear with this. Okay. Now, long call a payoff.
+
+Okay. Remember, as I mentioned. Payoff is not exactly the same as profit.
+
+And you need to really distinguish this two because students do in a lot of cases they do mistake they call payoff as a profit.
+
+Okay. So payoff in our case for the long call is this formula here.
+
+Where is when we look at the profit from this option.
+
+And from this position we look at payoff minus the premium that we are paying okay.
+
+To obtain that option.
+
+So for example the option might be a $1 and from the previous cases if our payoff is 30 and we also need to pay $1 to buy that option,
+
+it means that our profit becomes 29. In that case, not 30.
+
+Okay, so here is an example for you.
+
+Okay. And that is an example of a breakeven condition.
+
+Okay. If we have a call with a strike price we deliver a price of 100.
+
+And we have a premium of eight. Uh, what at what underlying price does the buyer break even?
+
+Okay, so that is basically asking you at what price.
+
+Uh, it will be just, uh, uh, s t will be at that point where, um, so s t will be at the point where you have, uh, the strike price plus the premium.
+
+Okay. And that will give you the break. Even where you will not receive anything, you will be just zero.
+
+Okay. So in that case, uh, we have, uh, we need to calculate s t and we know what is the strike price.
+
+It's 100 plus the premium. It's eight.
+
+And that will give you 108, which means that's t should be 108 for you to, um,
+
+to have a break even, which means that your profit at that time will be to zero.
+
+Okay. And of course, you would prefer the profit be bigger than that.
+
+Which means that your est for for you to have a positive profit, your s t should be larger than 108 for you to receive a positive profit.
+
+Okay. It's clear. So you see, in this particular case, It's not only about getting positive pay off itself, but it also getting the positive profit.
+
+Okay. Any questions? Okay.
+
+So when maybe the options exercised. Well I actually mentioned this already.
+
+So we have European options. Uh, maybe exercised only at maturity time.
+
+American options can be exercised at any time really, before the maturity.
+
+And, uh, if you decide to exercise the American option at maturity time, then it basically becomes like European one.
+
+It replicates the European one in that case. Okay. But should the American option ever be worthless?
+
+Uh, yes. There are some cases where it can be, uh, depending on what is happening in the market, what is happening with the underlying asset.
+
+Okay. But in most of the cases, the answer will be no, because you will still be having, uh, uh, those underlying assets.
+
+Okay. And you will still be able to exercise it at whatever point that you can get the, uh, positive profit and positive payoff.
+
+Okay. Any questions? Okay.
+
+Let's have ten minutes break and we will move to lecture two then.
+
+Okay. Why is it so hard to get him?
+
+High. Yes. When you're talking about the margin call.
+
+You said if it goes below the maintenance margin, you top it back up to the maintenance balance.
+
+I thought it was the you top it up to the initial balance, um, which balanced.
+
+You top it back up. So if you have a margin call, if you have as a margin call, it means that it should be definitely above the maintenance margin,
+
+because that is the amount where if it goes below, uh,
+
+it means that you're already facing too many losses and you need to recover those by topping up the balance.
+
+Okay. But you because I thought you topped it up to the initial margin again.
+
+Is that correct? The initial balance. You said that you top it up to the maintenance balance.
+
+Which do you top it up to? Um, you don't always need to up to that point.
+
+Sorry. Because I've got oh this one, right?
+
+Yeah. Because you said that you top it back up to the maintenance balance, but I thought you had to top it up to the initial balance.
+
+So if it goes before that, you need to top it up at the margin or below or above it.
+
+Okay. So it's not up to the initial major.
+
+Uh, but in some literatures you will see that it says initial margin, right.
+
+Yeah. Because it should be above the maintenance,
+
+because I was looking at the whole textbook and the whole textbook as I was taking it back up to the initial.
+
+But you want it to be the maintenance.
+
+If the main if the margin call, uh, if there is a margin call, you need to top it up at least above the maintenance margin.
+
+But we don't need to do it to the initial. Yes. Okay. Thank you. Yes.
+
+I was wondering because you also teach the graduate doing this class, right?
+
+Uh, not. You mean for first Yeah.
+
+Um, we used to. I used to, uh, but they closed the, uh, the program.
+
+Um, it was, uh, these programs that we had before.
+
+Uh, that was, uh, this unit actually came from from that program.
+
+Did you still have the resources for that? For the postgraduate?
+
+Like the postgraduate resources? Because I'd love to go over that. Actually, uh, most of the materials that I give here is taken from that course.
+
+Uh, yes. Apart from a Black-Scholes model, because it's, uh, two.
+
+Uh, quantitative. I'm not giving it here. Uh, you mean the full derivation or.
+
+Yes. So it's a Black-Scholes model. Uh, there is only one that I do not teach to you.
+
+Uh, that I used to teach to, uh, students.
+
+It's a whole Black-Scholes model because we actually did Black-Scholes. And We learned the initial of Black-Scholes the second year.
+
+We just didn't do the full derivation of it. Uh, okay.
+
+No, no, I was just thinking. I will, I will not I will not teach it in this unit for you.
+
+Okay. Hi. I do not understand. You know, where we did these examples.
+
+And for number two, you said if it depreciates as well, the trader will Panopto.
+
+Yes. Because, uh, they are taking a short position. So they're selling.
+
+Mhm. Okay. So if it depends how do they spend it.
+
+So if it depreciates compared to this one,
+
+it means that for this amount of money they will actually get more USD dollars uh than they would uh otherwise.
+
+So they would because they are selling this amount for USD dollar.
+
+So they want to get more USD dollars for this Okay.
+
+So you can basically calculate. Imagine that the delivery price is S1.
+
+But change this exchange rate, make it 1.45 and calculate how much USD dollars you will get.
+
+You will see that you will get a more USD dollars for this amount,
+
+which means that the one who is taking a long position will actually, uh, lose because they will have to pay more.
+
+They will have to pay more in dollars. Okay. And then in this graph, when you're saying that k is greater.
+
+This is because the x axis is s2. I say it again.
+
+So the x axis is s2 in this case right. So this is yes.
+
+Yes this okay. Yes. And this is the setup point here.
+
+Yes. Yes. Uh, anything here is less than okay.
+
+Yes. Anything here is bigger than that? Yes. Okay. Cool.
+
+So that is Steve. Yes. Okay. Thank you. You're welcome.
+
+Okay. Okay.
+
+Can I. Go to.
+
+This. Yeah. Oh, yeah.
+
+Yes. Yes. Yes. Yes. Did you call that something like that?
+
+Yeah. Okay. This is good news. So.
+
+I don't know if. You.
+
+Will. That's what. I thought I did.
+
+Yeah. Um.
+
+So what do you want to do about 20, 27?
+
+40? Seven basically obligations.
+
+Do you have a load of payments on the. Telephone.
+
+Yeah. That's. Right.
+
+That's. Right.
+
+Yeah. Well. Yeah.
+
+So when you get to the point that makes sense.
+
+Yeah. Yeah. Yeah.
+
+Yeah. So what do.
+
+You say? Yeah. Yeah.
+
+Yeah. It's like travelling.
+
+Yeah. I think.
+
+So. Well, you know, like you.
+
+Know all. The worst things happening.
+
+Yeah. I believe so. I think both of those.
+
+Things. I.
+
+Love that. Okay, everyone, should we continue?
+
+Okay. So in lecture two we will start with the types of traders.
+
+And specifically we will look more of uh on hedging because hedging is an important part of derivatives,
+
+and how to make sure that you are insured against various changes in the market, but specifically in exchange rate or prices.
+
+Okay, so we've done this already. So first of all we'll go through types of traders.
+
+We've done this. Then we will look more deeper in hedging and then hedging equity portfolios using various models like Capm for example.
+
+Okay. So type of traders remember we had hedge speculators in arbitrage as hedges
+
+tried to reduce the exposure to risk and specifically to the change in prices.
+
+So they want to look at a specific price today so they know exactly what they need to pay in the future.
+
+If they're thinking that the price will go up or go down, depending on what positions they're taking.
+
+Then we have speculators. Speculators is. Speculation is a strategy where you try to look at the volatility of prices in markets and try to,
+
+um, what is the what, uh, take benefit of that, uh, volatility.
+
+And then we have arbitrage arbitrage when we are looking at two different prices of the same asset in two different markets and try to exploit that,
+
+uh, change the difference in prices to make a free, uh, risk free profit.
+
+Okay. Now what you need to remember is not the, uh, what position traders are specifically taking, or would they, what strategies they using,
+
+but instead looking at traders objective what they're trying to achieve by taking that specific strategy or using that specific strategy,
+
+or by taking that specific position. Okay. Because the same derivative that we have may be used for hedging, for speculation of arbitrage.
+
+But in each of the case why do they use that derivative form.
+
+Okay. Now let's start with speculation.
+
+I gave you a couple of examples, but I didn't really show you with with numerical examples in previous lectures.
+
+Okay. So imagine that we have a speculator, an investor who has $2,000, and they expect the share price to rise over the next two months.
+
+Okay. So if we have current price at $20 in two months, they're expecting that the price will be 2.5.
+
+And for the auction, if they decide to use an option, they need to pay a premium of $1 per each share.
+
+Okay, so what we have in this case then okay.
+
+There are two possible strategies for this investor to take. One is just to buy shares at $20.
+
+So then they will have 100 shares. And if they do nothing they just buy shares and etc..
+
+Okay. Or they use a derivative for this transaction okay.
+
+So they can buy 20 call contracts okay.
+
+And each contract will cover 100 shares. Remember I told you that if we have a option or if we have a forward or futures contract,
+
+uh, normally that contract would have 100 shares, at least in it.
+
+Okay. That is the standard. So then if you multiply 20 by 100.
+
+It will give you a $22,000 that the investor has.
+
+Okay. This gives exposure to 2000 shares and that will cost 2000 multiplied.
+
+This is the premium that they need to pay. Okay.
+
+Because the premium remember says that it is per share so that what they would need to pay.
+
+Okay. So they can take two strategies.
+
+Either buy shares as uh at $20 and do nothing, or they can purchase a call option with two months delivery price and use the second strategy instead.
+
+Okay. Which one do you think you would you would have used? Which one do you think would have been more beneficial to you.
+
+That would give you the maximised payout. The option is the option, but then again it just depends on an investor as well.
+
+Okay. In most of the cases investors would prefer the second option, but they will be some investors.
+
+And we would assume in financial in behavioural finance we would assume that investors are actually not rational.
+
+They behave irrationally. Okay. So there will be of course some investors who would prefer the first option.
+
+The first choice. Okay. So let's calculate then with that strategy what we can actually gain.
+
+So esti will be the share price after two months.
+
+Okay. And we need to see what profit we will get from 100 shares.
+
+Okay. So that will be 100 multiplied by s t -20 because 20 is the current price of shares.
+
+Okay. And then, uh, well, I should have said here actually not the profit.
+
+Well, no, actually this is correct because we are taking the step from payoffs to understand what kind of profit we will get, uh, after that.
+
+So then we have, uh, 200 shares.
+
+Remember from the previous slide, if we buy 20 coal options, uh, with 100 shares in each, we will then have 200.
+
+Okay. Uh, and the delivery price was 22.5.
+
+If we do not get anything, if the price will be exactly the same or below at the maturity time, then we will just get zero and minus one.
+
+One is the price of the option. Okay?
+
+The premium, sorry, is the premium that we need to pay for the option.
+
+Okay. So then we need to calculate what profit we will get from each strategy.
+
+If the price of the underlying asset will be 15, 22.5 or 25.
+
+Okay. So just remember this formula here okay.
+
+Because we would need to know it in here. Okay.
+
+So let me write this. So the profit from this call option at time of maturity will be uh 2000.
+
+Then we try to maximise the option.
+
+So it's s t -20 and it will be otherwise zero minus the premium that we had.
+
+Okay. So using this formula we then calculate uh, and put this uh populate this table.
+
+So if we have price of 15 in here okay.
+
+Uh then the share profit will be -500 and the call profit will be -200.
+
+Because if you plug in 15 in here 15 is less than 20.
+
+So it's just uh, zero. Otherwise you will be just losing from it.
+
+You will have 20.50. You will be just at a break even point.
+
+But for the coal profit, because we needed to pay 2000 for the premium.
+
+Okay. Uh, then it will be to, uh, -2000.
+
+If we have 25 for the underlying assets price, then we will get share profit of 500 and the coal profit of 300.
+
+Okay. We can of course calculate as well What will be the break even condition?
+
+The break even condition here should be that if we have a the premium on call, it should at least be equal to s t minus k.
+
+Okay. That will be the break a one condition.
+
+If you rearrange this formula to find what kind of street price you would need to have for the underlying,
+
+it should be at least 23.5 for you to, uh, not lose anything and not gain anything.
+
+It will be just zero. Okay. Clear.
+
+Any questions? Okay. You will be able to use this formula to block gain.
+
+This value is right. Everyone. Yes.
+
+One of the things. Something is unclear. Please let me know.
+
+Please ask me because if you be just quiet, I would just assume that you are progressing with material, okay?
+
+And you don't need any any extra explanations or explaining that same concept again.
+
+So if you have any questions, if you didn't understand something, please let me know.
+
+So I know that I need to help you with understanding that material.
+
+Okay. Uh, if you're shy, you can come after the class.
+
+Uh, okay. Now to the arbitrage.
+
+Can the same share have two different prices? Of course.
+
+We've seen that in different markets. It is possible to have an arbitrage opportunity.
+
+But always remember that arbitrage opportunity fades away very quickly.
+
+Okay. Instantaneously. Almost. So suppose the following prices are observed simultaneously in London share in London Stock Exchange.
+
+The share price is £100. In New York Stock Exchange, the share price is $150 and exchange rate is 101.53 USD per GBP.
+
+So you see that clearly. From this example, we have an arbitrage opportunity.
+
+Okay. Uh, because in one, uh, um, in one, um, um, in one market, the price is higher than in another market for the same share.
+
+Okay. So we then try to exploit this opportunity.
+
+First of all, what you need to do you need to have a comparison.
+
+For that you need to have the same prices.
+
+So we need to either move everything to GBP to pounds or to US dollars.
+
+Okay. So if we move the London share price of £100 to dollars, you will see that in London,
+
+the price for that same share will be 153, whereas in the US it will be 100.
+
+Okay. 150. Sorry. So the difference between the two shares are the same shares but in two different markets will be $3.
+
+So per each share you can make $3 of um risk free profit.
+
+Okay. So the arbitrage strategy will be that you just buy a stock in a New York Stock Exchange
+
+at 150 and at the same time sells that same share in London Stock Exchange for 153.
+
+Okay. Now also remember that for this strategy we will actually have a whole topic, whole lecture just on arbitrage.
+
+And you will see that for this strategy,
+
+you really do not need to have your own money to apply this strategy as long as this opportunity exists in, uh, in markets.
+
+And, uh, yes, it's just, um, uh, risk free profit that you can make without owning your own money because you can borrow that money.
+
+Okay. Now, uh, two, um, hedging part.
+
+Okay. So when we talk about hedging, it's almost like creating sort of insurance against changes in prices in financial markets.
+
+So imagine that we have an investor who owns 1000 shares okay.
+
+And the price of the shares is 28 each.
+
+A two month put was strike of 2750. Cost one per share.
+
+So for the put option, you need to pay a premium of $1 per each share that you will be obtaining.
+
+Okay. And the delivery price then will be 27.5. Now the hedger in this case would buy ten put contracts because they have 1000 shares.
+
+Okay. So they need to buy ten put options. Each will have 100 shares within one put option.
+
+So then you will have 1000 protected shares.
+
+With that put option okay. Now the total premium.
+
+Remember it says that the premium is $1 per share.
+
+Which means that you multiply this $1 by 1000 shades that you have.
+
+And so the premium will be 1000. Okay.
+
+So again, remember whenever you have the payoff you need to deduct from that payoff this 1000.
+
+Okay. That will give you the profit. What happens to the combined position if the share price falls to 20.
+
+What do you think. This is put option.
+
+What do we gain from the change in the price when it falls to 20?
+
+Would we lose? What would happen?
+
+What do you think? Do you remember the payoff formula for this?
+
+Is it's t minus k or k minus s t. Anyone?
+
+Yes. It's k minus s t. Okay. So we will benefit from the price falls in here.
+
+Okay. So that will be the overall uh, um, um overall gain that we will have from this position.
+
+Okay. Because if you look at this. So imagine that we have um, 27.5.
+
+Okay. Because this is a strike price we have. And the current price of the, um, um, um, of the Shay is 20.
+
+It means that each Shay, you can get $7.5. Okay.
+
+And since you have 1000 shares, you multiplied 1000 by.
+
+Come on. Oh. And since you have 1000 shares, you multiplied.
+
+Oh, God. Come on. Please. You multiply 1000 by, uh.
+
+Well, it doesn't allow me. Sorry, guys. I don't know why.
+
+So you multiply that 1000 by 700.
+
+Sorry. You multiply that 1000 by 7.5.
+
+So you gain will be at least 7500. Okay.
+
+Okay. So here is the answer to the question.
+
+Okay. So we have 1000 shares and we have street some price of the share at time of maturity.
+
+And we also have um this payoff that we would receive if uh st will be lower than the delivery price.
+
+Okay. So if we have s t to be 20, you see the share value becomes 20,000.
+
+And put payoff will be 7500. The one that I was trying to, write down.
+
+Okay. And so the hedge value will be 20,027 500.
+
+But now remember that we also need to pay 1000. Of premium so that there will be the hedge value.
+
+But um uh, after the premium this value becomes 26,500.
+
+Okay. So you are secured up to that point.
+
+Okay. Overall it's 26,500. Now if the share price is actually 27,500 at maturity time, the share value is 27,500.
+
+Then you will gain nothing because, uh, it is exactly the same value as your hedge.
+
+Okay. If it's 35,000, you will actually be losing because 35,000 is higher than 27.
+
+Are 500. Then this value here that we decided to hedge.
+
+Okay. So the hedging basically ensures that you have this terminal value of 27,500.
+
+And your protection will be at that value minus the premiums that you need to pay.
+
+Okay. So after the premium the value becomes 26 500.
+
+Okay. That's an answer to the question right.
+
+It's the combined position. Or would the position offset just be the 7500 from the four.
+
+It's not 705,000 because, uh, we already know what is, uh, put paid off.
+
+We are putting here already, and we know that the share value becomes 20,000 in that case.
+
+So the hash value itself will be 27,500. So with hedging in this case the payoff that you will receive is 705,000 7500.
+
+But the hash value will be 27,500. So you are insured up to that amount of money if you take that position.
+
+Okay. So the overall will be not only looking at the payoff only, but also at the hedge value.
+
+Because as I as I said, that is a sort of insurance that you receive from, uh, using that Option.
+
+Uh, and uh, and using that option against the change in prices.
+
+Okay. Any other questions?
+
+One of the things. Okay. With this, William. Uh, it's.
+
+So this 26 five, 26,500. It's up to that point.
+
+You will not lose anything. Okay. So up till 26,000.
+
+You will not lose any money. But is, uh, street becomes larger than whatever is above.
+
+You might lose that money, but up to 26, uh, 26,500.
+
+Uh, you will not lose any money. Okay.
+
+That's why the hedging works in in that way because you are we are trying to cover the exposure to the risk by that amount.
+
+This amount here. Okay. Now of course in the hedging you can take two positions.
+
+It's a long hedge and a short hedge depending on which side of the contract.
+
+You are a long position in a futures contract, for example, you purchase the asset in the short position you sell that said asset okay.
+
+Now in terms of classification, each exposure that we have, for example, you might have an airline who wants to buy a fuel in three months time.
+
+So they want to lock in the price there is beneficial to them.
+
+You might have a farmer who who would like to sell wheat after the harvest.
+
+Again, it is something that will happen in the future, but they are worried about the price.
+
+That might be a UK importer must buy US dollars in two months time.
+
+Again if the exchange rate is good today, but they need to have the transaction in two months time period,
+
+they would lock in that specific exchange rate today. Instead, a fund plans to sell part of its equity portfolio.
+
+Again, if there is a, uh, for this financial fund.
+
+If equity portfolio are the return and equity portfolio might be different in the future.
+
+So they might try to looking at a specific return for that portfolio today.
+
+Okay. And that will be the hedging that they would take.
+
+Okay. Now with hedging what you need to remember.
+
+It's not only the hedging but also generally in derivatives markets is the problem of basis.
+
+So basis is a risk that arises from the difference.
+
+As you can see from the formula here, from the difference between the stock price and the futures price that we might have in the future.
+
+Okay. So you see that we have a hedger.
+
+And they would like to sell an asset at a time period.
+
+Uh two. So it's um, next period uh, from today and today is denoted as t1.
+
+Okay. So at T1 at uh, so today we will have a specific price for the futures okay.
+
+And that will be our initial price. And uh tomorrow say at T2.
+
+Tomorrow the stock price will be S2 and there will be also futures price tomorrow which will be f two.
+
+Okay. Now what we do also uh we look at this uh S2 because this is uh, at how much the asset will be sold when tomorrow comes.
+
+Okay. And we also look at the futures position, which is a short position.
+
+So that position should own UF1 minus f two.
+
+So the difference between the two futures are prices because at.
+
+So if tomorrow if today's futures price is whatever value is a $100 tomorrow, that price might change when there are new contracts coming in.
+
+Okay. And so if you sign know another contract tomorrow.
+
+That contract will have another futures price. Okay.
+
+It will not be the same futures price as to day one. And this is what these two are.
+
+This is what this difference shows us okay.
+
+That tomorrow's futures price is different from today's futures price.
+
+Okay. Now if we combine everything. So this is what futures uh position short futures position earns.
+
+Okay. This is the stock price tomorrow. And that should be exactly the same as the futures price today.
+
+And, uh, some, uh, risk here involved with this.
+
+And this risk is basically S2 minus F2, because if you open this.
+
+If you open this bracket okay.
+
+And if you then rearrange it. That will give you s2 minus f2 plus f1.
+
+Okay. And it's exactly the same as this part here. You see, it's exactly the same.
+
+The only thing that we put as two minus F2 as some basis.
+
+And that basis arises from the difference in asset price and the futures price tomorrow.
+
+So in the next period when the asset are supposed to be delivered.
+
+Okay. Um, we do not know how it houses B2.
+
+Um, we do not know what B2 would be exactly.
+
+We just know that normally it's positive. It's not equal to zero.
+
+Okay. And whenever it is positive, then this basis risk arises.
+
+Okay. And it creates a bit of issues for the hedging that we might have, because we need to account for that, uh, for the basis risk.
+
+Okay. Now if we have a long hedge, okay.
+
+And we are trying to purchase an asset using the long hedge, again, we are looking at time period, futures time period and today's time period.
+
+And again we are looking at the prices of both the underlying asset and the futures.
+
+Okay. And wait is this the same.
+
+No it's not. Okay. So anyways this is what I have explained and how the basis, uh, risk arises.
+
+Okay. Now, um. Mhm. Okay.
+
+so this is similar to what I have explained in the previous slide.
+
+I don't know why I have this slide again in here.
+
+Okay. So why do we care about this basis.
+
+Okay. Let's have a numerical example for you to understand uh to understand it better.
+
+Okay. So imagine that we have a futures, uh, short uh, futures contract with a short position.
+
+And uh, today that futures cost $52.
+
+Okay. Now, when the hedge is closed in the future, the stock price is 47 and the futures are contract price will be 48 instead.
+
+Okay. And then we will have, uh we need to calculate what will be the effective price,
+
+the effective price or the gain that we will receive from the difference in prices between two futures contracts.
+
+So the futures price today and the futures price tomorrow will be 52 -48.
+
+Okay. So that will give you $4 for extra dollars that you can gain from, uh, taking this position and this futures contract.
+
+So the effective selling price will be then 47, which is the stock price.
+
+Okay. And uh, uh four, which is the difference between the futures price which will give you 51.
+
+So the effective price is a price that you can actually sell that underlying asset at uh, tomorrow time will actually be 51.
+
+Okay. Uh, and that is because we have the basis because if you look at this point here, f one plus b two, uh, it gives you 51 and 47 -48.
+
+This is the basis itself okay. So see how Bezos creates this extra value for us?
+
+And that is not the actual price that we have.
+
+It's not 47, but instead the effective price becomes 51 instead of the, uh, spot price of 47 that we had.
+
+Okay. Uh, and this is just a simple example for you to show why we care about this basis risk and how it creates extra, um, price for us.
+
+Now, it depends on which position you are. Uh, because here it's a short one.
+
+And so you will sell at a higher price.
+
+But for the person who is on the other side of this country who is taking a long position, it means they will have to pay more compared to 47.
+
+Okay. Does this help to understand basis risk.
+
+Okay. So this is to basis risk.
+
+Okay. Some of the basic principles of basis risk is that normally if we assume that we have a convergence okay,
+
+then we would assume that at time of maturity, uh, the spot price and the futures price should converge.
+
+They should be the same. And so we would normally have basis to be zero or close to zero.
+
+Or I would also say that at time of um maturity we would assume that basis should approach zero.
+
+Okay. Then we would have s t equal.
+
+So then if we have this condition we would have s t equal to f t Okay.
+
+This is what we see in principle. This is what should happen.
+
+But in reality, it actually doesn't happen. In reality, the basis is always positive rather than being zero.
+
+Because if it is zero, then our effective price is exactly the same as our market price for the stock.
+
+But in reality, we see the cases when this is not true.
+
+It doesn't really converge. Not always. Okay.
+
+What do we do in that case then? If we have such cases, we use cross hedging.
+
+Okay. So basically cross hedging means that if you have an asset or whatever commodity okay.
+
+But you cannot find the exact commodities that you need, for example, I don't know, uh, say apples, you can't find apples.
+
+I know it's an unrealistic case, but imagine, hypothetically, we cannot find apples in financial markets.
+
+But we need apples. What do we do? We buy.
+
+Um. Not buy. We set up the contract.
+
+And in the contract, the underlying asset instead of apples will be something very similar to apples.
+
+For example, pears or I don't know, any other fruit that is very similar to apples or bananas.
+
+If you sing that in our hypotheticals, it's unrealistic. World.
+
+Bananas are very similar to apples. Okay, so we set up our contract with bananas instead,
+
+and we will try to replicate what we have seen or what we have seen in, uh, in a contract with apples instead.
+
+Okay. Does this make sense? So in financial markets with cross hedging, we try to find, uh,
+
+an underlying asset that replicates or very close to our own assets that we need a contract with,
+
+but we cannot find that asset or commodity in financial markets.
+
+Okay. So, uh.
+
+Choosing a futures contracts. And I will give you a couple of examples for cross hedging.
+
+So it is, uh, easier for you to understand what it means.
+
+Okay. When we choose, um, a futures contract, of course, we need to look at the underlying asset and we need to check.
+
+And this is for cross hedging that the underlying asset that we are considering
+
+is closely related to the exposure that we might have with the actual asset.
+
+Okay. We need to choose a delivery month.
+
+This doesn't always happen but we need to choose a delivery month close to, uh, the hatch, uh, that we are having.
+
+Okay. Um, why? That would make sure that you are covered.
+
+You are insured for the whole period. If you take the hedging.
+
+Okay. Uh, and it should be normally later than the hedging itself.
+
+So imagine if you have hedging. Imagine that you have an exposure.
+
+Right? Uh, how do I delete this one? Imagine that you have an exposure.
+
+Okay. So say you have an exposure, like, I don't know, from time period one to time period two.
+
+Okay. But you can hedge only this bit.
+
+Okay. Only from here till here. Which means that this part here you are still exposed to the risk.
+
+You are not covered. You are not insured. Because of that, you need to make sure that your hatch covers all of this period.
+
+If it is a bit more than you need, it's still okay. As long as you are covering all of the period because then you are insured.
+
+Does this make sense? Okay, so this is what the second line means that you need to find an asset and try to use an exposure up to the delivery month.
+
+So it's very close to the delivery month preferably that it covers all of the period okay.
+
+You also need to check the contract size.
+
+It is very important because of course you want to have the contract size very similar to what you actually need.
+
+Okay. And then from there you need to calculate the number of contracts that you would need.
+
+Okay. And all of the steps.
+
+This is what we will do in this lecture. Okay.
+
+So contract size we need them to calculate this contract size.
+
+The optimal one for us with having that specific underlying asset that is very similar to what we actually need.
+
+Okay. And then of course you need to consider liquidity bid ask spreads and basis risk.
+
+Because all of this will affect the actual price of your futures based on whatever stock price you will have at that time period.
+
+Okay. So that will give you the cross hedging that, um,
+
+you might have if you do not have a specific underlying asset that you desire to buy in financial markets,
+
+but then you can use another one that is relatively close to your desired one.
+
+Okay, so how do we do that?
+
+First we need to find what is the hash ratio. So basically the hash ratio measures the exposures that you might have.
+
+Okay. Remember that we needed to calculate the exposure. We needed to understand how much exposure we might have.
+
+Okay. So the first one is uh and this is called mean minimum variance hydration.
+
+Okay. So the first one is the exposure of the hedging that you have.
+
+So the hedge exposure then we have the value of this hedge or the underlying asset that we are considering under the contract.
+
+So the difference in that value okay. The difference in the stock.
+
+Then we have h with which is the hedge ratio okay.
+
+And then we also have the change in the futures price.
+
+Okay. And then we have the variance of these, uh, hedging exposures that we have.
+
+Why we have variance from econometrics. You have already started variance and standard deviations.
+
+Right. Those are the measures of volatility in financial markets.
+
+Okay. If of course that is really volatile, it means that you are exposed to a higher risk.
+
+If it's not as volatile it means that you're exposed to a lower risk.
+
+Okay. What it means also is that if you have a higher volatility, then you have a higher hedge ratio because you need to insure yourself more.
+
+Okay. It's similar to not exactly though. Like you know how insurance work when you just obtain your driving license.
+
+It's much higher because the company that provides you the insurance need to insure itself,
+
+because new drivers normally might make more mistakes compared to more experienced drivers.
+
+Although sometimes I don't think that it's true. I think more experienced drivers become overconfident.
+
+Okay, but the more experienced you become, the lesser insurance payment you need to pay.
+
+Okay, so similar in here. If the volatility is higher then you have to pay.
+
+Uh uh. Then you have to consider that extra exposure that you would have.
+
+Okay. So in here you have sigma squared as which is the variance of volatility for the stock itself.
+
+Okay. So this is how volatile the stock. Then you have the hedge ratio squared in here.
+
+Then you have sigma squared AB which is the volatility of the futures okay.
+
+Or the variance of futures. And then you have minus two is just standard factors that we use in here.
+
+Then we have this row which is the correlation coefficient.
+
+I hope you all know correlation coefficient from uh statistics or econometrics.
+
+So that is the correlation between the spot price and the futures price.
+
+Okay. So the price of the underlying asset and the futures price and of course standard
+
+deviation of the spot price and standard deviation of the of the futures.
+
+Okay. Now with the hedge ratio.
+
+That's why here in the title it's called the minimum uh variance because we are trying to minimise the exposure.
+
+We are trying to minimise the risk. That's why we are trying to minimise the variance of the hedge ratio that we need to take.
+
+Okay, so then you would derive this formula for variance with respect to hedge ratio.
+
+Okay I hope I do not need to show you the derivation. So you basically take it from here.
+
+Okay. This is what you will get from this part here. And this part here gives you this part.
+
+Okay. And we set that up to be zero. So that is basically the optimisation that we perform in here.
+
+And under the optimisation then we can find what is the hedge ratio.
+
+Okay. So the hedge ratio shows us how much we are exposed.
+
+So in other words it shows us how much of our futures exposures you have to cover the exposure in the stock okay.
+
+And see it depends on the two volatilities of a stock price and also the futures price.
+
+But it also so this is standard deviations not variances.
+
+And on correlation. So how correlated they are.
+
+Okay. Because if they are too correlated if stock price is volatile if they are highly correlated
+
+if stock price is volatile it means that the futures prices will also be very volatile.
+
+If the throw coefficient is large, if zero coefficient is smaller, it means that when this is too volatile, this will not be as volatile.
+
+Okay. Also raw correlation coefficient shows us in which direction this to move.
+
+So for example if stock price increases. If there is a positive correlation between the two.
+
+That would mean that the futures price will also increase.
+
+If there is negative correlation. If the spot price increases.
+
+The futures price will decrease. So they move in opposite direction.
+
+Okay. And normally they will. Because we derive uh.
+
+And that's why they're called derivatives. We derive the futures price from.
+
+The stock price from the underlying asset. You will always expect that the correlation should be positive between the two.
+
+Okay. So clear everyone. Any questions?
+
+What? The time low. Is clear.
+
+So again the hedge ratio measures the variance of the hedging position.
+
+Okay. Okay.
+
+So we have couple of minutes. Um, let's finish at this point.
+
+Because if I start I will probably go over the times that we have.
+
+Is everything clear so far? Do you have any questions so far.
+
+Okay. So next time we will just continue with this topic.
+
+I'll see you everyone on Thursday. You have your, uh, problem set for Thursday, right?
+
+Okay, I'll see you everyone and says, thank you very much for coming this morning.
+

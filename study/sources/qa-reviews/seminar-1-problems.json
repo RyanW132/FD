@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "seminar-1-problems",
+  "sourceHash": "86ca691dacd5c247dba48c77c7c762ad9a03362610a44676de1e673d39a2362c",
+  "draftPath": "study/sources/qa-drafts/seminar-1-problems.json",
+  "draftHash": "ed85fd0a8903861f3a3c201bc229ba16e5d4541e6d3516a98b40fefe58fae8a1",
+  "reviewer": "g005-practice-source-qa",
+  "reviewedAt": "2026-10-22T14:33:42.758415+00:00",
+  "verdict": "approved",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "verdict": "approved",
+      "rawHash": "565c5480e95691484a848dfe4ce731914ac71fdc8815836c898f9f20941f5a41",
+      "imageHash": "0a911f78ab1ccc40400295d615f610c6be4b8e2f2707df19e219d2317fe711f2",
+      "normalizedHash": "eaff900f7fe1a90b5029fb512ad9167c22c0b168bd4023068012d1c03fc46e57",
+      "unitIds": [
+        "seminar-1-problems-p001-page-label",
+        "seminar-1-problems-p001-q1",
+        "seminar-1-problems-p001-q2",
+        "seminar-1-problems-p001-q3"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 2,
+      "verdict": "approved",
+      "rawHash": "238041c5ee42f55c85ee44bec2f313d584a70b583c9d9eaa92a9f7175ee1016f",
+      "imageHash": "808298334000f54b8fc764ebc3ae4a857ad32bc6906280b179718996ff04fd92",
+      "normalizedHash": "d2dbf5904b281d632e6963d4b1e54af1556a5f48a8bcd88f3e5325ebdc374ee7",
+      "unitIds": [
+        "seminar-1-problems-p002-page-label",
+        "seminar-1-problems-p002-q4",
+        "seminar-1-problems-p002-q5",
+        "seminar-1-problems-p002-q6"
+      ],
+      "allRegionsAccounted": true
+    }
+  ]
+}

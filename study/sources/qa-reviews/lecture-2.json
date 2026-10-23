@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lecture-2",
+  "sourceHash": "9f65aa5242d368268cb4332779005c503e0bb305d0d2f4acd22913eac0b82bd7",
+  "draftPath": "study/sources/qa-drafts/lecture-2.json",
+  "draftHash": "0397a441ddb1f37f80048d59bffb53cd9dab58a972570658ea0ca40636f755f7",
+  "reviewer": "g005-source-qa-lecture12",
+  "reviewedAt": "2026-10-22T14:21:07.063549+00:00",
+  "verdict": "approved",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "verdict": "approved",
+      "rawHash": "c0e1d0824e04a88ebf5e0aab44338e7f157f6c8f24fac9250afdc40353be0b45",
+      "imageHash": "6be5482d2cf62f59934af119936257c6e2ff071305caca07ab00ad40068906c9",
+      "normalizedHash": "fd21e93e714c47604970fff1034283f8fff15242a92d8960506069e3aa5e0f61",
+      "unitIds": [
+        "lecture-2-p001-title"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 2,
+      "verdict": "approved",
+      "rawHash": "803fefb0e87ac12063923aafb3aa3c6b3777c166788864ee7d5c7d3d8405ce9b",
+      "imageHash": "092c20ee36ea7c436f3665ce369faa73e47847f1e88fdbe34f9a98750a8a246b",
+      "normalizedHash": "9a8455f14a9ecc28ceae66bef9807f48b57ffaf78a2c5460ecd4671ed50b2958",
+      "unitIds": [
+        "lecture-2-p002-outline",
+        "lecture-2-p002-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 3,
+      "verdict": "approved",
+      "rawHash": "fa8d6b61a1d3ca0156d16364919828158582b636ac8604f89c99c2e855f4cc3c",
+      "imageHash": "877390ff87dc196a975b23b7f9861de58fcc7b1ef3b85298eaf9605c418f7008",
+      "normalizedHash": "92ae9e8a10e69cfb75e1df1ad9e931d4e76f72d3f4672c3571822c958777b7dd",
+      "unitIds": [
+        "lecture-2-p003-hedging-definition",
+        "lecture-2-p003-speculation-definition",
+        "lecture-2-p003-arbitrage-definition",
+        "lecture-2-p003-objective-versus-instrument",
+        "lecture-2-p003-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 4,
+      "verdict": "approved",
+      "rawHash": "847c0beb269d15906555b8240d02e06c5ea370a49845bbc6db5729566a7e7b9a",
+      "imageHash": "4593031e8d4c35191813316b73c0c9104a33bd8091fe76f1c656761ae77e89b3",
+      "normalizedHash": "a2431ed90e5dbc0baba46464a32e419b1904c59dcc349bd857802bf438196173",
+      "unitIds": [
+        "lecture-2-p004-speculation-inputs",
+        "lecture-2-p004-share-strategy",
+        "lecture-2-p004-call-strategy",
+        "lecture-2-p004-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 5,
+      "verdict": "approved",
+      "rawHash": "93bea616c392f3e0255e5497414bb93a720ca15ef810d8f51720de78b6d4b89a",
+      "imageHash": "8c76aad5c825824b1bf19067bd33250a49437f96cd00f06e13a11a9d9774b13b",
+      "normalizedHash": "933e8653ad66a3fed79aac8835cf1a6fcfbc299c46715bb7689b884f45da1dd7",
+      "unitIds": [
+        "lecture-2-p005-share-profit",
+        "lecture-2-p005-call-profit",
+        "lecture-2-p005-strategy-profit-question",
+        "lecture-2-p005-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 6,
+      "verdict": "approved",
+      "rawHash": "a1cc654bbd0b44d7981d158a67d4297a0a29af8a025ed04739d062a9a41d6c08",
+      "imageHash": "11d962567ec453aa2236ef754b5948a6563bf80f643b74f4ebd11b0b515b64ff",
+      "normalizedHash": "0e160b99da0cd1fe8f971a4288b963f084461fb9b1063bdd775a89bf67e13271",
+      "unitIds": [
+        "lecture-2-p006-strategy-results-table",
+        "lecture-2-p006-option-leverage",
+        "lecture-2-p006-call-break-even",
+        "lecture-2-p006-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 7,
+      "verdict": "approved",
+      "rawHash": "7aebed71239a9c29417e8561371ded8cdac90cb2cc3551b57508b3addb7e1a0b",
+      "imageHash": "46f5175dcbd2171ba8cc15419dac5adc72f2e0519c86bbc08bc9d5e5d8cbb191",
+      "normalizedHash": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+      "unitIds": [
+        "lecture-2-p007-cross-market-quotes",
+        "lecture-2-p007-currency-conversion",
+        "lecture-2-p007-arbitrage-trade",
+        "lecture-2-p007-arbitrage-assumptions",
+        "lecture-2-p007-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 8,
+      "verdict": "approved",
+      "rawHash": "7a791e65a074a2d76a247790f60eafd47312fad51fb11aef23020b305ac488fd",
+      "imageHash": "a1a5c98e1a0d5a442784a0b69197c978c703e10ba368daeb3bccee0f0c6a8935",
+      "normalizedHash": "f9ff8334f399eec0af532eec404e9a18eb0a5abcc1f9bb1cb66ddfe6943fd9f8",
+      "unitIds": [
+        "lecture-2-p008-protective-put-inputs",
+        "lecture-2-p008-protective-put-contracts",
+        "lecture-2-p008-protective-put-question",
+        "lecture-2-p008-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 9,
+      "verdict": "approved",
+      "rawHash": "f3c4f45598188c8fb6d77742c26fab5736800e37f4871865d04dbfdc27702b5f",
+      "imageHash": "81e84bb2ee238d7bded1a57b16b2d215fc7ce595023f5fa5ae8de74615799c20",
+      "normalizedHash": "5a6056de43e88832441b3f827337768bc9b5e82b4afdc42652b18fc9119818c9",
+      "unitIds": [
+        "lecture-2-p009-protective-put-value",
+        "lecture-2-p009-protective-put-table",
+        "lecture-2-p009-protective-put-floor",
+        "lecture-2-p009-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 10,
+      "verdict": "approved",
+      "rawHash": "39e7a7482e1384d3ec4079e80542dea0d7082f05b7b879d3c8dcbdbf09151aa0",
+      "imageHash": "4a87e730f2d46265701fbbd7987c86ef97a4a8cebb49701763b9795946137933",
+      "normalizedHash": "26819addf4388932e73117a2411760c0e36723a39a6f91c8123cbb1f39d4dece",
+      "unitIds": [
+        "lecture-2-p010-long-hedge",
+        "lecture-2-p010-short-hedge",
+        "lecture-2-p010-hedge-direction-exposures",
+        "lecture-2-p010-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 11,
+      "verdict": "approved",
+      "rawHash": "9c15a29d02c0708995fcf088187d7c33d6ed4868873a718c6afd6116ade2fb6d",
+      "imageHash": "137b4379ad94d9f2ed60539de7de889de6261e821bcc18ccc41e3b00307cf112",
+      "normalizedHash": "db4cd7fdc1f1fc0eb1419fb08d219e4d0e021689808550a06dab3aa4b0e69513",
+      "unitIds": [
+        "lecture-2-p011-short-hedge-setup",
+        "lecture-2-p011-short-hedge-derivation",
+        "lecture-2-p011-basis-uncertainty",
+        "lecture-2-p011-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 12,
+      "verdict": "approved",
+      "rawHash": "30970a6b16c34396a755be53fbf7a2af653d6201ca9f6e13c162c11012c8c220",
+      "imageHash": "4168386aad292946cefbb34e75eceffb936a210b53eb37bad99aaf90d14fcbcc",
+      "normalizedHash": "a29014cd8eb798268fea74b2c0f294467393954e5ebb8439fe4589ece8d558c8",
+      "unitIds": [
+        "lecture-2-p012-long-hedge-setup",
+        "lecture-2-p012-long-hedge-derivation",
+        "lecture-2-p012-same-effective-price",
+        "lecture-2-p012-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 13,
+      "verdict": "approved",
+      "rawHash": "0afdcb9a06b26c03702f96f01fe420d41adcb4e82d9e2dafb7c0832a02e9068d",
+      "imageHash": "fb4724f3e9abf5c1f3901c4b5c0f55be001eb7801ddd36371e1387a570d78e33",
+      "normalizedHash": "a96a4f510507c6855f04b87549c336afbc96143d4484143d5d34f31b22d7ca8d",
+      "unitIds": [
+        "lecture-2-p013-basis-example-inputs",
+        "lecture-2-p013-basis-example-cashflows",
+        "lecture-2-p013-basis-example-check",
+        "lecture-2-p013-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 14,
+      "verdict": "approved",
+      "rawHash": "26c4f70355f636ae9cbba92a1550f1feaa91cf817793f2c9fa3b20c0b272b25b",
+      "imageHash": "ea3f94466d48045882d33a23883fbcdddf7306a21e36d5bcc5a709e7d6ad9b61",
+      "normalizedHash": "c87d776a5cc5b4b411c740678a24ed53b6c468338bda0764369aae29e5c42fd3",
+      "unitIds": [
+        "lecture-2-p014-basis-definition",
+        "lecture-2-p014-closing-basis",
+        "lecture-2-p014-delivery-convergence",
+        "lecture-2-p014-cross-hedge-basis",
+        "lecture-2-p014-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 15,
+      "verdict": "approved",
+      "rawHash": "e206edee59f0ec4c97235ef2cebfffc92b8dfae41bcdb48ca4af2df5c7cba55c",
+      "imageHash": "faf789dd7fbcfae2d11885c0cbb24638f1fb3e238174ed22a42112eb3229e364",
+      "normalizedHash": "a900aa4019730849076b6cc0c6300c83982735fbbe2963c770718d2a2bd30cee",
+      "unitIds": [
+        "lecture-2-p015-contract-choice",
+        "lecture-2-p015-cross-hedge-definition",
+        "lecture-2-p015-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 16,
+      "verdict": "approved",
+      "rawHash": "24bf79726ae7a101fe32557be2e41dfcf408a52cffe91e440184b4cbcfacac2b",
+      "imageHash": "0333c270efa8b7479df3aacba6a20dd32400df5fab7a804ebf82de1913bf3453",
+      "normalizedHash": "798a7a3a7e6e3d83ec720ac7006efda8fa8fe125e22d8d60a1eba71e8bfe03b0",
+      "unitIds": [
+        "lecture-2-p016-hedged-change",
+        "lecture-2-p016-hedged-variance",
+        "lecture-2-p016-variance-first-order-condition",
+        "lecture-2-p016-minimum-variance-ratio",
+        "lecture-2-p016-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 17,
+      "verdict": "approved",
+      "rawHash": "67f38b95110a76e37e9409d8a64bce262e231567e379efb2ccbcc907525054e1",
+      "imageHash": "adedaf1369cdcaeec7109a9149c730bcaa409661abb7c8362d2ab7a211d875b3",
+      "normalizedHash": "98b12615ff0051743c6f3734dee85156d5b0ed11ccf4507f23299c42350346bc",
+      "unitIds": [
+        "lecture-2-p017-hedge-ratio-symbols",
+        "lecture-2-p017-hedge-ratio-interpretation",
+        "lecture-2-p017-regression-hedge",
+        "lecture-2-p017-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 18,
+      "verdict": "approved",
+      "rawHash": "4d56b2e75e41342ee790e199fa81288c2419f38e297414ce46e042456b30e6db",
+      "imageHash": "70da1ef481c4868fb7eacf3ae96e62dbb20c57ecb8a5adbf9b705cd2cde010a8",
+      "normalizedHash": "6f0ac242d78900d8a8f9840573f1c97c367517ded16163a508bb0be92ecaee7d",
+      "unitIds": [
+        "lecture-2-p018-optimal-contract-number",
+        "lecture-2-p018-hedged-quantity",
+        "lecture-2-p018-minimum-variance-limits",
+        "lecture-2-p018-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 19,
+      "verdict": "approved",
+      "rawHash": "b64e392a45f62fe09dc4e791ce964e6d93d40ca052be636fc932c1e16eb9e7dd",
+      "imageHash": "875ba138d0a71f644d61e414652b8afa13d13e7c67f311c30785adf3e4f6f024",
+      "normalizedHash": "e4fec9c898121aae2e0187278eb5a845a972e6ed91c6ace278fbf9b370a18ec9",
+      "unitIds": [
+        "lecture-2-p019-airline-cross-hedge-inputs",
+        "lecture-2-p019-airline-direction-question",
+        "lecture-2-p019-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 20,
+      "verdict": "approved",
+      "rawHash": "2c63c9b23d5eec9dd85692a35884effee7cd6c561f866ab9611c3ab1aeedb7be",
+      "imageHash": "089cd367898507fe4c199a393c38163e9eb1387d80add0c52e30d7cb4dccb5af",
+      "normalizedHash": "45990a633000d483f2f93ca48d8690db6dfddf6749ea85c2c9b909aebaec60cc",
+      "unitIds": [
+        "lecture-2-p020-airline-ratio-calculation",
+        "lecture-2-p020-airline-contract-calculation",
+        "lecture-2-p020-airline-decision",
+        "lecture-2-p020-airline-residual-question",
+        "lecture-2-p020-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 21,
+      "verdict": "approved",
+      "rawHash": "7fd5a2075d13c0e7cae25081bc9a49079fb8bfb65d4847bdda5de2e6895f849b",
+      "imageHash": "c87273e730c8d691ef0aaa60afbdef377bb4ab4f58c250d3ab46a0b849d478bc",
+      "normalizedHash": "9337339166a9ec7f36a9b1d534221a88d1ec0dab47996808efa681c0ae29b1e7",
+      "unitIds": [
+        "lecture-2-p021-stock-index-definition",
+        "lecture-2-p021-index-contract-multipliers",
+        "lecture-2-p021-index-notionals",
+        "lecture-2-p021-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 22,
+      "verdict": "approved",
+      "rawHash": "063537ec45d655765bfa9b755b45cae6499b9c3d38cbb1e5d458af3d68b3b24e",
+      "imageHash": "c04d4edf9103ce8c81d04f2982e3f347c2729283178f8d40ac8eef691005f44d",
+      "normalizedHash": "b0d9885570a4e44efeeb6a4c03d75b3aff698875be2f00d1dfe723e16d38cd8e",
+      "unitIds": [
+        "lecture-2-p022-index-mirror-ratio",
+        "lecture-2-p022-index-mirror-example",
+        "lecture-2-p022-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 23,
+      "verdict": "approved",
+      "rawHash": "7b7af9370d017bc6d7c0deee7b77e57093435a501a67acf642a635e1d885ec37",
+      "imageHash": "b3341d5acaef8e5f4892da1ae42328af49cc455a83a6d6a098e7dbf9b4951321",
+      "normalizedHash": "ccc7b602a45dbbcef55354e5332dc8ca9e62fc88267427f11f4964f724611cb2",
+      "unitIds": [
+        "lecture-2-p023-market-regression",
+        "lecture-2-p023-beta-and-residual",
+        "lecture-2-p023-beta-limits",
+        "lecture-2-p023-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 24,
+      "verdict": "approved",
+      "rawHash": "92e26a04b2f683fe5ef032266e9c1839d64114871daafed2ddc225321031b3da",
+      "imageHash": "b5ad73e42d3014e9eb3ae4add9a435b96f3b194d4ecb05af6aab259f2b7721df",
+      "normalizedHash": "4fd32fbb6c6eb16c130ac748534558e3db58641bb6285d39c7eb77cf2047f970",
+      "unitIds": [
+        "lecture-2-p024-target-beta-formula",
+        "lecture-2-p024-target-beta-direction",
+        "lecture-2-p024-beta-neutral-special-case",
+        "lecture-2-p024-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 25,
+      "verdict": "approved",
+      "rawHash": "f1eff1b64e6261d3500049ae5b36b809eec9c6b3e6397328aa859a4ee7488107",
+      "imageHash": "7690c07e053b635d2f2e2e9be4fedc2fcf56e4d94ce045f4f46c6b1520297e2b",
+      "normalizedHash": "6eb2a93966ebff4b11e03540007e8a6c763568d91c317b2f2c90bdaf988c1e29",
+      "unitIds": [
+        "lecture-2-p025-beta-example-inputs",
+        "lecture-2-p025-beta-example-calculation",
+        "lecture-2-p025-beta-example-decision",
+        "lecture-2-p025-beta-extension-question",
+        "lecture-2-p025-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 26,
+      "verdict": "approved",
+      "rawHash": "c218451c2e23a7fb297421a13890f9ac3dc4c61b05f7af639c9dbfc491d86f4a",
+      "imageHash": "426f9491e94ca329798b9bd3bb2d332f34d93f3d87cf802f5be47cf3810cad84",
+      "normalizedHash": "39b1b65185e20c6e19d86c9cece303373605552f70b1aee072546c939192cc46",
+      "unitIds": [
+        "lecture-2-p026-relative-view",
+        "lecture-2-p026-biopharma-example",
+        "lecture-2-p026-beta-residual-risks",
+        "lecture-2-p026-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 27,
+      "verdict": "approved",
+      "rawHash": "92e8b852f2420b74f6264ce462dae86ea5104c44076d522c144740594338a723",
+      "imageHash": "01fbdf86e5a5791f9528191d11555f42310469b3a9b4de5a70455e93c0b949ff",
+      "normalizedHash": "bfc2e77349607a297bbfc9770b480d70aaa4db19f74fda6615bfbfffaccb2f4b",
+      "unitIds": [
+        "lecture-2-p027-hedging-benefits",
+        "lecture-2-p027-hedging-costs",
+        "lecture-2-p027-combined-exposure-principle",
+        "lecture-2-p027-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 28,
+      "verdict": "approved",
+      "rawHash": "4cf87ef9911ee9d08ec03ff023253e3c2009ec1eb8e33a92875f21b4b173a83d",
+      "imageHash": "5bc7fb65eb24b8086113cfb5097c210c01ab21469aeda81618980c55a7ff85b6",
+      "normalizedHash": "5bc720903f981f3a5106f399c740429939b88ad32c2893e36f8ca4f89ee27c21",
+      "unitIds": [
+        "lecture-2-p028-hedge-becomes-speculation",
+        "lecture-2-p028-trading-mandates",
+        "lecture-2-p028-independent-controls",
+        "lecture-2-p028-exposure-comparison",
+        "lecture-2-p028-control-question",
+        "lecture-2-p028-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 29,
+      "verdict": "approved",
+      "rawHash": "6cbbfb5d7fd02bda97d37be8815d3c707f86d09f19c9a408649df05d7e4a526c",
+      "imageHash": "0438ae9388763c35a780c7b675181e07a966bd44fabd2fb0e80eb427646ebd24",
+      "normalizedHash": "8c4ec1250fa1f7c88cf6b3235b63c8d3733e354a2f305190d25becc94804a00d",
+      "unitIds": [
+        "lecture-2-p029-trader-motives-summary",
+        "lecture-2-p029-hedge-direction-summary",
+        "lecture-2-p029-basis-risk-summary",
+        "lecture-2-p029-hedge-ratio-summary",
+        "lecture-2-p029-index-hedge-summary",
+        "lecture-2-p029-whole-position-principle",
+        "lecture-2-p029-page-frame"
+      ],
+      "allRegionsAccounted": true
+    }
+  ]
+}

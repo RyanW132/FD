@@ -1,0 +1,903 @@
+{
+  "status": "provisional author inspection, NOT independent certification; page membership is not completeness",
+  "figurePilot": "One additional diagram-bearing source page: lecture-1 physical PDF page 26; independent QA pending.",
+  "pages": [
+    {
+      "pageId": "lecture-3-pdfPage-001",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-001-body",
+          "description": "Title/identity",
+          "kind": "administrative",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-002",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-002-body",
+          "description": "Lecture outline",
+          "kind": "administrative",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-003",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-003-body",
+          "description": "Why rates matter",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-004",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-004-body",
+          "description": "Rate taxonomy/risk-free model",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-005",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-005-body",
+          "description": "Reference rates after LIBOR",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-006",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-006-body",
+          "description": "Compounding convention examples",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-007",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-007-body",
+          "description": "Discrete compounding formulas and example",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Nonprinting font-mapped math glyphs in extraction: U+0012, U+0013. Retained unchanged."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-008",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-008-body",
+          "description": "Compounding-frequency table/effective annual rate",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics",
+        "table"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Table preserved as spaced plain text plus page image, not yet a semantic accessible table.",
+        "Nonprinting font-mapped math glyphs in extraction: U+0012, U+0013. Retained unchanged."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-009",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-009-body",
+          "description": "Continuous-compounding limit",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Nonprinting font-mapped math glyphs in extraction: U+0010, U+0011. Retained unchanged."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-010",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-010-body",
+          "description": "Equivalent-rate conversion",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Nonprinting font-mapped math glyphs in extraction: U+0010, U+0011, U+0012, U+0013. Retained unchanged."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-011",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-011-body",
+          "description": "Compounding check and supplied answer",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Nonprinting font-mapped math glyphs in extraction: U+0010, U+0011, U+0012, U+0013. Retained unchanged."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-012",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-012-body",
+          "description": "Zero rates/discount factors",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-013",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-013-body",
+          "description": "Bond cashflow sum",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-014",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-014-body",
+          "description": "Coupon-bond pricing table/example",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics",
+        "table"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Table preserved as spaced plain text plus page image, not yet a semantic accessible table."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-015",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-015-body",
+          "description": "Yield to maturity",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-016",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-016-body",
+          "description": "Price/coupon/yield comparison table",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "table"
+      ],
+      "issues": [
+        "Table preserved as spaced plain text plus page image, not yet a semantic accessible table."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-017",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-017-body",
+          "description": "Par-yield derivation and units",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-018",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-018-body",
+          "description": "Par-yield numerical example",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-019",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-019-body",
+          "description": "Bootstrapping explanation",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-020",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-020-body",
+          "description": "Bootstrap input table",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics",
+        "table"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Table preserved as spaced plain text plus page image, not yet a semantic accessible table."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-021",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-021-body",
+          "description": "Zero-coupon bootstrap formulas",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Nonprinting font-mapped math glyphs in extraction: U+0012, U+0013. Retained unchanged."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-022",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-022-body",
+          "description": "1.5-year bootstrap",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-023",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-023-body",
+          "description": "2-year bootstrap",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-024",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-024-body",
+          "description": "Bootstrapped zero-curve table/interpolation",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics",
+        "table"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Table preserved as spaced plain text plus page image, not yet a semantic accessible table."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-025",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-025-body",
+          "description": "Forward-rate derivation",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-026",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-026-body",
+          "description": "Forward-rate example/interpretation",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-027",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-027-body",
+          "description": "Forward-rate table/exercise",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics",
+        "table"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Table preserved as spaced plain text plus page image, not yet a semantic accessible table."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-028",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-028-body",
+          "description": "FRA definition/roles/settlement",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-029",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-029-body",
+          "description": "FRA notation and payoff",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-030",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-030-body",
+          "description": "Receive-fixed FRA worked example",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-031",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-031-body",
+          "description": "FRA side selection exercise/answers",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-032",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-032-body",
+          "description": "Price-yield derivative",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-033",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-033-body",
+          "description": "Duration/weights",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-034",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-034-body",
+          "description": "Duration sensitivity/basis-point units",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-035",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-035-body",
+          "description": "Duration numerical table",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics",
+        "table"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Table preserved as spaced plain text plus page image, not yet a semantic accessible table."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-036",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-036-body",
+          "description": "Duration approximation example",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-037",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-037-body",
+          "description": "Approximation-error table",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics",
+        "table"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed.",
+        "Table preserved as spaced plain text plus page image, not yet a semantic accessible table."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-038",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-038-body",
+          "description": "Convexity and second-order formula",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-039",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-039-body",
+          "description": "Duration-convexity example",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics"
+      ],
+      "issues": [
+        "Mathematical superscripts/subscripts/fractions flattened or reading order uncertain in plain layout text; image reconciliation needed."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-040",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-040-body",
+          "description": "Immunisation assumptions and limits",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-3-pdfPage-041",
+      "provisionalRegions": [
+        {
+          "id": "lecture-3-pdfPage-041-body",
+          "description": "Summary/unifying idea",
+          "kind": "substantive",
+          "basis": "author inspection of complete extracted page; approximate whole-page region, not frozen production unit",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose"
+      ],
+      "issues": [],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "seminar-2-problems-pdfPage-001",
+      "provisionalRegions": [
+        {
+          "id": "seminar-2-question-1",
+          "description": "Question 1; original numbering",
+          "kind": "exercise",
+          "requiresIndependentReview": true
+        },
+        {
+          "id": "seminar-2-question-2",
+          "description": "Question 2; original numbering",
+          "kind": "exercise",
+          "requiresIndependentReview": true
+        },
+        {
+          "id": "seminar-2-question-3",
+          "description": "Question 3; original numbering",
+          "kind": "exercise",
+          "requiresIndependentReview": true
+        },
+        {
+          "id": "seminar-2-question-4",
+          "description": "Question 4; original numbering",
+          "kind": "exercise",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "exercise"
+      ],
+      "issues": [
+        "Bullet glyph extracts as U+0088 rather than a standard bullet; retained unchanged."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "seminar-2-problems-pdfPage-002",
+      "provisionalRegions": [
+        {
+          "id": "seminar-2-question-5",
+          "description": "Question 5; original numbering",
+          "kind": "exercise",
+          "requiresIndependentReview": true
+        },
+        {
+          "id": "seminar-2-question-6",
+          "description": "Question 6; original numbering",
+          "kind": "exercise",
+          "requiresIndependentReview": true
+        },
+        {
+          "id": "seminar-2-question-7",
+          "description": "Question 7; original numbering",
+          "kind": "exercise",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "exercise",
+        "table"
+      ],
+      "issues": [
+        "Bullet glyph extracts as U+0088 rather than a standard bullet; retained unchanged.",
+        "Question 7 annual-coupon instruction plus fractional maturities needs explicit cashflow convention before solving; do not silently assume lecture semiannual schedule."
+      ],
+      "independentVisualQa": "pending"
+    },
+    {
+      "pageId": "lecture-1-pdfPage-026",
+      "provisionalRegions": [
+        {
+          "id": "lecture-1-pdfPage-026-graph",
+          "kind": "figure",
+          "description": "Long-forward payoff graph with accompanying reading instructions",
+          "requiresIndependentReview": true
+        }
+      ],
+      "contentFeatures": [
+        "prose",
+        "mathematics",
+        "plotted-diagram"
+      ],
+      "independentVisualQa": "pending"
+    }
+  ]
+}

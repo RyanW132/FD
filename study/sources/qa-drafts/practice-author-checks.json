@@ -1,0 +1,206 @@
+{
+  "status": "author-checks-pass-independent-review-pending",
+  "checks": 865,
+  "pages": 22,
+  "units": 90,
+  "sources": [
+    {
+      "sourceId": "seminar-1-problems",
+      "pageCount": 2,
+      "substantiveUnits": 6,
+      "administrativeUnits": 2,
+      "draftHash": "ed85fd0a8903861f3a3c201bc229ba16e5d4541e6d3516a98b40fefe58fae8a1"
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "pageCount": 7,
+      "substantiveUnits": 23,
+      "administrativeUnits": 7,
+      "draftHash": "e2a7a2f24b8720cbbf60a489317687aac83a5da805e6b54982dee860d5d8b412"
+    },
+    {
+      "sourceId": "seminar-2-problems",
+      "pageCount": 2,
+      "substantiveUnits": 7,
+      "administrativeUnits": 2,
+      "draftHash": "fe316d957b82c3ef08221802cc7f7a812cc91d73bc62fb204db50880f9d8edfb"
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "pageCount": 7,
+      "substantiveUnits": 24,
+      "administrativeUnits": 7,
+      "draftHash": "ecf7e6052c7d64ac0ec03f09cd3c9f2709a3b5dd875869de32a4bd8eac249c5f"
+    },
+    {
+      "sourceId": "seminar-3-problems",
+      "pageCount": 4,
+      "substantiveUnits": 8,
+      "administrativeUnits": 4,
+      "draftHash": "08734fb0ba59486aa09feb83be664e564b3e61a408ec960e5137b395960de859"
+    }
+  ],
+  "imageViews": [
+    {
+      "sourceId": "seminar-1-problems",
+      "pdfPage": 1,
+      "imagePath": "study/sources/assets/seminar-1-problems/page-001.png",
+      "imageHash": "0a911f78ab1ccc40400295d615f610c6be4b8e2f2707df19e219d2317fe711f2",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-1-problems",
+      "pdfPage": 2,
+      "imagePath": "study/sources/assets/seminar-1-problems/page-002.png",
+      "imageHash": "808298334000f54b8fc764ebc3ae4a857ad32bc6906280b179718996ff04fd92",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "pdfPage": 1,
+      "imagePath": "study/sources/assets/seminar-1-solutions/page-001.png",
+      "imageHash": "b2a12a0918be14cbadbfefb16a7a72b76c0ec18a5080b539c1f426f892aba432",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "pdfPage": 2,
+      "imagePath": "study/sources/assets/seminar-1-solutions/page-002.png",
+      "imageHash": "6ef66db67ee47c248d627ddfe4778399307793aa7226f88424a8cd186a4d28d4",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "pdfPage": 3,
+      "imagePath": "study/sources/assets/seminar-1-solutions/page-003.png",
+      "imageHash": "ee589baff59763070aeaeadc7f81caafabc042aa55d47823d4dd43db50ba622f",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "pdfPage": 4,
+      "imagePath": "study/sources/assets/seminar-1-solutions/page-004.png",
+      "imageHash": "6491ff8210e564230c5a46637ea174d2b123b3a8cd3251f7275dc9b248fc2406",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "pdfPage": 5,
+      "imagePath": "study/sources/assets/seminar-1-solutions/page-005.png",
+      "imageHash": "b28aaa7346cf715dab23743c506ce09691539d04029125776eb53ffb5dea8f5b",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "pdfPage": 6,
+      "imagePath": "study/sources/assets/seminar-1-solutions/page-006.png",
+      "imageHash": "43d486acf055ecafd19462cab911e6142f8f66eeb6a51f32a53ae7ea69c1af24",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-1-solutions",
+      "pdfPage": 7,
+      "imagePath": "study/sources/assets/seminar-1-solutions/page-007.png",
+      "imageHash": "7b83d33d1cec02963b01300d246a64d587ab849022610eddb281c1d9fb9bb233",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-2-problems",
+      "pdfPage": 1,
+      "imagePath": "study/sources/assets/seminar-2-problems/page-001.png",
+      "imageHash": "b72c418a4529ed159d6b18a93eb1b125ff82bfc421ed4d7ad20478c3077ba84a",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-2-problems",
+      "pdfPage": 2,
+      "imagePath": "study/sources/assets/seminar-2-problems/page-002.png",
+      "imageHash": "12bf900df1b5e3d18445ab9356e636f57a96fddbd3793bd0587a45e84f2f479d",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "pdfPage": 1,
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-001.png",
+      "imageHash": "51164125d49b2960014087203ad58bf30c1bf77ef665fa3a1e6830b7afe4a001",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "pdfPage": 2,
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-002.png",
+      "imageHash": "5505ad8f9f2323d67e19a30cf832efe1e35134ee1f889c2955a47f4ede817c6c",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "pdfPage": 3,
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-003.png",
+      "imageHash": "0f33d941cd8cfe45e1aa3805729eb11e031565627090d77f99edd64cb9dd9f2a",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "pdfPage": 4,
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-004.png",
+      "imageHash": "7420b6e992bcf6887e3251f4829738020c4a0cb3cb042be8582ca9ef65b5bc21",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "pdfPage": 5,
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-005.png",
+      "imageHash": "59cf4be87077b60f1fc2a996ff63caaee1bdc3d1912d029ac5dae98c108f4057",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "pdfPage": 6,
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-006.png",
+      "imageHash": "a9533c37014fdac9ce0be2d840d9dc0b399d909671288d4f72fd2b37b4fed025",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-2-solutions",
+      "pdfPage": 7,
+      "imagePath": "study/sources/assets/seminar-2-solutions/page-007.png",
+      "imageHash": "ca308469a281eb6c5b0057ae3977a48562abefdb83897bb3fb219203b49dbde1",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-3-problems",
+      "pdfPage": 1,
+      "imagePath": "study/sources/assets/seminar-3-problems/page-001.png",
+      "imageHash": "98daa1fc119a6311d13e1b8bd809f05dd9e173fd8c9630007fb76d2d0afd9e56",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-3-problems",
+      "pdfPage": 2,
+      "imagePath": "study/sources/assets/seminar-3-problems/page-002.png",
+      "imageHash": "0cc1a46f31bfd4e075fc56abec47f1a7993a6f043a175e259f8493e4590e9985",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-3-problems",
+      "pdfPage": 3,
+      "imagePath": "study/sources/assets/seminar-3-problems/page-003.png",
+      "imageHash": "f32bf781692f96d67e4be21f7bdc444d7efc3dd4e84359f61fad0c6af356bb8c",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    },
+    {
+      "sourceId": "seminar-3-problems",
+      "pdfPage": 4,
+      "imagePath": "study/sources/assets/seminar-3-problems/page-004.png",
+      "imageHash": "f82183c6501769e16ad8f032dd73cb65e26c939690410149197c93de6444ec4d",
+      "viewEvidence": "Exact production PNG viewed in this author agent via view_image, full page; independent QA pending."
+    }
+  ],
+  "initialContextBudget": {
+    "limit": 32768,
+    "readBeforeContinuation": 33969,
+    "excess": 1201,
+    "status": "failed-not-retroactively-relabelled",
+    "note": "The required contract batch was read before precomputing its cumulative size. Evidence/code reads proceeded as explicit continuations afterwards."
+  }
+}

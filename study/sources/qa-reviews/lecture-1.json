@@ -1,0 +1,535 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "lecture-1",
+  "sourceHash": "2e7ae0637756b62861377ecb0ff109aac9108ded318e40f1307751cb8e348498",
+  "draftPath": "study/sources/qa-drafts/lecture-1.json",
+  "draftHash": "dd37325de357594cd492feda0f85b5b1af78375c3976263db4df21479b6f97d6",
+  "reviewer": "g005-source-qa-lecture12",
+  "reviewedAt": "2026-10-22T14:21:07.063549+00:00",
+  "verdict": "approved",
+  "pages": [
+    {
+      "pdfPage": 1,
+      "verdict": "approved",
+      "rawHash": "8cf73ef46cff72e31dbfb5bd1c25070d5ee2118adc86575cb9001eb5baa1edb1",
+      "imageHash": "2e1784697caf8e4782cc74c65699196146206bcf3f8044348722871af3dbc60e",
+      "normalizedHash": "c2907ef2ba3f8d4f46f29627ddfcdcf23cc886cbd81de3fe27c115ae945afe7d",
+      "unitIds": [
+        "lecture-1-p001-title"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 2,
+      "verdict": "approved",
+      "rawHash": "156ab25e3f21580e519ad4aa858a195660f61ddd4e06f55f9b353e631feae317",
+      "imageHash": "118673d6f0192c65005df9ad73a3e303d08ec840b964b8e67ed6f1335ca96b19",
+      "normalizedHash": "9ca6f067c712389a33364e998cd7a3f4518f6b5d69ae8004700948baed00686c",
+      "unitIds": [
+        "lecture-1-p002-lecturer-role",
+        "lecture-1-p002-contact",
+        "lecture-1-p002-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 3,
+      "verdict": "approved",
+      "rawHash": "4d59091333db0de9f41e1a77a4538cd9b648f29f2114202868afc571d0421be9",
+      "imageHash": "38b2c32707cdd4b9bc1ded80e29ad1606321ed5be1a772cfe99afacc5970f94f",
+      "normalizedHash": "fcbea2faecca6f1a701acccc080ef48ac3c578e8f7a204d0aec8a96052e98931",
+      "unitIds": [
+        "lecture-1-p003-timetable",
+        "lecture-1-p003-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 4,
+      "verdict": "approved",
+      "rawHash": "b2581ca5f2ba26ffa00a544b0bc55517938dfccb31b3589bd0c7e82b64de753c",
+      "imageHash": "8462d19f05df865a2831b84b286ab781395f4bd878d59d5558aae1ccacb91e98",
+      "normalizedHash": "9328764d81cc6cf7ca1160e0412fa28b94889735e9c3fa850b11b38ffe028880",
+      "unitIds": [
+        "lecture-1-p004-staff-contacts",
+        "lecture-1-p004-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 5,
+      "verdict": "approved",
+      "rawHash": "55e8d334162e406f912991d742bc9b31cb6dc2c13f4c4784cf8d4715702a491f",
+      "imageHash": "561e2a349b5242b6e36985323a15d2be823686993db2819c8a452205da5bfeb3",
+      "normalizedHash": "d3e83b30280ff05b6af44310aef7d79f4a76a34c9087b8fb22e499c558225e95",
+      "unitIds": [
+        "lecture-1-p005-airline-exposure",
+        "lecture-1-p005-airline-choices",
+        "lecture-1-p005-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 6,
+      "verdict": "approved",
+      "rawHash": "2ea871d5cb28305084015b198260db80a685bdf4f9f61a6ed4a4a04b8ae08c53",
+      "imageHash": "701a4ea3322c073f5a38067babe9c65e2cfe039a102db768b015cc386e82e3b6",
+      "normalizedHash": "9f64604bec3a7259fd5ac0ba2c999039480c292030be9a556f87edcd4bef33fb",
+      "unitIds": [
+        "lecture-1-p006-source-unit-objectives",
+        "lecture-1-p006-central-pricing-question",
+        "lecture-1-p006-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 7,
+      "verdict": "approved",
+      "rawHash": "c1b9bf6b1254d3ed7b1d38bbb25f877fd0034e9313886234c043782a91be0cbb",
+      "imageHash": "64c03f50916c38726380551319fa973778b350babad6f3a7559cf38e1e811527",
+      "normalizedHash": "e9738583b2bb6f95222d593b1403117304fa6a7d932cf47456feab40168fe389",
+      "unitIds": [
+        "lecture-1-p007-course-roadmap",
+        "lecture-1-p007-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 8,
+      "verdict": "approved",
+      "rawHash": "0d766c5f449fc69a33c0f0b2b15df0162cf3431e23bb883f1bd5ce3ed87e22c2",
+      "imageHash": "b414a957b94f505c871bbe6ff58c0620df26c2efbd842636144a51a0dd1bade9",
+      "normalizedHash": "68f91c4e6aaa4c314c76e54b071942fa86cb5986b2d3a607cfa78de1c570319d",
+      "unitIds": [
+        "lecture-1-p008-reading-list",
+        "lecture-1-p008-other-resources",
+        "lecture-1-p008-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 9,
+      "verdict": "approved",
+      "rawHash": "348f3f25a219e188ff1b00a850ac24795bd13c6f942bebb87e8fa4ede2834bd9",
+      "imageHash": "53c9c330e3ff34f280a62ad14582ebb5f466ce4f512a77800a2a72dddf37b325",
+      "normalizedHash": "e9293678cc2195706f7e5da7491fad39882199abd86bb34afcc139c02ef50b58",
+      "unitIds": [
+        "lecture-1-p009-assessment",
+        "lecture-1-p009-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 10,
+      "verdict": "approved",
+      "rawHash": "a273012628c95101127432e4ade2e4eb6e1ef3f6e9015dd33e1ec737e66a8b94",
+      "imageHash": "cd04ad81a47465491f84969717f728973c9eb0e5c509361bfebac220118fd2c3",
+      "normalizedHash": "bc56f9b972a049b1e10f2e8f2eb15eb929627961347132674bda67a6109c6c0a",
+      "unitIds": [
+        "lecture-1-p010-lecture-outline",
+        "lecture-1-p010-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 11,
+      "verdict": "approved",
+      "rawHash": "8fb5e2aa85abbf61a5c883169a94e20741d3af467c297cd16004a4768d996990",
+      "imageHash": "f55341d6d1f7752d7e5ea4086df4a6d3bba888b2d0b017ff825a62afbbffb9b1",
+      "normalizedHash": "72b0f857aabeaad6b158e1e3fc257ed03b5492eedad0f9e02c1fd09e0629e0ef",
+      "unitIds": [
+        "lecture-1-p011-contract-examples",
+        "lecture-1-p011-derivative-definition",
+        "lecture-1-p011-derivative-types",
+        "lecture-1-p011-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 12,
+      "verdict": "approved",
+      "rawHash": "8c52d15b66ff8d07b479564c23de0d4d73f164c4ffdaf499a902b66c9eae4999",
+      "imageHash": "230e251c0f0dbbfa649127986bff90028cf45018d3be043d7948aaf79a5e1de7",
+      "normalizedHash": "732e9e079983efda6780047aecd7e0c1f64f19e349ebd44220537c4e710e36be",
+      "unitIds": [
+        "lecture-1-p012-purpose-matching",
+        "lecture-1-p012-hedging-definition",
+        "lecture-1-p012-speculation-definition",
+        "lecture-1-p012-arbitrage-definition",
+        "lecture-1-p012-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 13,
+      "verdict": "approved",
+      "rawHash": "5d7524494ca79e98fe838b23f673128259795c17b8182c4ca23188710d2cb469",
+      "imageHash": "d046faceec565f99c6920f1b470cc20795eaeb57b64c55fee10850de8d9ee4af",
+      "normalizedHash": "32b55d29a41038442ae702a3c418ce9ef2b913de9060c1a705c8815af004a31e",
+      "unitIds": [
+        "lecture-1-p013-exchange-traded",
+        "lecture-1-p013-otc",
+        "lecture-1-p013-market-choice-question",
+        "lecture-1-p013-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 14,
+      "verdict": "approved",
+      "rawHash": "0e2593ae9d4840fb9da5ebffe189632fe16867d066db75c6df8829f294300cf3",
+      "imageHash": "d7b7bb809bd40c086645edac7cae0221ea2fa77e4448a3fff06e48d9092652b2",
+      "normalizedHash": "3a968bbea16f5f744648c18ce947b1e950333d0647d3de6c0470bea3d5a2b85e",
+      "unitIds": [
+        "lecture-1-p014-bilateral-market-structure",
+        "lecture-1-p014-systemic-risk",
+        "lecture-1-p014-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 15,
+      "verdict": "approved",
+      "rawHash": "7fa1f8ba87013323085e84cee63a778a8876d2bc49c3bf430d69d9a5a71f48b9",
+      "imageHash": "25ecd62fd7025569077bb95061bae21e346bfac6ba2ddb923f148dc731ce311c",
+      "normalizedHash": "92e89bc75f98a5711f05dea58ac0bb0e6eb5ebe2f2630dd0000d27cb29c1739a",
+      "unitIds": [
+        "lecture-1-p015-clearing-reform",
+        "lecture-1-p015-reporting-reform",
+        "lecture-1-p015-uncleared-margin-reform",
+        "lecture-1-p015-platform-reform",
+        "lecture-1-p015-reform-matching",
+        "lecture-1-p015-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 16,
+      "verdict": "approved",
+      "rawHash": "fe5aa3d803d4e84b05f9fd8120c74428aa9377cdfa9513c4821260e2e089e91a",
+      "imageHash": "8278b59dbdd24b255c43de22532b605d9fb507587bbe9b5105efe5aaffbc90da",
+      "normalizedHash": "3108af5733c921a8c1ee562d5ea80b3e99c66057be21a29918910fd0f5d109fd",
+      "unitIds": [
+        "lecture-1-p016-bilateral-default",
+        "lecture-1-p016-ccp-interposition",
+        "lecture-1-p016-ccp-risk-management",
+        "lecture-1-p016-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 17,
+      "verdict": "approved",
+      "rawHash": "8e372e704c268abab9bc5e4dcfa8dbc8c444cf3cd0285e493342899a6273084c",
+      "imageHash": "9515d782862918c426cf16269aedf518358dab26d79e33bb57a10e2be889bf5d",
+      "normalizedHash": "1613488004d485abcf045aeee35b4b61856636c32a9365474edbbfb1334083c6",
+      "unitIds": [
+        "lecture-1-p017-chart-interest-rate",
+        "lecture-1-p017-chart-fx",
+        "lecture-1-p017-chart-provenance",
+        "lecture-1-p017-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 18,
+      "verdict": "approved",
+      "rawHash": "ef23941cc3e3deb3020388a677e51db34b2a9f7086289b0f3b500f9eb83d63fc",
+      "imageHash": "72417cb001d97726894d88154d6e5d3493974ab638fa1c8efa83801ad27c4a5f",
+      "normalizedHash": "c37c70914988a2adf377e482440ed82abbb6b3567dfc1564e497e7a1a1664853",
+      "unitIds": [
+        "lecture-1-p018-chart-reading-questions",
+        "lecture-1-p018-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 19,
+      "verdict": "approved",
+      "rawHash": "6f272806fb3eb4b7793667e8e2a5fed7ed6a96bc15b5307919f437e893a857f0",
+      "imageHash": "4454bbb39e812e1b9a922c6734b0609c6329ba15f0806aa6f87bc0033f597278",
+      "normalizedHash": "524b1346cea15b0209760aa6aaf8f15c7740edbfe6ca26712588ff4459d91bc8",
+      "unitIds": [
+        "lecture-1-p019-position-classification",
+        "lecture-1-p019-source-classification-answers",
+        "lecture-1-p019-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 20,
+      "verdict": "approved",
+      "rawHash": "bc4b4b2239277f876e38ba4c4e262af16df89feaa61eeb3b0e4bc23b90801676",
+      "imageHash": "8586095103b2c29ca021e2a389607b2847431895259e9683fbd6fcf997a69eaa",
+      "normalizedHash": "19718f2f8a327ef694f0d2bc2abf5613c32790e11d65e37d26e0edc5740daded",
+      "unitIds": [
+        "lecture-1-p020-forward-scenario",
+        "lecture-1-p020-forward-agreement",
+        "lecture-1-p020-forward-terms",
+        "lecture-1-p020-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 21,
+      "verdict": "approved",
+      "rawHash": "4e20715ffe79f3f5683ff0905df935a1a8c39619540dd805ca9e1f5983826b84",
+      "imageHash": "6514c69c7c9102b83ea216d331fba88251abe9ff4b44029ffe93f8d58acac909",
+      "normalizedHash": "3cdfea78c868c95d09be6e2b6622eac03f8bac9300c2e09025ef46564d83ca4e",
+      "unitIds": [
+        "lecture-1-p021-long-forward",
+        "lecture-1-p021-short-forward",
+        "lecture-1-p021-forward-direction-question",
+        "lecture-1-p021-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 22,
+      "verdict": "approved",
+      "rawHash": "69ec4f7971de00827189fbdff6a27d2e630026677884d74c319a5151cd9a9aad",
+      "imageHash": "23df5aec358baab6656fffe2b88088cc26e93c47de4822298bc38758769865ce",
+      "normalizedHash": "d977cc8c0fba9a875f64f23ef9d2eb88c9079ddedbf77b8f390e000e901a9516",
+      "unitIds": [
+        "lecture-1-p022-forward-payoff-table",
+        "lecture-1-p022-long-payoff-formula",
+        "lecture-1-p022-short-payoff-formula",
+        "lecture-1-p022-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 23,
+      "verdict": "approved",
+      "rawHash": "e5fab80dc13ed3b7ab1e0391fca1e7963dc69bdc040806a47ac671077c915c4b",
+      "imageHash": "168d3d1a42f75ce63cd4f3b38ffaf0f96edcc6884fda84757b081dc2ff359a7c",
+      "normalizedHash": "42f2919b5570ed9ebb4b86974db1f29e16f97a060608e8395a140fe7ddc4c2d9",
+      "unitIds": [
+        "lecture-1-p023-fx-quotation-table",
+        "lecture-1-p023-quotation-questions",
+        "lecture-1-p023-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 24,
+      "verdict": "approved",
+      "rawHash": "b6b080ac3a596e17825663cefea9496450d8264f1f2318eb6644f21ec71fb26b",
+      "imageHash": "bf3199694e6643b399936afefad7025af9690f9ded14c08dccb0115136dcdc79",
+      "normalizedHash": "0d129ff888a2eebcd3ea3dbb63958a5c7fc35656d9b9e9123291a657393fe423",
+      "unitIds": [
+        "lecture-1-p024-sterling-exposure",
+        "lecture-1-p024-sterling-forward-hedge",
+        "lecture-1-p024-hedge-objective-question",
+        "lecture-1-p024-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 25,
+      "verdict": "approved",
+      "rawHash": "a9d0cb781aceb14c64b16bc33d6312581ec5cc59ba06e4e371a3ad89dab15359",
+      "imageHash": "0eca0aa037190577ea32f4c9e362c0a0acbfe71add79dc469f49cf0c0b5af0e9",
+      "normalizedHash": "173c9cac8429bf9af52458eeea999bf7d7fada769c072b548880760e4c5344f0",
+      "unitIds": [
+        "lecture-1-p025-currency-payoff-formula",
+        "lecture-1-p025-currency-payoff-table",
+        "lecture-1-p025-currency-payoff-direction",
+        "lecture-1-p025-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 26,
+      "verdict": "approved",
+      "rawHash": "b2417b052eaa3fb1ade893e940e089538337fbecc359ce23ec17a11c7f4f5b5a",
+      "imageHash": "ef6bfa7701e139072d5278886a2c6980bcfa329df85640dc5c9f9ec31dfc1beb",
+      "normalizedHash": "17c75f9a22fe433f8004d0d834bc631fbb399ef692a9476ce196726be1dd3811",
+      "unitIds": [
+        "lecture-1-p026-long-forward-diagram",
+        "lecture-1-p026-long-forward-slope",
+        "lecture-1-p026-short-graph-prediction",
+        "lecture-1-p026-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 27,
+      "verdict": "approved",
+      "rawHash": "4e1e71d9d738345f17f1e370d7ace55dcddeb068a40952a6a53c0b5e297a61b8",
+      "imageHash": "534d5e8f7d4028357591f1ccdb4276d28cdccb217467098817ddf358de5a07f9",
+      "normalizedHash": "c54481eaa774c1267b0f8fcf34ad663549d47253001df155a4a3d52d2344fffb",
+      "unitIds": [
+        "lecture-1-p027-paired-long-diagram",
+        "lecture-1-p027-paired-short-diagram",
+        "lecture-1-p027-forward-zero-sum",
+        "lecture-1-p027-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 28,
+      "verdict": "approved",
+      "rawHash": "305e9735ec0e77c546b356312047211534425cde9cd8e3b88eea1a847a838164",
+      "imageHash": "e3b983919470189e396644d7536f9d12d981c55bf40994807d92d2a212c23fb7",
+      "normalizedHash": "5f62186d262de6162ec8b7a4b63c67166107ae9accb5b5c6440be22a13b2d574",
+      "unitIds": [
+        "lecture-1-p028-futures-obligation",
+        "lecture-1-p028-forward-futures-comparison",
+        "lecture-1-p028-both-sides-margin-question",
+        "lecture-1-p028-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 29,
+      "verdict": "approved",
+      "rawHash": "0d749155377c8595c23a057573e3094a1263dc579b2b9634713ba10cd4a39332",
+      "imageHash": "a5ae9b0ec97be519aedfa73bceb66f555e463862d147e99d983b737ed86a1052",
+      "normalizedHash": "8ee9a91089936be6e7559bd7033eead392dd84d1e7bf448ecea0cd7977652c8d",
+      "unitIds": [
+        "lecture-1-p029-daily-futures-example",
+        "lecture-1-p029-daily-gain-calculation",
+        "lecture-1-p029-daily-gain-formula",
+        "lecture-1-p029-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 30,
+      "verdict": "approved",
+      "rawHash": "2e8a176aa1b90bf1f53e1e9925c530290cf40c7cf3a68ceda2405c0debe9c0cd",
+      "imageHash": "dd908acb88ecff24cb4ea2cb319478011f48448574f2cd1de9215746b389165a",
+      "normalizedHash": "fe464d096272fb28ba67fd0798005aa350e743f9cbeab431326aa4906cf5db5b",
+      "unitIds": [
+        "lecture-1-p030-initial-margin",
+        "lecture-1-p030-variation-margin",
+        "lecture-1-p030-maintenance-margin",
+        "lecture-1-p030-margin-call",
+        "lecture-1-p030-margin-balance-question",
+        "lecture-1-p030-margin-balance-answer",
+        "lecture-1-p030-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 31,
+      "verdict": "approved",
+      "rawHash": "87f749d1fab586f760d6479bf3f1bcd3333ae71d911b3d530c16874a8bd7a6ba",
+      "imageHash": "2c597d87b556009f14102ad28f1e4ba64698f1d9a3c65c10e41321d352b6becf",
+      "normalizedHash": "2bab2c73592ffd52be1effc854ac77ba9bb01c8d28b964590deb93df8961629c",
+      "unitIds": [
+        "lecture-1-p031-gold-position",
+        "lecture-1-p031-sterling-position",
+        "lecture-1-p031-oil-position",
+        "lecture-1-p031-position-reading-task",
+        "lecture-1-p031-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 32,
+      "verdict": "approved",
+      "rawHash": "8eedf6428cad02874fd8313c0db2b759292d10b9d61182d0b6ceb2aad8dbc75d",
+      "imageHash": "307b1d6db0f03fc07403f0e828d4b81c80599e33fe796e42dd70d99ce7277fea",
+      "normalizedHash": "9502122eb66ce1e266c9093831b1adb8a7ffdc01fecdf64e10d66f934bb65008",
+      "unitIds": [
+        "lecture-1-p032-choice-versus-obligation",
+        "lecture-1-p032-option-distinction",
+        "lecture-1-p032-choice-value-question",
+        "lecture-1-p032-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 33,
+      "verdict": "approved",
+      "rawHash": "e5fc40bd815de24afd5139f8588282a3b71ea80c9f9cf4d51e21e53811ce1ad9",
+      "imageHash": "5302081085e5560e4820e463ec62cd67b75fd0079e47bae9edef53d5aaba7260",
+      "normalizedHash": "7f61cde0cfff02f975e7c922a4b95b83f9716110d3eef3dae48f069e2ef69316",
+      "unitIds": [
+        "lecture-1-p033-call-definition",
+        "lecture-1-p033-call-exercise-question",
+        "lecture-1-p033-call-exercise-table",
+        "lecture-1-p033-call-payoff-formula",
+        "lecture-1-p033-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 34,
+      "verdict": "approved",
+      "rawHash": "6df4eb639de5913df0011ea363f852861eb8361756598ae1d0396d4e8af0f1ca",
+      "imageHash": "2eb4bc3cfe90e026d0764c09de4f2685f0f5c8cbf1506ec4f2e0d2eace2d0303",
+      "normalizedHash": "bb50e8b27ac87b3f05316deedf20297daa1d7fd46509f9d32294a144c9fa5f34",
+      "unitIds": [
+        "lecture-1-p034-call-definition",
+        "lecture-1-p034-call-exercise-question",
+        "lecture-1-p034-call-exercise-table",
+        "lecture-1-p034-call-payoff-formula",
+        "lecture-1-p034-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 35,
+      "verdict": "approved",
+      "rawHash": "f54ebab0632fb335e60704d300cf95d8a9fafeee86de16adec52c4ba484f4002",
+      "imageHash": "653a2cbaf174529a47303a1b827996c2dd4260f8681dacd6e4a22b65db09d2f9",
+      "normalizedHash": "ddaf9411be06e218b2d6385d6d06173cc8646cabc87dc240afaaa5b47f580a4e",
+      "unitIds": [
+        "lecture-1-p035-call-definition",
+        "lecture-1-p035-call-exercise-question",
+        "lecture-1-p035-call-exercise-table",
+        "lecture-1-p035-call-payoff-formula",
+        "lecture-1-p035-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 36,
+      "verdict": "approved",
+      "rawHash": "a155d838e940bb17e7cd713996627f3f15e417419d9074503affbd570f54c064",
+      "imageHash": "2f71657b2698dd9851dcd155704388c153545111e0d84b2951f46681fd3b3cad",
+      "normalizedHash": "080b9e7e801552ad56b3054d3594fa2545dde137cacae83a2a4e5ca64c27db93",
+      "unitIds": [
+        "lecture-1-p036-put-definition",
+        "lecture-1-p036-put-exercise-question",
+        "lecture-1-p036-put-exercise-table",
+        "lecture-1-p036-put-payoff-formula",
+        "lecture-1-p036-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 37,
+      "verdict": "approved",
+      "rawHash": "770c29038f86614b5001c84bbc40fec20cc71fa99ad8b50f4e18439d3223b7c4",
+      "imageHash": "ed4fb20f9ce86c9c4c47f96795705a04b90fc5369acab690232b9897945c9d4b",
+      "normalizedHash": "55a7e5de9d125e2f3825c35cda2e106079d21208ae11899da37509104b5433b1",
+      "unitIds": [
+        "lecture-1-p037-call-payoff",
+        "lecture-1-p037-call-profit",
+        "lecture-1-p037-call-break-even-question",
+        "lecture-1-p037-call-break-even-answer",
+        "lecture-1-p037-page-frame"
+      ],
+      "allRegionsAccounted": true
+    },
+    {
+      "pdfPage": 38,
+      "verdict": "approved",
+      "rawHash": "9049d97253d1d6c2b6ebaaecacf7ac26549c3320ed8fd7d49ea6749d0bf14b13",
+      "imageHash": "026fd11fcf901027d53720e63e411c44279d4ba6bee41e461022651937c60114",
+      "normalizedHash": "b33c4e455c4ec26e329990f3949fcad9975a81b2d2f35bc153cc45bbeecd774c",
+      "unitIds": [
+        "lecture-1-p038-european-exercise",
+        "lecture-1-p038-american-exercise",
+        "lecture-1-p038-exercise-opportunity-question",
+        "lecture-1-p038-exercise-opportunity-answer",
+        "lecture-1-p038-page-frame"
+      ],
+      "allRegionsAccounted": true
+    }
+  ]
+}

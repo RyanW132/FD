@@ -1,0 +1,24 @@
+                                                   Forwards
+
+
+
+ The Long Forward Gains When ST > K
+
+
+                                                                             Reading the graph
+                                                                             The payoff is
+
+                                                                                    Πlong
+                                                                                     T    = ST − K .
+
+                                                                             The line has slope +1: a £1
+                                                                             increase in ST increases the
+                                                                             payoff by £1 per unit.
+
+  Prediction
+  What should the short-forward payoff graph look like?
+
+
+
+ES32079 Financial Derivatives (Lecture 1)   Introduction to financial derivatives       Aliya Kenjegalieva   26 / 38
+

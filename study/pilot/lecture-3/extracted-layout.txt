@@ -1,0 +1,925 @@
+ Financial Derivatives
+      ES32079
+
+         Lecture 3
+
+Interest rates and bonds
+      Aliya Kenjegalieva
+ Structure of this lecture
+
+  Here we cover the following topics:
+  1 Interest Rates
+
+  2    Discounting and Compounding
+  3    Bond Pricing
+  4    Bootstrapping the Zero Curve
+  5    Forward Rates
+  6    Forward Rate Agreements
+  7    Duration and Convexity
+  8    Summary
+  Reference: Hull chapter 4.
+
+ES32079 Financial Derivatives (Lecture 3)   Interest rates and bonds   Aliya Kenjegalieva   2 / 41
+                                            Interest Rates
+
+
+
+ Why Do Interest Rates Matter?
+
+  Interest rates enter almost every derivatives-pricing problem because cash
+  flows occurring at different dates cannot be compared directly.
+          They determine how future cash flows are discounted.
+          They affect bond prices, forward prices, swaps, options, and other
+          derivatives.
+          They influence borrowing, saving, investment, exchange rates, and
+          monetary policy.
+          Different rates reflect both the value of time and, in many cases,
+          credit, liquidity, and collateral risk.
+
+  Central question
+  How much is a payment at a future date worth today?
+
+
+ES32079 Financial Derivatives (Lecture 3)      Interest rates and bonds   Aliya Kenjegalieva   3 / 41
+                                            Interest Rates
+
+
+
+ Interest Rates Are Not All the Same
+  Government bond rates Yields on debt issued by governments; these vary
+                by currency, maturity, liquidity, and sovereign credit risk.
+   Policy rates Rates set or targeted by central banks as part of monetary
+                policy.
+    Repo rates Rates on secured borrowing in which securities serve as
+                collateral.
+  Reference rates Transaction-based benchmarks used in loans and
+                derivatives, such as SONIA for sterling and SOFR for US
+                dollars.
+  Risk-free rate
+  The risk-free rate is a modelling ideal: the return on an investment with
+  no default risk. In modern derivatives markets, overnight-indexed rates are
+  often used to construct discount curves, subject to the contract and
+  collateral arrangements.
+ES32079 Financial Derivatives (Lecture 3)      Interest rates and bonds   Aliya Kenjegalieva   4 / 41
+                                               Interest Rates
+
+
+
+ Reference Rates After LIBOR
+
+  LIBOR is now a historical benchmark: all LIBOR settings have
+  permanently ceased.
+          SONIA is the Sterling Overnight Index Average. It reflects rates paid
+          on eligible overnight sterling transactions.
+          SOFR is the Secured Overnight Financing Rate. It measures the cost
+          of overnight borrowing collateralised by US Treasury securities.
+          Overnight rates may be compounded over a period to determine the
+          interest payable on a loan or derivative.
+
+  Teaching convention
+  Later FRA examples use a generic market reference rate RM . Older
+  textbooks may label the same quantity ”LIBOR.”
+
+  Sources: Financial Conduct Authority; Bank of England; Federal Reserve Bank of New York.
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds                  Aliya Kenjegalieva   5 / 41
+                                Discounting and Compounding
+
+
+
+ What Does ”10% Per Annum” Mean?
+
+
+  The quotation is incomplete unless its compounding convention is stated.
+  One-year investment
+  Invest $100 at a nominal annual rate of 10%.
+          Annual compounding: 100 × 1.10 = $110.00
+          Semiannual compounding: 100(1 + 0.10/2)2 = $110.25
+          Continuous compounding: 100e 0.10 = $110.52
+
+  The quoted rate alone is therefore not enough to determine the terminal
+  value.
+
+
+
+
+ES32079 Financial Derivatives (Lecture 3)         Interest rates and bonds   Aliya Kenjegalieva   6 / 41
+                                Discounting and Compounding
+
+
+
+ Compounding m Times per Year
+  If A is invested for T years at a nominal annual rate Rm , compounded m
+  times per year, its future value is
+
+                                           Rm mT
+                                             
+                             FV = A 1 +             .
+                                            m
+  The corresponding present value is
+
+                                      Rm −mT
+                                       
+                         PV = FV 1 +         .
+                                      m
+
+  Example
+  At 8% per annum with quarterly compounding, the two-year value of
+  $1,000 is
+                                0.08 8
+                                   
+                    1,000 1 +          = $1,171.66.
+                                  4
+ES32079 Financial Derivatives (Lecture 3)         Interest rates and bonds   Aliya Kenjegalieva   7 / 41
+                                Discounting and Compounding
+
+
+
+ The Effect of Compounding Frequency
+
+                      Compounding               m        Value of $100 after one year
+                      Annual                    1                            $110.00
+                      Semiannual                2                            $110.25
+                      Quarterly                 4                            $110.38
+                      Monthly                  12                            $110.47
+                      Daily                    365                           $110.52
+
+  Effective annual rate
+  The effective annual rate generated by Rm is
+
+                                        Rm m
+                                         
+                           Reff = 1 +          − 1.
+                                        m
+
+  Thus 10% with semiannual compounding has an effective annual rate of
+  1.052 − 1 = 10.25%.
+ES32079 Financial Derivatives (Lecture 3)         Interest rates and bonds             Aliya Kenjegalieva   8 / 41
+                                Discounting and Compounding
+
+
+
+ Continuous Compounding
+  The exponential function is defined by
+                                        x m
+                           e x = lim 1 +      .
+                                 m→∞     m
+  As the compounding frequency becomes arbitrarily large,
+                                  r mT
+                         lim 1 +         = e rT .
+                        m→∞        m
+  Therefore, under continuous compounding,
+
+                                   FV = Ae rT ,                 PV = FV e −rT .
+
+  Sign check
+  Compounding moves money forward with e rT ; discounting moves it
+  backward with e −rT .
+ES32079 Financial Derivatives (Lecture 3)         Interest rates and bonds        Aliya Kenjegalieva   9 / 41
+                                Discounting and Compounding
+
+
+
+ Converting Interest-Rate Conventions
+  Equivalent rates generate the same accumulation over the same period:
+
+                                        Rm m
+                                          
+                               r
+                              e = 1+          .
+                                         m
+
+  Hence,
+                                                                                      
+                                      
+                                            r /m
+                                                                                 Rm
+                        Rm = m e                   −1 ,              r = m ln 1 +          .
+                                                                                  m
+
+  Example
+  A nominal rate of 10% with semiannual compounding is equivalent to
+
+                                            r = 2 ln(1.05) = 0.09758,
+
+  or 9.758% with continuous compounding.
+
+ES32079 Financial Derivatives (Lecture 3)           Interest rates and bonds       Aliya Kenjegalieva   10 / 41
+                                Discounting and Compounding
+
+
+
+ Compounding Check
+
+  An investment grows from $5,000 to $5,800 in 18 months.
+      1   What is the continuously compounded annual rate?
+      2   What nominal annual rate with semiannual compounding is
+          equivalent?
+
+  Solution
+                                                                 
+                                          1              5,800
+                                      r=     ln                       = 10.15%.
+                                         1.5             5,000
+  The equivalent semiannual rate is
+                                         
+                     R2 = 2 e 0.1015/2 − 1 = 10.41%.
+
+
+
+ES32079 Financial Derivatives (Lecture 3)         Interest rates and bonds        Aliya Kenjegalieva   11 / 41
+                                             Bond Pricing
+
+
+
+ Zero Rates and Discount Factors
+
+  The T -year zero rate is the return on an investment that makes no
+  intermediate payments and pays only at time T .
+  With a continuously compounded zero rate R(T ), the discount factor is
+
+                                            P(0, T ) = e −R(T )T .
+
+  The present value of a cash flow CT is
+
+                                PV (CT ) = CT P(0, T ) = CT e −R(T )T .
+
+  Example
+  If the five-year zero rate is 5%, then
+
+                      100e 0.05×5 = $128.40,                   100e −0.05×5 = $77.88.
+
+ES32079 Financial Derivatives (Lecture 3)      Interest rates and bonds        Aliya Kenjegalieva   12 / 41
+                                                  Bond Pricing
+
+
+
+ A Bond Is a Package of Cash Flows
+
+  A coupon bond normally pays:
+          coupons at specified dates; and
+          face value, also called principal or par value, at maturity.
+  If cash flow Ci is paid at time ti , its price is
+
+                                            n
+                                            X                        n
+                                                                     X
+                                 B=               Ci P(0, ti ) =               Ci e −R(ti )ti .
+                                            i=1                       i=1
+
+
+
+  Key principle
+  Each cash flow must be discounted using the zero rate for its own
+  maturity. Using one rate for every cash flow produces a yield measure, not
+  a no-arbitrage price from the zero curve.
+
+ES32079 Financial Derivatives (Lecture 3)           Interest rates and bonds                      Aliya Kenjegalieva   13 / 41
+                                               Bond Pricing
+
+
+
+ Pricing a Coupon Bond from Zero Rates
+
+  Consider a two-year bond with face value $100 and a 6% annual coupon
+  paid semiannually. Each coupon is $3.
+
+                              Time ti              0.5          1.0          1.5    2.0
+                            Cash flow Ci            3            3            3     103
+                             Zero rate            5.0%         5.8%         6.4%   6.8%
+
+  Assuming continuous compounding,
+
+                                  B = 3e −0.05×0.5 + 3e −0.058×1
+                                            + 3e −0.064×1.5 + 103e −0.068×2
+                                      = $98.39.
+
+
+
+ES32079 Financial Derivatives (Lecture 3)        Interest rates and bonds            Aliya Kenjegalieva   14 / 41
+                                            Bond Pricing
+
+
+
+ Bond Yield
+  The yield to maturity y is the single discount rate that reproduces the
+  observed bond price:
+                                     Xn
+                               B=        Ci e −yti .
+                                                    i=1
+  For the preceding bond,
+
+                          98.39 = 3e −0.5y + 3e −y + 3e −1.5y + 103e −2y .
+
+  Solving numerically gives
+                                                y ≈ 6.76% .
+
+  Do not confuse
+  The zero curve contains one rate for each maturity. Yield to maturity
+  compresses all of the bond’s cash flows and the observed price into one
+  internal rate of return.
+ES32079 Financial Derivatives (Lecture 3)     Interest rates and bonds   Aliya Kenjegalieva   15 / 41
+                                               Bond Pricing
+
+
+
+ Price, Coupon Rate, and Yield
+
+  For a standard fixed-rate bond:
+
+                                            Relationship               Bond price
+                                    Coupon rate > yield                Above par
+                                    Coupon rate = yield                 At par
+                                    Coupon rate < yield                Below par
+
+
+  Concept check
+  The example bond has a 6% coupon rate and a yield of approximately
+  6.76%. Should its price be above or below $100?
+
+  It should trade below par, consistent with its price of $98.39.
+
+
+ES32079 Financial Derivatives (Lecture 3)        Interest rates and bonds           Aliya Kenjegalieva   16 / 41
+                                            Bond Pricing
+
+
+
+ Par Yield
+  The par yield for maturity T is the coupon rate that makes a bond’s price
+  equal to its face value.
+  Let m be the number of coupon payments per year, let
+                                                    n
+                                                    X
+                                             A=            P(0, ti )
+                                                     i=1
+
+  be the present value of receiving $1 on every coupon date, and let
+  d = P(0, T ). For face value $100,
+                                 c
+                              A + 100d = 100.
+                                m
+  Therefore,
+                                    100m(1 − d)
+                               c=                .
+                                         A
+  Here c is the annual coupon in dollars on $100 face value, numerically
+  equal to the annual coupon rate in percent.
+ES32079 Financial Derivatives (Lecture 3)     Interest rates and bonds   Aliya Kenjegalieva   17 / 41
+                                               Bond Pricing
+
+
+
+ Par Yield: Numerical Example
+  For the two-year zero curve,
+
+                                            d = e −0.068×2 = 0.87284
+
+  and
+
+          A = e −0.05×0.5 + e −0.058×1 + e −0.064×1.5 + e −0.068×2 = 3.70027.
+
+  With two coupons per year,
+
+                                        100 × 2 × (1 − 0.87284)
+                                 c=                             = 6.87.
+                                                3.70027
+
+  Conclusion
+  The two-year par yield is approximately 6.87% per annum with semiannual
+  coupon payments.
+ES32079 Financial Derivatives (Lecture 3)        Interest rates and bonds   Aliya Kenjegalieva   18 / 41
+                                 Bootstrapping the Zero Curve
+
+
+
+ What Is Bootstrapping?
+
+
+  Zero rates can be inferred from prices of traded instruments.
+          A zero-coupon instrument reveals its maturity’s discount factor
+          directly.
+          A coupon bond contains several cash flows.
+          Once earlier discount factors are known, subtract the present value of
+          the earlier coupons and solve for the next discount factor.
+          Repeat sequentially along the maturity structure.
+
+  Why the name?
+  Each newly determined zero rate is used to obtain the next one.
+
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   19 / 41
+                                 Bootstrapping the Zero Curve
+
+
+
+ Bootstrap Data
+
+  All bonds have face value $100. Coupon-bearing bonds pay half the stated
+  annual coupon every six months.
+
+                       Maturity (years)              Annual coupon ($)        Price ($)
+                                 0.25                               0           97.5
+                                 0.50                               0           94.9
+                                 1.00                               0           90.0
+                                 1.50                               8           96.0
+                                 2.00                              12          101.6
+
+
+  Starting point
+  The first three instruments are zero-coupon bonds, so their zero rates can
+  be calculated directly.
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds      Aliya Kenjegalieva   20 / 41
+                                 Bootstrapping the Zero Curve
+
+
+
+ Bootstrap Step 1: Zero-Coupon Instruments
+
+
+  For a zero-coupon bond with price B, face value 100, and maturity T ,
+                                                           
+                        −R(T )T                   1     100
+               B = 100e          =⇒ R(T ) = ln                .
+                                                 T       B
+
+  Therefore,                                            
+                                           1        100
+                               R(0.25) =       ln          = 10.127%,
+                                         0.25       97.5
+                                                        
+                                           1        100
+                               R(0.50) =       ln          = 10.469%,
+                                         0.50       94.9
+                                                  
+                                              100
+                               R(1.00) = ln          = 10.536%.
+                                              90.0
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   21 / 41
+                                 Bootstrapping the Zero Curve
+
+
+
+ Bootstrap Step 2: The 1.5-Year Rate
+
+
+  The 1.5-year bond pays $4 after 0.5 years, $4 after one year, and $104
+  after 1.5 years. Let R(1.5) be the unknown zero rate:
+
+                    4e −0.10469×0.5 + 4e −0.10536×1 + 104e −1.5·R(1.5) = 96.
+
+  After subtracting the present value of the first two coupons,
+
+                                            e −1.5·R(1.5) = 0.85196.
+
+  Thus,
+                                                     ln(0.85196)
+                                  R(1.5) = −                     = 10.681% .
+                                                         1.5
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds    Aliya Kenjegalieva   22 / 41
+                                 Bootstrapping the Zero Curve
+
+
+
+ Bootstrap Step 3: The 2-Year Rate
+
+
+  The two-year bond pays semiannual coupons of $6. Let R(2) denote the
+  unknown two-year zero rate:
+
+                             101.6 = 6e −0.10469×0.5 + 6e −0.10536×1
+                                            + 6e −0.10681×1.5 + 106e −2×R(2) .
+
+  Solving gives
+                                                R(2) = 10.808% .
+
+  Check the method
+  Why could the two-year rate not be calculated before the 1.5-year rate?
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   23 / 41
+                                 Bootstrapping the Zero Curve
+
+
+
+ The Bootstrapped Zero Curve
+
+                   Maturity (years)              Continuously compounded zero rate
+                            0.25                                       10.127%
+                            0.50                                       10.469%
+                            1.00                                       10.536%
+                            1.50                                       10.681%
+                            2.00                                       10.808%
+
+
+  Between observed maturities
+  An interpolation method must be chosen. Linear interpolation of zero
+  rates is one simple classroom convention, but market curve construction
+  may instead interpolate discount factors, log discount factors, or forward
+  rates and may use more sophisticated smoothing methods.
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds      Aliya Kenjegalieva   24 / 41
+                                                Forward Rates
+
+
+
+ What Is a Forward Interest Rate?
+
+  A forward rate is the future interest rate implied today by current zero
+  rates.
+  If R1 and R2 are continuously compounded zero rates for maturities
+  T1 < T2 , no arbitrage requires
+
+                                            e R2 T2 = e R1 T1 e RF (T2 −T1 ) .
+
+  Hence,
+                                                                R2 T2 − R1 T1
+                                        RF (T1 , T2 ) =                       .
+                                                                   T2 − T1
+  Equivalently, using discount factors,
+
+                                                                    P(0, T2 )
+                                            e −RF (T2 −T1 ) =                 .
+                                                                    P(0, T1 )
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds       Aliya Kenjegalieva   25 / 41
+                                            Forward Rates
+
+
+
+ Forward-Rate Example
+
+  Suppose the continuously compounded zero rates are 3% for one year and
+  4% for two years. The one-year rate beginning one year from today is
+                                              0.04 × 2 − 0.03 × 1
+                                RF (1, 2) =                       = 5%.
+                                                     2−1
+  Both investment strategies therefore produce the same terminal value:
+
+                            100e 0.03×1 e 0.05×1 = 100e 0.04×2 = $108.33.
+
+  Interpretation
+  The 5% forward rate is implied by today’s curve. It is not a guarantee that
+  the one-year market rate observed in one year’s time will equal 5%.
+
+
+ES32079 Financial Derivatives (Lecture 3)      Interest rates and bonds   Aliya Kenjegalieva   26 / 41
+                                             Forward Rates
+
+
+
+ Forward Rates from a Zero Curve
+
+                      Year n         n-year zero rate          Forward rate for year n
+                          1                 3.0%                            —
+                          2                 4.0%                           5.0%
+                          3                 4.6%                           5.8%
+                          4                 5.0%                           6.2%
+                          5                 5.3%                           6.5%
+
+  For example, the year-four forward rate is
+                                             0.05 × 4 − 0.046 × 3
+                              RF (3, 4) =                         = 6.2%.
+                                                     4−3
+
+  Your turn
+  Use the zero rates to verify the 5.8% forward rate for year three.
+
+ES32079 Financial Derivatives (Lecture 3)       Interest rates and bonds          Aliya Kenjegalieva   27 / 41
+                                     Forward Rate Agreements
+
+
+
+ What Is a Forward Rate Agreement?
+
+  A forward rate agreement (FRA) is an over-the-counter contract that fixes
+  the interest rate applied to a notional principal during a future period
+  [T1 , T2 ].
+          The principal is normally not exchanged.
+          The parties exchange only an interest-rate difference.
+          One party receives fixed and pays the future market reference rate.
+          The other party pays fixed and receives the market rate.
+          Settlement normally occurs at T1 , so the T2 difference is discounted
+          back to T1 .
+
+  Economic purpose
+  A borrower can use an FRA to protect against rising rates; a lender can
+  use one to protect against falling rates.
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   28 / 41
+                                     Forward Rate Agreements
+
+
+
+ FRA Notation and Payoff
+  Define
+          L: notional principal;
+          RK : fixed rate agreed in the FRA;
+          RM : market reference rate observed at T1 ;
+          δ = T2 − T1 : year fraction for the underlying period.
+  For the party that receives fixed and pays floating, the cash flow at T2 is
+
+                                                  L(RK − RM )δ.
+
+  If settlement occurs at T1 , its value is
+
+                                                  L(RK − RM )δ
+                                                               .
+                                                    1 + RM δ
+
+  The opposite party receives the negative of this amount.
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   29 / 41
+                                     Forward Rate Agreements
+
+
+
+ FRA Example: Protecting a Lending Rate
+  A company enters an FRA to receive a fixed rate of 4% on $100 million for
+  a three-month period beginning in three years. Thus δ = 0.25.
+  If the market reference rate at T1 is 4.5%, the receive-fixed party’s cash
+  flow at T2 is
+
+                     100,000,000 × (0.04 − 0.045) × 0.25 = −$125,000.
+
+  Settled at T1 , the amount is
+                                         −125,000
+                                                       = −$123,609.
+                                      1 + 0.045 × 0.25
+
+  Interpretation
+  The FRA loss offsets the benefit of being able to lend at the higher market
+  rate. Together, the loan and FRA lock in approximately 4%.
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   30 / 41
+                                     Forward Rate Agreements
+
+
+
+ Which Side of the FRA?
+
+  For each exposure, decide whether the firm should pay fixed or receive
+  fixed.
+      1   A company will borrow £10 million in six months and fears that rates
+          will rise.
+      2   An investor will lend £10 million in six months and fears that rates
+          will fall.
+  Answer
+   1 The future borrower should pay fixed and receive floating. If rates
+
+      rise, the FRA gain offsets the higher borrowing cost.
+      2   The future lender should receive fixed and pay floating. If rates
+          fall, the FRA gain offsets the lower lending income.
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   31 / 41
+                                       Duration and Convexity
+
+
+
+ Bond Price as a Function of Yield
+
+  Using a continuously compounded yield y ,
+
+                                                             n
+                                                             X
+                                               B(y ) =             Ci e −yti .
+                                                             i=1
+
+
+  Differentiating,
+                                                         n
+                                            dB    X
+                                               =−   ti Ci e −yti < 0.
+                                            dy
+                                                        i=1
+
+  Therefore, bond price and yield move in opposite directions.
+  Prediction
+  Which should be more sensitive to a rate change: a two-year zero-coupon
+  bond or a ten-year zero-coupon bond? Why?
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds      Aliya Kenjegalieva   32 / 41
+                                       Duration and Convexity
+
+
+
+ Macaulay Duration under Continuous Compounding
+
+  Duration is a present-value-weighted average payment time:
+
+                                                            n
+                                                 1 X
+                                              D=     ti Ci e −yti .
+                                                 B
+                                                          i=1
+
+
+  The weight of cash flow i is
+                                                                     n
+                                               Ci e −yti             X
+                                       wi =              ,                    wi = 1,
+                                                  B
+                                                                      i=1
+               P
+  so D =           i ti wi .
+          A zero-coupon bond’s duration equals its maturity.
+          A coupon bond’s duration is shorter than its maturity because some
+          cash flows arrive earlier.
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds             Aliya Kenjegalieva   33 / 41
+                                       Duration and Convexity
+
+
+
+ Duration and Price Sensitivity
+  Because
+                                                     dB
+                                                        = −BD,
+                                                     dy
+  a small yield change ∆y produces
+
+                                                   ∆B
+                                                      ≈ −D∆y .
+                                                   B
+
+
+  Units matter
+  One basis point is
+                                            1 bp = 0.01% = 0.0001.
+  A 10-basis-point increase means ∆y = +0.001, not 0.1.
+
+  Longer duration means greater percentage price sensitivity to the same
+  small change in yield.
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   34 / 41
+                                       Duration and Convexity
+
+
+
+ Duration Example
+
+  Consider a three-year, 10% coupon bond paying semiannually. Its
+  continuously compounded yield is 12%.
+
+                            Time        Cash flow         Present value       ti ×weight
+                              0.5                  5                  4.709       0.025
+                              1.0                  5                  4.435       0.047
+                              1.5                  5                  4.176       0.066
+                              2.0                  5                  3.933       0.083
+                              2.5                  5                  3.704       0.098
+                              3.0                105                 73.256       2.333
+                            Total                130                 94.213       2.653
+
+  Thus B = 94.213 and D = 2.653 years.
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds          Aliya Kenjegalieva   35 / 41
+                                       Duration and Convexity
+
+
+
+ Using Duration to Estimate a Price Change
+  Suppose the yield rises by 10 basis points:
+
+                                                   ∆y = +0.001.
+
+  Duration predicts
+                                 ∆B
+                                    ≈ −2.653 × 0.001 = −0.002653,
+                                 B
+  so
+                            ∆B ≈ −94.213 × 2.653 × 0.001 = −0.250.
+  The estimated new price is
+
+                                            94.213 − 0.250 = 93.963.
+
+  Direct repricing at y = 12.1% gives approximately 93.963, so duration is
+  very accurate for this small change.
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   36 / 41
+                                       Duration and Convexity
+
+
+
+ Why Duration Is Only an Approximation
+
+
+  Duration replaces the curved price-yield relationship with a tangent line.
+          It is accurate for small yield changes.
+          Its error grows as the yield change becomes larger.
+          For an ordinary option-free bond, the true price-yield relationship is
+          convex.
+
+     Yield increase             Exact price           Duration estimate                Error
+           10 bp                    93.963                      93.963        approximately 0.000
+           100 bp                   91.749                      91.714               0.035
+           200 bp                   89.354                      89.214               0.140
+
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds      Aliya Kenjegalieva   37 / 41
+                                       Duration and Convexity
+
+
+
+ Convexity
+
+
+  Convexity measures the curvature of the price-yield relationship:
+
+                                                                    n
+                                              1 d 2B   1 X 2 −yti
+                                     C=              =    t i Ci e .
+                                              B dy 2   B
+                                                                   i=1
+
+
+  The second-order approximation is
+
+                                            ∆B         1
+                                               ≈ −D∆y + C (∆y )2 .
+                                            B          2
+
+  For the example bond,
+                                                     C = 7.570.
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   38 / 41
+                                       Duration and Convexity
+
+
+
+ Duration Plus Convexity
+
+  For a 100-basis-point yield increase, ∆y = 0.01. The duration-convexity
+  estimate is
+                          ∆B                  1
+                             ≈ −2.653 × 0.01 + × 7.570 × (0.01)2 .
+                          B                   2
+  Therefore,
+
+                 Bestimated = 94.213 [1 − 0.02653 + 0.0003785] = 91.749.
+
+  The exact repriced value is also approximately 91.749, compared with the
+  duration-only estimate of 91.714.
+  Interpretation
+  Convexity corrects much of the error created by the linear duration
+  approximation.
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   39 / 41
+                                       Duration and Convexity
+
+
+
+ Duration, Convexity, and Immunisation
+
+
+  Matching the duration of assets and liabilities can reduce sensitivity to
+  small parallel yield-curve shifts.
+          Convexity improves protection against larger parallel shifts.
+          Duration and convexity change as time passes and yields move.
+          Matching them does not eliminate exposure to non-parallel curve
+          movements.
+          Credit spreads, liquidity, optionality, and model risk may remain.
+
+  Risk-management lesson
+  Duration and convexity describe particular dimensions of interest-rate risk;
+  they do not make a portfolio riskless.
+
+
+
+ES32079 Financial Derivatives (Lecture 3)          Interest rates and bonds   Aliya Kenjegalieva   40 / 41
+                                            Summary
+
+
+
+ Lecture Summary
+          Interest-rate quotations require a compounding convention.
+          Zero rates discount individual cash flows at their respective maturities.
+          Bond yield is a single internal rate; par yield is the coupon rate that
+          makes a bond trade at par.
+          Bootstrapping extracts discount factors sequentially from market
+          prices.
+          Forward rates are implied by today’s zero curve.
+          FRAs fix a rate for a future borrowing or lending period.
+          Duration measures first-order price sensitivity; convexity provides a
+          second-order correction.
+  Unifying idea
+  Represent every instrument as dated cash flows, discount those cash flows
+  consistently, and then examine how the value changes when rates move.
+ES32079 Financial Derivatives (Lecture 3)   Interest rates and bonds   Aliya Kenjegalieva   41 / 41
+

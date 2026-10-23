@@ -1,0 +1,88 @@
+                     ES32079 Financial Derivatives
+                            Problem Set 2
+
+
+
+Question 1
+Differentiate between forward, futures, and options contracts in terms of:
+    Standardization
+
+    Settlement
+
+    Credit risk
+
+    Typical market participants
+
+
+Question 2
+A manufacturing company uses large quantities of copper in its production process and is
+concerned about rising copper prices over the next six months.
+    What derivative instrument could the company use to hedge this price risk?
+
+    Would it take a long or short position?
+
+    Identify one potential risk that remains even after hedging.
+
+
+Question 3
+A non-dividend-paying stock is currently priced at $50. The risk-free rate is 6% per annum,
+with continuous compounding.
+
+    Calculate the 6-month forward price for the stock.
+
+    If the time to maturity were instead 1 year, what would the forward price be?
+
+
+Question 4
+Explain briefly why the forward price may differ from the expected future spot price. Which
+forces ensure that the forward price is not arbitrageable?
+
+                                               1
+Question 5
+The current futures price for a Treasury bond deliverable in 3 months is 101.50. The bond’s
+coupon is 6% per annum, with semiannual payments, and the next coupon is due in 4 months.
+The risk-free rate is 5% (continuous compounding).
+
+    Explain qualitatively what factors might cause the current futures price (101.50) to be
+     higher or lower than the current spot price of the bond.
+
+    How might the timing of the next coupon payment affect the relationship between the
+     spot price and the futures price?
+
+    If the bond were zero-coupon, would you expect the futures price to be higher or lower
+     than the spot price? Briefly explain.
+
+
+Question 6
+Define the following terms clearly:
+    Spot rate
+
+    Forward rate
+
+    Par yield
+
+    Zero-coupon rate
+
+Briefly describe how these rates differ from one another in interpretation or use.
+
+
+Question 7
+You observe the following Treasury bond data:
+
+          Maturity (years)      Coupon Rate (annual)         Price per 100 par
+                  0.5                       0%                       97.00
+                  1.0                       6%                      101.50
+                  1.5                       8%                      104.00
+
+   Assume annual coupon payments.
+
+    Compute the 0.5-year zero rate.
+
+    Using that, estimate the 1-year zero rate.
+
+    Briefly explain what the next step would be if we wanted to extend the zero curve to
+     longer maturities.
+
+
+                                              2
+

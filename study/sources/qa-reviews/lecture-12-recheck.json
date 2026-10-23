@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "reviewer": "g005-source-qa-lecture12",
+  "reviewedAt": "2026-10-22T14:21:07.063549+00:00",
+  "verdict": "approved",
+  "resolvedFindings": [
+    {
+      "path": "study/sources/annotated/lecture-1/page-037.md",
+      "anchor": "lecture-1-p037-call-break-even-question",
+      "previousReviewedHash": "693501ad97759f11ae1a97848225b2a4f1367734532883aa1f573f744dd4acda",
+      "currentHash": "55a7e5de9d125e2f3825c35cda2e106079d21208ae11899da37509104b5433b1",
+      "verdict": "resolved",
+      "method": "Independently read complete corrected page and anchored span, re-viewed original production image, checked retention before next anchor."
+    },
+    {
+      "path": "study/sources/annotated/lecture-1/page-027.md",
+      "anchor": "lecture-1-p027-paired-long-diagram",
+      "previousReviewedHash": "72ef6d5410bb266f645c56ddf5cf894ccf6812943dcc06779f6f003a147fce28",
+      "currentHash": "c54481eaa774c1267b0f8fcf34ad663549d47253001df155a4a3d52d2344fffb",
+      "verdict": "resolved",
+      "method": "Independently read complete corrected page and anchored span, re-viewed original production image, checked retention before next anchor."
+    },
+    {
+      "path": "study/sources/annotated/lecture-2/page-007.md",
+      "anchor": "lecture-2-p007-arbitrage-trade",
+      "previousReviewedHash": "839701a6d837159cc9318d7725d6558b2a38d761933e4bf76f3e95f9eca648b9",
+      "currentHash": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+      "verdict": "resolved",
+      "method": "Independently read complete corrected page and anchored span, re-viewed original production image, checked retention before next anchor."
+    },
+    {
+      "path": "study/sources/annotated/lecture-2/page-024.md",
+      "anchor": "lecture-2-p024-target-beta-formula",
+      "previousReviewedHash": "4b4e1f4dfdd9c8bf72581860525c149ee59317ccba0066ca8a309ba48cc83548",
+      "currentHash": "4fd32fbb6c6eb16c130ac748534558e3db58641bb6285d39c7eb77cf2047f970",
+      "verdict": "resolved",
+      "method": "Independently read complete corrected page and anchored span, re-viewed original production image, checked retention before next anchor."
+    },
+    {
+      "path": "study/sources/annotated/lecture-2/page-024.md",
+      "anchor": "lecture-2-p024-beta-neutral-special-case",
+      "previousReviewedHash": "4b4e1f4dfdd9c8bf72581860525c149ee59317ccba0066ca8a309ba48cc83548",
+      "currentHash": "4fd32fbb6c6eb16c130ac748534558e3db58641bb6285d39c7eb77cf2047f970",
+      "verdict": "resolved",
+      "method": "Independently read complete corrected page and anchored span, re-viewed original production image, checked retention before next anchor."
+    },
+    {
+      "path": "study/sources/annotated/lecture-2/page-007.md",
+      "anchor": "lecture-2-p007-cross-market-quotes",
+      "previousReviewedHash": "839701a6d837159cc9318d7725d6558b2a38d761933e4bf76f3e95f9eca648b9",
+      "currentHash": "55e1eba90de706e031a789fe60f70aa10760944c61d97c55315ee53fb718f9de",
+      "verdict": "resolved",
+      "method": "Independently read complete corrected page and anchored span, re-viewed original production image, checked retention before next anchor."
+    }
+  ],
+  "draftHashes": {
+    "lecture-1": "dd37325de357594cd492feda0f85b5b1af78375c3976263db4df21479b6f97d6",
+    "lecture-2": "0397a441ddb1f37f80048d59bffb53cd9dab58a972570658ea0ca40636f755f7"
+  },
+  "scope": "All67 original images previously viewed separately and frozen; all67 raw/normalized pages and262 proposed units reviewed. All4 changed full pages independently reread and their images viewed again. This is source-conversion approval only, not teaching or mastery."
+}
