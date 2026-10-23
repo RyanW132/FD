@@ -1,2 +1,10 @@
 node_modules/
+.omx/
 .DS_Store
+.omx-state-locks/
+.omx-state-locks.identity.json
+study/private/
+study/generated/
+__pycache__/
+*.pyc
+.resume/audit/
