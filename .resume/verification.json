@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-23",
+  "phase": "pre-push-local-backup-verification",
+  "localBackupVerdict": "PASS",
+  "remotePush": "Not asserted by this pre-push report; final delivery must verify the actual remote commit",
+  "studyGoal": "PAUSED; study completion and release readiness are not asserted",
+  "manifestSHA256": "2973a168f75835c1cc49ae2fb6092ee46ce86173a58602cd8ca6a602ef5b10e9",
+  "production": {
+    "manifestShape": {
+      "pass": true,
+      "archives": 4,
+      "parts": 8,
+      "members": 4385,
+      "protected": 129,
+      "requiredCriticalPaths": 11,
+      "liveAuthorityTargets": 0
+    },
+    "archiveHashesAndScan": {
+      "pass": true,
+      "files": 4147,
+      "uncompressedBytes": 564128595,
+      "findings": []
+    },
+    "restore": {
+      "restoredEntries": 4385,
+      "archives": 4,
+      "tools": "quarantined under .resume/audit/omx-tools; never automatically executed"
+    },
+    "postRestoreDisk": {
+      "pass": true,
+      "fileHashes": 4147,
+      "symlinks": 10,
+      "liveAuthorityAbsent": true,
+      "liveToolsAbsent": true
+    },
+    "idempotent": {
+      "pass": true,
+      "restoredEntries": 0
+    },
+    "refuseChangedExisting": {
+      "pass": true,
+      "sentinelPreserved": true
+    },
+    "refuseCaseAlias": {
+      "pass": true,
+      "noTargetWrites": true
+    },
+    "refuseSymlinkAncestor": {
+      "pass": true,
+      "outsideUntouched": true
+    },
+    "refuseCorruptPart": {
+      "pass": true,
+      "noTargetWrites": true
+    }
+  },
+  "initialWorkingTreeScan": {
+    "files": 4859,
+    "bytes": 605019171,
+    "knownSecretFormatFindings": 0
+  },
+  "additionalNormalGitFileScan": {
+    "files": 853,
+    "knownSecretFormatFindings": 0
+  },
+  "protectedOriginals": 13,
+  "protectedPilotFiles": 116,
+  "pilotAggregateSHA256": "574b07e5b64153fcb82bd7c072691a3e56661eeb0364e7367f0f5a8960f50c04",
+  "helperRegressionTests": {
+    "pass": 8,
+    "fail": 0,
+    "elapsedSeconds": 8.676
+  },
+  "candidateGitObjectBytes": {
+    "candidateIndex": ".git/fd-handoff-candidate-b6a3ae8f03f14857895d8a33cc779e73.index",
+    "tree": "a57736f7d57abfa0c4dd91aa3abd985b19eefca9",
+    "files": 859,
+    "bytes": 534336128,
+    "byteMismatches": [],
+    "excludesFinalAuditOutputs": true,
+    "checkedAt": 1792762816.8566625
+  },
+  "actualGitCheckoutBytes": {
+    "phase": "independent-actual-git-checkout-byte-audit",
+    "files": 859,
+    "bytes": 534336128,
+    "mismatches": [],
+    "autocrlfTrueCheckout": "Git master ran checkout-index with explicit -c core.autocrlf=true; this verifier independently read and hashed both copies",
+    "noGitMutations": true,
+    "checkedAt": 1792762932.5119343
+  },
+  "handoff": {
+    "path": "HANDOFF.md",
+    "sha256": "424660bbfdff6c7d9894e55002e5d29f92b49f79a67835c902d4561765aa3f82",
+    "localMarkdownReferences": 26,
+    "missingReferences": [],
+    "draftLessons": 44,
+    "draftConcepts": 16,
+    "mappedPrimaryUnits": 371,
+    "canonicalTeachingRecords": 0,
+    "canonicalReviews": 0,
+    "coveragePending": 6476
+  },
+  "scopeDeviation": {
+    "description": "The verifier used git write-tree once to query the already-existing temporary candidate-index tree ID; this command can touch cache/tree-object metadata and exceeded strict read-only Git intent. No primary-index/branch/commit/source operation was used. Parent and Git master were notified; Git master owns final index/branch revalidation.",
+    "temporaryCandidateTreeReturned": "a57736f7d57abfa0c4dd91aa3abd985b19eefca9",
+    "noRollbackOrObjectDeletionAttempted": true
+  },
+  "limits": [
+    "Pattern scans are not a universal proof that arbitrary text contains no secret or personal data",
+    "Public backup archives are not encrypted or confidential; the user explicitly authorized public source/extraction backup",
+    "Tool quarantine is non-autoexecution guidance, not OS-enforced nonexecution/privacy on Windows-mounted WSL",
+    "The helper is not an atomic filesystem transaction and is not authentication against a malicious owner replacing code and manifest together",
+    "The 859-file candidate audits exclude later standalone verification/review metadata; Git master must stage and byte-check those final files",
+    "No study feature work, full application acceptance, new-laptop execution or remote push success is asserted by this report"
+  ],
+  "probeOwner": {
+    "path": "/tmp/fd-handoff-verifier-f29xtur4",
+    "dev": "71",
+    "ino": "17396"
+  },
+  "verifiedAtEpoch": 1792763053.8775916,
+  "probeCleanup": {
+    "exactOwnedTemporaryTreeRemoved": true,
+    "otherGitRoundtripTreeUntouched": true
+  }
+}

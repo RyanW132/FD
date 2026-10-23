@@ -1,0 +1,8 @@
+{
+  "method": "temporary Git index checkout-index with core.autocrlf=true and committed * -text attributes",
+  "candidateTree": "a57736f7d57abfa0c4dd91aa3abd985b19eefca9",
+  "files": 859,
+  "bytes": 534336128,
+  "mismatches": [],
+  "primaryIndexUntouched": true
+}
