@@ -6,6 +6,7 @@
     "marked": "18.1.1"
   },
   "scripts": {
+    "start": "node scripts/study-start.mjs",
     "study-inventory": "node scripts/study-inventory.mjs",
     "study-validate": "node scripts/study-validate.mjs",
     "study-check": "node scripts/study-check.mjs",

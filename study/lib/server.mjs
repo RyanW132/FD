@@ -1,5 +1,5 @@
 import http from 'node:http';
-import { readGeneration } from './publication.mjs';
+import { readGeneration, readCurrentDigest } from './publication.mjs';
 import { uiMembers } from './ui-bundle.mjs';
 
 const securityHeaders=Object.freeze({
@@ -46,8 +46,10 @@ export async function startStudyServer(root,{port=4173}={}){
     return pending.get(digest);
   }
   async function refresh(){
+    // Generations are immutable and fully verified on admission, so an unchanged
+    // pointer reuses that verified snapshot instead of re-hashing every member.
     if(!refreshing)refreshing=(async()=>{
-      try{current=admit(await readGeneration(root));currentError=false;}
+      try{current=await load(await readCurrentDigest(root));currentError=false;}
       catch{currentError=true;if(!current)throw Error('No verified current generation');}
     })().finally(()=>{refreshing=undefined;});
     await refreshing;
@@ -64,6 +66,8 @@ export async function startStudyServer(root,{port=4173}={}){
     if(!['GET','HEAD'].includes(request.method))return respond(request,response,405,'Method not allowed',{Allow:'GET, HEAD'});
     if(request.headers.upgrade!==undefined||request.headers['transfer-encoding']!==undefined||request.headers['content-length']!==undefined&&request.headers['content-length']!=='0')return respond(request,response,400,'Bad request');
     if(!targetValid(request.url))return respond(request,response,400,'Bad request');
+    // Browsers request an icon automatically; the fixed bootstrap HTML declares none.
+    if(request.url==='/favicon.ico')return respond(request,response,204,'');
     if(request.url==='/'||request.url==='/status.json'){
       await refresh();const generation=current.generation;
       if(request.url==='/status.json')return respond(request,response,200,JSON.stringify({ok:true,digest:generation.digest,builderVersion:generation.builderVersion,draft:generation.catalog.draft,currentError,usingLastGood:currentError}),{'Content-Type':'application/json'});
@@ -92,7 +96,9 @@ export async function startStudyServer(root,{port=4173}={}){
   server.on('checkContinue',(request,response)=>respond(request,response,400,'Bad request'));
   server.on('checkExpectation',(request,response)=>respond(request,response,400,'Bad request'));
   function rejectSocket(socket){if(seenSockets.has(socket))return socket.destroy();seenSockets.add(socket);if(!socket.writable)return socket.destroy();const headers=Object.entries(securityHeaders).map(([name,value])=>`${name}: ${value}\r\n`).join('');socket.end(`HTTP/1.1 400 Bad Request\r\n${headers}Cache-Control: no-store\r\nContent-Length: 11\r\nContent-Type: text/plain\r\nConnection: close\r\n\r\nBad request`);}
-  server.on('clientError',(_error,socket)=>rejectSocket(socket));server.on('connect',(_request,socket)=>rejectSocket(socket));server.on('upgrade',(_request,socket)=>rejectSocket(socket));
+  // A preconnected socket that times out before sending any bytes is closed
+  // silently: writing a 400 there can race a browser's first request on it.
+  server.on('clientError',(_error,socket)=>{if(socket.bytesRead===0)socket.destroy();else rejectSocket(socket);});server.on('connect',(_request,socket)=>rejectSocket(socket));server.on('upgrade',(_request,socket)=>rejectSocket(socket));
   await new Promise((resolve,reject)=>{server.once('error',()=>reject(Error('Unable to listen on study server port')));server.listen(port,'127.0.0.1',resolve);});
   let closing;
   return Object.freeze({port,origin,close(){

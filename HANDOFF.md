@@ -1,5 +1,17 @@
 # FD implementation handoff
 
+## Update — 23 October 2026, resumed on macOS
+
+The user resumed the work and re-prioritized: **a usable browser reader first**, with the remaining reviews and acceptance tests afterwards. Everything below this section is the earlier paused snapshot; where they disagree, this section is current.
+
+- **Restore:** all 4,147 archived files, 13 originals and 116 pilot files matched their manifest hashes (read-only comparison; the host blocked running `transfer.py`). `npm ci --ignore-scripts` installed the exact pins.
+- **G006 authoring finished:** `g006-l4-slice5-report.md` written; the two final L4 lessons authored with a sixth fragment block, checks and `g006-l4-slice6-report.md`. 46/46 lessons and 16 concepts; all 385 substantive lecture units mapped once.
+- **Draft canonical integration (user-directed):** `study/curriculum.json` now holds the `proposal-04` candidate (46 lessons, 16 concepts, 92 outcomes, 335 exercises) with every `reviewId` set to `null`. Coverage, reviews and sources are unchanged (all coverage pending). The integration helper now refuses to run against this non-empty baseline by design; future review should bind the canonical draft bytes directly.
+- **Reader:** `study/app/{app.mjs,index.html,styles.css}` added in the trusted v3 dialect; `state.mjs` gained `downloadState()`. `npm run start` (`scripts/study-start.mjs`) publishes a v3 draft preview and serves `http://127.0.0.1:4173/`. `study-build --builder-version=3` and `study-validate --graph --preview-draft` were added.
+- **Fixes found by real use:** `policy.mjs` lineage indexed and memoized, so draft publication takes about 28 s instead of not finishing; anchor scans cached. `server.mjs` reuses the verified snapshot for an unchanged pointer (status poll 3.6 s → 2 ms), closes idle preconnected sockets silently instead of a racy 400, and returns 204 for `/favicon.ico`.
+- **Evidence:** full suite 702 tests: 698 pass, 1 skip, 3 known macOS host failures (Linux descriptor filesystem; case-sensitive fixture parent). Headless Chrome journey (isolated profile): 25/25 checks, including 226 MathML formulas without fallback, rail with source image, notes surviving reload, zero non-local requests. Report: `.omx/artifacts/g007-reader-app/REPORT.md`.
+- **Still required:** genuine independent teaching review (G006 step 2) and normal reviewed publication; G007 accessibility/assistive-technology, state-failure and hostile-content acceptance through the browser; independent review of the reader and of the policy/server changes; G008 release gates.
+
 **Snapshot: 23 October 2026. Study goal: PAUSED at the user's request.** This is a continuation handoff, not a release or a request to restart planning. The user requested a GitHub backup so another session/laptop can finish the implementation. Do not resume feature work until the user resumes the goal.
 
 ## Start here

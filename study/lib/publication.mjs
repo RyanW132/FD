@@ -140,9 +140,16 @@ async function validateV3Generation(manifest,files,catalog,report){
   const {validateReader}=await import('./reader.mjs');
   validateReader(JSON.parse(files.get('reader.json')),{catalog,inputDigest:manifest.inputDigest,draft:manifest.mode==='draft',files});
 }
+// Reads only the current pointer; the generation it names is verified separately.
+export async function readCurrentDigest(root){
+  const generated=path.join(root,'study/generated');if((await lstat(generated)).isSymbolicLink())throw Error('Generated symlink');
+  const p=JSON.parse(await readPlain(generated,'current.json'));if(Object.keys(p).sort().join(',')!=='digest,schemaVersion'||p.schemaVersion!==1)throw Error('Invalid pointer');
+  if(!digestPattern.test(p.digest))throw Error('Invalid generation digest');
+  return p.digest;
+}
 export async function readGeneration(root,digest){
   const generated=path.join(root,'study/generated');if((await lstat(generated)).isSymbolicLink())throw Error('Generated symlink');
-  if(digest===undefined){const p=JSON.parse(await readPlain(generated,'current.json'));if(Object.keys(p).sort().join(',')!=='digest,schemaVersion'||p.schemaVersion!==1)throw Error('Invalid pointer');digest=p.digest;}
+  if(digest===undefined)digest=await readCurrentDigest(root);
   if(!digestPattern.test(digest))throw Error('Invalid generation digest');
   const base=path.join(generated,digest);if((await lstat(base)).isSymbolicLink())throw Error('Generation symlink');
   const raw=await readPlain(base,'manifest.json'),manifest=JSON.parse(raw);

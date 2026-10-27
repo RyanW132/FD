@@ -128,7 +128,9 @@ async function openLearnerState(options={}){
   function exportRaw(){return raw;}
   function exportRecovery(){return JSON.stringify({schemaVersion:1,kind:'fd-recovery',stored,memory:snapshot(),status:status()});}
   function downloadRecovery(){const objectURL=URL.createObjectURL(new Blob([exportRecovery()],{type:'application/json'}));return {href:objectURL,revoke:()=>URL.revokeObjectURL(objectURL)};}
+  // Learner-owned schema1 state only (this tab's current version), never course content.
+  function downloadState(){const objectURL=URL.createObjectURL(new Blob([exportRaw()],{type:'application/json'}));return {href:objectURL,revoke:()=>URL.revokeObjectURL(objectURL)};}
   function close(){if(db)db.close();mode='closed';}
-  return Object.freeze({status,edit,save,checkpointDraft,checkpoint,applyImport,exportRaw,exportRecovery,downloadRecovery,close});
+  return Object.freeze({status,edit,save,checkpointDraft,checkpoint,applyImport,exportRaw,exportRecovery,downloadRecovery,downloadState,close});
 }
 export {DATABASE,LIMITS,emptyState,validateState,previewImport,openLearnerState};

@@ -4,7 +4,7 @@
 
 Use the exact versioned records and closed references enforced by [the executable contracts](../lib/contracts.mjs). The tracked [source contract](source.md) maps canonical roots and references; this prose explains semantics, not a second JSON schema. Production `study/curriculum.json` owns lectures, lessons, concepts, outcomes, exercises and nonderived links; source coverage, reviews and exposure exceptions remain separate canonical resources. IDs are stable independently of title/order; a future rename/removal needs aliases/migration and recoverable orphan learner notes, not silent reassignment.
 
-Production curriculum is currently pending/empty. The independently reviewed pilot lesson remains provisional; its metadata is not silently imported or counted as production readiness.
+Production curriculum currently holds the 46 planned lessons and 16 concepts as unreviewed drafts (`reviewId: null`); every coverage record stays pending, so none is taught coverage. The independently reviewed pilot lesson remains provisional; its metadata is not silently imported or counted as production readiness.
 
 ## Lessons and outcomes
 
@@ -16,7 +16,7 @@ Coverage records must distinguish pending, taught, reference-only, excluded and 
 
 ## Knowledge graph and complete retrieval
 
-The query/read/graph CLI is implemented; see root [README](../../README.md) for commands and continuation. It selects agent-channel-permitted content from validated captured canonical bytes. Production now includes independently verified lecture source units, but zero teaching lessons. Unknown transcript/textbook lineage is omitted; missing results are not evidence of complete conversion. Canonical Markdown and records remain authoritative; never edit a generated graph as the source of truth.
+The query/read/graph CLI is implemented; see root [README](../../README.md) for commands and continuation. It selects agent-channel-permitted content from validated captured canonical bytes. Production now includes independently verified lecture source units and unreviewed draft lessons, which are selected only with explicit `--preview-draft`. Unknown transcript/textbook lineage is omitted; missing results are not evidence of complete conversion. Canonical Markdown and records remain authoritative; never edit a generated graph as the source of truth.
 
 Graph shape checks in [the executable contracts](../lib/contracts.mjs) specify typed nodes/edges and evidence; the policy-approved projection derives metadata nodes and edges without feeding raw canonical content into the knowledge builder. Nodes represent source/unit/lecture/lesson/concept/outcome and carry a resolvable reference, summary, tags and revision. Edges distinguish contains/teaches/covers/cites/requires/uses/related/contradicts/exemplifies with evidence, source-or-pedagogical basis, reason and review binding. Curriculum prerequisites own dependent-to-prerequisite `requires`; they form a DAG with prerequisites earlier in order. Outcome concepts own `uses`; other structural edges derive from matching records. General `related`/`contradicts` relationships may cycle and must not become implicit prerequisites. Nonderived pedagogical links require explicit rationale and independent review, not fabricated source assertions.
 

@@ -4,8 +4,12 @@ import { sourceQARevision } from './source-qa.mjs';
 import { sha256, isPrivatePath, resolveCapturedReference, exposureDigestCaptured, projectFiles, validateCapturedProject } from './contracts.mjs';
 const key=ref=>JSON.stringify(ref);
 export const isDraftFreshnessError=error=>error.code==='REVIEW_REJECTED'||error.code==='STALE_REVIEW'&&['Review input bytes changed','Subject review is not current'].includes(error.message);
+// Explicit-anchor positions are a pure function of the decoded text; a bounded
+// cache avoids rescanning the same lesson/page once per anchored candidate.
+const anchorMatches=new Map();
 export function anchoredBytes(bytes,anchor){
-  const text=decodeUtf8(bytes),matches=[...text.matchAll(/<(?:a|span|h[1-6])\b[^>]*\bid=["']([^"']+)["'][^>]*>/gi)];
+  const text=decodeUtf8(bytes);let matches=anchorMatches.get(text);
+  if(!matches){matches=[...text.matchAll(/<(?:a|span|h[1-6])\b[^>]*\bid=["']([^"']+)["'][^>]*>/gi)].map(m=>({1:m[1],index:m.index}));if(anchorMatches.size>=1024)anchorMatches.clear();anchorMatches.set(text,matches);}
   const i=matches.findIndex(m=>m[1]===anchor);if(i<0)throw Error('Missing anchor');
   const end=matches[i+1]?.index??text.length;
   return Buffer.from(text.slice(matches[i].index,end));
@@ -25,16 +29,35 @@ export async function selectPublication(capture,{channel='browser',draft=false}=
     return matches.length===1?matches[0]:undefined;
   }
   const assetOwners=new Map(),ownerAssets=new Map();
+  // Lookup indexes over the immutable captured records, in original iteration
+  // order, so lineage need not rescan every unit/candidate at each step.
+  const unitsBySpan=new Map(),candidatesByPath=new Map(),fileCandidatesByPath=new Map();
+  for(const other of Object.values(c.units??{}))if(other.extractionRef){
+    const anchors=unitsBySpan.get(other.extractionRef.path)??new Map();unitsBySpan.set(other.extractionRef.path,anchors);
+    const list=anchors.get(other.extractionRef.anchor)??[];list.push(other);anchors.set(other.extractionRef.anchor,list);
+  }
+  for(const candidate of candidates){
+    for(const [index,include]of [[candidatesByPath,true],[fileCandidatesByPath,candidate.ref.kind==='file']])if(include){const list=index.get(candidate.ref.path)??[];list.push(candidate);index.set(candidate.ref.path,list);}
+  }
   function privateOrigin(item){return !!item&&(isPrivatePath(item.path)||isPrivatePath(item.extractionRef?.path)||isPrivatePath(item.promptRef?.path)||isPrivatePath(item.answerRef?.path)||(item.evidenceRefs??[]).some(ref=>isPrivatePath(ref.path))||[...ownerAssets.get(item)??[]].some(isPrivatePath));}
-  function lineage(item,seen=new Set()){
+  // A top-level closure depends only on immutable records and the asset maps,
+  // which are complete before the first call. Callers receive copies because
+  // some extend the returned sets; nested walks keep their shared cycle guard.
+  const lineageCache=new Map();
+  function lineage(item){
+    let cached=lineageCache.get(item);
+    if(!cached){cached=walk(item,new Set());lineageCache.set(item,cached);}
+    return {units:new Set(cached.units),unknown:cached.unknown,private:cached.private};
+  }
+  function walk(item,seen){
     if(!item||seen.has(item))return {units:new Set(),unknown:!item,private:privateOrigin(item)};seen.add(item);
     const out={units:new Set(),unknown:false,private:privateOrigin(item)};
     function merge(x){for(const id of x.units)out.units.add(id);out.unknown ||= x.unknown;out.private ||= x.private;}
     function addUnit(id){
       const unit=c.units?.[id];if(!unit){out.unknown=true;return;}
-      const peers=Object.values(c.units).filter(other=>other.id===id||unit.extractionRef&&other.extractionRef?.path===unit.extractionRef.path&&other.extractionRef?.anchor===unit.extractionRef.anchor);
-      for(const peer of peers){out.units.add(peer.id);if(peer.status!=='verified'||peer.classification==='unknown')out.unknown=true;if(peer!==item)merge(lineage(peer,seen));}
-      if(unit.extractionRef)for(const owner of candidates.filter(candidate=>candidate.ref.kind==='file'&&candidate.ref.path===unit.extractionRef.path))merge(lineage(owner.owner,seen));
+      const peers=unit.extractionRef?unitsBySpan.get(unit.extractionRef.path).get(unit.extractionRef.anchor):[unit];
+      for(const peer of peers){out.units.add(peer.id);if(peer.status!=='verified'||peer.classification==='unknown')out.unknown=true;if(peer!==item)merge(walk(peer,seen));}
+      if(unit.extractionRef)for(const owner of fileCandidatesByPath.get(unit.extractionRef.path)??[])merge(walk(owner.owner,seen));
     }
     if(item.sourceId&&c.units?.[item.id]===item)addUnit(item.id);
     if(c.sources?.[item.id]===item||item.sourceId&&c.lectures?.[item.id]===item){
@@ -43,17 +66,17 @@ export async function selectPublication(capture,{channel='browser',draft=false}=
       if(!units.length)out.unknown=true;for(const unit of units)addUnit(unit.id);
     }
     for(const id of item.sourceUnitIds??[]){if(c.units?.[id])addUnit(id);else out.unknown=true;}
-    for(const [field,collection]of [['conceptIds',c.concepts],['outcomeIds',c.outcomes],['exerciseIds',c.exercises],['lessonIds',c.lessons]])for(const id of item[field]??[])merge(lineage(collection?.[id],seen));
-    for(const id of item.prerequisiteIds??[]){const matches=[c.lessons?.[id],c.concepts?.[id]].filter(Boolean);if(matches.length!==1)out.unknown=true;else merge(lineage(matches[0],seen));}
+    for(const [field,collection]of [['conceptIds',c.concepts],['outcomeIds',c.outcomes],['exerciseIds',c.exercises],['lessonIds',c.lessons]])for(const id of item[field]??[])merge(walk(collection?.[id],seen));
+    for(const id of item.prerequisiteIds??[]){const matches=[c.lessons?.[id],c.concepts?.[id]].filter(Boolean);if(matches.length!==1)out.unknown=true;else merge(walk(matches[0],seen));}
     for(const ref of item.evidenceRefs??[]){
       if(ref.kind==='source'){if(c.units?.[ref.unitId])addUnit(ref.unitId);else out.unknown=true;}
-      else if(ref.kind==='record')merge(lineage(record(ref),seen));
+      else if(ref.kind==='record')merge(walk(record(ref),seen));
       else if(ref.kind==='markdown'){
-        const owners=candidates.filter(x=>x.ref.path===ref.path&&(!x.ref.anchor||x.ref.anchor===ref.anchor));
-        if(!owners.length)out.unknown=true;for(const o of owners)merge(lineage(o.owner,seen));
+        const owners=(candidatesByPath.get(ref.path)??[]).filter(x=>!x.ref.anchor||x.ref.anchor===ref.anchor);
+        if(!owners.length)out.unknown=true;for(const o of owners)merge(walk(o.owner,seen));
       }
     }
-    for(const target of ownerAssets.get(item)??[])for(const contributor of assetOwners.get(target)??[])merge(lineage(contributor.owner,seen));
+    for(const target of ownerAssets.get(item)??[])for(const contributor of assetOwners.get(target)??[])merge(walk(contributor.owner,seen));
     if(out.units.size===0&&!(item.sourceUnitIds?.length||item.prerequisiteIds?.length||item.conceptIds?.length||item.outcomeIds?.length||item.exerciseIds?.length||item.lessonIds?.length||item.evidenceRefs?.length))out.unknown=true;
     return out;
   }
@@ -83,7 +106,7 @@ export async function selectPublication(capture,{channel='browser',draft=false}=
   for(const candidate of candidates){
     const dependencies=lineage(candidate.owner);
     // Whole-file teaching also inherits every sibling owner: a span exception cannot unlock siblings.
-    for(const other of candidates.filter(x=>x.ref.path===candidate.ref.path&&(candidate.ref.kind==='file'||x.ref.kind==='file'||x.ref.anchor===candidate.ref.anchor))){const more=lineage(other.owner);for(const id of more.units)dependencies.units.add(id);dependencies.unknown ||= more.unknown;dependencies.private ||= more.private;}
+    for(const other of candidatesByPath.get(candidate.ref.path).filter(x=>candidate.ref.kind==='file'||x.ref.kind==='file'||x.ref.anchor===candidate.ref.anchor)){const more=lineage(other.owner);for(const id of more.units)dependencies.units.add(id);dependencies.unknown ||= more.unknown;dependencies.private ||= more.private;}
     let allowed=permitted(dependencies,candidate.ref);
     const raw=await capture.readBytes(candidate.ref.path);
     const selectedBytes=candidate.ref.kind==='markdown'?anchoredBytes(raw,candidate.ref.anchor):raw;
